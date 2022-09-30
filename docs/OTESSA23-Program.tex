@@ -1,0 +1,162 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{book}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage{booktabs}
+\usepackage{amsthm}
+\makeatletter
+\def\thm@space@setup{%
+  \thm@preskip=8pt plus 2pt minus 4pt
+  \thm@postskip=\thm@preskip
+}
+\makeatother
+
+\usepackage{tcolorbox}
+
+
+\newtcolorbox{protip}{
+  colback=black,
+  coltext=white,
+  colframe=black,
+  boxsep=5pt,
+  arc=4pt}
+\newtcolorbox{speaker}{
+  colback=blue!15,
+  colframe=blue!15,
+  coltext=black!80,
+  boxsep=5pt,
+  arc=4pt}
+\newtcolorbox{keynote}{
+  colback=green!5,
+  colframe=green!5,
+  coltext=black!80,
+  boxsep=5pt,
+  arc=4pt}
+\newtcolorbox{session}{
+  colback=blue!5,
+  colframe=blue!5,
+  coltext=black!80,
+  boxsep=5pt,
+  arc=4pt}
+\newtcolorbox{social}{
+  colback=purple!10,
+  colframe=purple!10,
+  coltext=black!80,
+  boxsep=5pt,
+  arc=4pt}
+\newtcolorbox{video}{
+  colback=yellow!5,
+  colframe=yellow!5,
+  coltext=black!80,
+  boxsep=5pt,
+  arc=4pt}
+\newtcolorbox{caution}{
+  colback=red!5,
+  colframe=red!5,
+  coltext=black!80,
+  boxsep=5pt,
+  arc=4pt}
+\newtcolorbox{feedback}{
+  colback=black!5,
+  colframe=black!5,
+  coltext=black!80,
+  boxsep=5pt,
+  arc=4pt}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage[]{natbib}
+\bibliographystyle{apalike}
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={OTESSA 2023 Program},
+  pdfauthor={OTESSA Program Committee},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{OTESSA 2023 Program}
+\author{OTESSA Program Committee}
+\date{Last updated Friday, Sep 30, 10:34 am, PDT}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\hypertarget{otessa-2023}{%
+\chapter*{OTESSA 2023}\label{otessa-2023}}
+\addcontentsline{toc}{chapter}{OTESSA 2023}
+
+\hypertarget{keynotes}{%
+\chapter*{Keynotes}\label{keynotes}}
+\addcontentsline{toc}{chapter}{Keynotes}
+
+\hypertarget{mayjune-2023}{%
+\chapter*{May/June 2023}\label{mayjune-2023}}
+\addcontentsline{toc}{chapter}{May/June 2023}
+
+  \bibliography{book.bib}
+
+\end{document}
