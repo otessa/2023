@@ -67,3 +67,93 @@ Open is not an unambiguous good, a panacea, or accessible to everyone. But maybe
 ```
 
 -->
+
+## jeff {-}
+
+***DATE***
+
+```{block, type='keynote'}
+### title of the keynote
+<details>
+<summary>ABSTRACT</summary>
+<p>
+As part of Congress 2023, OTESSA encourages researchers and practitioners to share their scholarship on the complexities that technology and/or open practice raise for education, society, and scholarship, as well as to come together to build connections, collaborations, and critical conversations at this year’s conference. Scholars, practitioners, graduate and undergraduate students, librarians, designers, makers, policy advisors, and educators or administrators from K12, post-secondary, or workplace settings are all welcome! Whatever your current role and wherever you are located in the world, we invite you to join us and contribute your experience, expertise, and insights to timely discussions about openness and technology in education, society and scholarship.  
+
+</p>
+</details>
+
+
+##### [Session Link](){target="_blank"}
+```
+## Jason {-}
+
+***FridaySep.2022***
+
+```{block, type='keynote'}
+### The keynote
+<details>
+<summary>ABSTRACT</summary>
+<p>
+As part of Congress 2023, OTESSA encourages researchers and practitioners to share their scholarship on the complexities that technology and/or open practice raise for education, society, and scholarship, as well as to come together to build connections, collaborations, and critical conversations at this year’s conference. Scholars, practitioners, graduate and undergraduate students, librarians, designers, makers, policy advisors, and educators or administrators from K12, post-secondary, or workplace settings are all welcome! Whatever your current role and wherever you are located in the world, we invite you to join us and contribute your experience, expertise, and insights to timely discussions about openness and technology in education, society and scholarship.  
+
+</p>
+</details>
+
+
+##### [Session Link](){target="_blank"}
+```
+## Steph {-}
+
+***Mon, May 27***
+
+```{block, type='keynote'}
+### the title is here
+<details>
+<summary>ABSTRACT</summary>
+<p>
+As part of Congress 2023, OTESSA encourages researchers and practitioners to share their scholarship on the complexities that technology and/or open practice raise for education, society, and scholarship, as well as to come together to build connections, collaborations, and critical conversations at this year’s conference. Scholars, practitioners, graduate and undergraduate students, librarians, designers, makers, policy advisors, and educators or administrators from K12, post-secondary, or workplace settings are all welcome! Whatever your current role and wherever you are located in the world, we invite you to join us and contribute your experience, expertise, and insights to timely discussions about openness and technology in education, society and scholarship.  
+
+</p>
+</details>
+
+
+##### [Session Link](){target="_blank"}
+```
+
+ ```{block, type='keynote'}
+## Anna {-}
+
+***Monday, May 28***
+
+
+#### This is THE title {-}
+<details>
+<summary>ABSTRACT</summary>
+<p>
+As part of Congress 2023, OTESSA encourages researchers and practitioners to share their scholarship on the complexities that technology and/or open practice raise for education, society, and scholarship, as well as to come together to build connections, collaborations, and critical conversations at this year’s conference. Scholars, practitioners, graduate and undergraduate students, librarians, designers, makers, policy advisors, and educators or administrators from K12, post-secondary, or workplace settings are all welcome! Whatever your current role and wherever you are located in the world, we invite you to join us and contribute your experience, expertise, and insights to timely discussions about openness and technology in education, society and scholarship.  
+
+</p>
+</details>
+
+
+##### [Session Link](){target="_blank"} {-}
+```
+
+
+## Isaac {-}
+
+***Tuesday jan 3***
+ ```{block, type='keynote'}
+
+#### all about halo {-}
+<details>
+<summary>ABSTRACT</summary>
+<p>
+As part of Congress 2023, OTESSA encourages researchers and practitioners to share their scholarship on the complexities that technology and/or open practice raise for education, society, and scholarship, as well as to come together to build connections, collaborations, and critical conversations at this year’s conference. Scholars, practitioners, graduate and undergraduate students, librarians, designers, makers, policy advisors, and educators or administrators from K12, post-secondary, or workplace settings are all welcome! Whatever your current role and wherever you are located in the world, we invite you to join us and contribute your experience, expertise, and insights to timely discussions about openness and technology in education, society and scholarship.  
+
+</p>
+</details>
+
+
+##### [Session Link](){target="_blank"} {-}
+```

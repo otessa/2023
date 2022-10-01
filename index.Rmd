@@ -12,4 +12,4 @@ github-repo: otessa/2023
 description: "Open Technology in Education, Society, and Scholarship Association"
 ---
 
-# OTESSA 2023 {-}
+# Welcome and Acknowledgements {-}
