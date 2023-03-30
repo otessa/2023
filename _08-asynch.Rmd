@@ -3,7 +3,7 @@
 
 ## Practice-Oriented {-}
 
-```{block, type='secondary'}
+```{block, type='session'}
 #### [ePortfolio Pedagogy: Leveraging Affordances in Internet Spaces](https://vep-public.s3.amazonaws.com/tradeshows/1638304532451/webcasts/1651254801476/documents/1652483274877.pdf){target="_blank"}
 
 *[Rita Zuba Prokopetz](https://orcid.org/0000-0003-4039-3681){target="_blank"}, Athabasca University*
@@ -12,11 +12,11 @@
 
 #### Abstract 
 
-Electronic portfolios (ePortfolios) are technological tools with many purposes. Students can showcase their achievements, instructors can assess their students, and both learners and educators can engage in deep learning and critical reflection. As a capstone project at the end of a course or program of studies, the ePortfolio is an innovative instructional strategy that enables students to learn with the technology while learning about it. As part of a growing movement, ePortfolio pedagogy includes instructional practices that are aligned with the 21st century and encourages students to rely on their environment and each other to learn and co-construct knowledge. This digital pedagogy is an effective form of professional self-development that aims to help educators leverage on what they have to offer in their own practice as they rely on a value-based approach to teaching. The ePortfolio is prominently positioned as an innovative way for educators to relearn their craft, design learning, and facilitate online instruction.
+Electronic portfolios (ePortfolios) are technological tools with many purposes. Students can showcase their achievements, instructors can assess their students, and both learners and educators can engage in deep learning and critical keynoteion. As a capstone project at the end of a course or program of studies, the ePortfolio is an innovative instructional strategy that enables students to learn with the technology while learning about it. As part of a growing movement, ePortfolio pedagogy includes instructional practices that are aligned with the 21st century and encourages students to rely on their environment and each other to learn and co-construct knowledge. This digital pedagogy is an effective form of professional self-development that aims to help educators leverage on what they have to offer in their own practice as they rely on a value-based approach to teaching. The ePortfolio is prominently positioned as an innovative way for educators to relearn their craft, design learning, and facilitate online instruction.
 
 
 ```
-```{block, type='secondary'}
+```{block, type='session'}
 #### [ePortfolio Pedagogy: Stimulating a Shift in Mindset](https://vep-public.s3.amazonaws.com/tradeshows/1638304532451/webcasts/1651254801326/documents/1652483008103.pdf){target="_blank"}
 
 *[Rita Zuba Prokopetz](https://orcid.org/0000-0003-4039-3681){target="_blank"}, Athabasca University*
@@ -30,11 +30,11 @@ Electronic portfolios (ePortfolios) are technological tools with many purposes. 
 
 #### Abstract
 
-As digital pedagogy and instructional strategy, electronic portfolios (ePortfolios) help educators organize instruction, facilitate teaching, and enhance learning. As students develop their projects, they learn to overcome challenges with the technology and to embrace the pedagogy that promotes learning. The process of developing ePortfolios helps foster a community of learners in online spaces. Decades-old research shows that the ePortfolio development process enhances knowledge production, makes visible knowledge application, and capacitates knowledge mobilization. The ePortfolio technology makes affordances for interaction and reflection, encourages both analytical thinking and the questioning of assumptions related to online learning. As multipurpose tools (assessment, accountability, collaboration), ePortfolios are part of a movement that aims to reimagine the way we teach and learn in internet spaces. ePortfolio pedagogy, undergirded by interaction and reflection, integrates authentic learning episodes in digital spaces and enables practitioners to engage in democratizing and mobilizing knowledge. The ePortfolio pedagogy is inclusive, embraces equity, and encourages the sharing of stories, ideas, and opinions among learners. As students engage in idea generation in terms of choice of platform, layout, content, and artefacts, they experience a shift in mindset that capacitates a can-do attitude toward their learning and project completion in online spaces.
+As digital pedagogy and instructional strategy, electronic portfolios (ePortfolios) help educators organize instruction, facilitate teaching, and enhance learning. As students develop their projects, they learn to overcome challenges with the technology and to embrace the pedagogy that promotes learning. The process of developing ePortfolios helps foster a community of learners in online spaces. Decades-old research shows that the ePortfolio development process enhances knowledge production, makes visible knowledge application, and capacitates knowledge mobilization. The ePortfolio technology makes affordances for interaction and keynoteion, encourages both analytical thinking and the questioning of assumptions related to online learning. As multipurpose tools (assessment, accountability, collaboration), ePortfolios are part of a movement that aims to reimagine the way we teach and learn in internet spaces. ePortfolio pedagogy, undergirded by interaction and keynoteion, integrates authentic learning episodes in digital spaces and enables practitioners to engage in democratizing and mobilizing knowledge. The ePortfolio pedagogy is inclusive, embraces equity, and encourages the sharing of stories, ideas, and opinions among learners. As students engage in idea generation in terms of choice of platform, layout, content, and artefacts, they experience a shift in mindset that capacitates a can-do attitude toward their learning and project completion in online spaces.
 
 ```
 
-```{block, type='secondary'}
+```{block, type='session'}
 #### [Transitioning, and Why It’ll Never Be Enough (Accessible Version)](https://trentu.yuja.com/V/Video?v=584536&node=2262679&a=686510845&autoplay=1){target="_blank"}
 
 #### [Transitioning, and Why It’ll Never Be Enough (Original Version - Flashing Lights Warning)](https://trentu.yuja.com/V/Video?v=573385&node=2230363&a=1214280770&autoplay=1){target="_blank"}
@@ -45,7 +45,7 @@ As digital pedagogy and instructional strategy, electronic portfolios (ePortfoli
 
 -->
 
-**Keywords**: rhetoric, reflection, learning, transitioning
+**Keywords**: rhetoric, keynoteion, learning, transitioning
 
 #### Abstract
 
@@ -53,7 +53,7 @@ For the last 2 years we’ve peppered each other with polite euphemisms designed
 
 ```
 
-```{block, type='secondary'}
+```{block, type='session'}
 #### [Assessing the impact of technological skills on students’ performance: Critical digital literacy and overconfidence bias](https://vep-public.s3.amazonaws.com/tradeshows/1638304532451/webcasts/1652483635827/documents/1652483669578.pdf){target="_blank"}
 
 *Marta Samokishyn, Saint Paul University*

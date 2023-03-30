@@ -1,2 +1,287 @@
-# May 27 - Online Keynote 
+# May 27 - Online Only 
 
+```{block, type='protip'}
+#### Join us for the #OTESSA23 Morning Radio Show every morning Monday-Thursday 9:30-10:30 (Eastern) at https://voiced.ca
+```
+### Legend {-}
+
+```{block, type='protip'}
+
+#### ✨ Note{-}
+
+***All times are in Eastern Time (Canada)***
+```
+
+```{block, type='keynote'}
+#### Keynote
+
+```
+
+```{block, type='speaker'}
+#### Invited Speaker
+
+```
+
+```{block, type='session'}
+#### Regular Session
+
+```
+```{block, type='social'}
+#### Social Session
+
+```
+
+--- 
+
+
+
+##  Welcome Desk Open (10:30 - 12:30) {-}
+
+## Conference Welcome, Announcements & Land Acknowledgement (10:30 - 11:00) {-}
+
+## Keynote (11:00 - 12:00) {-}
+
+```{block, type='keynote'}
+
+#### Enabling ‘Students as Partners’: Open Textbooks, Power Shifts and Curriculum Transformation {-}
+
+*Glenda Cox & Bianca Masuku*
+
+<details>
+<summary>Abstract</summary>
+<p>
+Work done with open textbook creators at UCT has enabled the DOT4D initiative to articulate models of open textbook production that are being employed by academics at UCT who are using their open textbooks to address social (in)justice in the classroom. Building on this background work, we explore the values and attitudes of the academics who undertake open textbook production with student co- creators. Student inclusion is lauded in research as essential for student belonging, but little work has been done to look for the challenges involved when traditional power dynamics are disrupted. In this research, we describe a potential nexus of three complementary components: open textbooks, social justice, and students as partners. We investigate the affordances of the open textbook to facilitate change in the power dynamics of content production as well as in classroom practice.
+
+</p>
+</details>
+
+
+##### [Session Link](){target="_blank"} {-}
+``` 
+
+## Coffee and Nutrition Break & Streamed Congress Programming (12:00-12:30) {-}
+## Concurrent Session 1 - Invited Speakers {-}
+
+### Concurrent Session 1.1 {-}
+
+```{block, type='speaker'}
+#### **TITLE** 
+
+*SPEAKER*
+
+**Keywords:** 
+
+#### Abstract 
+<details>
+ <summary>Click to Open</summary>
+
+</details>
+```
+
+### Concurrent Session 1.2 {-}
+
+```{block, type='speaker'}
+#### **Session Title** 
+
+*TBA*
+
+**Keywords:** TBA
+
+#### Abstract 
+<details>
+ <summary>Click to Open</summary>
+TBA
+
+</details>
+```
+
+## Coffee, Nutrition, & Networking Break (1:15-1:30) {-}
+
+## Concurrent Session 2 (1:30-3:00) {-}
+
+### Concurrent Session 2.1 |  Wildcard {-}
+
+
+```{block, type='session'}
+#### 1:30-2:30 | **Escape Rooms for Education** |  Practice {-}
+
+***Ava Chow & Nazlee Sharmin*** | *University of Alberta*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+```{block, type='session'}
+#### 2:30-3:00 | **A(nother) Guide for Resisting EdTech: The Case Against (or For?) Course Hero** |  Practice {-}
+
+***Brenna Clarke Gray*** | *Thompson Rivers University*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 2.2 |  Sustaining Positive Change {-}
+
+```{block, type='session'}
+#### 1:30-2:30 | **Engaging in Open Pedagogy: Insights from Designing and Teaching Post-Secondary STEM Courses** |  Practice {-}
+
+***Elena Chudaeva*** | *George Brown College*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+```{block, type='session'}
+#### 2:30-3:00 | **An Upgrade to Ungrading: Alternative Grading in Higher Education** |  Practice {-}
+
+***Sharon Lauricella*** | *Ontario Tech University*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 2.3 |  Transitions of Online Learning & Teaching {-}
+
+```{block, type='session'}
+#### 1:30-2:00 | **Mediating Relationship and Sexual Health Education** |  Practice {-}
+
+***Andrea Hasenbank*** | *Onlea Studios*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+```{block, type='session'}
+#### 2:00-2:30 | **“Leave No One Behind.” Peer Support for Teachers: Reflections on a Digital Pedagogy Development Project** |  Practice {-}
+
+***Susanna Kohonen, Helena Kantanen, Kati Kasanen, Vesa Paajanen & Piia Siitonen*** | *University of Eastern Finland*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+```{block, type='session'}
+#### 2:30-3:00 | **Creating Capacity for Capabilities: Using Professional Development within Learning Design in Capstone** |  Practice {-}
+
+***Sonja Johnston*** | *University of Calgary*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+### Concurrent Session 2.4 |  Sustaining Positive Change {-}
+
+```{block, type='session'}
+#### 1:30-2:00 | **Sharing Experience Regarding OER Creation and Adoption as a Tool to Manage Student Engagement** |  Research {-}
+
+***Kiranjot Kaur & Kimberlee Carter*** | *Conestoga College ITAL*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+```{block, type='session'}
+#### 2:00-2:30 | **Developing a Learning Design Framework: A Collective Process Intended to Foster Collaboration** |  Practice {-}
+
+***Melissa Jakubec & Michelle Harrison*** | *Thompson Rivers University*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+```{block, type='session'}
+#### 2:30-3:00 | **Letting Go of Holding On: Promoting Student Choice in a Post- Pandemic Classroom** |  Practice {-}
+
+***Rebekah Bennetch*** | *University of Saskatchewan*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+## Coffee, Nutrition, & Networking Break (3:00-3:30) {-}
+
+## Concurrent Session 3 (3:30-5:00) {-}
+
+### Concurrent Session 3.1 |  Addressing Inequities {-}
+
+```{block, type='session'}
+#### 3:30-4:30 | **The Seemingly Small Details that are Easily Overlooked in Designing Inclusive Online Courses** |  Practice {-}
+
+***Tai Munro, Ashley Stasiewich, & Susan Cauti*** | *MacEwan University*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+```{block, type='session'}
+#### 4:30-5:00 | **Podcasting for Student Agency** |  Research {-}
+
+***Yu-Ling Lee & Nina Lui*** | *Trinity Western University*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
