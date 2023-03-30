@@ -285,3 +285,170 @@ TBA
 </p>
 </details>
 ```
+
+### Concurrent Session 3.2 |  Sustaining Positive Change {-}
+
+```{block, type='session'}
+#### 3:30-4:30 | **The Slow Trend Toward K-12 OER Sharing** |  Practice {-}
+
+***Connie Blomgren*** | *Athabasca University*
+
+***Beth Cormier*** | *University of Lethbridge*
+
+***Kathy Wise*** | *University of Calgary*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+```{block, type='session'}
+#### 4:30-5:00 | **Reimagining Art and Culture by Decolonizing Digitization** |  Practice {-}
+
+***Amanda Figueroa*** | *Curationist*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 3.3 |  Wildcard {-}
+
+```{block, type='session'}
+#### 3:30 - 4:30 | **Whiteboard Animation for Dental Education** |  Research {-}
+
+***Nazlee Sharmin, Ava K Chow, & Mike Carbonaro*** | *University of Alberta*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+```{block, type='session'}
+#### 4:30 - 5:00 | **In-class gaming to improve students’ learning experiences in dental education** |  Research {-}
+
+***Nazlee Sharmin & Ava K Chow*** | *University of Alberta*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 3.4 |  Transitions of Online Learning & Teaching {-}
+
+```{block, type='session'}
+#### 3:30 - 4:30 | **Encadrer des étudiant.es à distance : Description des pratiques de nouveaux professeure.s (in French)** |  Research {-}
+
+***Serge Gérin-Lajoie*** | *Université TÉLUQ*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+#### 4:30 - 5:00 | **Face to Face, Online or Something in Between – Student Perceptions of Student Engagement in Different Learning Environments** |  Research {-}
+
+***Hongran Cui, Michelle Harrison & Victoria Handford*** | *Thompson Rivers University*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 3.5 |  Sustaining Positive Change {-}
+
+```{block, type='session'}
+#### 3:30 - 4:30 | **Be(com)ing OE Librarians in Ukraine During Wartime: Taking Down Language Barriers and Practising Inclusion** |  Practice {-}
+
+***Paola Corti*** | *SPARC Europe*
+
+***Tetiana Kolesnykova*** | *Ukrainian State University of Science and Technologies*
+
+***Mira Buist- Zhuk*** | *University of Groningen*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+#### 4:30 - 5:00 | **The Role of Academic Libraries in Fostering of Algorithmic Literacy in Canadian Universities: A Metaliterate** |  Research {-}
+
+***Marta Samokishyn*** | *Saint Paul University*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+## Coffee, Nutrition, & Networking Break (5:00-5:15)
+
+### Concurrent Session 4 {-}
+
+```{block, type='speaker'}
+#### **Title** 
+
+*Speaker*
+
+**Keywords:** 
+
+<details>
+<summary>ABSTRACT</summary>
+<p>
+
+</p>
+</details>
+```
+```{block, type='speaker'}
+#### **Title** 
+
+*Speaker*
+
+**Keywords:** 
+
+<details>
+<summary>ABSTRACT</summary>
+<p>
+
+</p>
+</details>
+```
