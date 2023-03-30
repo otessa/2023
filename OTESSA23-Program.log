@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.5)  30 MAR 2023 12:32
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.5)  30 MAR 2023 15:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -592,6 +592,36 @@ LaTeX Warning: Label `title' multiply defined.
 
 LaTeX Warning: Label `title' multiply defined.
 
+
+LaTeX Warning: Label `join-us-for-the-otessa23-morning-radio-show-every-morning-monday-thursday-930-1030-eastern-at-httpsvoiced.ca' multiply defined.
+
+
+LaTeX Warning: Label `note' multiply defined.
+
+
+LaTeX Warning: Label `keynote' multiply defined.
+
+
+LaTeX Warning: Label `invited-speaker' multiply defined.
+
+
+LaTeX Warning: Label `regular-session' multiply defined.
+
+
+LaTeX Warning: Label `social-session' multiply defined.
+
+
+LaTeX Warning: Label `academic-integrity-in-the-age-of-artificial-intelligence' multiply defined.
+
+
+LaTeX Warning: Label `session-link' multiply defined.
+
+
+LaTeX Warning: Label `title' multiply defined.
+
+
+LaTeX Warning: Label `title' multiply defined.
+
 )
 \openout1 = `OTESSA23-Program.aux'.
 
@@ -936,52 +966,56 @@ Underfull \vbox (badness 1424) has occurred while \output is active []
 Underfull \vbox (badness 1661) has occurred while \output is active []
 
 [16]
-Underfull \hbox (badness 1748) in paragraph at lines 804--804
-[]\TU/lmr/bx/n/14.4 Coffee, Nutrition, & Networking Break
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [17] [18]
 Chapter 2.
+File: docs/assets/aditya-chinchure-3mlAZQuGgIQ-unsplash.jpg Graphic file (type bmp)
+<docs/assets/aditya-chinchure-3mlAZQuGgIQ-unsplash.jpg>
 [19
 
-] [20
-
-]
+] [20]
 Chapter 3.
-[21] [22
+Missing character: There is no ✨ (U+2728) in font [lmroman10-bold]:mapping=tex-text;!
+[21
+
+] [22]
+Underfull \vbox (badness 2662) has occurred while \output is active []
+
+[23] [24] [25]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[26] [27] [28
 
 ]
 Chapter 4.
-[23] [24
+[29] [30
 
 ]
 Chapter 5.
-[25] [26
+[31] [32
 
 ]
 Chapter 6.
-[27] [28
+[33] [34
 
 ]
 Chapter 7.
 No file OTESSA23-Program.bbl.
-[29] (./OTESSA23-Program.aux)
+[35] (./OTESSA23-Program.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `OTESSA23-Program.out' has not changed.
-(rerunfilecheck)             Checksum: 337F962DC6B46F7DB06988E0DF86F765;5033.
+(rerunfilecheck)             Checksum: 4638A15886618A743F3053D3C78EEFF8;8476.
  ) 
 Here is how much of TeX's memory you used:
- 26588 strings out of 478683
- 531305 string characters out of 5847963
+ 26669 strings out of 478683
+ 534863 string characters out of 5847963
  1854018 words of memory out of 5000000
- 46290 multiletter control sequences out of 15000+600000
+ 46367 multiletter control sequences out of 15000+600000
  518746 words of font info for 86 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 86i,6n,121p,706b,489s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 86i,6n,121p,864b,489s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on OTESSA23-Program.pdf (29 pages).
+Output written on OTESSA23-Program.pdf (35 pages).

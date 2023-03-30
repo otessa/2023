@@ -60,7 +60,7 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 ``` 
 
 ## Coffee and Nutrition Break & Streamed Congress Programming (12:00-12:30) {-}
-## Concurrent Session 1 - Invited Speakers {-}
+## Concurrent Session 1 | Invited Speakers (12:30-1:15) {-}
 
 ### Concurrent Session 1.1 {-}
 
@@ -420,7 +420,7 @@ TBA
 </details>
 ```
 
-## Coffee, Nutrition, & Networking Break (5:00-5:15)
+## Coffee, Nutrition, & Networking Break (5:00-5:15) {-}
 
 ### Concurrent Session 4 {-}
 
