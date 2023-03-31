@@ -1,4 +1,4 @@
-# June 2 - Online Sessions Only
+# Friday, June 2 - Online Sessions Only
 
 
 ```{block, type='protip'}
@@ -347,3 +347,90 @@
 
 ### Concurrent Session 19.4 |  Sustaining Positive Change {-}
 
+```{block, type='session'}
+
+#### 3:30-4:00 | **Discovery Based Learning with Open Technologies, for Positive Change** |  Practice {-}
+
+***Brian Sutherland*** | *University of Toronto*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+#### 2:00-2:30 | **TBA** |  Research {-}
+
+***TBA*** | **
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+#### 2:30-3:00 | **Negotiating an Informed Personal Theory and Philosophy of Open Education in a Professional Development Setting** |  Research {-}
+
+***Irwin DeVries*** | *Royal Roads University*
+
+***Emily Schudel & Kimberlee Carter*** | *Kwantlen Polytechnic University*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+## Coffee, Nutrition, & Networking Break | 5:00-5:15 {-}
+
+## Concurrent Session 20 | Invited Speakers | 5:15-6:00 {-}
+
+### Concurrent Session 20.1 {-}
+
+```{block, type='speaker'}
+#### **TBA** 
+
+*TBA*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+</p>
+</details>
+```
+
+### Concurrent Session 20.2 {-}
+
+```{block, type='speaker'}
+#### **TBA** 
+
+*TBA*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+</p>
+</details>
+```
+
+## Conference Closing | 6:00-6:15 {-}

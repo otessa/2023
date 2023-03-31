@@ -10,7 +10,7 @@
 \contentsline {subsubsection}{\numberline {0.0.0.2}}{10}{subsubsection.0.0.0.2}%
 \contentsline {section}{Congress Events}{11}{section*.10}%
 \contentsline {subsubsection}{\numberline {0.0.0.3}\{++link++\} \href {}{Click here to access a schedule of all open Congress events.}}{11}{subsubsection.0.0.0.3}%
-\contentsline {chapter}{\numberline {1}May 27 - Online Only}{13}{chapter.1}%
+\contentsline {chapter}{\numberline {1}Saturday, May 27 - Online Only}{13}{chapter.1}%
 \contentsline {subsection}{Legend}{13}{section*.11}%
 \contentsline {paragraph}{✨ Note}{13}{section*.12}%
 \contentsline {section}{Welcome Desk Open (10:30 - 12:30)}{14}{section*.13}%
@@ -63,7 +63,7 @@
 \contentsline {subsection}{Concurrent Session 4}{20}{section*.56}%
 \contentsline {paragraph}{\numberline {1.0.0.0.10}\textbf {Title}}{20}{paragraph.1.0.0.0.10}%
 \contentsline {paragraph}{\numberline {1.0.0.0.11}\textbf {Title}}{20}{paragraph.1.0.0.0.11}%
-\contentsline {chapter}{\numberline {2}May 28 - No Sessions - Travel Day}{21}{chapter.2}%
+\contentsline {chapter}{\numberline {2}Sunday, May 28 - No Sessions - Travel Day}{21}{chapter.2}%
 \contentsline {chapter}{\numberline {3}Monday, May 29 \textbar {} In Person at York University}{23}{chapter.3}%
 \contentsline {subsection}{Legend}{23}{section*.57}%
 \contentsline {paragraph}{✨ Note}{23}{section*.58}%
@@ -201,5 +201,50 @@
 \contentsline {paragraph}{4:00-4:30 \textbar {} \textbf {The Role of Teachers' Assessment Literacy in an Inquiry-Based Learning Environment} \textbar {} Research}{42}{section*.179}%
 \contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {TBA} \textbar {} Research}{42}{section*.180}%
 \contentsline {section}{End-of-Day Networking or Creative Space}{42}{section*.181}%
-\contentsline {chapter}{\numberline {6}June 1 - Travel Day}{43}{chapter.6}%
-\contentsline {chapter}{\numberline {7}June 2 - Online Keynote}{45}{chapter.7}%
+\contentsline {chapter}{\numberline {6}Thursday, June 1 - No Sessions - Travel Day}{43}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Friday, June 2 - Online Sessions Only}{45}{chapter.7}%
+\contentsline {subsection}{Legend}{45}{section*.182}%
+\contentsline {paragraph}{✨ Note}{45}{section*.183}%
+\contentsline {section}{Welcome Desk Open \textbar {} 10:00 - 12:30}{46}{section*.184}%
+\contentsline {section}{Conference Welcome, Announcements \& Land Acknowledgement \textbar {} 10:30-11:00}{46}{section*.185}%
+\contentsline {section}{Keynote \textbar {} 11:00-12:00}{46}{section*.186}%
+\contentsline {paragraph}{TBA}{46}{section*.187}%
+\contentsline {subparagraph}{\href {}{Session Link}}{46}{section*.188}%
+\contentsline {section}{Coffee and Nutrition Break \& Streamed Congress Programming \textbar {} 12:00-12:30}{46}{section*.189}%
+\contentsline {section}{Concurrent Session 18 \textbar {} 1:30-3:00}{46}{section*.190}%
+\contentsline {subsection}{Concurrent Session 18.1 \textbar {} Transitions of Online Learning \& Teaching}{46}{section*.191}%
+\contentsline {paragraph}{1:30-2:30 \textbar {} \textbf {Assessment in a Digital Age: Learning within the Continuum for Pedagogy, Technology, and Assessment} \textbar {} Workshop}{46}{section*.192}%
+\contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {Using Qualitative Online Survey as a Research Method Amid Covid Pandemic} \textbar {} Practice}{47}{section*.193}%
+\contentsline {subsection}{Concurrent Session 18.2 \textbar {} Transitions of Online Learning \& Teaching}{47}{section*.194}%
+\contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {No Need to Cheat, Every Reason to Succeed: The Benefits of Alternative, Authentic Assessments in Online English Literature Courses} \textbar {} Research}{47}{section*.195}%
+\contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {TBA} \textbar {} Practice}{47}{section*.196}%
+\contentsline {subsection}{Concurrent Session 18.3 \textbar {} Wildcard}{47}{section*.197}%
+\contentsline {paragraph}{1:30-2:00 \textbar {} \textbf {TBA} \textbar {} Research}{47}{section*.198}%
+\contentsline {paragraph}{2:00-2:30 \textbar {} \textbf {Non-Directive Strength-Based Online Coaching in Graduate Education} \textbar {} Research}{47}{section*.199}%
+\contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {The Teacher's Self-efficacy and Belief in Implementing S STEM, iSTEM or STEAM in their Classroom} \textbar {} Research}{48}{section*.200}%
+\contentsline {subsection}{Concurrent Session 18.4 \textbar {} Sustaining Positive Change}{48}{section*.201}%
+\contentsline {paragraph}{1:30-2:00 \textbar {} \textbf {A Framework for Evaluating the Creation and Adaptation of Open Textbooks} \textbar {} Research}{48}{section*.202}%
+\contentsline {paragraph}{2:00-2:30 \textbar {} \textbf {Interprofessional Healthcare Simulation Co-Creation: A Pilot Study} \textbar {} Research}{48}{section*.203}%
+\contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {Research? Which Research? Technology, Assessment, and Higher Education in Tension} \textbar {} Research}{48}{section*.204}%
+\contentsline {section}{Coffee, Nutrition, \& Networking Break \textbar {} 3:00-3:30}{49}{section*.205}%
+\contentsline {section}{Concurrent Session 19 \textbar {} 3:30-5:00}{49}{section*.206}%
+\contentsline {subsection}{Concurrent Session 19.1 \textbar {} Wildcard}{49}{section*.207}%
+\contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {On Speculative Education Fiction for Hopeful Learning Futures} \textbar {} Research}{49}{section*.208}%
+\contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {Conducting Scoping Reviews: Opportunities and Challenges for Examining Social Media Use for Learning} \textbar {} Research}{49}{section*.209}%
+\contentsline {subsection}{Concurrent Session 19.2 \textbar {} Sustaining Positive Change}{49}{section*.210}%
+\contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {``No Longer Silent!'' Racialized Academic Women Speak Out} \textbar {} Research}{49}{section*.211}%
+\contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {Peace Education in the Platformed Society: Lessons from Colombia} \textbar {} Research}{49}{section*.212}%
+\contentsline {subsection}{Concurrent Session 19.3 \textbar {} Sustaining Positive Change}{50}{section*.213}%
+\contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {Scaling Small: The Open Book Collective Launch and Platform} \textbar {} Practice}{50}{section*.214}%
+\contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {5 Things You Need to Know Before You Buy Edtech} \textbar {} Practice}{50}{section*.215}%
+\contentsline {subsection}{Concurrent Session 19.4 \textbar {} Sustaining Positive Change}{50}{section*.216}%
+\contentsline {paragraph}{3:30-4:00 \textbar {} \textbf {Discovery Based Learning with Open Technologies, for Positive Change} \textbar {} Practice}{50}{section*.217}%
+\contentsline {paragraph}{2:00-2:30 \textbar {} \textbf {TBA} \textbar {} Research}{50}{section*.218}%
+\contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {Negotiating an Informed Personal Theory and Philosophy of Open Education in a Professional Development Setting} \textbar {} Research}{50}{section*.219}%
+\contentsline {section}{Coffee, Nutrition, \& Networking Break \textbar {} 5:00-5:15}{51}{section*.220}%
+\contentsline {section}{Concurrent Session 20 \textbar {} Invited Speakers \textbar {} 5:15-6:00}{51}{section*.221}%
+\contentsline {subsection}{Concurrent Session 20.1}{51}{section*.222}%
+\contentsline {paragraph}{\numberline {7.0.0.0.6}\textbf {TBA}}{51}{paragraph.7.0.0.0.6}%
+\contentsline {subsection}{Concurrent Session 20.2}{51}{section*.223}%
+\contentsline {paragraph}{\numberline {7.0.0.0.7}\textbf {TBA}}{51}{paragraph.7.0.0.0.7}%
+\contentsline {section}{Conference Closing \textbar {} 6:00-6:15}{51}{section*.224}%
