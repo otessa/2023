@@ -141,10 +141,11 @@
 ```{block, type='session'}
 #### 10:00-10:30 | **Over the Threshold: Graduate Student Needs in Academic Publishing** |  Research {-}
 
-***Christie Hurrell, Susan Beatty, Jennifer Lee, James Murphy & Caitlin McClurg*** | *University of Calgary*
+***Christie Hurrell, Susan Beatty*** | *University of Calgary*
 
 ***Dana Cramer*** | *Toronto Metropolitan University*
 
+***Jennifer Lee, James Murphy & Caitlin McClurg*** | *University of Calgary*
 **Keywords:** 
 
 <details>
@@ -159,7 +160,7 @@
 
 ## Keynote | 11:00-12:00 {-}
 
- ```{block, type='keynote'}
+```{block, type='keynote'}
 
 #### Academic Integrity in the Age of Artificial Intelligence {-}
 
@@ -176,11 +177,14 @@ These questions have dominated teaching and learning circles and social media si
 
 
 ##### [Session Link](){target="_blank"} {-}
+
 ```
 
 ## Lunch Break and Streamed Congress Programming | 12:00-1:30 {-}
 
 ## Concurrent Session 6 |  Invited Speakers | 1:30-2:30 {-}
+
+### Concurrent Session 6.1 {-}
 
 ```{block, type='speaker'}
 #### **TITLE** 
@@ -196,6 +200,9 @@ These questions have dominated teaching and learning circles and social media si
 </p>
 </details>
 ```
+
+### Concurrent Session 6.2 {-}
+
 ```{block, type='speaker'}
 #### **TITLE** 
 
@@ -326,9 +333,11 @@ These questions have dominated teaching and learning circles and social media si
 ```{block, type='session'}
 #### 4:30-5:00 | **Showcasing a Student-Led Anti-Racism Virtual Simulation Module for Equitable Learning** |  Practice {-}
 
-***Mujeedat Lekuti, HanShu Pu, Rishika Gowda, Zainab Baig, Javeria Baig, Alexandra Lawrynuik & Marian Luctkar-Flude*** | *Queen’s University Canada*
+***Mujeedat Lekuti, HanShu Pu, Rishika Gowda, Zainab Baig, Javeria Baig, Alexandra Lawrynuik*** | *Queen’s University Canada*
 
 ***Laura Killam*** | *Cambrian College*
+
+***Marian Luctkar-Flude*** | *Queen's University Canada*
 
 **Keywords:** 
 
