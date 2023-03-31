@@ -1,159 +1,205 @@
-\contentsline {chapter}{Welcome and Acknowledgements}{5}{chapter*.2}%
-\contentsline {chapter}{Keynotes}{7}{chapter*.3}%
-\contentsline {section}{Glenda Cox \& Bianca Masuku}{7}{section*.4}%
-\contentsline {subsubsection}{Enabling `Students as Partners': Open Textbooks, Power Shifts and Curriculum Transformation}{7}{section*.5}%
-\contentsline {section}{Sarah Eaton}{8}{section*.6}%
-\contentsline {subsubsection}{Academic Integrity in the Age of Artificial Intelligence}{8}{section*.7}%
-\contentsline {section}{Nick Bertrand}{8}{section*.8}%
-\contentsline {subsubsection}{\numberline {0.0.0.1}}{8}{subsubsection.0.0.0.1}%
-\contentsline {section}{Paul Prinsloo}{8}{section*.9}%
-\contentsline {subsubsection}{\numberline {0.0.0.2}}{8}{subsubsection.0.0.0.2}%
-\contentsline {section}{Congress Events}{9}{section*.10}%
-\contentsline {subsubsection}{\numberline {0.0.0.3}\{++link++\} \href {}{Click here to access a schedule of all open Congress events.}}{9}{subsubsection.0.0.0.3}%
-\contentsline {chapter}{\numberline {1}May 27 - Online Only}{11}{chapter.1}%
-\contentsline {subsection}{Legend}{11}{section*.11}%
-\contentsline {paragraph}{✨ Note}{11}{section*.12}%
-\contentsline {section}{Welcome Desk Open (10:30 - 12:30)}{12}{section*.13}%
-\contentsline {section}{Conference Welcome, Announcements \& Land Acknowledgement (10:30 - 11:00)}{12}{section*.14}%
-\contentsline {section}{Keynote (11:00 - 12:00)}{12}{section*.15}%
-\contentsline {paragraph}{Enabling `Students as Partners': Open Textbooks, Power Shifts and Curriculum Transformation}{12}{section*.16}%
-\contentsline {subparagraph}{\href {}{Session Link}}{12}{section*.17}%
-\contentsline {section}{Coffee and Nutrition Break \& Streamed Congress Programming (12:00-12:30)}{12}{section*.18}%
-\contentsline {section}{Concurrent Session 1 \textbar {} Invited Speakers (12:30-1:15)}{12}{section*.19}%
-\contentsline {subsection}{Concurrent Session 1.1}{13}{section*.20}%
-\contentsline {paragraph}{\numberline {1.0.0.0.6}\textbf {TITLE}}{13}{paragraph.1.0.0.0.6}%
-\contentsline {paragraph}{\numberline {1.0.0.0.7}Abstract}{13}{paragraph.1.0.0.0.7}%
-\contentsline {subsection}{Concurrent Session 1.2}{13}{section*.21}%
-\contentsline {paragraph}{\numberline {1.0.0.0.8}\textbf {Session Title}}{13}{paragraph.1.0.0.0.8}%
-\contentsline {paragraph}{\numberline {1.0.0.0.9}Abstract}{13}{paragraph.1.0.0.0.9}%
-\contentsline {section}{Coffee, Nutrition, \& Networking Break (1:15-1:30)}{13}{section*.22}%
-\contentsline {section}{Concurrent Session 2 (1:30-3:00)}{13}{section*.23}%
-\contentsline {subsection}{Concurrent Session 2.1 \textbar {} Wildcard}{13}{section*.24}%
-\contentsline {paragraph}{1:30-2:30 \textbar {} \textbf {Escape Rooms for Education} \textbar {} Practice}{13}{section*.25}%
-\contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {A(nother) Guide for Resisting EdTech: The Case Against (or For?) Course Hero} \textbar {} Practice}{13}{section*.26}%
-\contentsline {subsection}{Concurrent Session 2.2 \textbar {} Sustaining Positive Change}{14}{section*.27}%
-\contentsline {paragraph}{1:30-2:30 \textbar {} \textbf {Engaging in Open Pedagogy: Insights from Designing and Teaching Post-Secondary STEM Courses} \textbar {} Practice}{14}{section*.28}%
-\contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {An Upgrade to Ungrading: Alternative Grading in Higher Education} \textbar {} Practice}{14}{section*.29}%
-\contentsline {subsection}{Concurrent Session 2.3 \textbar {} Transitions of Online Learning \& Teaching}{14}{section*.30}%
-\contentsline {paragraph}{1:30-2:00 \textbar {} \textbf {Mediating Relationship and Sexual Health Education} \textbar {} Practice}{14}{section*.31}%
-\contentsline {paragraph}{2:00-2:30 \textbar {} \textbf {``Leave No One Behind.'' Peer Support for Teachers: Reflections on a Digital Pedagogy Development Project} \textbar {} Practice}{14}{section*.32}%
-\contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {Creating Capacity for Capabilities: Using Professional Development within Learning Design in Capstone} \textbar {} Practice}{14}{section*.33}%
-\contentsline {subsection}{Concurrent Session 2.4 \textbar {} Sustaining Positive Change}{15}{section*.34}%
-\contentsline {paragraph}{1:30-2:00 \textbar {} \textbf {Sharing Experience Regarding OER Creation and Adoption as a Tool to Manage Student Engagement} \textbar {} Research}{15}{section*.35}%
-\contentsline {paragraph}{2:00-2:30 \textbar {} \textbf {Developing a Learning Design Framework: A Collective Process Intended to Foster Collaboration} \textbar {} Practice}{15}{section*.36}%
-\contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {Letting Go of Holding On: Promoting Student Choice in a Post- Pandemic Classroom} \textbar {} Practice}{15}{section*.37}%
-\contentsline {section}{Coffee, Nutrition, \& Networking Break (3:00-3:30)}{15}{section*.38}%
-\contentsline {section}{Concurrent Session 3 (3:30-5:00)}{15}{section*.39}%
-\contentsline {subsection}{Concurrent Session 3.1 \textbar {} Addressing Inequities}{15}{section*.40}%
-\contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {The Seemingly Small Details that are Easily Overlooked in Designing Inclusive Online Courses} \textbar {} Practice}{15}{section*.41}%
-\contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {Podcasting for Student Agency} \textbar {} Research}{16}{section*.42}%
-\contentsline {subsection}{Concurrent Session 3.2 \textbar {} Sustaining Positive Change}{16}{section*.43}%
-\contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {The Slow Trend Toward K-12 OER Sharing} \textbar {} Practice}{16}{section*.44}%
-\contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {Reimagining Art and Culture by Decolonizing Digitization} \textbar {} Practice}{16}{section*.45}%
-\contentsline {subsection}{Concurrent Session 3.3 \textbar {} Wildcard}{16}{section*.46}%
-\contentsline {paragraph}{3:30 - 4:30 \textbar {} \textbf {Whiteboard Animation for Dental Education} \textbar {} Research}{16}{section*.47}%
-\contentsline {paragraph}{4:30 - 5:00 \textbar {} \textbf {In-class gaming to improve students' learning experiences in dental education} \textbar {} Research}{16}{section*.48}%
-\contentsline {subsection}{Concurrent Session 3.4 \textbar {} Transitions of Online Learning \& Teaching}{17}{section*.49}%
-\contentsline {paragraph}{3:30 - 4:30 \textbar {} \textbf {Encadrer des étudiant.es à distance : Description des pratiques de nouveaux professeure.s (in French)} \textbar {} Research}{17}{section*.50}%
-\contentsline {paragraph}{4:30 - 5:00 \textbar {} \textbf {Face to Face, Online or Something in Between -- Student Perceptions of Student Engagement in Different Learning Environments} \textbar {} Research}{17}{section*.51}%
-\contentsline {subsection}{Concurrent Session 3.5 \textbar {} Sustaining Positive Change}{17}{section*.52}%
-\contentsline {paragraph}{3:30 - 4:30 \textbar {} \textbf {Be(com)ing OE Librarians in Ukraine During Wartime: Taking Down Language Barriers and Practising Inclusion} \textbar {} Practice}{17}{section*.53}%
-\contentsline {paragraph}{4:30 - 5:00 \textbar {} \textbf {The Role of Academic Libraries in Fostering of Algorithmic Literacy in Canadian Universities: A Metaliterate} \textbar {} Research}{17}{section*.54}%
-\contentsline {section}{Coffee, Nutrition, \& Networking Break (5:00-5:15)}{18}{section*.55}%
-\contentsline {subsection}{Concurrent Session 4}{18}{section*.56}%
-\contentsline {paragraph}{\numberline {1.0.0.0.10}\textbf {Title}}{18}{paragraph.1.0.0.0.10}%
-\contentsline {paragraph}{\numberline {1.0.0.0.11}\textbf {Title}}{18}{paragraph.1.0.0.0.11}%
-\contentsline {chapter}{\numberline {2}May 28 - No Sessions - Travel Day}{19}{chapter.2}%
-\contentsline {chapter}{\numberline {3}Monday, May 29 \textbar {} In Person at York University}{21}{chapter.3}%
-\contentsline {subsection}{Legend}{21}{section*.57}%
-\contentsline {paragraph}{✨ Note}{21}{section*.58}%
-\contentsline {section}{Welcome Desk Open \textbar {} 9:00 - 11:30}{22}{section*.59}%
-\contentsline {section}{Conference Welcome, Announcements \& Land Acknowledgement \textbar {} 9:00-9:15}{22}{section*.60}%
-\contentsline {section}{Break \textbar {} 9:15-9:30}{22}{section*.61}%
-\contentsline {section}{Concurrent Session 5 \textbar {} 9:30-10:30}{22}{section*.62}%
-\contentsline {subsection}{Concurrent Session 5.1 \textbar {} Sustaining Positive Change}{22}{section*.63}%
-\contentsline {paragraph}{\numberline {3.0.0.0.6}9:30 - 10:30 \textbar {} \textbf {Cultivating Essential Leadership Skills for Digital Transformation in Ontario Postsecondary Education} \textbar {} Practice}{22}{paragraph.3.0.0.0.6}%
-\contentsline {subsection}{Concurrent Session 5.2 \textbar {} Sustaining Positive Change}{22}{section*.64}%
-\contentsline {paragraph}{9:30 - 10:30 \textbar {} \textbf {Ascending the Mountain: Examining National Open Educational Resource (OER)} \textbar {} Practice}{22}{section*.65}%
-\contentsline {subsection}{Concurrent Session 5.3 \textbar {} Sustaining Positive Change}{23}{section*.66}%
-\contentsline {paragraph}{9:30 - 10:00 \textbar {} \textbf {Mythical Beast, Panacea or Breaking News: Open Education Policy in Higher Education Institutions} \textbar {} Research}{23}{section*.67}%
-\contentsline {paragraph}{10:00-10:30 \textbar {} \textbf {myWATERSHED: A Serious Game for Fostering Sustainability Champions of the Future} \textbar {} Research}{23}{section*.68}%
-\contentsline {subsection}{Concurrent Session 5.4 \textbar {} Transitions of Online Learning \& Teaching}{23}{section*.69}%
-\contentsline {paragraph}{9:30 - 10:00 \textbar {} \textbf {Early Findings on an Experiment in Distance Education with High School Students} \textbar {} Research}{23}{section*.70}%
-\contentsline {paragraph}{10:00-10:30 \textbar {} \textbf {Over the Threshold: Graduate Student Needs in Academic Publishing} \textbar {} Research}{23}{section*.71}%
-\contentsline {section}{Break \textbar {} 10:30-11:00}{24}{section*.72}%
-\contentsline {section}{Keynote \textbar {} 11:00-12:00}{24}{section*.73}%
-\contentsline {paragraph}{Academic Integrity in the Age of Artificial Intelligence}{24}{section*.74}%
-\contentsline {subparagraph}{\href {}{Session Link}}{24}{section*.75}%
-\contentsline {section}{Lunch Break and Streamed Congress Programming \textbar {} 12:00-1:30}{24}{section*.76}%
-\contentsline {section}{Concurrent Session 6 \textbar {} Invited Speakers \textbar {} 1:30-2:30}{24}{section*.77}%
-\contentsline {subsection}{Concurrent Session 6.1}{24}{section*.78}%
-\contentsline {paragraph}{\numberline {3.0.0.0.7}\textbf {TITLE}}{24}{paragraph.3.0.0.0.7}%
-\contentsline {subsection}{Concurrent Session 6.2}{25}{section*.79}%
-\contentsline {paragraph}{\numberline {3.0.0.0.8}\textbf {TITLE}}{25}{paragraph.3.0.0.0.8}%
-\contentsline {section}{Concurrent Session 7 \textbar {} 2:30-3:00}{25}{section*.80}%
-\contentsline {subsection}{Concurrent Session 7.1 \textbar {} Addressing Inequities}{25}{section*.81}%
-\contentsline {paragraph}{2:30 - 3:00 \textbar {} \textbf {A Learner-Educator Co-Creation Toolkit} \textbar {} Practice}{25}{section*.82}%
-\contentsline {subsection}{Concurrent Session 7.2 \textbar {} Wildcard}{25}{section*.83}%
-\contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {TBA} \textbar {} Practice}{25}{section*.84}%
-\contentsline {subsection}{Concurrent Session 7.3 \textbar {} Sustaining Positive Change}{25}{section*.85}%
-\contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {What Uses of Digital Technology Support and Enhance the Learning and the Engagement of Diverse Learners in High School Classes?} \textbar {} Research}{25}{section*.86}%
-\contentsline {subsection}{Concurrent Session 7.4 \textbar {} Addressing Inequities}{26}{section*.87}%
-\contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {Personal, Institutional, and Societal Barriers to Educators' Engagement with Datafication on Campus: A Case Study} \textbar {} Research}{26}{section*.88}%
-\contentsline {section}{Coffee, Nutrition, \& Networking Break \textbar {} 3:00-3:30}{26}{section*.89}%
-\contentsline {section}{Concurrent Session 8 \textbar {} 3:30-5:00}{26}{section*.90}%
-\contentsline {subsection}{Concurrent Session 8.1 \textbar {} Addressing Inequities}{26}{section*.91}%
-\contentsline {paragraph}{3:30-5:00 \textbar {} \textbf {The Wikidata Lexicographical Data: From Recording of Words to Lexemes and Beyond} \textbar {} Workshop}{26}{section*.92}%
-\contentsline {subsection}{Concurrent Session 8.2 \textbar {} Sustaining Positive Change}{26}{section*.93}%
-\contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {Practitioner Values in the Transition to Open Education Resources: Moving Through Disruption to Improved Practice} \textbar {} Practice}{26}{section*.94}%
-\contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {Showcasing a Student-Led Anti-Racism Virtual Simulation Module for Equitable Learning} \textbar {} Practice}{27}{section*.95}%
-\contentsline {subsection}{Concurrent Session 8.3 \textbar {} Wildcard}{27}{section*.96}%
-\contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {Designing Agile Skill Development Pathways for Climate Adaptation: Leveraging Open Competency Frameworks and Open Educational Resources to Develop Micro-credential} \textbar {} Practice}{27}{section*.97}%
-\contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {An e-Book of One's Own} \textbar {} Practice}{27}{section*.98}%
-\contentsline {subsection}{Concurrent Session 8.4 \textbar {} Transitions of Online Learning \& Teaching}{27}{section*.99}%
-\contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {Intentionality, Community, and Well-being: Re-imagining Blended Course Design} \textbar {} Practice}{27}{section*.100}%
-\contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {L'apprentissage en ligne au Québec : résultats de l'enquête annuelle 2022 de l'ACRFL (in French)} \textbar {} Practice}{28}{section*.101}%
-\contentsline {section}{End-of-Day Networking or Creative Space \textbar {} 5:00-6:00}{28}{section*.102}%
-\contentsline {chapter}{\numberline {4}Tuesday, May 30 \textbar {} In Person at York University}{29}{chapter.4}%
-\contentsline {subsection}{Legend}{29}{section*.103}%
-\contentsline {paragraph}{✨ Note}{29}{section*.104}%
-\contentsline {section}{Welcome Desk Open \textbar {} 9:00 - 11:30}{30}{section*.105}%
-\contentsline {section}{Conference Welcome, Announcements \& Land Acknowledgement \textbar {} 9:00-9:15}{30}{section*.106}%
-\contentsline {section}{Break \textbar {} 9:15-9:30}{30}{section*.107}%
-\contentsline {section}{Concurrent Session 9 \textbar {} 9:30-10:30}{30}{section*.108}%
-\contentsline {subsection}{Concurrent Session 9.1 \textbar {} Transitions of Online Learning \& Teaching}{30}{section*.109}%
-\contentsline {paragraph}{9:30-10:00 \textbar {} \textbf {Developing Open Education Literacies in Teacher Education Programs} \textbar {} Research}{30}{section*.110}%
-\contentsline {paragraph}{10:00-10:30 \textbar {} \textbf {Technological Distance: A New Way of Conceptualizing the ``Distance'' in Distance Learning} \textbar {} Research}{30}{section*.111}%
-\contentsline {subsection}{Concurrent Session 9.2 \textbar {} Transitions of Online Learning \& Teaching}{31}{section*.112}%
-\contentsline {paragraph}{9:30-10:00 \textbar {} \textbf {Belonging, Relatedness, Connectedness, or Social Presence? Overlaps and Differences in Online Learning} \textbar {} Research}{31}{section*.113}%
-\contentsline {paragraph}{10:00-10:30 \textbar {} \textbf {Hybrid Learning in Ontario During COVID-19 Emergency Closures} \textbar {} Research}{31}{section*.114}%
-\contentsline {subsection}{Concurrent Session 9.3 \textbar {} Sustaining Positive Change}{31}{section*.115}%
-\contentsline {paragraph}{9:30-10:00 \textbar {} \textbf {Writing Care-fully about Indigenous Cultural Safety and Cultural Humility: A Reflection by Settlers Engaged in Reconciliation in OER Development} \textbar {} Practice}{31}{section*.116}%
-\contentsline {paragraph}{10:00-10:30 \textbar {} \textbf {Artificial Intelligence Writing in Higher Education: A Teaching and Learning Centre Perspective} \textbar {} Practice}{31}{section*.117}%
-\contentsline {subsection}{Concurrent Session 9.4 \textbar {} Addressing Inequities}{32}{section*.118}%
-\contentsline {paragraph}{9:30-10:30 \textbar {} \textbf {Four Perspectives of Learner-Educator Co-Creation} \textbar {} Practice}{32}{section*.119}%
-\contentsline {section}{Break \textbar {} 10:30-11:00}{32}{section*.120}%
-\contentsline {section}{\numberline {4.1}\textbf {UnConference}}{32}{section.4.1}%
-\contentsline {section}{Lunch Break \& Streamed Congress Programming \textbar {} 12:00-1:30}{32}{section*.121}%
-\contentsline {section}{Concurrent Session 10 \textbar {} Invited Speakers \textbar {} 1:30-2:30}{32}{section*.122}%
-\contentsline {subsection}{Concurrent Session 10.1}{32}{section*.123}%
-\contentsline {paragraph}{\numberline {4.1.0.0.1}\textbf {TITLE}}{32}{paragraph.4.1.0.0.1}%
-\contentsline {subsection}{Concurrent Session 10.2}{32}{section*.124}%
-\contentsline {paragraph}{\numberline {4.1.0.0.2}\textbf {TITLE}}{32}{paragraph.4.1.0.0.2}%
-\contentsline {section}{Concurrent Session 11 \textbar {} 2:30-3:00}{33}{section*.125}%
-\contentsline {subsection}{Concurrent Session 11.1 \textbar {} Transitions of Online Learning \& Teaching}{33}{section*.126}%
-\contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {Hidden Curriculum of Education Technologies} \textbar {} Practice}{33}{section*.127}%
-\contentsline {subsection}{Concurrent Session 11.2 \textbar {} Transitions of Online Learning \& Teaching}{33}{section*.128}%
-\contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {Impact of Emergency Remote Teaching and Digital Technology Usage in K-12 Teacher Practice} \textbar {} Research}{33}{section*.129}%
-\contentsline {subsection}{Concurrent Session 11.3 \textbar {} Sustaining Positive Change}{33}{section*.130}%
-\contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {Que dit la recherche des approches pour contrer l'isolement en FAD ? (in French)} \textbar {} Research}{33}{section*.131}%
-\contentsline {subsection}{Concurrent Session 11.4 \textbar {} Transitions of Online Learning \& Teaching}{33}{section*.132}%
-\contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {Open at the Crossroads: Forging Media and Digital Literacy Pathways} \textbar {} Research}{33}{section*.133}%
-\contentsline {section}{\numberline {4.2}Coffee, Nutrition, \& Networking Break \textbar {} 3:00-3:30}{34}{section.4.2}%
-\contentsline {section}{Concurrent Session 12 \textbar {} 3:30-5:00}{34}{section*.134}%
-\contentsline {subsection}{Concurrent Session 12.1 \textbar {} Transitions of Online Learning \& Teaching}{34}{section*.135}%
-\contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {L'apprentissage intégré au travail numérique -- l'impact de l'éducation sur la pénurie de main-d'œuvre (in French)} \textbar {} Practice}{34}{section*.136}%
-\contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {Language, Storytelling and the Narrative Bounds of Empire: Approaching Twine as a Feminist Pedagogical Tool} \textbar {} Practice}{34}{section*.137}%
-\contentsline {chapter}{\numberline {5}May 31 - F2F}{35}{chapter.5}%
-\contentsline {chapter}{\numberline {6}June 1 - Travel Day}{37}{chapter.6}%
-\contentsline {chapter}{\numberline {7}June 2 - Online Keynote}{39}{chapter.7}%
+\contentsline {chapter}{Welcome and Acknowledgements}{7}{chapter*.2}%
+\contentsline {chapter}{Keynotes}{9}{chapter*.3}%
+\contentsline {section}{Glenda Cox \& Bianca Masuku}{9}{section*.4}%
+\contentsline {subsubsection}{Enabling `Students as Partners': Open Textbooks, Power Shifts and Curriculum Transformation}{9}{section*.5}%
+\contentsline {section}{Sarah Eaton}{10}{section*.6}%
+\contentsline {subsubsection}{Academic Integrity in the Age of Artificial Intelligence}{10}{section*.7}%
+\contentsline {section}{Nick Bertrand}{10}{section*.8}%
+\contentsline {subsubsection}{\numberline {0.0.0.1}}{10}{subsubsection.0.0.0.1}%
+\contentsline {section}{Paul Prinsloo}{10}{section*.9}%
+\contentsline {subsubsection}{\numberline {0.0.0.2}}{10}{subsubsection.0.0.0.2}%
+\contentsline {section}{Congress Events}{11}{section*.10}%
+\contentsline {subsubsection}{\numberline {0.0.0.3}\{++link++\} \href {}{Click here to access a schedule of all open Congress events.}}{11}{subsubsection.0.0.0.3}%
+\contentsline {chapter}{\numberline {1}May 27 - Online Only}{13}{chapter.1}%
+\contentsline {subsection}{Legend}{13}{section*.11}%
+\contentsline {paragraph}{✨ Note}{13}{section*.12}%
+\contentsline {section}{Welcome Desk Open (10:30 - 12:30)}{14}{section*.13}%
+\contentsline {section}{Conference Welcome, Announcements \& Land Acknowledgement (10:30 - 11:00)}{14}{section*.14}%
+\contentsline {section}{Keynote (11:00 - 12:00)}{14}{section*.15}%
+\contentsline {paragraph}{Enabling `Students as Partners': Open Textbooks, Power Shifts and Curriculum Transformation}{14}{section*.16}%
+\contentsline {subparagraph}{\href {}{Session Link}}{14}{section*.17}%
+\contentsline {section}{Coffee and Nutrition Break \& Streamed Congress Programming (12:00-12:30)}{14}{section*.18}%
+\contentsline {section}{Concurrent Session 1 \textbar {} Invited Speakers (12:30-1:15)}{14}{section*.19}%
+\contentsline {subsection}{Concurrent Session 1.1}{15}{section*.20}%
+\contentsline {paragraph}{\numberline {1.0.0.0.6}\textbf {TITLE}}{15}{paragraph.1.0.0.0.6}%
+\contentsline {paragraph}{\numberline {1.0.0.0.7}Abstract}{15}{paragraph.1.0.0.0.7}%
+\contentsline {subsection}{Concurrent Session 1.2}{15}{section*.21}%
+\contentsline {paragraph}{\numberline {1.0.0.0.8}\textbf {Session Title}}{15}{paragraph.1.0.0.0.8}%
+\contentsline {paragraph}{\numberline {1.0.0.0.9}Abstract}{15}{paragraph.1.0.0.0.9}%
+\contentsline {section}{Coffee, Nutrition, \& Networking Break (1:15-1:30)}{15}{section*.22}%
+\contentsline {section}{Concurrent Session 2 (1:30-3:00)}{15}{section*.23}%
+\contentsline {subsection}{Concurrent Session 2.1 \textbar {} Wildcard}{15}{section*.24}%
+\contentsline {paragraph}{1:30-2:30 \textbar {} \textbf {Escape Rooms for Education} \textbar {} Practice}{15}{section*.25}%
+\contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {A(nother) Guide for Resisting EdTech: The Case Against (or For?) Course Hero} \textbar {} Practice}{15}{section*.26}%
+\contentsline {subsection}{Concurrent Session 2.2 \textbar {} Sustaining Positive Change}{16}{section*.27}%
+\contentsline {paragraph}{1:30-2:30 \textbar {} \textbf {Engaging in Open Pedagogy: Insights from Designing and Teaching Post-Secondary STEM Courses} \textbar {} Practice}{16}{section*.28}%
+\contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {An Upgrade to Ungrading: Alternative Grading in Higher Education} \textbar {} Practice}{16}{section*.29}%
+\contentsline {subsection}{Concurrent Session 2.3 \textbar {} Transitions of Online Learning \& Teaching}{16}{section*.30}%
+\contentsline {paragraph}{1:30-2:00 \textbar {} \textbf {Mediating Relationship and Sexual Health Education} \textbar {} Practice}{16}{section*.31}%
+\contentsline {paragraph}{2:00-2:30 \textbar {} \textbf {``Leave No One Behind.'' Peer Support for Teachers: Reflections on a Digital Pedagogy Development Project} \textbar {} Practice}{16}{section*.32}%
+\contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {Creating Capacity for Capabilities: Using Professional Development within Learning Design in Capstone} \textbar {} Practice}{16}{section*.33}%
+\contentsline {subsection}{Concurrent Session 2.4 \textbar {} Sustaining Positive Change}{17}{section*.34}%
+\contentsline {paragraph}{1:30-2:00 \textbar {} \textbf {Sharing Experience Regarding OER Creation and Adoption as a Tool to Manage Student Engagement} \textbar {} Research}{17}{section*.35}%
+\contentsline {paragraph}{2:00-2:30 \textbar {} \textbf {Developing a Learning Design Framework: A Collective Process Intended to Foster Collaboration} \textbar {} Practice}{17}{section*.36}%
+\contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {Letting Go of Holding On: Promoting Student Choice in a Post- Pandemic Classroom} \textbar {} Practice}{17}{section*.37}%
+\contentsline {section}{Coffee, Nutrition, \& Networking Break (3:00-3:30)}{17}{section*.38}%
+\contentsline {section}{Concurrent Session 3 (3:30-5:00)}{17}{section*.39}%
+\contentsline {subsection}{Concurrent Session 3.1 \textbar {} Addressing Inequities}{17}{section*.40}%
+\contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {The Seemingly Small Details that are Easily Overlooked in Designing Inclusive Online Courses} \textbar {} Practice}{17}{section*.41}%
+\contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {Podcasting for Student Agency} \textbar {} Research}{18}{section*.42}%
+\contentsline {subsection}{Concurrent Session 3.2 \textbar {} Sustaining Positive Change}{18}{section*.43}%
+\contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {The Slow Trend Toward K-12 OER Sharing} \textbar {} Practice}{18}{section*.44}%
+\contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {Reimagining Art and Culture by Decolonizing Digitization} \textbar {} Practice}{18}{section*.45}%
+\contentsline {subsection}{Concurrent Session 3.3 \textbar {} Wildcard}{18}{section*.46}%
+\contentsline {paragraph}{3:30 - 4:30 \textbar {} \textbf {Whiteboard Animation for Dental Education} \textbar {} Research}{18}{section*.47}%
+\contentsline {paragraph}{4:30 - 5:00 \textbar {} \textbf {In-class gaming to improve students' learning experiences in dental education} \textbar {} Research}{18}{section*.48}%
+\contentsline {subsection}{Concurrent Session 3.4 \textbar {} Transitions of Online Learning \& Teaching}{19}{section*.49}%
+\contentsline {paragraph}{3:30 - 4:30 \textbar {} \textbf {Encadrer des étudiant.es à distance : Description des pratiques de nouveaux professeure.s (in French)} \textbar {} Research}{19}{section*.50}%
+\contentsline {paragraph}{4:30 - 5:00 \textbar {} \textbf {Face to Face, Online or Something in Between -- Student Perceptions of Student Engagement in Different Learning Environments} \textbar {} Research}{19}{section*.51}%
+\contentsline {subsection}{Concurrent Session 3.5 \textbar {} Sustaining Positive Change}{19}{section*.52}%
+\contentsline {paragraph}{3:30 - 4:30 \textbar {} \textbf {Be(com)ing OE Librarians in Ukraine During Wartime: Taking Down Language Barriers and Practising Inclusion} \textbar {} Practice}{19}{section*.53}%
+\contentsline {paragraph}{4:30 - 5:00 \textbar {} \textbf {The Role of Academic Libraries in Fostering of Algorithmic Literacy in Canadian Universities: A Metaliterate} \textbar {} Research}{19}{section*.54}%
+\contentsline {section}{Coffee, Nutrition, \& Networking Break (5:00-5:15)}{20}{section*.55}%
+\contentsline {subsection}{Concurrent Session 4}{20}{section*.56}%
+\contentsline {paragraph}{\numberline {1.0.0.0.10}\textbf {Title}}{20}{paragraph.1.0.0.0.10}%
+\contentsline {paragraph}{\numberline {1.0.0.0.11}\textbf {Title}}{20}{paragraph.1.0.0.0.11}%
+\contentsline {chapter}{\numberline {2}May 28 - No Sessions - Travel Day}{21}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Monday, May 29 \textbar {} In Person at York University}{23}{chapter.3}%
+\contentsline {subsection}{Legend}{23}{section*.57}%
+\contentsline {paragraph}{✨ Note}{23}{section*.58}%
+\contentsline {section}{Welcome Desk Open \textbar {} 9:00 - 11:30}{24}{section*.59}%
+\contentsline {section}{Conference Welcome, Announcements \& Land Acknowledgement \textbar {} 9:00-9:15}{24}{section*.60}%
+\contentsline {section}{Break \textbar {} 9:15-9:30}{24}{section*.61}%
+\contentsline {section}{Concurrent Session 5 \textbar {} 9:30-10:30}{24}{section*.62}%
+\contentsline {subsection}{Concurrent Session 5.1 \textbar {} Sustaining Positive Change}{24}{section*.63}%
+\contentsline {paragraph}{\numberline {3.0.0.0.6}9:30 - 10:30 \textbar {} \textbf {Cultivating Essential Leadership Skills for Digital Transformation in Ontario Postsecondary Education} \textbar {} Practice}{24}{paragraph.3.0.0.0.6}%
+\contentsline {subsection}{Concurrent Session 5.2 \textbar {} Sustaining Positive Change}{24}{section*.64}%
+\contentsline {paragraph}{9:30 - 10:30 \textbar {} \textbf {Ascending the Mountain: Examining National Open Educational Resource (OER)} \textbar {} Practice}{24}{section*.65}%
+\contentsline {subsection}{Concurrent Session 5.3 \textbar {} Sustaining Positive Change}{25}{section*.66}%
+\contentsline {paragraph}{9:30 - 10:00 \textbar {} \textbf {Mythical Beast, Panacea or Breaking News: Open Education Policy in Higher Education Institutions} \textbar {} Research}{25}{section*.67}%
+\contentsline {paragraph}{10:00-10:30 \textbar {} \textbf {myWATERSHED: A Serious Game for Fostering Sustainability Champions of the Future} \textbar {} Research}{25}{section*.68}%
+\contentsline {subsection}{Concurrent Session 5.4 \textbar {} Transitions of Online Learning \& Teaching}{25}{section*.69}%
+\contentsline {paragraph}{9:30 - 10:00 \textbar {} \textbf {Early Findings on an Experiment in Distance Education with High School Students} \textbar {} Research}{25}{section*.70}%
+\contentsline {paragraph}{10:00-10:30 \textbar {} \textbf {Over the Threshold: Graduate Student Needs in Academic Publishing} \textbar {} Research}{25}{section*.71}%
+\contentsline {section}{Break \textbar {} 10:30-11:00}{26}{section*.72}%
+\contentsline {section}{Keynote \textbar {} 11:00-12:00}{26}{section*.73}%
+\contentsline {paragraph}{Academic Integrity in the Age of Artificial Intelligence}{26}{section*.74}%
+\contentsline {subparagraph}{\href {}{Session Link}}{26}{section*.75}%
+\contentsline {section}{Lunch Break and Streamed Congress Programming \textbar {} 12:00-1:30}{26}{section*.76}%
+\contentsline {section}{Concurrent Session 6 \textbar {} Invited Speakers \textbar {} 1:30-2:30}{26}{section*.77}%
+\contentsline {subsection}{Concurrent Session 6.1}{26}{section*.78}%
+\contentsline {paragraph}{\numberline {3.0.0.0.7}\textbf {TITLE}}{26}{paragraph.3.0.0.0.7}%
+\contentsline {subsection}{Concurrent Session 6.2}{27}{section*.79}%
+\contentsline {paragraph}{\numberline {3.0.0.0.8}\textbf {TITLE}}{27}{paragraph.3.0.0.0.8}%
+\contentsline {section}{Concurrent Session 7 \textbar {} 2:30-3:00}{27}{section*.80}%
+\contentsline {subsection}{Concurrent Session 7.1 \textbar {} Addressing Inequities}{27}{section*.81}%
+\contentsline {paragraph}{2:30 - 3:00 \textbar {} \textbf {A Learner-Educator Co-Creation Toolkit} \textbar {} Practice}{27}{section*.82}%
+\contentsline {subsection}{Concurrent Session 7.2 \textbar {} Wildcard}{27}{section*.83}%
+\contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {TBA} \textbar {} Practice}{27}{section*.84}%
+\contentsline {subsection}{Concurrent Session 7.3 \textbar {} Sustaining Positive Change}{27}{section*.85}%
+\contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {What Uses of Digital Technology Support and Enhance the Learning and the Engagement of Diverse Learners in High School Classes?} \textbar {} Research}{27}{section*.86}%
+\contentsline {subsection}{Concurrent Session 7.4 \textbar {} Addressing Inequities}{28}{section*.87}%
+\contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {Personal, Institutional, and Societal Barriers to Educators' Engagement with Datafication on Campus: A Case Study} \textbar {} Research}{28}{section*.88}%
+\contentsline {section}{Coffee, Nutrition, \& Networking Break \textbar {} 3:00-3:30}{28}{section*.89}%
+\contentsline {section}{Concurrent Session 8 \textbar {} 3:30-5:00}{28}{section*.90}%
+\contentsline {subsection}{Concurrent Session 8.1 \textbar {} Addressing Inequities}{28}{section*.91}%
+\contentsline {paragraph}{3:30-5:00 \textbar {} \textbf {The Wikidata Lexicographical Data: From Recording of Words to Lexemes and Beyond} \textbar {} Workshop}{28}{section*.92}%
+\contentsline {subsection}{Concurrent Session 8.2 \textbar {} Sustaining Positive Change}{28}{section*.93}%
+\contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {Practitioner Values in the Transition to Open Education Resources: Moving Through Disruption to Improved Practice} \textbar {} Practice}{28}{section*.94}%
+\contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {Showcasing a Student-Led Anti-Racism Virtual Simulation Module for Equitable Learning} \textbar {} Practice}{29}{section*.95}%
+\contentsline {subsection}{Concurrent Session 8.3 \textbar {} Wildcard}{29}{section*.96}%
+\contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {Designing Agile Skill Development Pathways for Climate Adaptation: Leveraging Open Competency Frameworks and Open Educational Resources to Develop Micro-credential} \textbar {} Practice}{29}{section*.97}%
+\contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {An e-Book of One's Own} \textbar {} Practice}{29}{section*.98}%
+\contentsline {subsection}{Concurrent Session 8.4 \textbar {} Transitions of Online Learning \& Teaching}{29}{section*.99}%
+\contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {Intentionality, Community, and Well-being: Re-imagining Blended Course Design} \textbar {} Practice}{29}{section*.100}%
+\contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {L'apprentissage en ligne au Québec : résultats de l'enquête annuelle 2022 de l'ACRFL (in French)} \textbar {} Practice}{30}{section*.101}%
+\contentsline {section}{End-of-Day Networking or Creative Space \textbar {} 5:00-6:00}{30}{section*.102}%
+\contentsline {chapter}{\numberline {4}Tuesday, May 30 \textbar {} In Person at York University}{31}{chapter.4}%
+\contentsline {subsection}{Legend}{31}{section*.103}%
+\contentsline {paragraph}{✨ Note}{31}{section*.104}%
+\contentsline {section}{Welcome Desk Open \textbar {} 9:00 - 11:30}{32}{section*.105}%
+\contentsline {section}{Conference Welcome, Announcements \& Land Acknowledgement \textbar {} 9:00-9:15}{32}{section*.106}%
+\contentsline {section}{Break \textbar {} 9:15-9:30}{32}{section*.107}%
+\contentsline {section}{Concurrent Session 9 \textbar {} 9:30-10:30}{32}{section*.108}%
+\contentsline {subsection}{Concurrent Session 9.1 \textbar {} Transitions of Online Learning \& Teaching}{32}{section*.109}%
+\contentsline {paragraph}{9:30-10:00 \textbar {} \textbf {Developing Open Education Literacies in Teacher Education Programs} \textbar {} Research}{32}{section*.110}%
+\contentsline {paragraph}{10:00-10:30 \textbar {} \textbf {Technological Distance: A New Way of Conceptualizing the ``Distance'' in Distance Learning} \textbar {} Research}{32}{section*.111}%
+\contentsline {subsection}{Concurrent Session 9.2 \textbar {} Transitions of Online Learning \& Teaching}{33}{section*.112}%
+\contentsline {paragraph}{9:30-10:00 \textbar {} \textbf {Belonging, Relatedness, Connectedness, or Social Presence? Overlaps and Differences in Online Learning} \textbar {} Research}{33}{section*.113}%
+\contentsline {paragraph}{10:00-10:30 \textbar {} \textbf {Hybrid Learning in Ontario During COVID-19 Emergency Closures} \textbar {} Research}{33}{section*.114}%
+\contentsline {subsection}{Concurrent Session 9.3 \textbar {} Sustaining Positive Change}{33}{section*.115}%
+\contentsline {paragraph}{9:30-10:00 \textbar {} \textbf {Writing Care-fully about Indigenous Cultural Safety and Cultural Humility: A Reflection by Settlers Engaged in Reconciliation in OER Development} \textbar {} Practice}{33}{section*.116}%
+\contentsline {paragraph}{10:00-10:30 \textbar {} \textbf {Artificial Intelligence Writing in Higher Education: A Teaching and Learning Centre Perspective} \textbar {} Practice}{33}{section*.117}%
+\contentsline {subsection}{Concurrent Session 9.4 \textbar {} Addressing Inequities}{34}{section*.118}%
+\contentsline {paragraph}{9:30-10:30 \textbar {} \textbf {Four Perspectives of Learner-Educator Co-Creation} \textbar {} Practice}{34}{section*.119}%
+\contentsline {section}{Break \textbar {} 10:30-11:00}{34}{section*.120}%
+\contentsline {section}{\numberline {4.1}\textbf {UnConference}}{34}{section.4.1}%
+\contentsline {section}{Lunch Break \& Streamed Congress Programming \textbar {} 12:00-1:30}{34}{section*.121}%
+\contentsline {section}{Concurrent Session 10 \textbar {} Invited Speakers \textbar {} 1:30-2:30}{34}{section*.122}%
+\contentsline {subsection}{Concurrent Session 10.1}{34}{section*.123}%
+\contentsline {paragraph}{\numberline {4.1.0.0.1}\textbf {TITLE}}{34}{paragraph.4.1.0.0.1}%
+\contentsline {subsection}{Concurrent Session 10.2}{34}{section*.124}%
+\contentsline {paragraph}{\numberline {4.1.0.0.2}\textbf {TITLE}}{34}{paragraph.4.1.0.0.2}%
+\contentsline {section}{Concurrent Session 11 \textbar {} 2:30-3:00}{35}{section*.125}%
+\contentsline {subsection}{Concurrent Session 11.1 \textbar {} Transitions of Online Learning \& Teaching}{35}{section*.126}%
+\contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {Hidden Curriculum of Education Technologies} \textbar {} Practice}{35}{section*.127}%
+\contentsline {subsection}{Concurrent Session 11.2 \textbar {} Transitions of Online Learning \& Teaching}{35}{section*.128}%
+\contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {Impact of Emergency Remote Teaching and Digital Technology Usage in K-12 Teacher Practice} \textbar {} Research}{35}{section*.129}%
+\contentsline {subsection}{Concurrent Session 11.3 \textbar {} Sustaining Positive Change}{35}{section*.130}%
+\contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {Que dit la recherche des approches pour contrer l'isolement en FAD ? (in French)} \textbar {} Research}{35}{section*.131}%
+\contentsline {subsection}{Concurrent Session 11.4 \textbar {} Transitions of Online Learning \& Teaching}{35}{section*.132}%
+\contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {Open at the Crossroads: Forging Media and Digital Literacy Pathways} \textbar {} Research}{35}{section*.133}%
+\contentsline {section}{\numberline {4.2}Coffee, Nutrition, \& Networking Break \textbar {} 3:00-3:30}{36}{section.4.2}%
+\contentsline {section}{Concurrent Session 12 \textbar {} 3:30-5:00}{36}{section*.134}%
+\contentsline {subsection}{Concurrent Session 12.1 \textbar {} Transitions of Online Learning \& Teaching}{36}{section*.135}%
+\contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {L'apprentissage intégré au travail numérique -- l'impact de l'éducation sur la pénurie de main-d'œuvre (in French)} \textbar {} Practice}{36}{section*.136}%
+\contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {Language, Storytelling and the Narrative Bounds of Empire: Approaching Twine as a Feminist Pedagogical Tool} \textbar {} Practice}{36}{section*.137}%
+\contentsline {chapter}{\numberline {5}Wednesday, May 31 \textbar {} In Person at York University}{37}{chapter.5}%
+\contentsline {subsection}{Legend}{37}{section*.138}%
+\contentsline {paragraph}{✨ Note}{37}{section*.139}%
+\contentsline {section}{Welcome Desk Open \textbar {} 9:00 - 11:30}{38}{section*.140}%
+\contentsline {section}{Conference Welcome, Announcements \& Land Acknowledgement \textbar {} 9:00-9:15}{38}{section*.141}%
+\contentsline {section}{Break \textbar {} 9:15-9:30}{38}{section*.142}%
+\contentsline {section}{Concurrent Session 13 \textbar {} 9:30-10:30}{38}{section*.143}%
+\contentsline {subsection}{Concurrent Session 13.1 \textbar {} Transitions of Online Learning \& Teaching}{38}{section*.144}%
+\contentsline {paragraph}{9:30-10:00 \textbar {} \textbf {Designing Group Work in Online Courses to Develop Preservice Teachers' Professional Collaboration Skills} \textbar {} Research}{38}{section*.145}%
+\contentsline {paragraph}{10:00-10:30 \textbar {} \textbf {Open Education Research: Past, Present, Future} \textbar {} Research}{38}{section*.146}%
+\contentsline {subsection}{Concurrent Session 13.2 \textbar {} Addressing Inequities}{39}{section*.147}%
+\contentsline {paragraph}{9:30-10:30 \textbar {} \textbf {Students as Expert Designers of Equity Courses: The New Normal in a Post-Digital Era} \textbar {} Workshop}{39}{section*.148}%
+\contentsline {subsection}{Concurrent Session 13.3 \textbar {} Transitions of Online Learning \& Teaching}{39}{section*.149}%
+\contentsline {paragraph}{9:30-10:00 \textbar {} \textbf {Online Collaborative Testing: Design and Implementation in a Large First-Year Undergraduate Course} \textbar {} Practice}{39}{section*.150}%
+\contentsline {paragraph}{10:00-10:30 \textbar {} \textbf {TBA} \textbar {} Research}{39}{section*.151}%
+\contentsline {section}{Break \textbar {} 10:30-11:00}{39}{section*.152}%
+\contentsline {section}{Keynote \textbar {} 11:00-12:00}{39}{section*.153}%
+\contentsline {paragraph}{TBA}{39}{section*.154}%
+\contentsline {subparagraph}{\href {}{Session Link}}{39}{section*.155}%
+\contentsline {section}{Lunch Break \& Streamed Congress Programming \textbar {} 12:00-1:30}{39}{section*.156}%
+\contentsline {section}{Concurrent Session 14 \textbar {} Invited Speakers \textbar {} 1:30-2:30}{40}{section*.157}%
+\contentsline {subsection}{Concurrent Session 14.1}{40}{section*.158}%
+\contentsline {paragraph}{\numberline {5.0.0.0.6}\textbf {TBA}}{40}{paragraph.5.0.0.0.6}%
+\contentsline {subsection}{Concurrent Session 14.2}{40}{section*.159}%
+\contentsline {paragraph}{\numberline {5.0.0.0.7}\textbf {TBA}}{40}{paragraph.5.0.0.0.7}%
+\contentsline {section}{Concurrent Session 15 \textbar {} 2:30-3:00}{40}{section*.160}%
+\contentsline {subsection}{Concurrent Session 15.1 \textbar {} Addressing Inequities}{40}{section*.161}%
+\contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {Open Educational Practices in Canada's Higher Education in a French- speaking Minority Environment: Reckonings on Language Justice} \textbar {} Research}{40}{section*.162}%
+\contentsline {subsection}{Concurrent Session 15.2 \textbar {} Addressing Inequities}{40}{section*.163}%
+\contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {Les Effets d'une initiative pour brancher sur Internet les familles à faible revenu (in French)} \textbar {} Research}{40}{section*.164}%
+\contentsline {subsection}{Concurrent Session 15.3 \textbar {} Sustaining Positive Change}{41}{section*.165}%
+\contentsline {paragraph}{2:30-3:00 \textbar {} \textbf {Beyond Covid-19: Infusing Advanced Technologies into a New Model for Children's Adaptation to the New Normal} \textbar {} Research}{41}{section*.166}%
+\contentsline {section}{Coffee, Nutrition, \& Networking Break \textbar {} 3:00-3:30}{41}{section*.167}%
+\contentsline {section}{Concurrent Session 16 \textbar {} 3:30-5:00}{41}{section*.168}%
+\contentsline {subsection}{Concurrent Session 16.1 \textbar {} Wildcard}{41}{section*.169}%
+\contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {The Interconnectivity of Heutagogy and Education 4.0 in Higher Online Education} \textbar {} Research}{41}{section*.170}%
+\contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {An Interwoven Course: Reflective Practice and Portfolio} \textbar {} Practice}{41}{section*.171}%
+\contentsline {subsection}{Concurrent Session 16.2 \textbar {} Wildcard}{41}{section*.172}%
+\contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {Adaptive Learning in Practice} \textbar {} Practice}{41}{section*.173}%
+\contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {What Happened to OpenCourseWare? A Discussion of the Open Education Movement's Shift from Course Content to Textbooks} \textbar {} Practice}{42}{section*.174}%
+\contentsline {subsection}{Concurrent Session 16.3 \textbar {} Wildcard}{42}{section*.175}%
+\contentsline {paragraph}{3:30-5:00 \textbar {} \textbf {Leadership for Digital Transformation} \textbar {} Research}{42}{section*.176}%
+\contentsline {subsection}{Concurrent Session 16.4 \textbar {} Sustaining Positive Change}{42}{section*.177}%
+\contentsline {paragraph}{3:30-4:00 \textbar {} \textbf {Opening-Up Digital Platforms to Community-Based Research} \textbar {} Research}{42}{section*.178}%
+\contentsline {paragraph}{4:00-4:30 \textbar {} \textbf {The Role of Teachers' Assessment Literacy in an Inquiry-Based Learning Environment} \textbar {} Research}{42}{section*.179}%
+\contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {TBA} \textbar {} Research}{42}{section*.180}%
+\contentsline {section}{End-of-Day Networking or Creative Space}{42}{section*.181}%
+\contentsline {chapter}{\numberline {6}June 1 - Travel Day}{43}{chapter.6}%
+\contentsline {chapter}{\numberline {7}June 2 - Online Keynote}{45}{chapter.7}%
