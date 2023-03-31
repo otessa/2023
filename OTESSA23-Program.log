@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.5)  30 MAR 2023 23:33
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.5)  31 MAR 2023 09:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1152,11 +1152,11 @@ No file OTESSA23-Program.bbl.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `OTESSA23-Program.out' has not changed.
-(rerunfilecheck)             Checksum: 98BFF723238B8A07D8C5CD5D224EC850;17962.
+(rerunfilecheck)             Checksum: D639B91BF47F5B8EEEE0A3920E9BA5E8;17962.
  ) 
 Here is how much of TeX's memory you used:
  26866 strings out of 478683
- 543140 string characters out of 5847963
+ 543134 string characters out of 5847963
  1855018 words of memory out of 5000000
  46562 multiletter control sequences out of 15000+600000
  518754 words of font info for 87 fonts, out of 8000000 for 9000

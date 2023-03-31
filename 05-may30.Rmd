@@ -2,11 +2,13 @@
 
 
 ```{block, type='protip'}
+
 #### Join us for the #OTESSA23 Morning Radio Show every morning Monday-Thursday 9:30-10:30 (Eastern) at https://voiced.ca
 ```
 ### Legend {-}
 
 ```{block, type='protip'}
+
 
 #### ✨ Note{-}
 
@@ -14,20 +16,24 @@
 ```
 
 ```{block, type='keynote'}
+
 #### Keynote
 
 ```
 
 ```{block, type='speaker'}
+
 #### Invited Speaker
 
 ```
 
 ```{block, type='session'}
+
 #### Regular Session
 
 ```
 ```{block, type='social'}
+
 #### Social Session
 
 ```
@@ -47,6 +53,7 @@
 ### Concurrent Session 9.1 |  Transitions of Online Learning & Teaching {-}
 
 ```{block, type='session'}
+
 #### 9:30-10:00 | **Developing Open Education Literacies in Teacher Education Programs** |  Research {-}
 
 ***Michael Paskevicius*** | *University of Victoria*
@@ -62,6 +69,7 @@
 ```
 
 ```{block, type='session'}
+
 #### 10:00-10:30 | **Technological Distance: A New Way of Conceptualizing the “Distance” in Distance Learning** |  Research {-}
 
 ***Jon Dron*** | *Athabasca University*
@@ -80,6 +88,7 @@
 
 
 ```{block, type='session'}
+
 #### 9:30-10:00 | **Belonging, Relatedness, Connectedness, or Social Presence? Overlaps and Differences in Online Learning** |  Research {-}
 
 ***Behnoosh Khoramrooz, Mariel Miller & Valerie Irvine*** | *University of Victoria*
@@ -95,6 +104,7 @@
 ```
 
 ```{block, type='session'}
+
 #### 10:00-10:30 | **Hybrid Learning in Ontario During COVID-19 Emergency Closures** |  Research {-}
 
 ***Beyhan Farhadi*** | *York University*
@@ -112,6 +122,7 @@
 ### Concurrent Session 9.3 |  Sustaining Positive Change {-}
 
 ```{block, type='session'}
+
 #### 9:30-10:00 | **Writing Care-fully about Indigenous Cultural Safety and Cultural Humility: A Reflection by Settlers Engaged in Reconciliation in OER Development** |  Practice {-}
 
 ***Deb Nielsen*** | *College of New Caledonia*
@@ -126,6 +137,7 @@
 </details>
 ```
 ```{block, type='session'}
+
 #### 10:00-10:30 | **Artificial Intelligence Writing in Higher Education: A Teaching and Learning Centre Perspective** |  Practice {-}
 
 ***Emily Ballantyne*** | *Mount Saint Vincent University*
@@ -144,6 +156,7 @@
 
 
 ```{block, type='session'}
+
 #### 9:30-10:30 | **Four Perspectives of Learner-Educator Co-Creation** |  Practice {-}
 
 ***Mercedes Lock*** | *Cambrian College*
@@ -169,6 +182,7 @@
 ## **UnConference** 
 
 ```{block, type='protip'}
+
 ✨ Unconference Session TBA
 ```
 
@@ -179,6 +193,7 @@
 ### Concurrent Session 10.1 {-}
 
 ```{block, type='speaker'}
+
 #### **TITLE** 
 
 *SPEAKER*
@@ -194,6 +209,7 @@
 ### Concurrent Session 10.2 {-}
 
 ```{block, type='speaker'}
+
 #### **TITLE** 
 
 *SPEAKER*
@@ -213,6 +229,7 @@
 
 
 ```{block, type='session'}
+
 #### 2:30-3:00 | **Hidden Curriculum of Education Technologies** |  Practice {-}
 
 ***Danielle Dilkes*** | *Western University*
@@ -230,6 +247,7 @@
 ### Concurrent Session 11.2 |  Transitions of Online Learning & Teaching {-}
 
 ```{block, type='session'}
+
 #### 2:30-3:00 | **Impact of Emergency Remote Teaching and Digital Technology Usage in K-12 Teacher Practice** |  Research {-}
 
 ***Amber Hartwell*** | *University of Calgary*
@@ -247,6 +265,7 @@
 ### Concurrent Session 11.3 |  Sustaining Positive Change {-}
 
 ```{block, type='session'}
+
 #### 2:30-3:00 | **Que dit la recherche des approches pour contrer l’isolement en FAD ? (in French)** |  Research {-}
 
 ***Cathia Papi, Serge Gérin-Lajoie & Wanderlucy Czeszak*** | *Université TÉLUQ*
@@ -266,6 +285,7 @@
 ### Concurrent Session 11.4 |  Transitions of Online Learning & Teaching {-}
 
 ```{block, type='session'}
+
 #### 2:30-3:00 | **Open at the Crossroads: Forging Media and Digital Literacy Pathways** |  Research {-}
 
 ***Helen DeWaard*** | *LAkehead University & University of British Columbia*
@@ -287,6 +307,7 @@
 ### Concurrent Session 12.1 |  Transitions of Online Learning & Teaching {-}
 
 ```{block, type='session'}
+
 #### 3:30-4:30 | **L’apprentissage intégré au travail numérique – l’impact de l’éducation sur la pénurie de main-d’œuvre (in French)** |  Practice {-}
 
 ***Andrea Krasznai*** | *eCampusOntario*
@@ -302,6 +323,7 @@
 ```
 
 ```{block, type='session'}
+
 #### 4:30-5:00 | **Language, Storytelling and the Narrative Bounds of Empire: Approaching Twine as a Feminist Pedagogical Tool** |  Practice {-}
 
 ***Anna Lee-Popham*** | *University of Guelph*

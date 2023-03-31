@@ -10,7 +10,7 @@
 \contentsline {subsubsection}{\numberline {0.0.0.2}}{10}{subsubsection.0.0.0.2}%
 \contentsline {section}{Congress Events}{11}{section*.10}%
 \contentsline {subsubsection}{\numberline {0.0.0.3}\{++link++\} \href {}{Click here to access a schedule of all open Congress events.}}{11}{subsubsection.0.0.0.3}%
-\contentsline {chapter}{\numberline {1}Saturday, May 27 - Online Only}{13}{chapter.1}%
+\contentsline {chapter}{\numberline {1}Saturday, May 27 \textbar {} Online Only}{13}{chapter.1}%
 \contentsline {subsection}{Legend}{13}{section*.11}%
 \contentsline {paragraph}{✨ Note}{13}{section*.12}%
 \contentsline {section}{Welcome Desk Open (10:30 - 12:30)}{14}{section*.13}%
@@ -63,7 +63,7 @@
 \contentsline {subsection}{Concurrent Session 4}{20}{section*.56}%
 \contentsline {paragraph}{\numberline {1.0.0.0.10}\textbf {Title}}{20}{paragraph.1.0.0.0.10}%
 \contentsline {paragraph}{\numberline {1.0.0.0.11}\textbf {Title}}{20}{paragraph.1.0.0.0.11}%
-\contentsline {chapter}{\numberline {2}Sunday, May 28 - No Sessions - Travel Day}{21}{chapter.2}%
+\contentsline {chapter}{\numberline {2}Sunday, May 28 \textbar {} No Sessions - Travel Day}{21}{chapter.2}%
 \contentsline {chapter}{\numberline {3}Monday, May 29 \textbar {} In Person at York University}{23}{chapter.3}%
 \contentsline {subsection}{Legend}{23}{section*.57}%
 \contentsline {paragraph}{✨ Note}{23}{section*.58}%
@@ -201,7 +201,7 @@
 \contentsline {paragraph}{4:00-4:30 \textbar {} \textbf {The Role of Teachers' Assessment Literacy in an Inquiry-Based Learning Environment} \textbar {} Research}{42}{section*.179}%
 \contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {TBA} \textbar {} Research}{42}{section*.180}%
 \contentsline {section}{End-of-Day Networking or Creative Space}{42}{section*.181}%
-\contentsline {chapter}{\numberline {6}Thursday, June 1 - No Sessions - Travel Day}{43}{chapter.6}%
+\contentsline {chapter}{\numberline {6}Thursday, June 1 \textbar {} No Sessions - Travel Day}{43}{chapter.6}%
 \contentsline {chapter}{\numberline {7}Friday, June 2 - Online Sessions Only}{45}{chapter.7}%
 \contentsline {subsection}{Legend}{45}{section*.182}%
 \contentsline {paragraph}{✨ Note}{45}{section*.183}%

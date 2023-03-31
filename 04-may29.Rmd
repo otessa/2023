@@ -1,11 +1,13 @@
 # Monday, May 29 | In Person at York University 
 
 ```{block, type='protip'}
+
 #### Join us for the #OTESSA23 Morning Radio Show every morning Monday-Thursday 9:30-10:30 (Eastern) at https://voiced.ca
 ```
 ### Legend {-}
 
 ```{block, type='protip'}
+
 
 #### ✨ Note{-}
 
@@ -13,20 +15,24 @@
 ```
 
 ```{block, type='keynote'}
+
 #### Keynote
 
 ```
 
 ```{block, type='speaker'}
+
 #### Invited Speaker
 
 ```
 
 ```{block, type='session'}
+
 #### Regular Session
 
 ```
 ```{block, type='social'}
+
 #### Social Session
 
 ```
@@ -45,6 +51,7 @@
 ### Concurrent Session 5.1 |  Sustaining Positive Change {-}
 
 ```{block, type='session'}
+
 #### 9:30 - 10:30 | **Cultivating Essential Leadership Skills for Digital Transformation in Ontario Postsecondary Education** |  Practice
  {-}
 
@@ -64,6 +71,7 @@
 
 
 ```{block, type='session'}
+
 #### 9:30 - 10:30 | **Ascending the Mountain: Examining National Open Educational Resource (OER)** |  Practice {-}
 
 ***Michael McNally*** | *University of Alberta*
@@ -85,6 +93,7 @@
 ### Concurrent Session 5.3 |  Sustaining Positive Change {-}
 
 ```{block, type='session'}
+
 #### 9:30 - 10:00 | **Mythical Beast, Panacea or Breaking News: Open Education Policy in Higher Education Institutions** |  Research {-}
 
 ***Leo Havemann*** | *University College London / Open University*
@@ -100,6 +109,7 @@
 ```
 
 ```{block, type='session'}
+
 #### 10:00-10:30 | **myWATERSHED: A Serious Game for Fostering Sustainability Champions of the Future** |  Research {-}
 
 ***Isabelle Barrette-Ng*** | *University of Windsor*
@@ -119,6 +129,7 @@
 ### Concurrent Session 5.4 |  Transitions of Online Learning & Teaching {-}
 
 ```{block, type='session'}
+
 #### 9:30 - 10:00 | **Early Findings on an Experiment in Distance Education with High School Students** |  Research {-}
 
 ***Alexandre Lanoix, Normand Roy, Marc-André Éthier*** | *Université de Montréal*
@@ -139,6 +150,7 @@
 ```
 
 ```{block, type='session'}
+
 #### 10:00-10:30 | **Over the Threshold: Graduate Student Needs in Academic Publishing** |  Research {-}
 
 ***Christie Hurrell, Susan Beatty*** | *University of Calgary*
@@ -161,6 +173,7 @@
 ## Keynote | 11:00-12:00 {-}
 
 ```{block, type='keynote'}
+
 
 #### Academic Integrity in the Age of Artificial Intelligence {-}
 
@@ -187,6 +200,7 @@ These questions have dominated teaching and learning circles and social media si
 ### Concurrent Session 6.1 {-}
 
 ```{block, type='speaker'}
+
 #### **TITLE** 
 
 *SPEAKER*
@@ -204,6 +218,7 @@ These questions have dominated teaching and learning circles and social media si
 ### Concurrent Session 6.2 {-}
 
 ```{block, type='speaker'}
+
 #### **TITLE** 
 
 *SPEAKER*
@@ -223,6 +238,7 @@ These questions have dominated teaching and learning circles and social media si
 ### Concurrent Session 7.1 |  Addressing Inequities {-}
 
 ```{block, type='session'}
+
 #### 2:30 - 3:00  | **A Learner-Educator Co-Creation Toolkit** |  Practice {-}
 
 ***Laura Killam*** | *Queen’s University Canada*
@@ -244,6 +260,7 @@ These questions have dominated teaching and learning circles and social media si
 ### Concurrent Session 7.2 |  Wildcard {-}
 
 ```{block, type='session'}
+
 #### 2:30-3:00 | **TBA** |  Practice {-}
 
 ***hypothes.is*** | *Vendor*
@@ -261,6 +278,7 @@ These questions have dominated teaching and learning circles and social media si
 ### Concurrent Session 7.3 |  Sustaining Positive Change {-}
 
 ```{block, type='session'}
+
 #### 2:30-3:00 | **What Uses of Digital Technology Support and Enhance the Learning and the Engagement of Diverse Learners in High School Classes?** |  Research {-}
 
 ***Mourad Majdoub, Fatme Diab & Géraldine Heilporn*** | *Université Laval*
@@ -278,6 +296,7 @@ These questions have dominated teaching and learning circles and social media si
 ### Concurrent Session 7.4 |  Addressing Inequities {-}
 
 ```{block, type='session'}
+
 #### 2:30-3:00 | **Personal, Institutional, and Societal Barriers to Educators’ Engagement with Datafication on Campus: A Case Study** |  Research {-}
 
 ***Bonnie Stewart, Erica Miklas, Samantha Szcyrek & Thu Le*** | *University of Windsor*
@@ -299,6 +318,7 @@ These questions have dominated teaching and learning circles and social media si
 ### Concurrent Session 8.1 |  Addressing Inequities {-}
 
 ```{block, type='session'}
+
 #### 3:30-5:00 | **The Wikidata Lexicographical Data: From Recording of Words to Lexemes and Beyond** |  Workshop {-}
 
 ***Sadik Shahadu*** | *MHz Foundation*
@@ -315,6 +335,7 @@ These questions have dominated teaching and learning circles and social media si
 ### Concurrent Session 8.2 |  Sustaining Positive Change {-}
 
 ```{block, type='session'}
+
 #### 3:30-4:30 | **Practitioner Values in the Transition to Open Education Resources: Moving Through Disruption to Improved Practice** |  Practice {-}
 
 ***Trista Hill*** | *Athabasca University*
@@ -331,6 +352,7 @@ These questions have dominated teaching and learning circles and social media si
 </details>
 ```
 ```{block, type='session'}
+
 #### 4:30-5:00 | **Showcasing a Student-Led Anti-Racism Virtual Simulation Module for Equitable Learning** |  Practice {-}
 
 ***Mujeedat Lekuti, HanShu Pu, Rishika Gowda, Zainab Baig, Javeria Baig, Alexandra Lawrynuik*** | *Queen’s University Canada*
@@ -352,6 +374,7 @@ These questions have dominated teaching and learning circles and social media si
 ### Concurrent Session 8.3 |  Wildcard {-}
 
 ```{block, type='session'}
+
 #### 3:30-4:30 | **Designing Agile Skill Development Pathways for Climate Adaptation: Leveraging Open Competency Frameworks and Open Educational Resources to Develop Micro-credential** |  Practice {-}
 
 ***David Porter*** | *DP+Associates*
@@ -369,6 +392,7 @@ These questions have dominated teaching and learning circles and social media si
 ```
 
 ```{block, type='session'}
+
 #### 4:30-5:00 | **An e-Book of One’s Own** |  Practice {-}
 
 ***Terry Greene*** | *Trent University*
@@ -386,6 +410,7 @@ These questions have dominated teaching and learning circles and social media si
 ### Concurrent Session 8.4 |  Transitions of Online Learning & Teaching {-}
 
 ```{block, type='session'}
+
 #### 3:30-4:30 | **Intentionality, Community, and Well-being: Re-imagining Blended Course Design** |  Practice {-}
 
 ***Brian Lorraine*** | *Simon Fraser University*
@@ -401,6 +426,7 @@ These questions have dominated teaching and learning circles and social media si
 ```
 
 ```{block, type='session'}
+
 #### 4:30-5:00 | **L’apprentissage en ligne au Québec : résultats de l’enquête annuelle 2022 de l’ACRFL (in French)** |  Practice {-}
 
 *** Bruno Poellhuber & Simon Parent*** | *Université de Montréal*

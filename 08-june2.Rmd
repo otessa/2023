@@ -2,6 +2,7 @@
 
 
 ```{block, type='protip'}
+
 #### Join us for the #OTESSA23 Morning Radio Show every morning Monday-Thursday 9:30-10:30 (Eastern) at https://voiced.ca
 ```
 
@@ -9,27 +10,32 @@
 
 ```{block, type='protip'}
 
+
 #### ✨ Note{-}
 
 ***All times are in Eastern Time (Canada)***
 ```
 
 ```{block, type='keynote'}
+
 #### Keynote
 
 ```
 
 ```{block, type='speaker'}
+
 #### Invited Speaker
 
 ```
 
 ```{block, type='session'}
+
 #### Regular Session
 
 ```
 
 ```{block, type='social'}
+
 #### Social Session
 
 ```
@@ -43,6 +49,7 @@
 ## Keynote | 11:00-12:00    {-}
 
  ```{block, type='keynote'}
+ 
 
 #### TBA {-}
 
@@ -67,6 +74,7 @@
 
 ```{block, type='session'}
 
+
 #### 1:30-2:30 | **Assessment in a Digital Age: Learning within the Continuum for Pedagogy, Technology, and Assessment** |  Workshop {-}
 
 ***Barbara Brown & Nadia Delanoy*** | *University of Calgary*
@@ -82,6 +90,7 @@
 ```
 
 ```{block, type='session'}
+
 
 #### 2:30-3:00 | **Using Qualitative Online Survey as a Research Method Amid Covid Pandemic** |  Practice {-}
 
@@ -101,6 +110,7 @@
 
 ```{block, type='session'}
 
+
 #### 3:30-4:30 | **No Need to Cheat, Every Reason to Succeed: The Benefits of Alternative, Authentic Assessments in Online English Literature Courses** |  Research {-}
 
 ***Shannon Lodoen*** | *University of Waterloo*
@@ -116,6 +126,7 @@
 ```
 
 ```{block, type='session'}
+
 
 #### 4:30-5:00 | **TBA** |  Practice {-}
 
@@ -135,6 +146,7 @@
 
 ```{block, type='session'}
 
+
 #### 1:30-2:00 | **TBA** |  Research {-}
 
 ***TBA*** | **
@@ -151,6 +163,7 @@
 
 ```{block, type='session'}
 
+
 #### 2:00-2:30 | **Non-Directive Strength-Based Online Coaching in Graduate Education** |  Research {-}
 
 ***Carolyn Kristjansson*** | *Trinity Western University*
@@ -166,6 +179,7 @@
 ```
 
 ```{block, type='session'}
+
 
 #### 2:30-3:00 | **The Teacher’s Self-efficacy and Belief in Implementing S STEM, iSTEM or STEAM in their Classroom** |  Research {-}
 
@@ -185,6 +199,7 @@
 
 ```{block, type='session'}
 
+
 #### 1:30-2:00 | **A Framework for Evaluating the Creation and Adaptation of Open Textbooks** |  Research {-}
 
 ***Melissa Ashman*** | *Kwantlen Polytechnic University*
@@ -200,6 +215,7 @@
 ```
 
 ```{block, type='session'}
+
 
 #### 2:00-2:30 | **Interprofessional Healthcare Simulation Co-Creation: A Pilot Study** |  Research {-}
 
@@ -218,6 +234,7 @@
 ```
 
 ```{block, type='session'}
+
 
 #### 2:30-3:00 | **Research? Which Research? Technology, Assessment, and Higher Education in Tension** |  Research {-}
 
@@ -241,6 +258,7 @@
 
 ```{block, type='session'}
 
+
 #### 3:30-4:30 | **On Speculative Education Fiction for Hopeful Learning Futures** |  Research {-}
 
 ***Shandell Houlden*** | *Royal Roads University*
@@ -256,6 +274,7 @@
 ```
 
 ```{block, type='session'}
+
 
 #### 4:30-5:00 | **Conducting Scoping Reviews: Opportunities and Challenges for Examining Social Media Use for Learning** |  Research {-}
 
@@ -274,6 +293,7 @@
 ### Concurrent Session 19.2 |  Sustaining Positive Change {-}
 
 ```{block, type='session'}
+
 
 #### 3:30-4:30 | **“No Longer Silent!” Racialized Academic Women Speak Out** |  Research {-}
 
@@ -297,6 +317,7 @@
 
 ```{block, type='session'}
 
+
 #### 4:30-5:00 | **Peace Education in the Platformed Society: Lessons from Colombia** |  Research {-}
 
 ***Estaban Morales*** | *University of British Columbia*
@@ -315,6 +336,7 @@
 
 ```{block, type='session'}
 
+
 #### 3:30-4:30 | **Scaling Small: The Open Book Collective Launch and Platform** |  Practice {-}
 
 ***Judith Fathallah*** | *Lancaster University*
@@ -330,6 +352,7 @@
 ```
 
 ```{block, type='session'}
+
 
 #### 4:30-5:00 | **5 Things You Need to Know Before You Buy Edtech** |  Practice {-}
 
@@ -349,6 +372,7 @@
 
 ```{block, type='session'}
 
+
 #### 3:30-4:00 | **Discovery Based Learning with Open Technologies, for Positive Change** |  Practice {-}
 
 ***Brian Sutherland*** | *University of Toronto*
@@ -365,6 +389,7 @@
 
 ```{block, type='session'}
 
+
 #### 2:00-2:30 | **TBA** |  Research {-}
 
 ***TBA*** | **
@@ -380,6 +405,7 @@
 ```
 
 ```{block, type='session'}
+
 
 #### 2:30-3:00 | **Negotiating an Informed Personal Theory and Philosophy of Open Education in a Professional Development Setting** |  Research {-}
 
@@ -404,6 +430,7 @@
 ### Concurrent Session 20.1 {-}
 
 ```{block, type='speaker'}
+
 #### **TBA** 
 
 *TBA*
@@ -420,6 +447,7 @@
 ### Concurrent Session 20.2 {-}
 
 ```{block, type='speaker'}
+
 #### **TBA** 
 
 *TBA*
