@@ -5,7 +5,7 @@
 #### Join us for the #OTESSA23 Morning Radio Show every morning Monday-Thursday 9:30-10:30 (Eastern) at https://voiced.ca
 ```
 
-### Legend {-}
+### Session Types {-}
 
 ```{block, type='protip'}
 
@@ -39,7 +39,19 @@
 #### Social Session
 
 ```
+```{block, type='vendor'}
 
+
+#### Vendor
+
+```
+
+```{block, type='workshop'}
+
+
+#### Workshop
+
+```
 ---
 
 ## Welcome Desk Open | 9:00 - 11:30 {-}
@@ -88,7 +100,7 @@
 
 ### Concurrent Session 13.2 |  Addressing Inequities {-}
 
-```{block, type='session'}
+```{block, type='workshop'}
 
 
 #### 9:30-10:30 | **Students as Expert Designers of Equity Courses: The New Normal in a Post-Digital Era** |  Workshop {-}
@@ -145,22 +157,26 @@
 
 ## Keynote | 11:00-12:00 {-}
 
- ```{block, type='keynote'}
+```{block, type='keynote'}
  
 
 #### TBA {-}
 
 ***Nick Bertrand*** | *University of Calgary*
 
+**Progressing truth, confronting complacency, and unleashing the possibility of healing through education.** 
+
 <details>
 <summary>Abstract</summary>
 <p>
-TBA
+
+Education as a tool for both healing and reconciliation has been an evolving movement over the years, and in particular since the release the of the Truth and Reconciliation Commission 94 Calls to Action.  Eight years later in a post TRC society, what truths remain untold?  What lessons have we learned in trying to mobilize meaningful change?  How can we as educators, uphold our responsibilities in the work of rebuilding the broken relationship that has brought us to this space? As the reconciliatory bridge continues to be constructed, education systems will continue to play a keystone role in the process of building awareness, understanding, and creating action.
 </p>
 </details>
 
 
 ##### [Session Link](){target="_blank"} {-}
+
 ```
 
 ## Lunch Break & Streamed Congress Programming | 12:00-1:30 {-}

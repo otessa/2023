@@ -14,7 +14,7 @@ pre code {
 }
 
 /* Styling for all custom environments: */
-div.session, div.keynote, div.speaker, div.social, div.todo, div.caution, div.feedback, div.protip{
+div.session, div.keynote, div.speaker, div.social, div.todo, div.workshop, div.vendor, div.protip{
   padding: 0.1em 0.5em 0.5em 1.0em;
   margin-bottom: 0.5em;
   position:relative;
@@ -31,8 +31,8 @@ div.keynote:before,
 div.speaker:before,
 div.social:before,
 div.todo:before,
-div.caution:before,
-div.feedback:before
+div.workshop:before,
+div.vendor:before
 div.protip:before{
     left:0.5em;
     position:absolute;
@@ -49,8 +49,8 @@ div.protip:before{
 .book .book-body .page-wrapper .page-inner .normal div.speaker a:link,
 .book .book-body .page-wrapper .page-inner .normal div.social a:link,
 .book .book-body .page-wrapper .page-inner .normal div.todo a:link,
-.book .book-body .page-wrapper .page-inner .normal div.caution a:link,
-.book .book-body .page-wrapper .page-inner .normal div.feedback a:link
+.book .book-body .page-wrapper .page-inner .normal div.workshop a:link,
+.book .book-body .page-wrapper .page-inner .normal div.vendor a:link
 .book .book-body .page-wrapper .page-inner .normal div.protip a:link{
   text-decoration: underline;
   font-weisocialt: bold;
@@ -74,10 +74,10 @@ div.social{
 div.todo{
   background: #fff1d2;
 }
-div.caution{
+div.workshop{
   background: #f9dede;
 }
-div.feedback{
+div.vendor{
   background: #d6d7d9;
 }
 div.protip{

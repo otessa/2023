@@ -4,7 +4,7 @@
 
 #### Join us for the #OTESSA23 Morning Radio Show every morning Monday-Thursday 9:30-10:30 (Eastern) at https://voiced.ca
 ```
-### Legend {-}
+### Session Types {-}
 
 ```{block, type='protip'}
 
@@ -37,6 +37,19 @@
 
 ```
 
+```{block, type='vendor'}
+
+
+#### Vendor
+
+```
+
+```{block, type='workshop'}
+
+
+#### Workshop
+
+```
 --- 
 
 
@@ -259,7 +272,7 @@ These questions have dominated teaching and learning circles and social media si
 
 ### Concurrent Session 7.2 |  Wildcard {-}
 
-```{block, type='session'}
+```{block, type='vendor'}
 
 #### 2:30-3:00 | **TBA** |  Practice {-}
 
@@ -317,7 +330,7 @@ These questions have dominated teaching and learning circles and social media si
 
 ### Concurrent Session 8.1 |  Addressing Inequities {-}
 
-```{block, type='session'}
+```{block, type='workshop'}
 
 #### 3:30-5:00 | **The Wikidata Lexicographical Data: From Recording of Words to Lexemes and Beyond** |  Workshop {-}
 

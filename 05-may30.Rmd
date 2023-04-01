@@ -5,7 +5,7 @@
 
 #### Join us for the #OTESSA23 Morning Radio Show every morning Monday-Thursday 9:30-10:30 (Eastern) at https://voiced.ca
 ```
-### Legend {-}
+### Session Types {-}
 
 ```{block, type='protip'}
 
@@ -37,7 +37,19 @@
 #### Social Session
 
 ```
+```{block, type='vendor'}
 
+
+#### Vendor
+
+```
+
+```{block, type='workshop'}
+
+
+#### Workshop
+
+```
 --- 
 
 

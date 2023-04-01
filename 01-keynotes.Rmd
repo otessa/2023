@@ -1,5 +1,5 @@
 # Keynotes {-}
-
+//todo #1
 ```{block, type='protip'}
 
 #### Join us for the #OTESSA23 Morning Radio Show every morning Monday-Thursday 9:30-10:30 (Eastern) at https://voiced.ca
@@ -34,22 +34,26 @@ How worried do we need to be that students are going to cheat more because of ar
 These questions have dominated teaching and learning circles and social media since late 2022 when ChatGPT emerged. In this Keynote, Sarah provides insights into how AI tools are impacting higher education. She will share insights from recent research project at the University of Calgary that explores the question: What are the ethical implications of artificial intelligence technologies for teaching, learning, and assessment?
 
 ##### [Session Link](){target="_blank"} {++link++}
+
 ```
 
 ## Nick Bertrand {-}
-
+//todo #2
 *University of Calgary
 ***Wednesday, May 31, 11:00 AM***
 
 ```{block, type='keynote'}
 
-### 
-{++Title and Abstract++}
+### Progressing truth, confronting complacency, and unleashing the possibility of healing through education. {-}
+
+Education as a tool for both healing and reconciliation has been an evolving movement over the years, and in particular since the release the of the Truth and Reconciliation Commission 94 Calls to Action.  Eight years later in a post TRC society, what truths remain untold?  What lessons have we learned in trying to mobilize meaningful change?  How can we as educators, uphold our responsibilities in the work of rebuilding the broken relationship that has brought us to this space? As the reconciliatory bridge continues to be constructed, education systems will continue to play a keystone role in the process of building awareness, understanding, and creating action.
+
 ##### [Session Link](){target="_blank"} {++link++}
+
 ```
 
 ## Paul Prinsloo {-}
-
+//todo #3
 ***Friday, June 2, 11:00 AM***
 
 ```{block, type='keynote'}
@@ -59,11 +63,12 @@ These questions have dominated teaching and learning circles and social media si
 {++Title and Abstract++}
 
 ##### [Session Link](){target="_blank"}
+
 ```
 
 ## Congress Events {-}
 
-```{block, type='feedback'}
+```{block, type='vendor'}
 
 
 ### {++link++} [Click here to access a schedule of all open Congress events.](){target="_blank"}

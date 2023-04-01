@@ -1,6 +1,6 @@
 # Changes and Updates {-}
 
-```{block, type='feedback'}
+```{block, type='vendor'}
 
 #### **One for All, All for One, to Support and Enable Our Learning  Societies** 
 
@@ -12,7 +12,7 @@ Session 1.2
 
 ```
 
-```{block, type='feedback'}
+```{block, type='vendor'}
 
 #### Land-use Metaphor in Scholarly Communication: A Brief Inventory and Inspection {-}
 
@@ -23,7 +23,7 @@ _AJ Boston_
 ***Rescheduled for 2023***
 ```
 
-```{block, type='feedback'}
+```{block, type='vendor'}
 #### The SAMR Model as a Framework for Scaffolding Online Chat (Research-Oriented)
 
 Parallel Session 11.5
@@ -34,7 +34,7 @@ Parallel Session 11.5
 ```
 
 
-```{block, type='feedback'}
+```{block, type='vendor'}
 
 #### Kendra Coupland - Mindfulness Social Session {-}
 
@@ -42,7 +42,7 @@ Parallel Session 11.5
 
 
 ```
-```{block, type='feedback'}
+```{block, type='vendor'}
 
 #### Dr. Jones - DJ {-}
 
@@ -50,7 +50,7 @@ Parallel Session 11.5
 
 ```
 
-```{block, type='feedback'}
+```{block, type='vendor'}
 
 #### A(nother) Guide for Resisting EdTech: The Case Against (or For?) Course Hero (Practice-Oriented)
 
@@ -60,7 +60,7 @@ Parallel Session 11.5
 
 ```
 
-```{block, type='feedback'}
+```{block, type='vendor'}
 
 #### Nonverbal Communication (NVC) and teacher presence in collaborative online learning in primary school (Research-Oriented)
 

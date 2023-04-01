@@ -6,7 +6,7 @@
 #### Join us for the #OTESSA23 Morning Radio Show every morning Monday-Thursday 9:30-10:30 (Eastern) at https://voiced.ca
 ```
 
-### Legend {-}
+### Session Types {-}
 
 ```{block, type='protip'}
 
@@ -39,7 +39,19 @@
 #### Social Session
 
 ```
+```{block, type='vendor'}
 
+
+#### Vendor
+
+```
+
+```{block, type='workshop'}
+
+
+#### Workshop
+
+```
 ---
 
 ## Welcome Desk Open | 10:00 - 12:30 {-}
@@ -48,7 +60,7 @@
 
 ## Keynote | 11:00-12:00    {-}
 
- ```{block, type='keynote'}
+```{block, type='keynote'}
  
 
 #### TBA {-}
@@ -65,6 +77,7 @@
 
 
 ##### [Session Link](){target="_blank"} {-}
+
 ```
 ## Coffee and Nutrition Break & Streamed Congress Programming | 12:00-12:30 {-}
 
@@ -72,7 +85,7 @@
 
 ### Concurrent Session 18.1 |  Transitions of Online Learning & Teaching {-}
 
-```{block, type='session'}
+```{block, type='workshop'}
 
 
 #### 1:30-2:30 | **Assessment in a Digital Age: Learning within the Continuum for Pedagogy, Technology, and Assessment** |  Workshop {-}
@@ -125,7 +138,7 @@
 </details>
 ```
 
-```{block, type='session'}
+```{block, type='vendor'}
 
 
 #### 4:30-5:00 | **TBA** |  Practice {-}

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.5)  31 MAR 2023 09:54
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.5)  1 APR 2023 12:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -572,7 +572,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 LaTeX Warning: Label `session-link-link' multiply defined.
 
 
-LaTeX Warning: Label `section' multiply defined.
+LaTeX Warning: Label `session-link-link' multiply defined.
 
 
 LaTeX Warning: Label `join-us-for-the-otessa23-morning-radio-show-every-morning-monday-thursday-930-1030-eastern-at-httpsvoiced.ca' multiply defined.
@@ -611,6 +611,12 @@ LaTeX Warning: Label `regular-session' multiply defined.
 LaTeX Warning: Label `social-session' multiply defined.
 
 
+LaTeX Warning: Label `vendor' multiply defined.
+
+
+LaTeX Warning: Label `workshop' multiply defined.
+
+
 LaTeX Warning: Label `academic-integrity-in-the-age-of-artificial-intelligence' multiply defined.
 
 
@@ -641,6 +647,12 @@ LaTeX Warning: Label `regular-session' multiply defined.
 LaTeX Warning: Label `social-session' multiply defined.
 
 
+LaTeX Warning: Label `vendor' multiply defined.
+
+
+LaTeX Warning: Label `workshop' multiply defined.
+
+
 LaTeX Warning: Label `title' multiply defined.
 
 
@@ -663,6 +675,12 @@ LaTeX Warning: Label `regular-session' multiply defined.
 
 
 LaTeX Warning: Label `social-session' multiply defined.
+
+
+LaTeX Warning: Label `vendor' multiply defined.
+
+
+LaTeX Warning: Label `workshop' multiply defined.
 
 
 LaTeX Warning: Label `session-link' multiply defined.
@@ -693,6 +711,12 @@ LaTeX Warning: Label `regular-session' multiply defined.
 
 
 LaTeX Warning: Label `social-session' multiply defined.
+
+
+LaTeX Warning: Label `vendor' multiply defined.
+
+
+LaTeX Warning: Label `workshop' multiply defined.
 
 
 LaTeX Warning: Label `tba' multiply defined.
@@ -1039,24 +1063,20 @@ Underfull \hbox (badness 1221) in paragraph at lines 17--17
 
 ] [7] [8
 
-] [9]
+] [9] [10]
 
-Package hyperref Warning: Suppressing link with empty target on input line 245.
-
-[10]
-
-Package hyperref Warning: Suppressing link with empty target on input line 273.
+Package hyperref Warning: Suppressing link with empty target on input line 295.
 
 [11] [12
 
 ]
 Chapter 1.
 Missing character: There is no ✨ (U+2728) in font [lmroman10-bold]:mapping=tex-text;!
-[13] [14]
-Underfull \vbox (badness 1424) has occurred while \output is active []
+[13] [14] [15] [16]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[15] [16] [17]
-Underfull \vbox (badness 1661) has occurred while \output is active []
+[17]
+Underfull \vbox (badness 4036) has occurred while \output is active []
 
 [18]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1086,11 +1106,8 @@ Chapter 4.
 Missing character: There is no ✨ (U+2728) in font [lmroman10-bold]:mapping=tex-text;!
 [31
 
-]
-Underfull \vbox (badness 1888) has occurred while \output is active []
-
-[32]
-Underfull \hbox (badness 2020) in paragraph at lines 1554--1555
+] [32]
+Underfull \hbox (badness 2020) in paragraph at lines 1606--1607
  []\TU/lmr/bx/n/10 9:30-10:30 | Four Perspectives of Learner-Educator Co-
  []
 
@@ -1105,62 +1122,70 @@ Missing character: There is no ✨ (U+2728) in font [lmroman10-bold]:mapping=tex
 [37
 
 ]
-Underfull \vbox (badness 1337) has occurred while \output is active []
-
-
 Overfull \hbox (15.90453pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 38 \TU/lmr/m/sl/10 CHAPTER 5.  WEDNESDAY, MAY 31 | IN PERSON AT YORK UNIVERSITY
  []
 
-[38] [39]
+[38]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[39]
 Overfull \hbox (15.90453pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 40 \TU/lmr/m/sl/10 CHAPTER 5.  WEDNESDAY, MAY 31 | IN PERSON AT YORK UNIVERSITY
  []
 
 [40] [41]
+Underfull \vbox (badness 2384) has occurred while \output is active []
+
+
 Overfull \hbox (15.90453pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 42 \TU/lmr/m/sl/10 CHAPTER 5.  WEDNESDAY, MAY 31 | IN PERSON AT YORK UNIVERSITY
  []
 
-[42]
-Chapter 6.
-[43
+[42] [43]
+Overfull \hbox (15.90453pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 44 \TU/lmr/m/sl/10 CHAPTER 5.  WEDNESDAY, MAY 31 | IN PERSON AT YORK UNIVERSITY
+ []
 
-] [44
+[44
+
+]
+Chapter 6.
+[45] [46
 
 ]
 Chapter 7.
 Missing character: There is no ✨ (U+2728) in font [lmroman10-bold]:mapping=tex-text;!
-[45] [46]
+[47] [48]
 Underfull \vbox (badness 2772) has occurred while \output is active []
 
-[47]
-Underfull \hbox (badness 3815) in paragraph at lines 2448--2449
+[49]
+Underfull \hbox (badness 3815) in paragraph at lines 2530--2531
  []\TU/lmr/bx/n/10 2:00-2:30 | Interprofessional Healthcare Simulation Co-
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[48] [49]
+[50] [51]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[50]
+[52]
 No file OTESSA23-Program.bbl.
-[51] (./OTESSA23-Program.aux)
+[53] (./OTESSA23-Program.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `OTESSA23-Program.out' has not changed.
-(rerunfilecheck)             Checksum: D639B91BF47F5B8EEEE0A3920E9BA5E8;17962.
+(rerunfilecheck)             Checksum: D0B69C80676092DB87117BCE3DF49B27;17963.
  ) 
 Here is how much of TeX's memory you used:
- 26866 strings out of 478683
- 543134 string characters out of 5847963
+ 26879 strings out of 478683
+ 543458 string characters out of 5847963
  1855018 words of memory out of 5000000
- 46562 multiletter control sequences out of 15000+600000
+ 46575 multiletter control sequences out of 15000+600000
  518754 words of font info for 87 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 86i,6n,121p,864b,489s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 86i,6n,121p,864b,490s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on OTESSA23-Program.pdf (51 pages).
+Output written on OTESSA23-Program.pdf (53 pages).
