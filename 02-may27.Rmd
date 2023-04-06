@@ -3,7 +3,8 @@
 ```{block, type='protip'}
 
 
-#### Join us for the #OTESSA23 Morning Radio Show every morning Monday-Thursday 9:30-10:30 (Eastern) at https://voiced.ca
+#### Join us for the #OTESSA23 Morning Radio Show every morning (times TBA) at https://voiced.ca
+
 ```
 ### Session Types {-}
 //todo #4
@@ -83,7 +84,7 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 ##### [Session Link](){target="_blank"} {-}
 ``` 
 
-## Coffee and Nutrition Break & Streamed Congress Programming (12:00-12:30) {-}
+## Break  | 12:00-12:30 {-}
 ## Concurrent Session 1 | Invited Speakers (12:30-1:15) {-}
 
 ### Concurrent Session 1.1 {-}
@@ -91,16 +92,17 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 ```{block, type='speaker'}
 
 
-#### **TITLE** 
+#### Session Speaker: **TBA** 
 
-*SPEAKER*
+*Session title: TBA*
 
 **Keywords:** 
 
-#### Abstract 
 <details>
- <summary>Click to Open</summary>
+<summary>Abstract</summary>
+<p>
 
+</p>
 </details>
 ```
 
@@ -109,21 +111,21 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 ```{block, type='speaker'}
 
 
-#### **Session Title** 
+#### Session Speaker: **TBA** 
 
-*TBA*
+*Session title: TBA*
 
-**Keywords:** TBA
+**Keywords:** 
 
-#### Abstract 
 <details>
- <summary>Click to Open</summary>
-TBA
+<summary>Abstract</summary>
+<p>
 
+</p>
 </details>
 ```
 
-## Coffee, Nutrition, & Networking Break (1:15-1:30) {-}
+## Break (1:15-1:30) {-}
 
 ## Concurrent Session 2 (1:30-3:00) {-}
 
@@ -183,6 +185,8 @@ TBA
 #### 2:30-3:00 | **An Upgrade to Ungrading: Alternative Grading in Higher Education** |  Practice {-}
 
 ***Sharon Lauricella*** | *Ontario Tech University*
+
+***Rebekah Bennetch*** | *University of Saskatchewan*
 
 **Keywords:** 
 
@@ -273,11 +277,29 @@ TBA
 </p>
 </details>
 ```
+
 ```{block, type='session'}
 
-#### 2:30-3:00 | **Letting Go of Holding On: Promoting Student Choice in a Post- Pandemic Classroom** |  Practice {-}
+#### 2:30-3:00 | **Reimagining Art and Culture by Decolonizing Digitization** |  Practice {-}
 
-***Rebekah Bennetch*** | *University of Saskatchewan*
+***Amanda Figueroa*** | *Curationist*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+### Concurrent Session 2.5 |  Sustaining Positive Change {-}
+
+```{block, type='session'}
+
+#### 1:30-2:00 | **Qu’en est-il de l’enseignement et de l’apprentissage de la danse à distance ? Adaptations et défis (in French)** |  Research {-}
+
+***Cathia Papi*** | *Université TÉLUQ*
 
 **Keywords:** 
 
@@ -289,7 +311,42 @@ TBA
 </details>
 ```
 
-## Coffee, Nutrition, & Networking Break (3:00-3:30) {-}
+
+```{block, type='session'}
+
+#### 2:00-2:30 | **Que dit la recherche des approches pour contrer l’isolement en FAD ? (in French)** |  Research {-}
+
+***Cathia Papi, Serge Gérin-Lajoie & Wanderlucy Czeszak*** | *Université TÉLUQ*
+
+***Aristide Tsayem Tchoupou*** | *Université Laval*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+```{block, type='session'}
+
+#### 2:30-3:00 | **TBA** |   {-}
+
+***TBA*** | *TBA*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+
+## Break (3:00-3:30) {-}
 
 ## Concurrent Session 3 (3:30-5:00) {-}
 
@@ -299,7 +356,7 @@ TBA
 
 #### 3:30-4:30 | **The Seemingly Small Details that are Easily Overlooked in Designing Inclusive Online Courses** |  Practice {-}
 
-***Tai Munro, Ashley Stasiewich, & Susan Cauti*** | *MacEwan University*
+***Tai Munro, Ashley Stasiewich & Susan Cauti*** | *MacEwan University*
 
 **Keywords:** 
 
@@ -349,9 +406,9 @@ TBA
 ```
 ```{block, type='session'}
 
-#### 4:30-5:00 | **Reimagining Art and Culture by Decolonizing Digitization** |  Practice {-}
+#### 4:30-5:00 | **Letting Go of Holding On: Promoting Student Choice in a Post- Pandemic Classroom** |  Practice {-}
 
-***Amanda Figueroa*** | *Curationist*
+***Rebekah Bennetch*** | *University of Saskatchewan*
 
 **Keywords:** 
 
@@ -369,7 +426,7 @@ TBA
 
 #### 3:30 - 4:30 | **Whiteboard Animation for Dental Education** |  Research {-}
 
-***Nazlee Sharmin, Ava K Chow, & Mike Carbonaro*** | *University of Alberta*
+***Nazlee Sharmin, Ava K Chow & Mike Carbonaro*** | *University of Alberta*
 
 **Keywords:** 
 
@@ -468,21 +525,21 @@ TBA
 </details>
 ```
 
-## Coffee, Nutrition, & Networking Break (5:00-5:15) {-}
+## Break (5:00-5:15) {-}
 
 ### Concurrent Session 4 {-}
 
 ```{block, type='speaker'}
 
 
-#### **Title** 
+#### Session Speaker: **TBA** 
 
-*Speaker*
+*Session title: TBA*
 
 **Keywords:** 
 
 <details>
-<summary>ABSTRACT</summary>
+<summary>Abstract</summary>
 <p>
 
 </p>

@@ -53,8 +53,9 @@
 
 ```
 ---
+## Continental Breakfast Provided | 8:00-9:00 {-}
 
-## Welcome Desk Open | 9:00 - 11:30 {-}
+## Welcome Desk Open | 8:00 - 11:30 {-}
 
 ## Conference Welcome, Announcements & Land Acknowledgement | 9:00-9:15 {-}
 
@@ -138,10 +139,9 @@
 
 ```{block, type='session'}
 
+#### 10:00-10:30 | **Hidden Curriculum of Education Technologies** |  Practice {-}
 
-#### 10:00-10:30 | **TBA** |  Research {-}
-
-***TBA*** | *York*
+***Danielle Dilkes*** | *Western University*
 
 **Keywords:** 
 
@@ -187,15 +187,16 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 ```{block, type='speaker'}
 
-#### **TBA** 
+#### Session Speaker: **TBA** 
 
-*TBA*
+*Session title: TBA*
 
 **Keywords:** 
 
 <details>
 <summary>Abstract</summary>
 <p>
+
 </p>
 </details>
 ```
@@ -204,15 +205,16 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 ```{block, type='speaker'}
 
-#### **TBA** 
+#### Session Speaker: **TBA** 
 
-*TBA*
+*Session title: TBA*
 
 **Keywords:** 
 
 <details>
 <summary>Abstract</summary>
 <p>
+
 </p>
 </details>
 ```
@@ -278,7 +280,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 </details>
 ```
 
-## Coffee, Nutrition, & Networking Break | 3:00-3:30 {-}
+## Break | 3:00-3:30 {-}
 
 ## Concurrent Session 16 | 3:30-5:00 {-}
 

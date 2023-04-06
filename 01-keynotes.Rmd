@@ -20,7 +20,7 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 ##### [Session Link](){target="_blank"} {++link++}
 ```
 
-## Sarah Eaton {-}
+## Sarah Elaine Eaton {-}
 
 *University of Calgary*
 
@@ -58,9 +58,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 ```{block, type='keynote'}
 
-### 
-
-{++Title and Abstract++}
+### Title and Abstract TBA
 
 ##### [Session Link](){target="_blank"}
 

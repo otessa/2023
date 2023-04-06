@@ -263,7 +263,52 @@
 </details>
 ```
 
-## Coffee, Nutrition, & Networking Break | 3:00-3:30 {-}
+### Concurrent Session 18.5 |  Addressing Inequities {-}
+
+
+```{block, type='session'}
+
+#### 9:30-10:30 | **Four Perspectives of Learner-Educator Co-Creation** |  Practice {-}
+
+***Mercedes Lock*** | *Cambrian College*
+
+***Jane Tyerman*** | *University of Ottawa*
+
+***Lillian Chumbley*** | *Trent University*
+
+***Laura Killam*** | *Queen's University Canada*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='session'}
+
+#### 2:30 - 3:00  | **A Learner-Educator Co-Creation Toolkit** |  Practice {-}
+
+***Laura Killam*** | *Queen’s University Canada*
+
+***Lillian Chumbley*** | *Trent University *
+
+***Jane Tyerman*** | *University of Ottawa*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+## Break | 3:00-3:30 {-}
 
 ## Concurrent Session 19 | 3:30-5:00 {-}
 
@@ -286,22 +331,7 @@
 </details>
 ```
 
-```{block, type='session'}
 
-
-#### 4:30-5:00 | **Conducting Scoping Reviews: Opportunities and Challenges for Examining Social Media Use for Learning** |  Research {-}
-
-***Richard Hayman & Erika E. Smith*** | *Mount Royal University*
-
-**Keywords:** 
-
-<details>
-<summary>Abstract</summary>
-<p>
-
-</p>
-</details>
-```
 
 ### Concurrent Session 19.2 |  Sustaining Positive Change {-}
 
@@ -436,7 +466,7 @@
 </details>
 ```
 
-## Coffee, Nutrition, & Networking Break | 5:00-5:15 {-}
+## Break | 5:00-5:15 {-}
 
 ## Concurrent Session 20 | Invited Speakers | 5:15-6:00 {-}
 
@@ -444,15 +474,16 @@
 
 ```{block, type='speaker'}
 
-#### **TBA** 
+#### Session Speaker: **TBA** 
 
-*TBA*
+*Session title: TBA*
 
 **Keywords:** 
 
 <details>
 <summary>Abstract</summary>
 <p>
+
 </p>
 </details>
 ```
@@ -461,15 +492,16 @@
 
 ```{block, type='speaker'}
 
-#### **TBA** 
+#### Session Speaker: **TBA** 
 
-*TBA*
+*Session title: TBA*
 
 **Keywords:** 
 
 <details>
 <summary>Abstract</summary>
 <p>
+
 </p>
 </details>
 ```

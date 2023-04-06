@@ -53,14 +53,16 @@
 --- 
 
 
+## Continental Breakfast Provided | 8:00-9:00 {-}
 
-##  Welcome Desk Open | 9:00 - 11:30 {-}
+##  Welcome Desk Open | 8:00 - 11:30 {-}
 
 ## Conference Welcome, Announcements & Land Acknowledgement | 9:00-9:15 {-}
 
 ## Break | 9:15-9:30 {-}
 
 ## Concurrent Session 5 | 9:30-10:30 {-}
+
 ### Concurrent Session 5.1 |  Sustaining Positive Change {-}
 
 ```{block, type='session'}
@@ -190,7 +192,7 @@
 
 #### Academic Integrity in the Age of Artificial Intelligence {-}
 
-*Sarah Eaton*
+*Sarah Elaine Eaton*
 *University of Calgary*
 
 <details>
@@ -206,22 +208,23 @@ These questions have dominated teaching and learning circles and social media si
 
 ```
 
-## Lunch Break and Streamed Congress Programming | 12:00-1:30 {-}
+## Break | 12:00-1:30 {-}
 
-## Concurrent Session 6 |  Invited Speakers | 1:30-2:30 {-}
+## Concurrent Session 6 |  Invited Speakers | 1:30-2:15  {-}
 
+45 Minutes
 ### Concurrent Session 6.1 {-}
 
 ```{block, type='speaker'}
 
-#### **TITLE** 
+#### Session Speaker: **TBA** 
 
-*SPEAKER*
+*Session title: TBA*
 
 **Keywords:** 
 
 <details>
-<summary>ABSTRACT</summary>
+<summary>Abstract</summary>
 <p>
 
 </p>
@@ -232,51 +235,32 @@ These questions have dominated teaching and learning circles and social media si
 
 ```{block, type='speaker'}
 
-#### **TITLE** 
+#### Session Speaker: **TBA** 
 
-*SPEAKER*
+*Session title: TBA*
 
 **Keywords:** 
 
 <details>
-<summary>ABSTRACT</summary>
+<summary>Abstract</summary>
 <p>
 
 </p>
 </details>
 ```
+
+## Break | 2:15-2:30 {-}
 
 ## Concurrent Session 7 | 2:30-3:00 {-}
 
-### Concurrent Session 7.1 |  Addressing Inequities {-}
-
-```{block, type='session'}
-
-#### 2:30 - 3:00  | **A Learner-Educator Co-Creation Toolkit** |  Practice {-}
-
-***Laura Killam*** | *Queen’s University Canada*
-
-***Lillian Chumbley*** | *Trent University *
-
-***Jane Tyerman*** | *University of Ottawa*
-
-**Keywords:** 
-
-<details>
-<summary>Abstract</summary>
-<p>
-
-</p>
-</details>
-```
-
-### Concurrent Session 7.2 |  Wildcard {-}
+30 Minutes
+### Concurrent Session 7.1 |  Wildcard {-}
 
 ```{block, type='vendor'}
 
-#### 2:30-3:00 | **TBA** |  Practice {-}
+#### 2:30-3:00 | **The Impact of Social Annotation on Learning** |  Research {-}
 
-***hypothes.is*** | *Vendor*
+***Sean O'Reilly*** | *hypothes.is*
 
 **Keywords:** 
 
@@ -288,7 +272,7 @@ These questions have dominated teaching and learning circles and social media si
 </details>
 ```
 
-### Concurrent Session 7.3 |  Sustaining Positive Change {-}
+### Concurrent Session 7.2 |  Sustaining Positive Change {-}
 
 ```{block, type='session'}
 
@@ -306,7 +290,7 @@ These questions have dominated teaching and learning circles and social media si
 </details>
 ```
 
-### Concurrent Session 7.4 |  Addressing Inequities {-}
+### Concurrent Session 7.3 |  Addressing Inequities {-}
 
 ```{block, type='session'}
 
@@ -324,7 +308,7 @@ These questions have dominated teaching and learning circles and social media si
 </details>
 ```
 
-## Coffee, Nutrition, & Networking Break | 3:00-3:30 {-}
+## Break with Coffee and Snack Provided | 3:00-3:30 {-}
 
 ## Concurrent Session 8 |  3:30-5:00 {-}
 
