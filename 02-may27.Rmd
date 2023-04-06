@@ -7,7 +7,9 @@
 
 ```
 ### Session Types {-}
+
 //todo #4
+
 ```{block, type='protip'}
 
 
@@ -36,11 +38,13 @@
 #### Regular Session
 
 ```
+
 ```{block, type='social'}
 
 #### Social Session
 
 ```
+
 ```{block, type='vendor'}
 
 
@@ -146,7 +150,9 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 
 </p>
 </details>
+
 ```
+
 ```{block, type='session'}
 
 #### 2:30-3:00 | **A(nother) Guide for Resisting EdTech: The Case Against (or For?) Course Hero** |  Practice {-}
@@ -215,6 +221,7 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 </p>
 </details>
 ```
+
 ```{block, type='session'}
 
 #### 2:00-2:30 | **“Leave No One Behind.” Peer Support for Teachers: Reflections on a Digital Pedagogy Development Project** |  Practice {-}
@@ -244,7 +251,9 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 
 </p>
 </details>
+
 ```
+
 ### Concurrent Session 2.4 |  Sustaining Positive Change {-}
 
 ```{block, type='session'}
@@ -293,6 +302,7 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 </p>
 </details>
 ```
+
 ### Concurrent Session 2.5 |  Sustaining Positive Change {-}
 
 ```{block, type='session'}
@@ -367,7 +377,8 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 </p>
 </details>
 ```
-```{block, type='session'}
+
+``{block, type='session'}
 
 #### 4:30-5:00 | **Podcasting for Student Agency** |  Research {-}
 
@@ -404,6 +415,7 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 </p>
 </details>
 ```
+
 ```{block, type='session'}
 
 #### 4:30-5:00 | **Letting Go of Holding On: Promoting Student Choice in a Post- Pandemic Classroom** |  Practice {-}
@@ -437,6 +449,7 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 </p>
 </details>
 ```
+
 ```{block, type='session'}
 
 #### 4:30 - 5:00 | **In-class gaming to improve students’ learning experiences in dental education** |  Research {-}
