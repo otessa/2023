@@ -346,7 +346,7 @@
 
 ### Concurrent Session 12.2 |  Wildcard {-}
 
- ```{block, type='session'}
+```{block, type='session'}
 
 #### 3:30-4:00 | **Virtual Reality Simulations in Higher Education Science Classes:Student Engagement and Teacher Professional Development** |  Research {-}
 
@@ -450,5 +450,23 @@
 </details>
 ```
 
+```{block, type='session'}
 
+
+#### 4:30-5:00 | **Research? Which Research? Technology, Assessment, and Higher Education in Tension** |  Research {-}
+
+***Colin Madland*** | *University of Victoria*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+
+## End-of-Day Networking or Creative Space | 5:00-6:00 {-}
 

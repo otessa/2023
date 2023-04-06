@@ -63,6 +63,7 @@
 
 ## Concurrent Session 13 | 9:30-10:30 {-}
 
+1 Hour
 ### Concurrent Session 13.1 |  Transitions of Online Learning & Teaching {-}
 
 ```{block, type='session'}
@@ -85,9 +86,9 @@
 ```{block, type='session'}
 
 
-#### 10:00-10:30 | **Open Education Research: Past, Present, Future** |  Research {-}
+#### 10:00-10:30 | **TBA** |  TBA {-}
 
-***Robert Farrow, Beck Pitt, Martin Weller, Paco Iniesto & Carina Bossu*** | *The Open University*
+***TBA*** | *TBA*
 
 **Keywords:** 
 
@@ -160,11 +161,11 @@
 ```{block, type='keynote'}
  
 
-#### TBA {-}
+#### Progressing truth, confronting complacency, and unleashing the possibility of healing through education.  {-}
 
 ***Nick Bertrand*** | *University of Calgary*
 
-**Progressing truth, confronting complacency, and unleashing the possibility of healing through education.** 
+
 
 <details>
 <summary>Abstract</summary>
@@ -179,10 +180,11 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 ```
 
-## Lunch Break & Streamed Congress Programming | 12:00-1:30 {-}
+## Break | 12:00-1:30 {-}
 
-## Concurrent Session 14 | Invited Speakers | 1:30-2:30 {-}
+## Concurrent Session 14 | Invited Speakers | 1:30-2:15 {-}
 
+45 Minutes
 ### Concurrent Session 14.1 {-}
 
 ```{block, type='speaker'}
@@ -218,9 +220,11 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 </p>
 </details>
 ```
+## Break | 2:15-2:30 {-}
 
 ## Concurrent Session 15 | 2:30-3:00 {-}
 
+30 Minutes
 ### Concurrent Session 15.1 |  Addressing Inequities {-}
 
 ```{block, type='session'}
@@ -280,7 +284,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 </details>
 ```
 
-## Break | 3:00-3:30 {-}
+## Break with Coffee and Snack Provided | 3:00-3:30 {-}
 
 ## Concurrent Session 16 | 3:30-5:00 {-}
 
@@ -423,7 +427,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 #### 4:30-5:00 | **TBA** |  Research {-}
 
-***TBA*** | *York*
+***TBA*** | *TBA*
 
 **Keywords:** 
 
@@ -434,6 +438,8 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 </p>
 </details>
 ```
+
+## Congress President Reception | 5:00-7:00
 
 ## End-of-Day Networking or Creative Space {-}
 

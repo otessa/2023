@@ -1,5 +1,7 @@
 # Keynotes {-}
+
 //todo #1
+
 ```{block, type='protip'}
 
 #### Join us for the #OTESSA23 Morning Radio Show every morning Monday-Thursday 9:30-10:30 (Eastern) at https://voiced.ca
@@ -38,6 +40,7 @@ These questions have dominated teaching and learning circles and social media si
 ```
 
 ## Nick Bertrand {-}
+
 //todo #2
 *University of Calgary
 ***Wednesday, May 31, 11:00 AM***
@@ -53,6 +56,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 ```
 
 ## Paul Prinsloo {-}
+
 //todo #3
 ***Friday, June 2, 11:00 AM***
 
@@ -72,6 +76,3 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 ### {++link++} [Click here to access a schedule of all open Congress events.](){target="_blank"}
 
 ```
-
-
-

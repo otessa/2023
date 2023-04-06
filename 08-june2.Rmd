@@ -79,9 +79,52 @@
 ##### [Session Link](){target="_blank"} {-}
 
 ```
-## Coffee and Nutrition Break & Streamed Congress Programming | 12:00-12:30 {-}
+
+## Break | 12:00-12:30 {-}
+
+## Concurrent Session 17 | Invited Speakers | 12:30-1:15 {-}
+
+45 Minutes
+### Concurrent Session 17.1 {-}
+
+```{block, type='speaker'}
+
+#### Session Speaker: **TBA** 
+
+*Session title: TBA*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+### Concurrent Session 17.2 {-}
+
+```{block, type='speaker'}
+
+#### Session Speaker: **TBA** 
+
+*Session title: TBA*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+## Break | 1:05-1:30 {-}
 
 ## Concurrent Session 18 | 1:30-3:00 {-}
+
+1.5 Hours
 
 ### Concurrent Session 18.1 |  Transitions of Online Learning & Teaching {-}
 
@@ -91,6 +134,8 @@
 #### 1:30-2:30 | **Assessment in a Digital Age: Learning within the Continuum for Pedagogy, Technology, and Assessment** |  Workshop {-}
 
 ***Barbara Brown & Nadia Delanoy*** | *University of Calgary*
+
+***Jodie Walz*** | *Calgary Catholic School District*
 
 **Keywords:** 
 
@@ -104,8 +149,46 @@
 
 ```{block, type='session'}
 
+#### 2:30-3:00 | **TBA** |  TBA {-}
 
-#### 2:30-3:00 | **Using Qualitative Online Survey as a Research Method Amid Covid Pandemic** |  Practice {-}
+***TBA*** | *TBA*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+
+
+
+### Concurrent Session 18.2 |  Transitions of Online Learning & Teaching {-}
+
+```{block, type='session'}
+
+#### 1:30-2:00 | **Open Education Research: Past, Present, Future** |  Research {-}
+
+***Robert Farrow, Beck Pitt, Martin Weller, Paco Iniesto & Carina Bossu*** | *The Open University*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+
+```{block, type='session'}
+
+
+#### 2:00-2:30 | **Using Qualitative Online Survey as a Research Method Amid Covid Pandemic** |  Practice {-}
 
 ***Yina Liu*** | *University of Alberta*
 
@@ -118,32 +201,12 @@
 </p>
 </details>
 ```
-
-### Concurrent Session 18.2 |  Transitions of Online Learning & Teaching {-}
-
 ```{block, type='session'}
 
 
-#### 3:30-4:30 | **No Need to Cheat, Every Reason to Succeed: The Benefits of Alternative, Authentic Assessments in Online English Literature Courses** |  Research {-}
+#### 2:30-3:00 | **TBA** |  TBA {-}
 
-***Shannon Lodoen*** | *University of Waterloo*
-
-**Keywords:** 
-
-<details>
-<summary>Abstract</summary>
-<p>
-
-</p>
-</details>
-```
-
-```{block, type='vendor'}
-
-
-#### 4:30-5:00 | **TBA** |  Practice {-}
-
-***hypothes.is*** | *Vendor*
+***TBA*** | *TBA*
 
 **Keywords:** 
 
@@ -157,27 +220,11 @@
 
 ### Concurrent Session 18.3 |  Wildcard {-}
 
-```{block, type='session'}
-
-
-#### 1:30-2:00 | **TBA** |  Research {-}
-
-***TBA*** | **
-
-**Keywords:** 
-
-<details>
-<summary>Abstract</summary>
-<p>
-
-</p>
-</details>
-```
 
 ```{block, type='session'}
 
 
-#### 2:00-2:30 | **Non-Directive Strength-Based Online Coaching in Graduate Education** |  Research {-}
+#### 1:30-2:00 | **Non-Directive Strength-Based Online Coaching in Graduate Education** |  Research {-}
 
 ***Carolyn Kristjansson*** | *Trinity Western University*
 
@@ -197,6 +244,24 @@
 #### 2:30-3:00 | **The Teacher’s Self-efficacy and Belief in Implementing S STEM, iSTEM or STEAM in their Classroom** |  Research {-}
 
 ***Atiya Razi*** | *University of Windsor*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
+```{block, type='vendor'}
+
+#### 2:30-3:00 | **The Impact of Social Annotation on Learning** |  Research {-}
+
+**Repeated from Session 7.1**
+
+***Sean O'Reilly*** | *hypothes.is*
 
 **Keywords:** 
 
@@ -246,22 +311,7 @@
 </details>
 ```
 
-```{block, type='session'}
 
-
-#### 2:30-3:00 | **Research? Which Research? Technology, Assessment, and Higher Education in Tension** |  Research {-}
-
-***Colin Madland*** | *University of Victoria*
-
-**Keywords:** 
-
-<details>
-<summary>Abstract</summary>
-<p>
-
-</p>
-</details>
-```
 
 ### Concurrent Session 18.5 |  Addressing Inequities {-}
 
@@ -319,7 +369,7 @@
 
 #### 3:30-4:30 | **On Speculative Education Fiction for Hopeful Learning Futures** |  Research {-}
 
-***Shandell Houlden*** | *Royal Roads University*
+***Shandell Houlden & George Veletsianos*** | *Royal Roads University*
 
 **Keywords:** 
 
@@ -330,6 +380,23 @@
 </p>
 </details>
 ```
+
+z```{block, type='session'}
+
+#### 4:30-5:00 | **TBA** |  TBA {-}
+
+***TBA*** | *TBA*
+
+**Keywords:** 
+
+<details>
+<summary>Abstract</summary>
+<p>
+
+</p>
+</details>
+```
+
 
 
 
@@ -394,22 +461,6 @@
 </details>
 ```
 
-```{block, type='session'}
-
-
-#### 4:30-5:00 | **5 Things You Need to Know Before You Buy Edtech** |  Practice {-}
-
-***Anne-Marie Scott*** | *Athabasca University*
-
-**Keywords:** 
-
-<details>
-<summary>Abstract</summary>
-<p>
-
-</p>
-</details>
-```
 
 ### Concurrent Session 19.4 |  Sustaining Positive Change {-}
 
@@ -433,9 +484,11 @@
 ```{block, type='session'}
 
 
-#### 2:00-2:30 | **TBA** |  Research {-}
+#### 4:00-4:30 | **Interprofessional Healthcare Simulation Co-Creation: A Pilot Study** |  Research {-}
 
-***TBA*** | **
+***Laura Killam*** | *Queen's University Canada*
+
+***Jacqueline Vaughn, Alicia Sellon, Chase DuBois, Amelia Huelskamp, Andrea Smith, Colette Waddill & Justine Reel*** | *University of North Carolina Wilmington*
 
 **Keywords:** 
 
@@ -450,7 +503,7 @@
 ```{block, type='session'}
 
 
-#### 2:30-3:00 | **Negotiating an Informed Personal Theory and Philosophy of Open Education in a Professional Development Setting** |  Research {-}
+#### 4:30-5:00 | **Negotiating an Informed Personal Theory and Philosophy of Open Education in a Professional Development Setting** |  Research {-}
 
 ***Irwin DeVries*** | *Royal Roads University*
 
@@ -470,6 +523,7 @@
 
 ## Concurrent Session 20 | Invited Speakers | 5:15-6:00 {-}
 
+45 Minutes
 ### Concurrent Session 20.1 {-}
 
 ```{block, type='speaker'}
