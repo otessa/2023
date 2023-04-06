@@ -1,13 +1,13 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.5)  1 APR 2023 12:02
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.8)  6 APR 2023 15:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **OTESSA23-Program.tex
 (./OTESSA23-Program.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-02-22> (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/base/book.cls
+L3 programming layer <2023-02-22> (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2022/07/02 v1.4n Standard LaTeX document class
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/base/bk10.clo
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/base/bk10.clo
 File: bk10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count181
@@ -22,20 +22,20 @@ File: bk10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2022/04/08 v2.17n AMS math features
 \@mathmargin=\skip50
 For additional information on amsmath, use the `?' option.
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks16
 \ex@=\dimen141
-)) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
+)) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen142
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count190
@@ -85,16 +85,16 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \mathdisplay@stack=\toks20
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amssymb.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/lm/lmodern.sty
+)) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/lm/lmodern.sty
 Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -128,11 +128,11 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math.sty (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math.sty (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2023-02-22 L3 programming layer (loader) 
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2023-01-16 L3 backend support: XeTeX
 \g__graphics_track_int=\count268
 \l__pdf_internal_box=\box53
@@ -141,15 +141,15 @@ File: l3backend-xetex.def 2023-01-16 L3 backend support: XeTeX
 \g__pdf_backend_link_int=\count271
 ))
 Package: unicode-math 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.sty
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.sty
 Package: unicode-math-xetex 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2023-02-02 L3 Experimental document command parser
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.sty
 Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 \l__fontspec_script_int=\count272
 \l__fontspec_language_int=\count273
@@ -165,11 +165,11 @@ Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 \l__fontspec_tmpa_dim=\dimen150
 \l__fontspec_tmpb_dim=\dimen151
 \l__fontspec_tmpc_dim=\dimen152
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/base/fix-cm.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/base/ts1enc.def
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 ))
@@ -177,15 +177,15 @@ LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 \g__um_fonts_used_int=\count284
 \l__um_primecount_int=\count285
 \g__um_primekern_muskip=\muskip17
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex))) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex))) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: xetex.def on input line 227.
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/xetex.def
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/xetex.def
 File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1369.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
@@ -194,7 +194,7 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/tools/longtable.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
 \LTleft=\skip53
 \LTright=\skip54
@@ -212,7 +212,7 @@ Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
 \c@LT@tables=\count289
 \c@LT@chunks=\count290
 \LT@p@ftn=\toks21
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen154
 \lightrulewidth=\dimen155
@@ -231,7 +231,7 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count293
 \@lastruleclass=\count294
 \@thisrulewidth=\dimen166
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/tools/array.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/tools/array.sty
 Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen167
 \ar@mcellbox=\box59
@@ -240,7 +240,7 @@ Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \extratabsurround=\skip57
 \backup@length=\skip58
 \ar@cellbox=\box60
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count295
 \calc@Bcount=\count296
@@ -252,30 +252,30 @@ LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count297
 \calc@Cskip=\skip61
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count298
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/mdwtools/footnote.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/mdwtools/footnote.sty
 Package: footnote 1997/01/28 1.13 Save footnotes around boxes
 \fn@notes=\box61
 \fn@width=\dimen171
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks23
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 107.
 )
 \Gin@req@height=\dimen172
 \Gin@req@width=\dimen173
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/amscls/amsthm.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks24
 \thm@bodyfont=\toks25
@@ -286,24 +286,24 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@postskip=\skip63
 \thm@headsep=\skip64
 \dth@everypar=\toks29
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
 Package: tcolorbox 2023/02/12 version 6.0.1 text color boxes
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks30
 \pgfutil@tempdima=\dimen174
 \pgfutil@tempdimb=\dimen175
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box62
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/pgf.revision.tex)
 Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 ))
 Package: pgf 2023-01-15 v3.1.10 (3.1.10)
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks31
 \pgfkeys@temptoks=\toks32
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks33
 ))
 \pgf@x=\dimen176
@@ -326,36 +326,36 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 \t@pgf@tokb=\toks35
 \t@pgf@tokc=\toks36
 \pgf@sys@id@count=\count303
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
 Driver file for pgf: pgfsys-xetex.def
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
 File: pgfsys-xetex.def 2023-01-15 v3.1.10 (3.1.10)
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
 File: pgfsys-dvipdfmx.def 2023-01-15 v3.1.10 (3.1.10)
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 )
 \pgfsys@objnum=\count304
-))) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+))) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfsyssoftpath@smallbuffer@items=\count305
 \pgfsyssoftpath@bigbuffer@items=\count306
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+)) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen186
 \pgfmath@count=\count307
 \pgfmath@box=\box63
 \pgfmath@toks=\toks37
 \pgfmath@stack@operand=\toks38
 \pgfmath@stack@operation=\toks39
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count308
-)) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+)) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@picminx=\dimen187
 \pgf@picmaxx=\dimen188
@@ -371,74 +371,74 @@ File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@yy=\dimen198
 \pgf@zx=\dimen199
 \pgf@zy=\dimen256
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@path@lastx=\dimen257
 \pgf@path@lasty=\dimen258
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@shorten@end@additional=\dimen259
 \pgf@shorten@start@additional=\dimen260
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box64
 \pgf@hbox=\box65
 \pgf@layerbox@main=\box66
 \pgf@picture@serial@count=\count309
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgflinewidth=\dimen261
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@pt@x=\dimen262
 \pgf@pt@y=\dimen263
 \pgf@pt@temp=\dimen264
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfarrowsep=\dimen265
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@max=\dimen266
 \pgf@sys@shading@range@num=\count310
 \pgf@shadingcount=\count311
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfexternal@startupbox=\box67
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+))) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfnodeparttextbox=\box68
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
 \pgf@nodesepstart=\dimen267
 \pgf@nodesepend=\dimen268
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
-)) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/tools/verbatim.sty
+)) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks40
 \verbatim@line=\toks41
 \verbatim@in@stream=\read3
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/environ/environ.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/environ/environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
 \tcb@titlebox=\box69
@@ -452,43 +452,43 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 \tcb@temp=\box74
 \tcb@temp=\box75
 \tcb@temp=\box76
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/natbib/natbib.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip65
 \bibsep=\skip66
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count315
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode not found.
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count316
@@ -496,15 +496,15 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 \@linkdim=\dimen269
 \Hy@linkcounter=\count317
 \Hy@pagecounter=\count318
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count319
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
 )
 Package hyperref Info: Option `unicode' set `true' on input line 4060.
@@ -516,15 +516,15 @@ Package hyperref Info: Backreferencing OFF on input line 4197.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4425.
 \c@Hy@tempcnt=\count320
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4763.
 \XeTeXLinkMargin=\dimen270
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count321
@@ -537,7 +537,7 @@ Package hyperref Info: backreferencing OFF on input line 6057.
 Package hyperref Info: Link coloring OFF on input line 6062.
 Package hyperref Info: Link coloring with OCG OFF on input line 6067.
 Package hyperref Info: PDF/A mode OFF on input line 6072.
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
@@ -546,9 +546,9 @@ package with kernel methods
 \c@Hfootnote=\count324
 )
 Package hyperref Info: Driver (autodetected): hxetex.
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hxetex.def
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hxetex.def
 File: hxetex.def 2023-02-07 v7.00v Hyperref driver for XeTeX
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/stringenc/stringenc.sty
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
 \pdfm@box=\box77
@@ -556,12 +556,12 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 \HyField@AnnotCount=\count326
 \Fld@listcount=\count327
 \c@bookmark@seq@number=\count328
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
-) (/Users/cmadland/Library/TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+) (/Users/jeff/Library/TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
@@ -575,169 +575,19 @@ LaTeX Warning: Label `session-link-link' multiply defined.
 LaTeX Warning: Label `session-link-link' multiply defined.
 
 
-LaTeX Warning: Label `join-us-for-the-otessa23-morning-radio-show-every-morning-monday-thursday-930-1030-eastern-at-httpsvoiced.ca' multiply defined.
-
-
 LaTeX Warning: Label `enabling-students-as-partners-open-textbooks-power-shifts-and-curriculum-transformation' multiply defined.
 
 
 LaTeX Warning: Label `session-link' multiply defined.
 
 
-LaTeX Warning: Label `abstract' multiply defined.
+LaTeX Warning: Label `session-speaker-tba' multiply defined.
 
 
-LaTeX Warning: Label `title' multiply defined.
+LaTeX Warning: Label `session-speaker-tba' multiply defined.
 
 
-LaTeX Warning: Label `title' multiply defined.
-
-
-LaTeX Warning: Label `join-us-for-the-otessa23-morning-radio-show-every-morning-monday-thursday-930-1030-eastern-at-httpsvoiced.ca' multiply defined.
-
-
-LaTeX Warning: Label `note' multiply defined.
-
-
-LaTeX Warning: Label `keynote' multiply defined.
-
-
-LaTeX Warning: Label `invited-speaker' multiply defined.
-
-
-LaTeX Warning: Label `regular-session' multiply defined.
-
-
-LaTeX Warning: Label `social-session' multiply defined.
-
-
-LaTeX Warning: Label `vendor' multiply defined.
-
-
-LaTeX Warning: Label `workshop' multiply defined.
-
-
-LaTeX Warning: Label `academic-integrity-in-the-age-of-artificial-intelligence' multiply defined.
-
-
-LaTeX Warning: Label `session-link' multiply defined.
-
-
-LaTeX Warning: Label `title' multiply defined.
-
-
-LaTeX Warning: Label `title' multiply defined.
-
-
-LaTeX Warning: Label `join-us-for-the-otessa23-morning-radio-show-every-morning-monday-thursday-930-1030-eastern-at-httpsvoiced.ca' multiply defined.
-
-
-LaTeX Warning: Label `note' multiply defined.
-
-
-LaTeX Warning: Label `keynote' multiply defined.
-
-
-LaTeX Warning: Label `invited-speaker' multiply defined.
-
-
-LaTeX Warning: Label `regular-session' multiply defined.
-
-
-LaTeX Warning: Label `social-session' multiply defined.
-
-
-LaTeX Warning: Label `vendor' multiply defined.
-
-
-LaTeX Warning: Label `workshop' multiply defined.
-
-
-LaTeX Warning: Label `title' multiply defined.
-
-
-LaTeX Warning: Label `title' multiply defined.
-
-
-LaTeX Warning: Label `join-us-for-the-otessa23-morning-radio-show-every-morning-monday-thursday-930-1030-eastern-at-httpsvoiced.ca' multiply defined.
-
-
-LaTeX Warning: Label `note' multiply defined.
-
-
-LaTeX Warning: Label `keynote' multiply defined.
-
-
-LaTeX Warning: Label `invited-speaker' multiply defined.
-
-
-LaTeX Warning: Label `regular-session' multiply defined.
-
-
-LaTeX Warning: Label `social-session' multiply defined.
-
-
-LaTeX Warning: Label `vendor' multiply defined.
-
-
-LaTeX Warning: Label `workshop' multiply defined.
-
-
-LaTeX Warning: Label `session-link' multiply defined.
-
-
-LaTeX Warning: Label `tba' multiply defined.
-
-
-LaTeX Warning: Label `tba' multiply defined.
-
-
-LaTeX Warning: Label `tba-research' multiply defined.
-
-
-LaTeX Warning: Label `join-us-for-the-otessa23-morning-radio-show-every-morning-monday-thursday-930-1030-eastern-at-httpsvoiced.ca' multiply defined.
-
-
-LaTeX Warning: Label `note' multiply defined.
-
-
-LaTeX Warning: Label `keynote' multiply defined.
-
-
-LaTeX Warning: Label `invited-speaker' multiply defined.
-
-
-LaTeX Warning: Label `regular-session' multiply defined.
-
-
-LaTeX Warning: Label `social-session' multiply defined.
-
-
-LaTeX Warning: Label `vendor' multiply defined.
-
-
-LaTeX Warning: Label `workshop' multiply defined.
-
-
-LaTeX Warning: Label `tba' multiply defined.
-
-
-LaTeX Warning: Label `session-link' multiply defined.
-
-
-LaTeX Warning: Label `tba-practice' multiply defined.
-
-
-LaTeX Warning: Label `tba-research' multiply defined.
-
-
-LaTeX Warning: Label `tba-research' multiply defined.
-
-
-LaTeX Warning: Label `tba' multiply defined.
-
-
-LaTeX Warning: Label `tba' multiply defined.
+LaTeX Warning: Label `session-speaker-tba' multiply defined.
 
 )
 \openout1 = `OTESSA23-Program.aux'.
@@ -1006,7 +856,7 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 6.0pt on input line 143.
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 143.
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
@@ -1022,11 +872,11 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 5.99936pt on input line 143.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 143.
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 143.
-(/Users/cmadland/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
+(/Users/jeff/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
@@ -1055,137 +905,2292 @@ Underfull \hbox (badness 1221) in paragraph at lines 17--17
  [][] []\TU/lmr/m/n/10 Conference Welcome, Announcements & Land Acknowledgement 
  []
 
-[3] [4])
+)
 \tf@toc=\write5
 \openout5 = `OTESSA23-Program.toc'.
 
+[3] [4
+
+]
+Missing character: There is no ✨ (U+2728) in font [lmroman10-regular]:mapping=tex-text;!
 [5] [6
 
-] [7] [8
+] [7] [8]
 
-] [9] [10]
+Package hyperref Warning: Suppressing link with empty target on input line 304.
 
-Package hyperref Warning: Suppressing link with empty target on input line 295.
-
-[11] [12
+[9] [10
 
 ]
 Chapter 1.
 Missing character: There is no ✨ (U+2728) in font [lmroman10-bold]:mapping=tex-text;!
-[13] [14] [15] [16]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[17]
-Underfull \vbox (badness 4036) has occurred while \output is active []
-
-[18]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[19] [20]
-Chapter 2.
-File: docs/assets/aditya-chinchure-3mlAZQuGgIQ-unsplash.jpg Graphic file (type bmp)
-<docs/assets/aditya-chinchure-3mlAZQuGgIQ-unsplash.jpg>
-[21
-
-] [22]
-Chapter 3.
-Missing character: There is no ✨ (U+2728) in font [lmroman10-bold]:mapping=tex-text;!
-[23
-
-] [24]
-Underfull \vbox (badness 2662) has occurred while \output is active []
-
-[25] [26] [27]
-Underfull \vbox (badness 2556) has occurred while \output is active []
-
-[28]
-Underfull \vbox (badness 3977) has occurred while \output is active []
-
-[29] [30]
-Chapter 4.
-Missing character: There is no ✨ (U+2728) in font [lmroman10-bold]:mapping=tex-text;!
-[31
-
-] [32]
-Underfull \hbox (badness 2020) in paragraph at lines 1606--1607
- []\TU/lmr/bx/n/10 9:30-10:30 | Four Perspectives of Learner-Educator Co-
+[11] [12] [13] [14] [15]
+Overfull \hbox (27.75pt too wide) in paragraph at lines 744--744
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{3:30-4:30 \textbar{} \textbf{The Slow Trend[] 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \hbox (426.75pt too wide) in paragraph at lines 746--746
+[]\TU/lmtt/m/n/10 Practice}{3:30-4:30 \textbar{} The Slow Trend Toward K-12 OER Sharing \textbar{} Practice}}\label{the-slow-trend-toward-k-12-oer-sharing-practice}}[] 
+ []
+
+[16]
+Overfull \hbox (22.5pt too wide) in paragraph at lines 747--747
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{3:30-4:30 \textbar{} \textbf{The Slow[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 750--750
+[]\TU/lmtt/m/n/10 \textbf{\emph{Connie Blomgren}} \textbar{} \emph{Athabasca University}[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 752--752
+[]\TU/lmtt/m/n/10 \textbf{\emph{Beth Cormier}} \textbar{} \emph{University of Lethbridge}[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 754--754
+[]\TU/lmtt/m/n/10 \textbf{\emph{Kathy Wise}} \textbar{} \emph{University of Calgary}[] 
+ []
+
+
+Overfull \hbox (201.0pt too wide) in paragraph at lines 762--762
+[]\TU/lmtt/m/n/10 \hypertarget{letting-go-of-holding-on-promoting-student-choice-in-a-post--pandemic-classroom-practice}{%[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 763--763
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{4:30-5:00 \textbar{} \textbf{Letting Go of[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 764--764
+[]\TU/lmtt/m/n/10 Holding On: Promoting Student Choice in a Post- Pandemic Classroom}[] 
+ []
+
+
+Overfull \hbox (862.5pt too wide) in paragraph at lines 766--766
+[]\TU/lmtt/m/n/10 Practice}{4:30-5:00 \textbar{} Letting Go of Holding On: Promoting Student Choice in a Post- Pandemic Classroom \textbar{} Practice}}\label{letting-go-of-holding-on-promoting-student-choice-in-a-post--pandemic-classroom-practice}}[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 767--767
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{4:30-5:00 \textbar{} \textbf{Letting Go[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 768--768
+[]\TU/lmtt/m/n/10 of Holding On: Promoting Student Choice in a Post- Pandemic Classroom}[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 782--782
+[]\TU/lmtt/m/n/10 \hypertarget{whiteboard-animation-for-dental-education-research}{%[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 783--783
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{3:30 - 4:30 \textbar{} \textbf{Whiteboard[] 
+ []
+
+
+Overfull \hbox (468.75pt too wide) in paragraph at lines 785--785
+[]\TU/lmtt/m/n/10 Research}{3:30 - 4:30 \textbar{} Whiteboard Animation for Dental Education \textbar{} Research}}\label{whiteboard-animation-for-dental-education-research}}[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 787--787
+[]\TU/lmtt/m/n/10 \textbf{Whiteboard Animation for Dental Education} \textbar{} Research}[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 789--789
+[]\TU/lmtt/m/n/10 \textbf{\emph{Nazlee Sharmin, Ava K Chow \& Mike Carbonaro}} \textbar{}[] 
+ []
+
+[17]
+Overfull \hbox (185.25pt too wide) in paragraph at lines 798--798
+[]\TU/lmtt/m/n/10 \hypertarget{in-class-gaming-to-improve-students-learning-experiences-in-dental-education-research}{%[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 799--799
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{4:30 - 5:00 \textbar{} \textbf{In-class[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 800--800
+[]\TU/lmtt/m/n/10 gaming to improve students' learning experiences in dental education}[] 
+ []
+
+
+Overfull \hbox (841.5pt too wide) in paragraph at lines 802--802
+[]\TU/lmtt/m/n/10 Research}{4:30 - 5:00 \textbar{} In-class gaming to improve students' learning experiences in dental education \textbar{} Research}}\label{in-class-gaming-to-improve-students-learning-experiences-in-dental-education-research}}[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 803--803
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{4:30 - 5:00 \textbar{} \textbf{In-class[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 804--804
+[]\TU/lmtt/m/n/10 gaming to improve students' learning experiences in dental education}[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 807--807
+[]\TU/lmtt/m/n/10 \textbf{\emph{Nazlee Sharmin \& Ava K Chow}} \textbar{} \emph{University[] 
+ []
+
+
+Overfull \hbox (48.75pt too wide) in paragraph at lines 815--815
+[]\TU/lmtt/m/n/10 ### Concurrent Session 3.4 |  Transitions of Online Learning & Teaching {-}[] 
+ []
+
+
+Overfull \hbox (327.0pt too wide) in paragraph at lines 818--818
+[]\TU/lmtt/m/n/10 \hypertarget{encadrer-des-uxe9tudiant.es-uxe0-distance-description-des-pratiques-de-nouveaux-professeure.s-in-french-research}{%[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 819--819
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{3:30 - 4:30 \textbar{} \textbf{Encadrer des[] 
+ []
+
+
+Overfull \hbox (1109.25pt too wide) in paragraph at lines 822--822
+[]\TU/lmtt/m/n/10 Research}{3:30 - 4:30 \textbar{} Encadrer des étudiant.es à distance : Description des pratiques de nouveaux professeure.s (in French) \textbar{} Research}}\label{encadrer-des-uxe9tudiant.es-uxe0-distance-description-des-pratiques-de-nouveaux-professeure.s-in-french-research}}[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 823--823
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{3:30 - 4:30 \textbar{} \textbf{Encadrer[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 824--824
+[]\TU/lmtt/m/n/10 des étudiant.es à distance : Description des pratiques de nouveaux[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 827--827
+[]\TU/lmtt/m/n/10 \textbf{\emph{Serge Gérin-Lajoie}} \textbar{} \emph{Université TÉLUQ}[] 
+ []
+
+
+Overfull \hbox (416.25pt too wide) in paragraph at lines 835--835
+[]\TU/lmtt/m/n/10 \hypertarget{face-to-face-online-or-something-in-between-student-perceptions-of-student-engagement-in-different-learning-environments-research}{%[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 836--836
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{4:30 - 5:00 \textbar{} \textbf{Face to Face,[] 
+ []
+
+[18]
+Overfull \hbox (1319.25pt too wide) in paragraph at lines 839--839
+[]\TU/lmtt/m/n/10 Research}{4:30 - 5:00 \textbar{} Face to Face, Online or Something in Between -- Student Perceptions of Student Engagement in Different Learning Environments \textbar{} Research}}\label{face-to-face-online-or-something-in-between-student-perceptions-of-student-engagement-in-different-learning-environments-research}}[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 840--840
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{4:30 - 5:00 \textbar{} \textbf{Face to[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 841--841
+[]\TU/lmtt/m/n/10 Face, Online or Something in Between -- Student Perceptions of Student[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 842--842
+[]\TU/lmtt/m/n/10 Engagement in Different Learning Environments} \textbar{} Research}[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 844--844
+[]\TU/lmtt/m/n/10 \textbf{\emph{Hongran Cui, Michelle Harrison \& Victoria Handford}}[] 
+ []
+
+
+Overfull \hbox (327.0pt too wide) in paragraph at lines 855--855
+[]\TU/lmtt/m/n/10 \hypertarget{becoming-oe-librarians-in-ukraine-during-wartime-taking-down-language-barriers-and-practising-inclusion-practice}{%[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 856--856
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{3:30 - 4:30 \textbar{} \textbf{Be(com)ing OE[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 857--857
+[]\TU/lmtt/m/n/10 Librarians in Ukraine During Wartime: Taking Down Language Barriers and[] 
+ []
+
+
+Overfull \hbox (1135.5pt too wide) in paragraph at lines 859--859
+[]\TU/lmtt/m/n/10 Practice}{3:30 - 4:30 \textbar{} Be(com)ing OE Librarians in Ukraine During Wartime: Taking Down Language Barriers and Practising Inclusion \textbar{} Practice}}\label{becoming-oe-librarians-in-ukraine-during-wartime-taking-down-language-barriers-and-practising-inclusion-practice}}[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 861--861
+[]\TU/lmtt/m/n/10 \textbf{Be(com)ing OE Librarians in Ukraine During Wartime: Taking Down[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 866--866
+[]\TU/lmtt/m/n/10 \textbf{\emph{Tetiana Kolesnykova}} \textbar{} \emph{Ukrainian State[] 
+ []
+
+
+Overfull \hbox (348.0pt too wide) in paragraph at lines 878--878
+[]\TU/lmtt/m/n/10 \hypertarget{the-role-of-academic-libraries-in-fostering-of-algorithmic-literacy-in-canadian-universities-a-metaliterate-research}{%[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 879--879
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{4:30 - 5:00 \textbar{} \textbf{The Role of[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 880--880
+[]\TU/lmtt/m/n/10 Academic Libraries in Fostering of Algorithmic Literacy in Canadian[] 
+ []
+
+
+Overfull \hbox (1167.0pt too wide) in paragraph at lines 882--882
+[]\TU/lmtt/m/n/10 Research}{4:30 - 5:00 \textbar{} The Role of Academic Libraries in Fostering of Algorithmic Literacy in Canadian Universities: A Metaliterate \textbar{} Research}}\label{the-role-of-academic-libraries-in-fostering-of-algorithmic-literacy-in-canadian-universities-a-metaliterate-research}}[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 883--883
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{4:30 - 5:00 \textbar{} \textbf{The Role[] 
+ []
+
+[19]
+Overfull \hbox (22.5pt too wide) in paragraph at lines 884--884
+[]\TU/lmtt/m/n/10 of Academic Libraries in Fostering of Algorithmic Literacy in Canadian[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 887--887
+[]\TU/lmtt/m/n/10 \textbf{\emph{Marta Samokishyn}} \textbar{} \emph{Saint Paul University}[] 
+ []
+
+
+Overfull \hbox (59.25pt too wide) in paragraph at lines 924--924
+[]\TU/lmtt/m/n/10 For those heading to York University, we wish you safe travels! See you soon![] 
+ []
+
+
+Overfull \hbox (279.75pt too wide) in paragraph at lines 926--926
+[]\TU/lmtt/m/n/10 ![Image of cars travelling on a mountain highway beside a lake.](docs/assets/aditya-chinchure-3mlAZQuGgIQ-unsplash.jpg)[] 
+ []
+
+
+Overfull \hbox (1109.25pt too wide) in paragraph at lines 928--928
+[]\TU/lmtt/m/n/10 Photo by <a href="https://unsplash.com/@adityachinchure?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Aditya Chinchure</a> on <a href="https://unsplash.com/photos/3mlAZQuGgIQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>[] 
+ []
+
+[20]
+Overfull \hbox (306.0pt too wide) in paragraph at lines 936--936
+[]\TU/lmtt/m/n/10 \hypertarget{join-us-for-the-otessa23-morning-radio-show-every-morning-monday-thursday-930-1030-eastern-at-httpsvoiced.ca}{%[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 937--937
+[]\TU/lmtt/m/n/10 \paragraph{Join us for the \#OTESSA23 Morning Radio Show every morning[] 
+ []
+
+
+Overfull \hbox (363.75pt too wide) in paragraph at lines 939--939
+[]\TU/lmtt/m/n/10 https://voiced.ca}\label{join-us-for-the-otessa23-morning-radio-show-every-morning-monday-thursday-930-1030-eastern-at-httpsvoiced.ca}}[] 
+ []
+
+Missing character: There is no ✨ (U+2728) in font [lmmono10-regular]:!
+Missing character: There is no ✨ (U+2728) in font [lmmono10-regular]:!
+[21]
+Overfull \hbox (48.75pt too wide) in paragraph at lines 986--986
+[]\TU/lmtt/m/n/10 ## Conference Welcome, Announcements & Land Acknowledgement | 9:00-9:15 {-}[] 
+ []
+
+
+Overfull \hbox (316.5pt too wide) in paragraph at lines 995--995
+[]\TU/lmtt/m/n/10 \hypertarget{cultivating-essential-leadership-skills-for-digital-transformation-in-ontario-postsecondary-education-practice}{%[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 996--996
+[]\TU/lmtt/m/n/10 \paragraph{\texorpdfstring{9:30 - 10:30 \textbar{} \textbf{Cultivating[] 
+ []
+
+
+Overfull \hbox (1104.0pt too wide) in paragraph at lines 999--999
+[]\TU/lmtt/m/n/10 Practice}{9:30 - 10:30 \textbar{} Cultivating Essential Leadership Skills for Digital Transformation in Ontario Postsecondary Education \textbar{} Practice}}\label{cultivating-essential-leadership-skills-for-digital-transformation-in-ontario-postsecondary-education-practice}}[] 
+ []
+
+
+Overfull \hbox (159.0pt too wide) in paragraph at lines 1015--1015
+[]\TU/lmtt/m/n/10 \hypertarget{ascending-the-mountain-examining-national-open-educational-resource-oer-practice}{%[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 1016--1016
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{9:30 - 10:30 \textbar{} \textbf{Ascending[] 
+ []
+
+
+Overfull \hbox (804.75pt too wide) in paragraph at lines 1019--1019
+[]\TU/lmtt/m/n/10 Practice}{9:30 - 10:30 \textbar{} Ascending the Mountain: Examining National Open Educational Resource (OER) \textbar{} Practice}}\label{ascending-the-mountain-examining-national-open-educational-resource-oer-practice}}[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 1021--1021
+[]\TU/lmtt/m/n/10 \textbf{Ascending the Mountain: Examining National Open Educational[] 
+ []
+
+[22]
+Overfull \hbox (27.75pt too wide) in paragraph at lines 1024--1024
+[]\TU/lmtt/m/n/10 \textbf{\emph{Michael McNally}} \textbar{} \emph{University of Alberta}[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 1029--1029
+[]\TU/lmtt/m/n/10 \textbf{\emph{Ann Ludbrook}} \textbar{} \emph{Toronto Metropolitan[] 
+ []
+
+
+Overfull \hbox (279.75pt too wide) in paragraph at lines 1040--1040
+[]\TU/lmtt/m/n/10 \hypertarget{mythical-beast-panacea-or-breaking-news-open-education-policy-in-higher-education-institutions-research}{%[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1041--1041
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{9:30 - 10:00 \textbar{} \textbf{Mythical[] 
+ []
+
+
+Overfull \hbox (1041.0pt too wide) in paragraph at lines 1044--1044
+[]\TU/lmtt/m/n/10 Research}{9:30 - 10:00 \textbar{} Mythical Beast, Panacea or Breaking News: Open Education Policy in Higher Education Institutions \textbar{} Research}}\label{mythical-beast-panacea-or-breaking-news-open-education-policy-in-higher-education-institutions-research}}[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 1046--1046
+[]\TU/lmtt/m/n/10 \textbf{Mythical Beast, Panacea or Breaking News: Open Education Policy[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 1049--1049
+[]\TU/lmtt/m/n/10 \textbf{\emph{Leo Havemann}} \textbar{} \emph{University College London[] 
+ []
+
+
+Overfull \hbox (201.0pt too wide) in paragraph at lines 1058--1058
+[]\TU/lmtt/m/n/10 \hypertarget{mywatershed-a-serious-game-for-fostering-sustainability-champions-of-the-future-research}{%[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 1059--1059
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{10:00-10:30 \textbar{} \textbf{myWATERSHED:[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1060--1060
+[]\TU/lmtt/m/n/10 A Serious Game for Fostering Sustainability Champions of the Future}[] 
+ []
+
+
+Overfull \hbox (873.0pt too wide) in paragraph at lines 1062--1062
+[]\TU/lmtt/m/n/10 Research}{10:00-10:30 \textbar{} myWATERSHED: A Serious Game for Fostering Sustainability Champions of the Future \textbar{} Research}}\label{mywatershed-a-serious-game-for-fostering-sustainability-champions-of-the-future-research}}[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 1067--1067
+[]\TU/lmtt/m/n/10 \textbf{\emph{Isabelle Barrette-Ng}} \textbar{} \emph{University of[] 
+ []
+
+[23]
+Overfull \hbox (48.75pt too wide) in paragraph at lines 1077--1077
+[]\TU/lmtt/m/n/10 ### Concurrent Session 5.4 |  Transitions of Online Learning & Teaching {-}[] 
+ []
+
+
+Overfull \hbox (201.0pt too wide) in paragraph at lines 1080--1080
+[]\TU/lmtt/m/n/10 \hypertarget{early-findings-on-an-experiment-in-distance-education-with-high-school-students-research}{%[] 
+ []
+
+
+Overfull \hbox (873.0pt too wide) in paragraph at lines 1084--1084
+[]\TU/lmtt/m/n/10 Research}{9:30 - 10:00 \textbar{} Early Findings on an Experiment in Distance Education with High School Students \textbar{} Research}}\label{early-findings-on-an-experiment-in-distance-education-with-high-school-students-research}}[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 1085--1085
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{9:30 - 10:00 \textbar{} \textbf{Early[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 1092--1092
+[]\TU/lmtt/m/n/10 \textbf{\emph{Serge Gérin-Lajoie}} \textbar{} \emph{Université TÉLUQ}[] 
+ []
+
+
+Overfull \hbox (122.25pt too wide) in paragraph at lines 1103--1103
+[]\TU/lmtt/m/n/10 \hypertarget{over-the-threshold-graduate-student-needs-in-academic-publishing-research}{%[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 1104--1104
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{10:00-10:30 \textbar{} \textbf{Over the[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1105--1105
+[]\TU/lmtt/m/n/10 Threshold: Graduate Student Needs in Academic Publishing} \textbar{}[] 
+ []
+
+
+Overfull \hbox (715.5pt too wide) in paragraph at lines 1106--1106
+[]\TU/lmtt/m/n/10 Research}{10:00-10:30 \textbar{} Over the Threshold: Graduate Student Needs in Academic Publishing \textbar{} Research}}\label{over-the-threshold-graduate-student-needs-in-academic-publishing-research}}[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 1107--1107
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{10:00-10:30 \textbar{} \textbf{Over the[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1108--1108
+[]\TU/lmtt/m/n/10 Threshold: Graduate Student Needs in Academic Publishing} \textbar{}[] 
+ []
+
+[24]
+Overfull \hbox (33.0pt too wide) in paragraph at lines 1117--1117
+[]\TU/lmtt/m/n/10 \textbf{\emph{Jennifer Lee, James Murphy \& Caitlin McClurg}} \textbar{}[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 1128--1128
+[]\TU/lmtt/m/n/10 \hypertarget{academic-integrity-in-the-age-of-artificial-intelligence}{%[] 
+ []
+
+
+Overfull \hbox (64.5pt too wide) in paragraph at lines 1130--1130
+[]\TU/lmtt/m/n/10 Intelligence}\label{academic-integrity-in-the-age-of-artificial-intelligence}}[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 1138--1138
+[]\TU/lmtt/m/n/10 How worried do we need to be that students are going to cheat more[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 1140--1140
+[]\TU/lmtt/m/n/10 artificial intelligence (AI) writing app constitute plagiarism? How can[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 1141--1141
+[]\TU/lmtt/m/n/10 artificial intelligence be used ethically for teaching, learning, and[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1142--1142
+[]\TU/lmtt/m/n/10 assessment? Will a robot take my job? These questions have dominated[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 1143--1143
+[]\TU/lmtt/m/n/10 teaching and learning circles and social media since late 2022 when[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 1144--1144
+[]\TU/lmtt/m/n/10 ChatGPT emerged. In this Keynote, Sarah provides insights into how AI[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 1145--1145
+[]\TU/lmtt/m/n/10 tools are impacting higher education. She will share insights from[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 1146--1146
+[]\TU/lmtt/m/n/10 recent research project at the University of Calgary that explores the[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 1147--1147
+[]\TU/lmtt/m/n/10 question: What are the ethical implications of artificial intelligence[] 
+ []
+
+[25]
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1197--1197
+[]\TU/lmtt/m/n/10 \hypertarget{the-impact-of-social-annotation-on-learning-research}{%[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 1198--1198
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{The Impact of[] 
+ []
+
+
+Overfull \hbox (479.25pt too wide) in paragraph at lines 1200--1200
+[]\TU/lmtt/m/n/10 Research}{2:30-3:00 \textbar{} The Impact of Social Annotation on Learning \textbar{} Research}}\label{the-impact-of-social-annotation-on-learning-research}}[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 1201--1201
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{The Impact[] 
+ []
+
+[26]
+Overfull \hbox (447.75pt too wide) in paragraph at lines 1216--1216
+[]\TU/lmtt/m/n/10 \hypertarget{what-uses-of-digital-technology-support-and-enhance-the-learning-and-the-engagement-of-diverse-learners-in-high-school-classes-research}{%[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 1217--1217
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{What Uses of[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 1218--1218
+[]\TU/lmtt/m/n/10 Digital Technology Support and Enhance the Learning and the Engagement[] 
+ []
+
+
+Overfull \hbox (1356.0pt too wide) in paragraph at lines 1220--1220
+[]\TU/lmtt/m/n/10 Research}{2:30-3:00 \textbar{} What Uses of Digital Technology Support and Enhance the Learning and the Engagement of Diverse Learners in High School Classes? \textbar{} Research}}\label{what-uses-of-digital-technology-support-and-enhance-the-learning-and-the-engagement-of-diverse-learners-in-high-school-classes-research}}[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 1221--1221
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{What Uses[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 1223--1223
+[]\TU/lmtt/m/n/10 Engagement of Diverse Learners in High School Classes?} \textbar{}[] 
+ []
+
+
+Overfull \hbox (358.5pt too wide) in paragraph at lines 1237--1237
+[]\TU/lmtt/m/n/10 \hypertarget{personal-institutional-and-societal-barriers-to-educators-engagement-with-datafication-on-campus-a-case-study-research}{%[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 1238--1238
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{Personal,[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 1239--1239
+[]\TU/lmtt/m/n/10 Institutional, and Societal Barriers to Educators' Engagement with[] 
+ []
+
+
+Overfull \hbox (1193.25pt too wide) in paragraph at lines 1241--1241
+[]\TU/lmtt/m/n/10 Research}{2:30-3:00 \textbar{} Personal, Institutional, and Societal Barriers to Educators' Engagement with Datafication on Campus: A Case Study \textbar{} Research}}\label{personal-institutional-and-societal-barriers-to-educators-engagement-with-datafication-on-campus-a-case-study-research}}[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 1242--1242
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{Personal,[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 1243--1243
+[]\TU/lmtt/m/n/10 Institutional, and Societal Barriers to Educators' Engagement with[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 1246--1246
+[]\TU/lmtt/m/n/10 \textbf{\emph{Bonnie Stewart, Erica Miklas, Samantha Szcyrek \& Thu Le}}[] 
+ []
+
+[27]
+Overfull \hbox (201.0pt too wide) in paragraph at lines 1261--1261
+[]\TU/lmtt/m/n/10 \hypertarget{the-wikidata-lexicographical-data-from-recording-of-words-to-lexemes-and-beyond-workshop}{%[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 1262--1262
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{3:30-5:00 \textbar{} \textbf{The Wikidata[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1263--1263
+[]\TU/lmtt/m/n/10 Lexicographical Data: From Recording of Words to Lexemes and Beyond}[] 
+ []
+
+
+Overfull \hbox (862.5pt too wide) in paragraph at lines 1265--1265
+[]\TU/lmtt/m/n/10 Workshop}{3:30-5:00 \textbar{} The Wikidata Lexicographical Data: From Recording of Words to Lexemes and Beyond \textbar{} Workshop}}\label{the-wikidata-lexicographical-data-from-recording-of-words-to-lexemes-and-beyond-workshop}}[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 1267--1267
+[]\TU/lmtt/m/n/10 Wikidata Lexicographical Data: From Recording of Words to Lexemes and[] 
+ []
+
+
+Overfull \hbox (374.25pt too wide) in paragraph at lines 1279--1279
+[]\TU/lmtt/m/n/10 \hypertarget{practitioner-values-in-the-transition-to-open-education-resources-moving-through-disruption-to-improved-practice-practice}{%[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 1280--1280
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{3:30-4:30 \textbar{} \textbf{Practitioner[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1281--1281
+[]\TU/lmtt/m/n/10 Values in the Transition to Open Education Resources: Moving Through[] 
+ []
+
+
+Overfull \hbox (1209.0pt too wide) in paragraph at lines 1283--1283
+[]\TU/lmtt/m/n/10 Practice}{3:30-4:30 \textbar{} Practitioner Values in the Transition to Open Education Resources: Moving Through Disruption to Improved Practice \textbar{} Practice}}\label{practitioner-values-in-the-transition-to-open-education-resources-moving-through-disruption-to-improved-practice-practice}}[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 1286--1286
+[]\TU/lmtt/m/n/10 Resources: Moving Through Disruption to Improved Practice} \textbar{}[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 1289--1289
+[]\TU/lmtt/m/n/10 \textbf{\emph{Trista Hill}} \textbar{} \emph{Athabasca University}[] 
+ []
+
+[28]
+Overfull \hbox (232.5pt too wide) in paragraph at lines 1299--1299
+[]\TU/lmtt/m/n/10 \hypertarget{showcasing-a-student-led-anti-racism-virtual-simulation-module-for-equitable-learning-practice}{%[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 1300--1300
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{4:30-5:00 \textbar{} \textbf{Showcasing a[] 
+ []
+
+
+Overfull \hbox (920.25pt too wide) in paragraph at lines 1303--1303
+[]\TU/lmtt/m/n/10 Practice}{4:30-5:00 \textbar{} Showcasing a Student-Led Anti-Racism Virtual Simulation Module for Equitable Learning \textbar{} Practice}}\label{showcasing-a-student-led-anti-racism-virtual-simulation-module-for-equitable-learning-practice}}[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 1304--1304
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{4:30-5:00 \textbar{} \textbf{Showcasing[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 1308--1308
+[]\TU/lmtt/m/n/10 \textbf{\emph{Mujeedat Lekuti, HanShu Pu, Rishika Gowda, Zainab Baig,[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 1309--1309
+[]\TU/lmtt/m/n/10 Javeria Baig, Alexandra Lawrynuik}} \textbar{} \emph{Queen's University[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 1314--1314
+[]\TU/lmtt/m/n/10 \textbf{\emph{Marian Luctkar-Flude}} \textbar{} \emph{Queen's University[] 
+ []
+
+
+Overfull \hbox (636.75pt too wide) in paragraph at lines 1325--1325
+[]\TU/lmtt/m/n/10 \hypertarget{designing-agile-skill-development-pathways-for-climate-adaptation-leveraging-open-competency-frameworks-and-open-educational-resources-to-develop-micro-credential-practice}{%[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 1326--1326
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{3:30-4:30 \textbar{} \textbf{Designing Agile[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 1327--1327
+[]\TU/lmtt/m/n/10 Skill Development Pathways for Climate Adaptation: Leveraging Open[] 
+ []
+
+
+Overfull \hbox (1734.0pt too wide) in paragraph at lines 1330--1330
+[]\TU/lmtt/m/n/10 Practice}{3:30-4:30 \textbar{} Designing Agile Skill Development Pathways for Climate Adaptation: Leveraging Open Competency Frameworks and Open Educational Resources to Develop Micro-credential \textbar{} Practice}}\label{designing-agile-skill-development-pathways-for-climate-adaptation-leveraging-open-competency-frameworks-and-open-educational-resources-to-develop-micro-credential-practice}}[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 1331--1331
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{3:30-4:30 \textbar{} \textbf{Designing[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 1332--1332
+[]\TU/lmtt/m/n/10 Agile Skill Development Pathways for Climate Adaptation: Leveraging Open[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1338--1338
+[]\TU/lmtt/m/n/10 \textbf{\emph{Robin S Cox}} \textbar{} \emph{Royal Roads University}[] 
+ []
+
+[29]
+Overfull \hbox (17.25pt too wide) in paragraph at lines 1347--1347
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{4:30-5:00 \textbar{} \textbf{An e-Book of[] 
+ []
+
+
+Overfull \hbox (253.5pt too wide) in paragraph at lines 1349--1349
+[]\TU/lmtt/m/n/10 Practice}{4:30-5:00 \textbar{} An e-Book of One's Own \textbar{} Practice}}\label{an-e-book-of-ones-own-practice}}[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 1350--1350
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{4:30-5:00 \textbar{} \textbf{An e-Book[] 
+ []
+
+
+Overfull \hbox (48.75pt too wide) in paragraph at lines 1360--1360
+[]\TU/lmtt/m/n/10 ### Concurrent Session 8.4 |  Transitions of Online Learning & Teaching {-}[] 
+ []
+
+
+Overfull \hbox (174.75pt too wide) in paragraph at lines 1363--1363
+[]\TU/lmtt/m/n/10 \hypertarget{intentionality-community-and-well-being-re-imagining-blended-course-design-practice}{%[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 1364--1364
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{3:30-4:30 \textbar{} \textbf{Intentionality,[] 
+ []
+
+
+Overfull \hbox (820.5pt too wide) in paragraph at lines 1367--1367
+[]\TU/lmtt/m/n/10 Practice}{3:30-4:30 \textbar{} Intentionality, Community, and Well-being: Re-imagining Blended Course Design \textbar{} Practice}}\label{intentionality-community-and-well-being-re-imagining-blended-course-design-practice}}[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 1369--1369
+[]\TU/lmtt/m/n/10 \textbf{Intentionality, Community, and Well-being: Re-imagining Blended[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 1372--1372
+[]\TU/lmtt/m/n/10 \textbf{\emph{Brian Lorraine}} \textbar{} \emph{Simon Fraser University}[] 
+ []
+
+
+Overfull \hbox (300.75pt too wide) in paragraph at lines 1380--1380
+[]\TU/lmtt/m/n/10 \hypertarget{lapprentissage-en-ligne-au-quuxe9bec-ruxe9sultats-de-lenquuxeate-annuelle-2022-de-lacrfl-in-french-practice}{%[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 1381--1381
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{4:30-5:00 \textbar{} \textbf{L'apprentissage[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 1382--1382
+[]\TU/lmtt/m/n/10 en ligne au Québec : résultats de l'enquête annuelle 2022 de l'ACRFL (in[] 
+ []
+
+
+Overfull \hbox (1046.25pt too wide) in paragraph at lines 1384--1384
+[]\TU/lmtt/m/n/10 Practice}{4:30-5:00 \textbar{} L'apprentissage en ligne au Québec : résultats de l'enquête annuelle 2022 de l'ACRFL (in French) \textbar{} Practice}}\label{lapprentissage-en-ligne-au-quuxe9bec-ruxe9sultats-de-lenquuxeate-annuelle-2022-de-lacrfl-in-french-practice}}[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 1386--1386
+[]\TU/lmtt/m/n/10 \textbf{L'apprentissage en ligne au Québec : résultats de l'enquête[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 1389--1389
+[]\TU/lmtt/m/n/10 *** Bruno Poellhuber \& Simon Parent*** \textbar{} \emph{Université de[] 
+ []
+
+[30]
+Overfull \hbox (180.0pt too wide) in paragraph at lines 1411--1411
+[]\TU/lmtt/m/n/10 \hypertarget{join-us-for-the-otessa23-morning-radio-show-every-morning-time-tba-at-httpsvoiced.ca}{%[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 1412--1412
+[]\TU/lmtt/m/n/10 \paragraph{Join us for the \#OTESSA23 Morning Radio Show every morning[] 
+ []
+
+
+Overfull \hbox (237.75pt too wide) in paragraph at lines 1414--1414
+[]\TU/lmtt/m/n/10 https://voiced.ca}\label{join-us-for-the-otessa23-morning-radio-show-every-morning-time-tba-at-httpsvoiced.ca}}[] 
+ []
+
+Missing character: There is no ✨ (U+2728) in font [lmmono10-regular]:!
+Missing character: There is no ✨ (U+2728) in font [lmmono10-regular]:!
+[31]
+Overfull \hbox (48.75pt too wide) in paragraph at lines 1460--1460
+[]\TU/lmtt/m/n/10 ## Conference Welcome, Announcements & Land Acknowledgement | 9:00-9:15 {-}[] 
+ []
+
+
+Overfull \hbox (48.75pt too wide) in paragraph at lines 1467--1467
+[]\TU/lmtt/m/n/10 ### Concurrent Session 9.1 |  Transitions of Online Learning & Teaching {-}[] 
+ []
+
+
+Overfull \hbox (132.75pt too wide) in paragraph at lines 1470--1470
+[]\TU/lmtt/m/n/10 \hypertarget{developing-open-education-literacies-in-teacher-education-programs-research}{%[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1471--1471
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{9:30-10:00 \textbar{} \textbf{Developing[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 1472--1472
+[]\TU/lmtt/m/n/10 Open Education Literacies in Teacher Education Programs} \textbar{}[] 
+ []
+
+
+Overfull \hbox (726.0pt too wide) in paragraph at lines 1473--1473
+[]\TU/lmtt/m/n/10 Research}{9:30-10:00 \textbar{} Developing Open Education Literacies in Teacher Education Programs \textbar{} Research}}\label{developing-open-education-literacies-in-teacher-education-programs-research}}[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 1478--1478
+[]\TU/lmtt/m/n/10 \textbf{\emph{Michael Paskevicius}} \textbar{} \emph{University of[] 
+ []
+
+[32]
+Overfull \hbox (232.5pt too wide) in paragraph at lines 1487--1487
+[]\TU/lmtt/m/n/10 \hypertarget{technological-distance-a-new-way-of-conceptualizing-the-distance-in-distance-learning-research}{%[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 1488--1488
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{10:00-10:30 \textbar{} \textbf{Technological[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 1489--1489
+[]\TU/lmtt/m/n/10 Distance: A New Way of Conceptualizing the ``Distance'' in Distance[] 
+ []
+
+
+Overfull \hbox (957.0pt too wide) in paragraph at lines 1491--1491
+[]\TU/lmtt/m/n/10 Research}{10:00-10:30 \textbar{} Technological Distance: A New Way of Conceptualizing the ``Distance'' in Distance Learning \textbar{} Research}}\label{technological-distance-a-new-way-of-conceptualizing-the-distance-in-distance-learning-research}}[] 
+ []
+
+
+Overfull \hbox (48.75pt too wide) in paragraph at lines 1503--1503
+[]\TU/lmtt/m/n/10 ### Concurrent Session 9.2 |  Transitions of Online Learning & Teaching {-}[] 
+ []
+
+
+Overfull \hbox (300.75pt too wide) in paragraph at lines 1507--1507
+[]\TU/lmtt/m/n/10 \hypertarget{belonging-relatedness-connectedness-or-social-presence-overlaps-and-differences-in-online-learning-research}{%[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1508--1508
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{9:30-10:00 \textbar{} \textbf{Belonging,[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 1509--1509
+[]\TU/lmtt/m/n/10 Relatedness, Connectedness, or Social Presence? Overlaps and Differences[] 
+ []
+
+
+Overfull \hbox (1083.0pt too wide) in paragraph at lines 1511--1511
+[]\TU/lmtt/m/n/10 Research}{9:30-10:00 \textbar{} Belonging, Relatedness, Connectedness, or Social Presence? Overlaps and Differences in Online Learning \textbar{} Research}}\label{belonging-relatedness-connectedness-or-social-presence-overlaps-and-differences-in-online-learning-research}}[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 1513--1513
+[]\TU/lmtt/m/n/10 \textbf{Belonging, Relatedness, Connectedness, or Social Presence?[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1516--1516
+[]\TU/lmtt/m/n/10 \textbf{\emph{Behnoosh Khoramrooz, Mariel Miller \& Valerie Irvine}}[] 
+ []
+
+
+Overfull \hbox (106.5pt too wide) in paragraph at lines 1525--1525
+[]\TU/lmtt/m/n/10 \hypertarget{hybrid-learning-in-ontario-during-covid-19-emergency-closures-research}{%[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 1527--1527
+[]\TU/lmtt/m/n/10 Learning in Ontario During COVID-19 Emergency Closures} \textbar{}[] 
+ []
 
 [33]
-Missing character: There is no ✨ (U+2728) in font [lmroman10-regular]:mapping=tex-text;!
-[34] [35] [36]
-Chapter 5.
-Missing character: There is no ✨ (U+2728) in font [lmroman10-bold]:mapping=tex-text;!
-[37
+Overfull \hbox (678.75pt too wide) in paragraph at lines 1528--1528
+[]\TU/lmtt/m/n/10 Research}{10:00-10:30 \textbar{} Hybrid Learning in Ontario During COVID-19 Emergency Closures \textbar{} Research}}\label{hybrid-learning-in-ontario-during-covid-19-emergency-closures-research}}[] 
+ []
 
-]
-Overfull \hbox (15.90453pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 38 \TU/lmr/m/sl/10 CHAPTER 5.  WEDNESDAY, MAY 31 | IN PERSON AT YORK UNIVERSITY
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 1529--1529
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{10:00-10:30 \textbar{} \textbf{Hybrid[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 1530--1530
+[]\TU/lmtt/m/n/10 Learning in Ontario During COVID-19 Emergency Closures} \textbar{}[] 
+ []
+
+
+Overfull \hbox (537.0pt too wide) in paragraph at lines 1543--1543
+[]\TU/lmtt/m/n/10 \hypertarget{writing-care-fully-about-indigenous-cultural-safety-and-cultural-humility-a-reflection-by-settlers-engaged-in-reconciliation-in-oer-development-practice}{%[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1545--1545
+[]\TU/lmtt/m/n/10 Care-fully about Indigenous Cultural Safety and Cultural Humility: A[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1546--1546
+[]\TU/lmtt/m/n/10 Reflection by Settlers Engaged in Reconciliation in OER Development}[] 
+ []
+
+
+Overfull \hbox (1539.75pt too wide) in paragraph at lines 1548--1548
+[]\TU/lmtt/m/n/10 Practice}{9:30-10:00 \textbar{} Writing Care-fully about Indigenous Cultural Safety and Cultural Humility: A Reflection by Settlers Engaged in Reconciliation in OER Development \textbar{} Practice}}\label{writing-care-fully-about-indigenous-cultural-safety-and-cultural-humility-a-reflection-by-settlers-engaged-in-reconciliation-in-oer-development-practice}}[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 1549--1549
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{9:30-10:00 \textbar{} \textbf{Writing[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1550--1550
+[]\TU/lmtt/m/n/10 Care-fully about Indigenous Cultural Safety and Cultural Humility: A[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1551--1551
+[]\TU/lmtt/m/n/10 Reflection by Settlers Engaged in Reconciliation in OER Development}[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 1554--1554
+[]\TU/lmtt/m/n/10 \textbf{\emph{Deb Nielsen}} \textbar{} \emph{College of New Caledonia}[] 
+ []
+
+
+Overfull \hbox (279.75pt too wide) in paragraph at lines 1561--1561
+[]\TU/lmtt/m/n/10 \hypertarget{artificial-intelligence-writing-in-higher-education-a-teaching-and-learning-centre-perspective-practice}{%[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 1562--1562
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{10:00-10:30 \textbar{} \textbf{Artificial[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 1563--1563
+[]\TU/lmtt/m/n/10 Intelligence Writing in Higher Education: A Teaching and Learning Centre[] 
+ []
+
+
+Overfull \hbox (1030.5pt too wide) in paragraph at lines 1565--1565
+[]\TU/lmtt/m/n/10 Practice}{10:00-10:30 \textbar{} Artificial Intelligence Writing in Higher Education: A Teaching and Learning Centre Perspective \textbar{} Practice}}\label{artificial-intelligence-writing-in-higher-education-a-teaching-and-learning-centre-perspective-practice}}[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 1567--1567
+[]\TU/lmtt/m/n/10 \textbf{Artificial Intelligence Writing in Higher Education: A Teaching[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 1570--1570
+[]\TU/lmtt/m/n/10 \textbf{\emph{Emily Ballantyne}} \textbar{} \emph{Mount Saint Vincent[] 
+ []
+
+[34]
+Missing character: There is no ✨ (U+2728) in font [lmmono10-regular]:!
+[35]
+Overfull \hbox (54.0pt too wide) in paragraph at lines 1623--1623
+[]\TU/lmtt/m/n/10 ### Concurrent Session 11.1 |  Transitions of Online Learning & Teaching {-}[] 
+ []
+
+
+Overfull \hbox (306.0pt too wide) in paragraph at lines 1626--1626
+[]\TU/lmtt/m/n/10 \hypertarget{conducting-scoping-reviews-opportunities-and-challenges-for-examining-social-media-use-for-learning-research}{%[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 1627--1627
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{Conducting[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 1628--1628
+[]\TU/lmtt/m/n/10 Scoping Reviews: Opportunities and Challenges for Examining Social Media[] 
+ []
+
+
+Overfull \hbox (1072.5pt too wide) in paragraph at lines 1630--1630
+[]\TU/lmtt/m/n/10 Research}{2:30-3:00 \textbar{} Conducting Scoping Reviews: Opportunities and Challenges for Examining Social Media Use for Learning \textbar{} Research}}\label{conducting-scoping-reviews-opportunities-and-challenges-for-examining-social-media-use-for-learning-research}}[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 1631--1631
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{Conducting[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 1632--1632
+[]\TU/lmtt/m/n/10 Scoping Reviews: Opportunities and Challenges for Examining Social Media[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 1635--1635
+[]\TU/lmtt/m/n/10 \textbf{\emph{Richard Hayman \& Erika E. Smith}} \textbar{} \emph{Mount[] 
+ []
+
+
+Overfull \hbox (54.0pt too wide) in paragraph at lines 1645--1645
+[]\TU/lmtt/m/n/10 ### Concurrent Session 11.2 |  Transitions of Online Learning & Teaching {-}[] 
+ []
+
+
+Overfull \hbox (253.5pt too wide) in paragraph at lines 1648--1648
+[]\TU/lmtt/m/n/10 \hypertarget{impact-of-emergency-remote-teaching-and-digital-technology-usage-in-k-12-teacher-practice-research}{%[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 1649--1649
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{Impact of[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 1650--1650
+[]\TU/lmtt/m/n/10 Emergency Remote Teaching and Digital Technology Usage in K-12 Teacher[] 
+ []
+
+
+Overfull \hbox (962.25pt too wide) in paragraph at lines 1652--1652
+[]\TU/lmtt/m/n/10 Research}{2:30-3:00 \textbar{} Impact of Emergency Remote Teaching and Digital Technology Usage in K-12 Teacher Practice \textbar{} Research}}\label{impact-of-emergency-remote-teaching-and-digital-technology-usage-in-k-12-teacher-practice-research}}[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 1653--1653
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{Impact of[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 1654--1654
+[]\TU/lmtt/m/n/10 Emergency Remote Teaching and Digital Technology Usage in K-12 Teacher[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 1657--1657
+[]\TU/lmtt/m/n/10 \textbf{\emph{Amber Hartwell}} \textbar{} \emph{University of Calgary}[] 
+ []
+
+[36]
+Overfull \hbox (222.0pt too wide) in paragraph at lines 1667--1667
+[]\TU/lmtt/m/n/10 \hypertarget{data-risks-in-online-classroom-platforms-a-comparative-analysis-of-policy-documents-research}{%[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 1668--1668
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{Data Risks in[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 1669--1669
+[]\TU/lmtt/m/n/10 Online Classroom Platforms: A Comparative Analysis of Policy Documents}[] 
+ []
+
+
+Overfull \hbox (904.5pt too wide) in paragraph at lines 1671--1671
+[]\TU/lmtt/m/n/10 Research}{2:30-3:00 \textbar{} Data Risks in Online Classroom Platforms: A Comparative Analysis of Policy Documents \textbar{} Research}}\label{data-risks-in-online-classroom-platforms-a-comparative-analysis-of-policy-documents-research}}[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 1672--1672
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{Data Risks[] 
+ []
+
+
+Overfull \hbox (54.0pt too wide) in paragraph at lines 1686--1686
+[]\TU/lmtt/m/n/10 ### Concurrent Session 11.4 |  Transitions of Online Learning & Teaching {-}[] 
+ []
+
+
+Overfull \hbox (132.75pt too wide) in paragraph at lines 1689--1689
+[]\TU/lmtt/m/n/10 \hypertarget{open-at-the-crossroads-forging-media-and-digital-literacy-pathways-research}{%[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1690--1690
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{Open at the[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 1691--1691
+[]\TU/lmtt/m/n/10 Crossroads: Forging Media and Digital Literacy Pathways} \textbar{}[] 
+ []
+
+
+Overfull \hbox (726.0pt too wide) in paragraph at lines 1692--1692
+[]\TU/lmtt/m/n/10 Research}{2:30-3:00 \textbar{} Open at the Crossroads: Forging Media and Digital Literacy Pathways \textbar{} Research}}\label{open-at-the-crossroads-forging-media-and-digital-literacy-pathways-research}}[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 1693--1693
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{Open at[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 1694--1694
+[]\TU/lmtt/m/n/10 the Crossroads: Forging Media and Digital Literacy Pathways} \textbar{}[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 1697--1697
+[]\TU/lmtt/m/n/10 \textbf{\emph{Helen DeWaard}} \textbar{} \emph{LAkehead University \&[] 
+ []
+
+
+Overfull \hbox (54.0pt too wide) in paragraph at lines 1710--1710
+[]\TU/lmtt/m/n/10 ### Concurrent Session 12.1 |  Transitions of Online Learning & Teaching {-}[] 
+ []
+
+[37]
+Overfull \hbox (437.25pt too wide) in paragraph at lines 1713--1713
+[]\TU/lmtt/m/n/10 \hypertarget{lapprentissage-intuxe9gruxe9-au-travail-numuxe9rique-limpact-de-luxe9ducation-sur-la-puxe9nurie-de-main-dux153uvre-in-french-practice}{%[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 1714--1714
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{3:30-4:30 \textbar{} \textbf{L'apprentissage[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 1715--1715
+[]\TU/lmtt/m/n/10 intégré au travail numérique -- l'impact de l'éducation sur la pénurie[] 
+ []
+
+
+Overfull \hbox (1277.25pt too wide) in paragraph at lines 1717--1717
+[]\TU/lmtt/m/n/10 Practice}{3:30-4:30 \textbar{} L'apprentissage intégré au travail numérique -- l'impact de l'éducation sur la pénurie de main-d'œuvre (in French) \textbar{} Practice}}\label{lapprentissage-intuxe9gruxe9-au-travail-numuxe9rique-limpact-de-luxe9ducation-sur-la-puxe9nurie-de-main-dux153uvre-in-french-practice}}[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 1719--1719
+[]\TU/lmtt/m/n/10 \textbf{L'apprentissage intégré au travail numérique -- l'impact de[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 1720--1720
+[]\TU/lmtt/m/n/10 l'éducation sur la pénurie de main-d'œuvre (in French)} \textbar{}[] 
+ []
+
+
+Overfull \hbox (337.5pt too wide) in paragraph at lines 1731--1731
+[]\TU/lmtt/m/n/10 \hypertarget{language-storytelling-and-the-narrative-bounds-of-empire-approaching-twine-as-a-feminist-pedagogical-tool-practice}{%[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 1732--1732
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{4:30-5:00 \textbar{} \textbf{Language,[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 1733--1733
+[]\TU/lmtt/m/n/10 Storytelling and the Narrative Bounds of Empire: Approaching Twine as a[] 
+ []
+
+
+Overfull \hbox (1140.75pt too wide) in paragraph at lines 1735--1735
+[]\TU/lmtt/m/n/10 Practice}{4:30-5:00 \textbar{} Language, Storytelling and the Narrative Bounds of Empire: Approaching Twine as a Feminist Pedagogical Tool \textbar{} Practice}}\label{language-storytelling-and-the-narrative-bounds-of-empire-approaching-twine-as-a-feminist-pedagogical-tool-practice}}[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 1736--1736
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{4:30-5:00 \textbar{} \textbf{Language,[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 1737--1737
+[]\TU/lmtt/m/n/10 Storytelling and the Narrative Bounds of Empire: Approaching Twine as a[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 1740--1740
+[]\TU/lmtt/m/n/10 \textbf{\emph{Anna Lee-Popham}} \textbar{} \emph{University of Guelph}[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 1742--1742
+[]\TU/lmtt/m/n/10 \textbf{\emph{Aparajita Bhandari}} \textbar{} \emph{Cornell University}[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1744--1744
+[]\TU/lmtt/m/n/10 \textbf{\emph{Sarah York-Bertram}} \textbar{} \emph{York University}[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 1746--1746
+[]\TU/lmtt/m/n/10 \textbf{\emph{Sarah Choukah}} \textbar{} \emph{Université de l'Ontario[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 1749--1749
+[]\TU/lmtt/m/n/10 \textbf{\emph{Laurence Butet-Roch}} \textbar{} \emph{York University}[] 
  []
 
 [38]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \hbox (405.75pt too wide) in paragraph at lines 1759--1759
+[]\TU/lmtt/m/n/10 \hypertarget{virtual-reality-simulations-in-higher-education-science-classesstudent-engagement-and-teacher-professional-development-research}{%[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 1760--1760
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{3:30-4:00 \textbar{} \textbf{Virtual Reality[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 1761--1761
+[]\TU/lmtt/m/n/10 Simulations in Higher Education Science Classes:Student Engagement and[] 
+ []
+
+
+Overfull \hbox (1272.0pt too wide) in paragraph at lines 1763--1763
+[]\TU/lmtt/m/n/10 Research}{3:30-4:00 \textbar{} Virtual Reality Simulations in Higher Education Science Classes:Student Engagement and Teacher Professional Development \textbar{} Research}}\label{virtual-reality-simulations-in-higher-education-science-classesstudent-engagement-and-teacher-professional-development-research}}[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 1764--1764
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{3:30-4:00 \textbar{} \textbf{Virtual[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 1766--1766
+[]\TU/lmtt/m/n/10 Engagement and Teacher Professional Development} \textbar{} Research}[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 1768--1768
+[]\TU/lmtt/m/n/10 \textbf{\emph{Sebastien Wall-Lacelle, Bruno Poellhuber}} \textbar{}[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1774--1774
+[]\TU/lmtt/m/n/10 \textbf{\emph{Normand Roy}} \textbar{} \emph{Université de Montréal}[] 
+ []
+
+
+Overfull \hbox (185.25pt too wide) in paragraph at lines 1782--1782
+[]\TU/lmtt/m/n/10 \hypertarget{a-gamified-design-framework-to-enhance-l2-learners-motivation-and-engagement-research}{%[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 1783--1783
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{4:30-5:00 \textbar{} \textbf{A Gamified[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 1784--1784
+[]\TU/lmtt/m/n/10 Design Framework to Enhance L2 Learners' Motivation and Engagement}[] 
+ []
+
+
+Overfull \hbox (831.0pt too wide) in paragraph at lines 1786--1786
+[]\TU/lmtt/m/n/10 Research}{4:30-5:00 \textbar{} A Gamified Design Framework to Enhance L2 Learners' Motivation and Engagement \textbar{} Research}}\label{a-gamified-design-framework-to-enhance-l2-learners-motivation-and-engagement-research}}[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 1787--1787
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{4:30-5:00 \textbar{} \textbf{A Gamified[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 1788--1788
+[]\TU/lmtt/m/n/10 Design Framework to Enhance L2 Learners' Motivation and Engagement}[] 
+ []
+
+
+Overfull \hbox (437.25pt too wide) in paragraph at lines 1801--1801
+[]\TU/lmtt/m/n/10 \hypertarget{restorying-pedagogy-for-the-postdigital-university-examining-the-power-of-critical-storytelling-for-imagining-better-futures-practice}{%[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1802--1802
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{3:30-4:30 \textbar{} \textbf{Re/storying[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 1803--1803
+[]\TU/lmtt/m/n/10 Pedagogy for the Postdigital University: Examining the Power of Critical[] 
+ []
 
 [39]
-Overfull \hbox (15.90453pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 40 \TU/lmr/m/sl/10 CHAPTER 5.  WEDNESDAY, MAY 31 | IN PERSON AT YORK UNIVERSITY
+Overfull \hbox (1340.25pt too wide) in paragraph at lines 1805--1805
+[]\TU/lmtt/m/n/10 Practice}{3:30-4:30 \textbar{} Re/storying Pedagogy for the Postdigital University: Examining the Power of Critical Storytelling for Imagining Better Futures \textbar{} Practice}}\label{restorying-pedagogy-for-the-postdigital-university-examining-the-power-of-critical-storytelling-for-imagining-better-futures-practice}}[] 
  []
 
-[40] [41]
-Underfull \vbox (badness 2384) has occurred while \output is active []
 
-
-Overfull \hbox (15.90453pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 42 \TU/lmr/m/sl/10 CHAPTER 5.  WEDNESDAY, MAY 31 | IN PERSON AT YORK UNIVERSITY
+Overfull \hbox (22.5pt too wide) in paragraph at lines 1807--1807
+[]\TU/lmtt/m/n/10 \textbf{Re/storying Pedagogy for the Postdigital University: Examining[] 
  []
 
-[42] [43]
-Overfull \hbox (15.90453pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 44 \TU/lmr/m/sl/10 CHAPTER 5.  WEDNESDAY, MAY 31 | IN PERSON AT YORK UNIVERSITY
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1811--1811
+[]\TU/lmtt/m/n/10 \textbf{\emph{Danielle Dilkes}} \textbar{} \emph{Western University}[] 
  []
 
-[44
 
-]
-Chapter 6.
-[45] [46
+Overfull \hbox (33.0pt too wide) in paragraph at lines 1820--1820
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{4:30-5:00 \textbar{} \textbf{TBA} \textbar{}[] 
+ []
 
-]
-Chapter 7.
-Missing character: There is no ✨ (U+2728) in font [lmroman10-bold]:mapping=tex-text;!
-[47] [48]
-Underfull \vbox (badness 2772) has occurred while \output is active []
+
+Overfull \hbox (59.25pt too wide) in paragraph at lines 1821--1821
+[]\TU/lmtt/m/n/10 Research}{4:30-5:00 \textbar{} TBA \textbar{} Research}}\label{tba-research}}[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 1822--1822
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{4:30-5:00 \textbar{} \textbf{TBA}[] 
+ []
+
+
+Overfull \hbox (64.5pt too wide) in paragraph at lines 1835--1835
+[]\TU/lmtt/m/n/10 \hypertarget{reviewing-the-strengths-and-challenges-to-peer-review-research}{%[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 1836--1836
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{3:30-4:00 \textbar{} \textbf{Reviewing the[] 
+ []
+
+
+Overfull \hbox (584.25pt too wide) in paragraph at lines 1838--1838
+[]\TU/lmtt/m/n/10 Research}{3:30-4:00 \textbar{} Reviewing the Strengths and Challenges to Peer Review \textbar{} Research}}\label{reviewing-the-strengths-and-challenges-to-peer-review-research}}[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 1839--1839
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{3:30-4:00 \textbar{} \textbf{Reviewing[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 1842--1842
+[]\TU/lmtt/m/n/10 \textbf{\emph{Connie Blomgren}} \textbar{} \emph{Athabasca University}[] 
+ []
+
+[40]
+Overfull \hbox (442.5pt too wide) in paragraph at lines 1850--1850
+[]\TU/lmtt/m/n/10 \hypertarget{a-review-of-research-on-open-education-adoption-in-higher-education-exploring-approaches-readiness-and-methods-for-evaluation-research}{%[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1851--1851
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{4:00-4:30 \textbar{} \textbf{A Review of[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 1852--1852
+[]\TU/lmtt/m/n/10 Research on Open education Adoption in higher Education: Exploring[] 
+ []
+
+
+Overfull \hbox (1356.0pt too wide) in paragraph at lines 1854--1854
+[]\TU/lmtt/m/n/10 Research}{4:00-4:30 \textbar{} A Review of Research on Open education Adoption in higher Education: Exploring Approaches, Readiness, and Methods for Evaluation \textbar{} Research}}\label{a-review-of-research-on-open-education-adoption-in-higher-education-exploring-approaches-readiness-and-methods-for-evaluation-research}}[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 1855--1855
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{4:00-4:30 \textbar{} \textbf{A Review[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 1856--1856
+[]\TU/lmtt/m/n/10 of Research on Open education Adoption in higher Education: Exploring[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 1857--1857
+[]\TU/lmtt/m/n/10 Approaches, Readiness, and Methods for Evaluation} \textbar{} Research}[] 
+ []
+
+
+Overfull \hbox (190.5pt too wide) in paragraph at lines 1868--1868
+[]\TU/lmtt/m/n/10 \hypertarget{research-which-research-technology-assessment-and-higher-education-in-tension-research}{%[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 1869--1869
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{4:30-5:00 \textbar{} \textbf{Research? Which[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 1870--1870
+[]\TU/lmtt/m/n/10 Research? Technology, Assessment, and Higher Education in Tension}[] 
+ []
+
+
+Overfull \hbox (857.25pt too wide) in paragraph at lines 1872--1872
+[]\TU/lmtt/m/n/10 Research}{4:30-5:00 \textbar{} Research? Which Research? Technology, Assessment, and Higher Education in Tension \textbar{} Research}}\label{research-which-research-technology-assessment-and-higher-education-in-tension-research}}[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 1873--1873
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{4:30-5:00 \textbar{} \textbf{Research?[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 1874--1874
+[]\TU/lmtt/m/n/10 Which Research? Technology, Assessment, and Higher Education in Tension}[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 1877--1877
+[]\TU/lmtt/m/n/10 \textbf{\emph{Colin Madland}} \textbar{} \emph{University of Victoria}[] 
+ []
+
+
+Overfull \hbox (306.0pt too wide) in paragraph at lines 1893--1893
+[]\TU/lmtt/m/n/10 \hypertarget{join-us-for-the-otessa23-morning-radio-show-every-morning-monday-thursday-930-1030-eastern-at-httpsvoiced.ca}{%[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 1894--1894
+[]\TU/lmtt/m/n/10 \paragraph{Join us for the \#OTESSA23 Morning Radio Show every morning[] 
+ []
+
+[41]
+Overfull \hbox (363.75pt too wide) in paragraph at lines 1896--1896
+[]\TU/lmtt/m/n/10 https://voiced.ca}\label{join-us-for-the-otessa23-morning-radio-show-every-morning-monday-thursday-930-1030-eastern-at-httpsvoiced.ca}}[] 
+ []
+
+Missing character: There is no ✨ (U+2728) in font [lmmono10-regular]:!
+Missing character: There is no ✨ (U+2728) in font [lmmono10-regular]:!
+[42]
+Overfull \hbox (48.75pt too wide) in paragraph at lines 1942--1942
+[]\TU/lmtt/m/n/10 ## Conference Welcome, Announcements & Land Acknowledgement | 9:00-9:15 {-}[] 
+ []
+
+
+Overfull \hbox (54.0pt too wide) in paragraph at lines 1949--1949
+[]\TU/lmtt/m/n/10 ### Concurrent Session 13.1 |  Transitions of Online Learning & Teaching {-}[] 
+ []
+
+
+Overfull \hbox (327.0pt too wide) in paragraph at lines 1952--1952
+[]\TU/lmtt/m/n/10 \hypertarget{designing-group-work-in-online-courses-to-develop-preservice-teachers-professional-collaboration-skills-research}{%[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 1953--1953
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{9:30-10:00 \textbar{} \textbf{Designing[] 
+ []
+
+
+Overfull \hbox (1119.75pt too wide) in paragraph at lines 1956--1956
+[]\TU/lmtt/m/n/10 Research}{9:30-10:00 \textbar{} Designing Group Work in Online Courses to Develop Preservice Teachers' Professional Collaboration Skills \textbar{} Research}}\label{designing-group-work-in-online-courses-to-develop-preservice-teachers-professional-collaboration-skills-research}}[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 1957--1957
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{9:30-10:00 \textbar{} \textbf{Designing[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1961--1961
+[]\TU/lmtt/m/n/10 \textbf{\emph{Amber Hartwell, Christy Thomas, Barbara Brown \& Bruna[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1974--1974
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{10:00-10:30 \textbar{} \textbf{TBA}[] 
+ []
+
+
+Overfull \hbox (222.0pt too wide) in paragraph at lines 1987--1987
+[]\TU/lmtt/m/n/10 \hypertarget{students-as-expert-designers-of-equity-courses-the-new-normal-in-a-post-digital-era-workshop}{%[] 
+ []
+
+[43]
+Overfull \hbox (17.25pt too wide) in paragraph at lines 1988--1988
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{9:30-10:30 \textbar{} \textbf{Students as[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 1989--1989
+[]\TU/lmtt/m/n/10 Expert Designers of Equity Courses: The New Normal in a Post-Digital[] 
+ []
+
+
+Overfull \hbox (909.75pt too wide) in paragraph at lines 1991--1991
+[]\TU/lmtt/m/n/10 Workshop}{9:30-10:30 \textbar{} Students as Expert Designers of Equity Courses: The New Normal in a Post-Digital Era \textbar{} Workshop}}\label{students-as-expert-designers-of-equity-courses-the-new-normal-in-a-post-digital-era-workshop}}[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 1992--1992
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{9:30-10:30 \textbar{} \textbf{Students[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 1993--1993
+[]\TU/lmtt/m/n/10 as Expert Designers of Equity Courses: The New Normal in a Post-Digital[] 
+ []
+
+
+Overfull \hbox (54.0pt too wide) in paragraph at lines 2004--2004
+[]\TU/lmtt/m/n/10 ### Concurrent Session 13.3 |  Transitions of Online Learning & Teaching {-}[] 
+ []
+
+
+Overfull \hbox (295.5pt too wide) in paragraph at lines 2007--2007
+[]\TU/lmtt/m/n/10 \hypertarget{online-collaborative-testing-design-and-implementation-in-a-large-first-year-undergraduate-course-practice}{%[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 2009--2009
+[]\TU/lmtt/m/n/10 Collaborative Testing: Design and Implementation in a Large First-Year[] 
+ []
+
+
+Overfull \hbox (1056.75pt too wide) in paragraph at lines 2011--2011
+[]\TU/lmtt/m/n/10 Practice}{9:30-10:00 \textbar{} Online Collaborative Testing: Design and Implementation in a Large First-Year Undergraduate Course \textbar{} Practice}}\label{online-collaborative-testing-design-and-implementation-in-a-large-first-year-undergraduate-course-practice}}[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 2012--2012
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{9:30-10:00 \textbar{} \textbf{Online[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 2013--2013
+[]\TU/lmtt/m/n/10 Collaborative Testing: Design and Implementation in a Large First-Year[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 2016--2016
+[]\TU/lmtt/m/n/10 \textbf{\emph{Mariel Miller, Safoura Askari \& Syed Qudsia}} \textbar{}[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 2025--2025
+[]\TU/lmtt/m/n/10 \hypertarget{hidden-curriculum-of-education-technologies-practice}{%[] 
+ []
+
+
+Overfull \hbox (489.75pt too wide) in paragraph at lines 2028--2028
+[]\TU/lmtt/m/n/10 Practice}{10:00-10:30 \textbar{} Hidden Curriculum of Education Technologies \textbar{} Practice}}\label{hidden-curriculum-of-education-technologies-practice}}[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 2029--2029
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{10:00-10:30 \textbar{} \textbf{Hidden[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 2032--2032
+[]\TU/lmtt/m/n/10 \textbf{\emph{Danielle Dilkes}} \textbar{} \emph{Western University}[] 
+ []
+
+[44]
+Overfull \hbox (274.5pt too wide) in paragraph at lines 2044--2044
+[]\TU/lmtt/m/n/10 \hypertarget{progressing-truth-confronting-complacency-and-unleashing-the-possibility-of-healing-through-education.}{%[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 2045--2045
+[]\TU/lmtt/m/n/10 \paragraph*{Progressing truth, confronting complacency, and unleashing[] 
+ []
+
+
+Overfull \hbox (295.5pt too wide) in paragraph at lines 2047--2047
+[]\TU/lmtt/m/n/10 education.}\label{progressing-truth-confronting-complacency-and-unleashing-the-possibility-of-healing-through-education.}}[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 2052--2052
+[]\TU/lmtt/m/n/10 \textbf{\emph{Nick Bertrand}} \textbar{} \emph{University of Calgary}[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 2056--2056
+[]\TU/lmtt/m/n/10 Education as a tool for both healing and reconciliation has been an[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 2057--2057
+[]\TU/lmtt/m/n/10 evolving movement over the years, and in particular since the release[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 2058--2058
+[]\TU/lmtt/m/n/10 the of the Truth and Reconciliation Commission 94 Calls to Action. Eight[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 2059--2059
+[]\TU/lmtt/m/n/10 years later in a post TRC society, what truths remain untold? What[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 2060--2060
+[]\TU/lmtt/m/n/10 lessons have we learned in trying to mobilize meaningful change? How can[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 2061--2061
+[]\TU/lmtt/m/n/10 we as educators, uphold our responsibilities in the work of rebuilding[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 2063--2063
+[]\TU/lmtt/m/n/10 reconciliatory bridge continues to be constructed, education systems[] 
+ []
+
+[45]
+Overfull \hbox (458.25pt too wide) in paragraph at lines 2113--2113
+[]\TU/lmtt/m/n/10 \hypertarget{open-educational-practices-in-canadas-higher-education-in-a-french--speaking-minority-environment-reckonings-on-language-justice-research}{%[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 2115--2115
+[]\TU/lmtt/m/n/10 Educational Practices in Canada's Higher Education in a French- speaking[] 
+ []
+
+
+Overfull \hbox (1382.25pt too wide) in paragraph at lines 2117--2117
+[]\TU/lmtt/m/n/10 Research}{2:30-3:00 \textbar{} Open Educational Practices in Canada's Higher Education in a French- speaking Minority Environment: Reckonings on Language Justice \textbar{} Research}}\label{open-educational-practices-in-canadas-higher-education-in-a-french--speaking-minority-environment-reckonings-on-language-justice-research}}[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 2118--2118
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{Open[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 2119--2119
+[]\TU/lmtt/m/n/10 Educational Practices in Canada's Higher Education in a French- speaking[] 
+ []
+
+[46]
+Overfull \hbox (285.0pt too wide) in paragraph at lines 2134--2134
+[]\TU/lmtt/m/n/10 \hypertarget{les-effets-dune-initiative-pour-brancher-sur-internet-les-familles-uxe0-faible-revenu-in-french-research}{%[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 2135--2135
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{Les Effets[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 2136--2136
+[]\TU/lmtt/m/n/10 d'une initiative pour brancher sur Internet les familles à faible revenu[] 
+ []
+
+
+Overfull \hbox (1025.25pt too wide) in paragraph at lines 2138--2138
+[]\TU/lmtt/m/n/10 Research}{2:30-3:00 \textbar{} Les Effets d'une initiative pour brancher sur Internet les familles à faible revenu (in French) \textbar{} Research}}\label{les-effets-dune-initiative-pour-brancher-sur-internet-les-familles-uxe0-faible-revenu-in-french-research}}[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 2139--2139
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{Les Effets[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 2140--2140
+[]\TU/lmtt/m/n/10 d'une initiative pour brancher sur Internet les familles à faible revenu[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 2143--2143
+[]\TU/lmtt/m/n/10 \textbf{\emph{Normand Roy}} \textbar{} \emph{Université de Montréal}[] 
+ []
+
+
+Overfull \hbox (342.75pt too wide) in paragraph at lines 2153--2153
+[]\TU/lmtt/m/n/10 \hypertarget{beyond-covid-19-infusing-advanced-technologies-into-a-new-model-for-childrens-adaptation-to-the-new-normal-research}{%[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 2155--2155
+[]\TU/lmtt/m/n/10 Covid-19: Infusing Advanced Technologies into a New Model for Children's[] 
+ []
+
+
+Overfull \hbox (1151.25pt too wide) in paragraph at lines 2157--2157
+[]\TU/lmtt/m/n/10 Research}{2:30-3:00 \textbar{} Beyond Covid-19: Infusing Advanced Technologies into a New Model for Children's Adaptation to the New Normal \textbar{} Research}}\label{beyond-covid-19-infusing-advanced-technologies-into-a-new-model-for-childrens-adaptation-to-the-new-normal-research}}[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 2158--2158
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{Beyond[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 2159--2159
+[]\TU/lmtt/m/n/10 Covid-19: Infusing Advanced Technologies into a New Model for Children's[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 2162--2162
+[]\TU/lmtt/m/n/10 \textbf{\emph{Liton Furukawa}} \textbar{} \emph{Royal Roads University}[] 
+ []
+
+[47]
+Overfull \hbox (201.0pt too wide) in paragraph at lines 2176--2176
+[]\TU/lmtt/m/n/10 \hypertarget{the-interconnectivity-of-heutagogy-and-education-4.0-in-higher-online-education-research}{%[] 
+ []
+
+
+Overfull \hbox (857.25pt too wide) in paragraph at lines 2180--2180
+[]\TU/lmtt/m/n/10 Research}{3:30-4:30 \textbar{} The Interconnectivity of Heutagogy and Education 4.0 in Higher Online Education \textbar{} Research}}\label{the-interconnectivity-of-heutagogy-and-education-4.0-in-higher-online-education-research}}[] 
+ []
+
+
+Overfull \hbox (69.75pt too wide) in paragraph at lines 2193--2193
+[]\TU/lmtt/m/n/10 \hypertarget{an-interwoven-course-reflective-practice-and-portfolio-practice}{%[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 2194--2194
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{4:30-5:00 \textbar{} \textbf{An Interwoven[] 
+ []
+
+
+Overfull \hbox (600.0pt too wide) in paragraph at lines 2196--2196
+[]\TU/lmtt/m/n/10 Practice}{4:30-5:00 \textbar{} An Interwoven Course: Reflective Practice and Portfolio \textbar{} Practice}}\label{an-interwoven-course-reflective-practice-and-portfolio-practice}}[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 2201--2201
+[]\TU/lmtt/m/n/10 \textbf{\emph{Christine Ho Younghusband}} \textbar{} \emph{University of[] 
+ []
+
+
+Overfull \hbox (332.25pt too wide) in paragraph at lines 2215--2215
+[]\TU/lmtt/m/n/10 Practice}{3:30-4:30 \textbar{} Adaptive Learning in Practice \textbar{} Practice}}\label{adaptive-learning-in-practice-practice}}[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 2216--2216
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{3:30-4:30 \textbar{} \textbf{Adaptive[] 
+ []
+
+[48]
+Overfull \hbox (390.0pt too wide) in paragraph at lines 2226--2226
+[]\TU/lmtt/m/n/10 \hypertarget{what-happened-to-opencourseware-a-discussion-of-the-open-education-movements-shift-from-course-content-to-textbooks-practice}{%[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 2227--2227
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{4:30-5:00 \textbar{} \textbf{What Happened[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 2228--2228
+[]\TU/lmtt/m/n/10 to OpenCourseWare? A Discussion of the Open Education Movement's Shift[] 
+ []
+
+
+Overfull \hbox (1245.75pt too wide) in paragraph at lines 2230--2230
+[]\TU/lmtt/m/n/10 Practice}{4:30-5:00 \textbar{} What Happened to OpenCourseWare? A Discussion of the Open Education Movement's Shift from Course Content to Textbooks \textbar{} Practice}}\label{what-happened-to-opencourseware-a-discussion-of-the-open-education-movements-shift-from-course-content-to-textbooks-practice}}[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 2231--2231
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{4:30-5:00 \textbar{} \textbf{What[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 2233--2233
+[]\TU/lmtt/m/n/10 Movement's Shift from Course Content to Textbooks} \textbar{} Practice}[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 2247--2247
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{3:30-5:00 \textbar{} \textbf{Leadership for[] 
+ []
+
+
+Overfull \hbox (416.25pt too wide) in paragraph at lines 2249--2249
+[]\TU/lmtt/m/n/10 Research}{3:30-5:00 \textbar{} Leadership for Digital Transformation \textbar{} Research}}\label{leadership-for-digital-transformation-research}}[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 2250--2250
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{3:30-5:00 \textbar{} \textbf{Leadership[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 2253--2253
+[]\TU/lmtt/m/n/10 \textbf{\emph{Don Eldridge, Monica Shah \& Alissa Bigelow}} \textbar{}[] 
+ []
 
 [49]
-Underfull \hbox (badness 3815) in paragraph at lines 2530--2531
- []\TU/lmr/bx/n/10 2:00-2:30 | Interprofessional Healthcare Simulation Co-
+Overfull \hbox (80.25pt too wide) in paragraph at lines 2264--2264
+[]\TU/lmtt/m/n/10 \hypertarget{opening-up-digital-platforms-to-community-based-research-research}{%[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 2265--2265
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{3:30-4:00 \textbar{} \textbf{Opening-Up[] 
+ []
+
+
+Overfull \hbox (615.75pt too wide) in paragraph at lines 2267--2267
+[]\TU/lmtt/m/n/10 Research}{3:30-4:00 \textbar{} Opening-Up Digital Platforms to Community-Based Research \textbar{} Research}}\label{opening-up-digital-platforms-to-community-based-research-research}}[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 2268--2268
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{3:30-4:00 \textbar{} \textbf{Opening-Up[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 2269--2269
+[]\TU/lmtt/m/n/10 Digital Platforms to Community-Based Research} \textbar{} Research}[] 
+ []
+
+
+Overfull \hbox (211.5pt too wide) in paragraph at lines 2279--2279
+[]\TU/lmtt/m/n/10 \hypertarget{the-role-of-teachers-assessment-literacy-in-an-inquiry-based-learning-environment-research}{%[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 2280--2280
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{4:00-4:30 \textbar{} \textbf{The Role of[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 2281--2281
+[]\TU/lmtt/m/n/10 Teachers' Assessment Literacy in an Inquiry-Based Learning Environment}[] 
+ []
+
+
+Overfull \hbox (883.5pt too wide) in paragraph at lines 2283--2283
+[]\TU/lmtt/m/n/10 Research}{4:00-4:30 \textbar{} The Role of Teachers' Assessment Literacy in an Inquiry-Based Learning Environment \textbar{} Research}}\label{the-role-of-teachers-assessment-literacy-in-an-inquiry-based-learning-environment-research}}[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 2284--2284
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{4:00-4:30 \textbar{} \textbf{The Role[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 2288--2288
+[]\TU/lmtt/m/n/10 \textbf{\emph{Maryam Shirdel Pour \& Michael Paskevicius}} \textbar{}[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 2298--2298
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{4:30-5:00 \textbar{} \textbf{TBA} \textbar{}[] 
+ []
+
+
+Overfull \hbox (59.25pt too wide) in paragraph at lines 2299--2299
+[]\TU/lmtt/m/n/10 Research}{4:30-5:00 \textbar{} TBA \textbar{} Research}}\label{tba-research}}[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 2300--2300
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{4:30-5:00 \textbar{} \textbf{TBA}[] 
+ []
+
+[50]
+Overfull \hbox (96.0pt too wide) in paragraph at lines 2320--2320
+[]\TU/lmtt/m/n/10 For those heading home from York University, we wish you safe travels! See you soon![] 
+ []
+
+
+Overfull \hbox (306.0pt too wide) in paragraph at lines 2329--2329
+[]\TU/lmtt/m/n/10 \hypertarget{join-us-for-the-otessa23-morning-radio-show-every-morning-monday-thursday-930-1030-eastern-at-httpsvoiced.ca}{%[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 2330--2330
+[]\TU/lmtt/m/n/10 \paragraph{Join us for the \#OTESSA23 Morning Radio Show every morning[] 
+ []
+
+
+Overfull \hbox (363.75pt too wide) in paragraph at lines 2332--2332
+[]\TU/lmtt/m/n/10 https://voiced.ca}\label{join-us-for-the-otessa23-morning-radio-show-every-morning-monday-thursday-930-1030-eastern-at-httpsvoiced.ca}}[] 
+ []
+
+Missing character: There is no ✨ (U+2728) in font [lmmono10-regular]:!
+Missing character: There is no ✨ (U+2728) in font [lmmono10-regular]:!
+[51]
+Overfull \hbox (59.25pt too wide) in paragraph at lines 2377--2377
+[]\TU/lmtt/m/n/10 ## Conference Welcome, Announcements & Land Acknowledgement | 10:30-11:00 {-}[] 
+ []
+
+[52]
+Overfull \hbox (54.0pt too wide) in paragraph at lines 2434--2434
+[]\TU/lmtt/m/n/10 ### Concurrent Session 18.1 |  Transitions of Online Learning & Teaching {-}[] 
+ []
+
+
+Overfull \hbox (290.25pt too wide) in paragraph at lines 2437--2437
+[]\TU/lmtt/m/n/10 \hypertarget{assessment-in-a-digital-age-learning-within-the-continuum-for-pedagogy-technology-and-assessment-workshop}{%[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 2438--2438
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{1:30-2:30 \textbar{} \textbf{Assessment in a[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 2439--2439
+[]\TU/lmtt/m/n/10 Digital Age: Learning within the Continuum for Pedagogy, Technology, and[] 
+ []
+
+
+Overfull \hbox (1051.5pt too wide) in paragraph at lines 2441--2441
+[]\TU/lmtt/m/n/10 Workshop}{1:30-2:30 \textbar{} Assessment in a Digital Age: Learning within the Continuum for Pedagogy, Technology, and Assessment \textbar{} Workshop}}\label{assessment-in-a-digital-age-learning-within-the-continuum-for-pedagogy-technology-and-assessment-workshop}}[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 2442--2442
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{1:30-2:30 \textbar{} \textbf{Assessment[] 
+ []
+
+[53]
+Overfull \hbox (6.75pt too wide) in paragraph at lines 2449--2449
+[]\TU/lmtt/m/n/10 \textbf{\emph{Jodie Walz}} \textbar{} \emph{Calgary Catholic School[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 2459--2459
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{TBA} \textbar{}[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 2461--2461
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{TBA}[] 
+ []
+
+
+Overfull \hbox (54.0pt too wide) in paragraph at lines 2474--2474
+[]\TU/lmtt/m/n/10 ### Concurrent Session 18.2 |  Transitions of Online Learning & Teaching {-}[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 2477--2477
+[]\TU/lmtt/m/n/10 \hypertarget{open-education-research-past-present-future-research}{%[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 2478--2478
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{1:30-2:00 \textbar{} \textbf{Open Education[] 
+ []
+
+
+Overfull \hbox (495.0pt too wide) in paragraph at lines 2480--2480
+[]\TU/lmtt/m/n/10 Research}{1:30-2:00 \textbar{} Open Education Research: Past, Present, Future \textbar{} Research}}\label{open-education-research-past-present-future-research}}[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 2481--2481
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{1:30-2:00 \textbar{} \textbf{Open[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 2484--2484
+[]\TU/lmtt/m/n/10 \textbf{\emph{Robert Farrow, Beck Pitt, Martin Weller, Paco Iniesto \&[] 
+ []
+
+[54]
+Overfull \hbox (164.25pt too wide) in paragraph at lines 2494--2494
+[]\TU/lmtt/m/n/10 \hypertarget{using-qualitative-online-survey-as-a-research-method-amid-covid-pandemic-practice}{%[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 2496--2496
+[]\TU/lmtt/m/n/10 Qualitative Online Survey as a Research Method Amid Covid Pandemic}[] 
+ []
+
+
+Overfull \hbox (783.75pt too wide) in paragraph at lines 2498--2498
+[]\TU/lmtt/m/n/10 Practice}{2:00-2:30 \textbar{} Using Qualitative Online Survey as a Research Method Amid Covid Pandemic \textbar{} Practice}}\label{using-qualitative-online-survey-as-a-research-method-amid-covid-pandemic-practice}}[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 2499--2499
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{2:00-2:30 \textbar{} \textbf{Using[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 2500--2500
+[]\TU/lmtt/m/n/10 Qualitative Online Survey as a Research Method Amid Covid Pandemic}[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 2511--2511
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{TBA} \textbar{}[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 2513--2513
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{TBA}[] 
+ []
+
+
+Overfull \hbox (132.75pt too wide) in paragraph at lines 2527--2527
+[]\TU/lmtt/m/n/10 \hypertarget{non-directive-strength-based-online-coaching-in-graduate-education-research}{%[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 2528--2528
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{1:30-2:00 \textbar{} \textbf{Non-Directive[] 
+ []
+
+
+Overfull \hbox (720.75pt too wide) in paragraph at lines 2530--2530
+[]\TU/lmtt/m/n/10 Research}{1:30-2:00 \textbar{} Non-Directive Strength-Based Online Coaching in Graduate Education \textbar{} Research}}\label{non-directive-strength-based-online-coaching-in-graduate-education-research}}[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 2535--2535
+[]\TU/lmtt/m/n/10 \textbf{\emph{Carolyn Kristjansson}} \textbar{} \emph{Trinity Western[] 
+ []
+
+[55]
+Overfull \hbox (279.75pt too wide) in paragraph at lines 2544--2544
+[]\TU/lmtt/m/n/10 \hypertarget{the-teachers-self-efficacy-and-belief-in-implementing-s-stem-istem-or-steam-in-their-classroom-research}{%[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 2545--2545
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{The Teacher's[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 2546--2546
+[]\TU/lmtt/m/n/10 Self-efficacy and Belief in Implementing S STEM, iSTEM or STEAM in their[] 
+ []
+
+
+Overfull \hbox (1025.25pt too wide) in paragraph at lines 2548--2548
+[]\TU/lmtt/m/n/10 Research}{2:30-3:00 \textbar{} The Teacher's Self-efficacy and Belief in Implementing S STEM, iSTEM or STEAM in their Classroom \textbar{} Research}}\label{the-teachers-self-efficacy-and-belief-in-implementing-s-stem-istem-or-steam-in-their-classroom-research}}[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 2550--2550
+[]\TU/lmtt/m/n/10 Teacher's Self-efficacy and Belief in Implementing S STEM, iSTEM or[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 2553--2553
+[]\TU/lmtt/m/n/10 \textbf{\emph{Atiya Razi}} \textbar{} \emph{University of Windsor}[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 2561--2561
+[]\TU/lmtt/m/n/10 \hypertarget{the-impact-of-social-annotation-on-learning-research}{%[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 2562--2562
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{2:30-3:00 \textbar{} \textbf{The Impact of[] 
+ []
+
+
+Overfull \hbox (479.25pt too wide) in paragraph at lines 2564--2564
+[]\TU/lmtt/m/n/10 Research}{2:30-3:00 \textbar{} The Impact of Social Annotation on Learning \textbar{} Research}}\label{the-impact-of-social-annotation-on-learning-research}}[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 2565--2565
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{2:30-3:00 \textbar{} \textbf{The Impact[] 
+ []
+
+
+Overfull \hbox (164.25pt too wide) in paragraph at lines 2580--2580
+[]\TU/lmtt/m/n/10 \hypertarget{a-framework-for-evaluating-the-creation-and-adaptation-of-open-textbooks-research}{%[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 2581--2581
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{1:30-2:00 \textbar{} \textbf{A Framework for[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 2582--2582
+[]\TU/lmtt/m/n/10 Evaluating the Creation and Adaptation of Open Textbooks} \textbar{}[] 
+ []
+
+
+Overfull \hbox (783.75pt too wide) in paragraph at lines 2583--2583
+[]\TU/lmtt/m/n/10 Research}{1:30-2:00 \textbar{} A Framework for Evaluating the Creation and Adaptation of Open Textbooks \textbar{} Research}}\label{a-framework-for-evaluating-the-creation-and-adaptation-of-open-textbooks-research}}[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 2585--2585
+[]\TU/lmtt/m/n/10 Framework for Evaluating the Creation and Adaptation of Open Textbooks}[] 
+ []
+
+[56]
+Overfull \hbox (12.0pt too wide) in paragraph at lines 2588--2588
+[]\TU/lmtt/m/n/10 \textbf{\emph{Melissa Ashman}} \textbar{} \emph{Kwantlen Polytechnic[] 
+ []
+
+
+Overfull \hbox (127.5pt too wide) in paragraph at lines 2597--2597
+[]\TU/lmtt/m/n/10 \hypertarget{interprofessional-healthcare-simulation-co-creation-a-pilot-study-research}{%[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 2599--2599
+[]\TU/lmtt/m/n/10 \textbf{Interprofessional Healthcare Simulation Co-Creation: A Pilot[] 
+ []
+
+
+Overfull \hbox (715.5pt too wide) in paragraph at lines 2601--2601
+[]\TU/lmtt/m/n/10 Research}{2:00-2:30 \textbar{} Interprofessional Healthcare Simulation Co-Creation: A Pilot Study \textbar{} Research}}\label{interprofessional-healthcare-simulation-co-creation-a-pilot-study-research}}[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 2603--2603
+[]\TU/lmtt/m/n/10 \textbf{Interprofessional Healthcare Simulation Co-Creation: A Pilot[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 2606--2606
+[]\TU/lmtt/m/n/10 \textbf{\emph{Laura Killam}} \textbar{} \emph{Queen's University Canada}[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 2608--2608
+[]\TU/lmtt/m/n/10 \textbf{\emph{Jacqueline Vaughn, Alicia Sellon, Chase DuBois, Amelia[] 
+ []
+
+
+Overfull \hbox (17.25pt too wide) in paragraph at lines 2609--2609
+[]\TU/lmtt/m/n/10 Huelskamp, Andrea Smith, Colette Waddill \& Justine Reel}} \textbar{}[] 
+ []
+
+
+Overfull \hbox (43.5pt too wide) in paragraph at lines 2623--2623
+[]\TU/lmtt/m/n/10 \hypertarget{four-perspectives-of-learner-educator-co-creation-practice}{%[] 
+ []
+
+
+Overfull \hbox (547.5pt too wide) in paragraph at lines 2626--2626
+[]\TU/lmtt/m/n/10 Practice}{9:30-10:30 \textbar{} Four Perspectives of Learner-Educator Co-Creation \textbar{} Practice}}\label{four-perspectives-of-learner-educator-co-creation-practice}}[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 2627--2627
+[]\TU/lmtt/m/n/10 \addcontentsline{toc}{paragraph}{9:30-10:30 \textbar{} \textbf{Four[] 
+ []
+
+
+Overfull \hbox (1.5pt too wide) in paragraph at lines 2628--2628
+[]\TU/lmtt/m/n/10 Perspectives of Learner-Educator Co-Creation} \textbar{} Practice}[] 
+ []
+
+[57]
+Overfull \hbox (6.75pt too wide) in paragraph at lines 2632--2632
+[]\TU/lmtt/m/n/10 \textbf{\emph{Jane Tyerman}} \textbar{} \emph{University of Ottawa}[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 2634--2634
+[]\TU/lmtt/m/n/10 \textbf{\emph{Lillian Chumbley}} \textbar{} \emph{Trent University}[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 2636--2636
+[]\TU/lmtt/m/n/10 \textbf{\emph{Laura Killam}} \textbar{} \emph{Queen's University Canada}[] 
+ []
+
+
+Overfull \hbox (437.25pt too wide) in paragraph at lines 2647--2647
+[]\TU/lmtt/m/n/10 Practice}{2:30 - 3:00 \textbar{} A Learner-Educator Co-Creation Toolkit \textbar{} Practice}}\label{a-learner-educator-co-creation-toolkit-practice}}[] 
+ []
+
+
+Overfull \hbox (33.0pt too wide) in paragraph at lines 2651--2651
+[]\TU/lmtt/m/n/10 \textbf{\emph{Laura Killam}} \textbar{} \emph{Queen's University Canada}[] 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 2653--2653
+[]\TU/lmtt/m/n/10 \textbf{\emph{Lillian Chumbley}} \textbar{} \emph{Trent University }[] 
+ []
+
+
+Overfull \hbox (6.75pt too wide) in paragraph at lines 2655--2655
+[]\TU/lmtt/m/n/10 \textbf{\emph{Jane Tyerman}} \textbar{} \emph{University of Ottawa}[] 
+ []
+
+
+Overfull \hbox (106.5pt too wide) in paragraph at lines 2669--2669
+[]\TU/lmtt/m/n/10 \hypertarget{on-speculative-education-fiction-for-hopeful-learning-futures-research}{%[] 
+ []
+
+
+Overfull \hbox (27.75pt too wide) in paragraph at lines 2670--2670
+[]\TU/lmtt/m/n/10 \paragraph*{\texorpdfstring{3:30-4:30 \textbar{} \textbf{On Speculative[] 
+ []
+
+
+Overfull \hbox (668.25pt too wide) in paragraph at lines 2672--2672
+[]\TU/lmtt/m/n/10 Research}{3:30-4:30 \textbar{} On Speculative Education Fiction for Hopeful Learning Futures \textbar{} Research}}\label{on-speculative-education-fiction-for-hopeful-learning-futures-research}}[] 
+ []
+
+
+Overfull \hbox (22.5pt too wide) in paragraph at lines 2674--2674
+[]\TU/lmtt/m/n/10 Speculative Education Fiction for Hopeful Learning Futures} \textbar{}[] 
+ []
+
+[58]
+Underfull \vbox (badness 7851) has occurred while \output is active []
+
+[59]
+Underfull \hbox (badness 3815) in paragraph at lines 2794--2795
+ []\TU/lmr/bx/n/10 4:00-4:30 | Interprofessional Healthcare Simulation Co-
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[50] [51]
+[60] [61] [62
+
+]
+Underfull \hbox (badness 3281) in paragraph at lines 2926--2927
+ \TU/lmr/bx/n/10 1.0.0.0.12 **GetLitwithFin: A Cross-Campus Capstone
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[52]
+[63]
 No file OTESSA23-Program.bbl.
-[53] (./OTESSA23-Program.aux)
+[64] (./OTESSA23-Program.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `OTESSA23-Program.out' has not changed.
-(rerunfilecheck)             Checksum: D0B69C80676092DB87117BCE3DF49B27;17963.
+(rerunfilecheck)             Checksum: 3A9FD4CD301045CE6544ED29A5F1C6E6;4414.
  ) 
 Here is how much of TeX's memory you used:
- 26879 strings out of 478683
- 543458 string characters out of 5847963
- 1855018 words of memory out of 5000000
- 46575 multiletter control sequences out of 15000+600000
+ 26604 strings out of 478683
+ 530568 string characters out of 5848287
+ 1856018 words of memory out of 5000000
+ 46304 multiletter control sequences out of 15000+600000
  518754 words of font info for 87 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 86i,6n,121p,864b,490s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 86i,6n,121p,654b,489s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on OTESSA23-Program.pdf (53 pages).
+Output written on OTESSA23-Program.pdf (64 pages).
