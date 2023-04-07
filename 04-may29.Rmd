@@ -1,9 +1,10 @@
-# Monday, May 29 | In Person at York University 
+# Monday, May 29 | In Person at York University
 
 ```{block, type='protip'}
 
 #### Join us for the #OTESSA23 Morning Radio Show every morning Monday-Thursday 9:30-10:30 (Eastern) at https://voiced.ca
 ```
+
 ### Session Types {-}
 
 ```{block, type='protip'}
@@ -31,6 +32,7 @@
 #### Regular Session
 
 ```
+
 ```{block, type='social'}
 
 #### Social Session
@@ -50,12 +52,12 @@
 #### Workshop
 
 ```
---- 
 
+---
 
 ## Continental Breakfast Provided | 8:00-9:00 {-}
 
-##  Welcome Desk Open | 8:00 - 11:30 {-}
+## Welcome Desk Open | 8:00 - 11:30 {-}
 
 ## Conference Welcome, Announcements & Land Acknowledgement | 9:00-9:15 {-}
 
@@ -83,7 +85,6 @@
 ```
 
 ### Concurrent Session 5.2 |  Sustaining Positive Change {-}
-
 
 ```{block, type='session'}
 
@@ -213,6 +214,7 @@ These questions have dominated teaching and learning circles and social media si
 ## Concurrent Session 6 |  Invited Speakers | 1:30-2:15  {-}
 
 45 Minutes
+
 ### Concurrent Session 6.1 {-}
 
 ```{block, type='speaker'}
@@ -254,6 +256,7 @@ These questions have dominated teaching and learning circles and social media si
 ## Concurrent Session 7 | 2:30-3:00 {-}
 
 30 Minutes
+
 ### Concurrent Session 7.1 |  Wildcard {-}
 
 ```{block, type='vendor'}
@@ -331,6 +334,7 @@ These questions have dominated teaching and learning circles and social media si
 </p>
 </details>
 ```
+
 ### Concurrent Session 8.2 |  Sustaining Positive Change {-}
 
 ```{block, type='session'}
@@ -350,6 +354,7 @@ These questions have dominated teaching and learning circles and social media si
 </p>
 </details>
 ```
+
 ```{block, type='session'}
 
 #### 4:30-5:00 | **Showcasing a Student-Led Anti-Racism Virtual Simulation Module for Equitable Learning** |  Practice {-}
@@ -441,9 +446,3 @@ These questions have dominated teaching and learning circles and social media si
 ```
 
 ## End-of-Day Networking or Creative Space | 5:00-6:00 {-}
-
-
-
-
-
-

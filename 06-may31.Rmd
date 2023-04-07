@@ -39,6 +39,7 @@
 #### Social Session
 
 ```
+
 ```{block, type='vendor'}
 
 
@@ -52,7 +53,9 @@
 #### Workshop
 
 ```
+
 ---
+
 ## Continental Breakfast Provided | 8:00-9:00 {-}
 
 ## Welcome Desk Open | 8:00 - 11:30 {-}
@@ -64,6 +67,7 @@
 ## Concurrent Session 13 | 9:30-10:30 {-}
 
 1 Hour
+
 ### Concurrent Session 13.1 |  Transitions of Online Learning & Teaching {-}
 
 ```{block, type='session'}
@@ -185,6 +189,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 ## Concurrent Session 14 | Invited Speakers | 1:30-2:15 {-}
 
 45 Minutes
+
 ### Concurrent Session 14.1 {-}
 
 ```{block, type='speaker'}
@@ -220,11 +225,13 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 </p>
 </details>
 ```
+
 ## Break | 2:15-2:30 {-}
 
 ## Concurrent Session 15 | 2:30-3:00 {-}
 
 30 Minutes
+
 ### Concurrent Session 15.1 |  Addressing Inequities {-}
 
 ```{block, type='session'}
@@ -345,6 +352,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 </p>
 </details>
 ```
+
 ```{block, type='session'}
 
 
@@ -442,5 +450,3 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 ## Congress President Reception | 5:00-7:00
 
 ## End-of-Day Networking or Creative Space {-}
-
-

@@ -1,6 +1,6 @@
 # Keynotes {-}
 
-//todo #1
+
 
 ```{block, type='protip'}
 
@@ -42,7 +42,7 @@ These questions have dominated teaching and learning circles and social media si
 
 ## Nick Bertrand {-}
 
-//todo #2
+
 *University of Calgary
 ***Wednesday, May 31, 11:00 AM***
 
@@ -58,7 +58,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 ## Paul Prinsloo {-}
 
-//todo #3
+
 ***Friday, June 2, 11:00 AM***
 
 ```{block, type='keynote'}
