@@ -110,11 +110,11 @@
 \contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {Practitioner Values in the Transition to Open Education Resources: Moving Through Disruption to Improved Practice} \textbar {} Practice}{28}{section*.99}%
 \contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {Showcasing a Student-Led Anti-Racism Virtual Simulation Module for Equitable Learning} \textbar {} Practice}{29}{section*.100}%
 \contentsline {subsection}{Concurrent Session 8.3 \textbar {} Wildcard}{29}{section*.101}%
-\contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {Designing Agile Skill Development Pathways for Climate Adaptation: Leveraging Open Competency Frameworks and Open Educational Resources to Develop Micro-credential} \textbar {} Practice}{29}{section*.102}%
+\contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {Adaptive Learning in Practice} \textbar {} Practice}{29}{section*.102}%
 \contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {An e-Book of One's Own} \textbar {} Practice}{29}{section*.103}%
 \contentsline {subsection}{Concurrent Session 8.4 \textbar {} Transitions of Online Learning \& Teaching}{29}{section*.104}%
 \contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {Intentionality, Community, and Well-being: Re-imagining Blended Course Design} \textbar {} Practice}{29}{section*.105}%
-\contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {L'apprentissage en ligne au Québec : résultats de l'enquête annuelle 2022 de l'ACRFL (in French)} \textbar {} Practice}{30}{section*.106}%
+\contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {L'apprentissage en ligne au Québec : résultats de l'enquête annuelle 2022 de l'ACRFL (in French)} \textbar {} Practice}{29}{section*.106}%
 \contentsline {section}{End-of-Day Networking or Creative Space \textbar {} 5:00-6:00}{30}{section*.107}%
 \contentsline {chapter}{\numberline {4}Tuesday, May 30 \textbar {} In Person at York University}{31}{chapter.4}%
 \contentsline {subsection}{Session Types}{31}{section*.108}%
@@ -202,7 +202,7 @@
 \contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {The Interconnectivity of Heutagogy and Education 4.0 in Higher Online Education} \textbar {} Research}{44}{section*.183}%
 \contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {An Interwoven Course: Reflective Practice and Portfolio} \textbar {} Practice}{44}{section*.184}%
 \contentsline {subsection}{Concurrent Session 16.2 \textbar {} Wildcard}{44}{section*.185}%
-\contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {Adaptive Learning in Practice} \textbar {} Practice}{44}{section*.186}%
+\contentsline {paragraph}{3:30-4:30 \textbar {} \textbf {Designing Agile Skill Development Pathways for Climate Adaptation: Leveraging Open Competency Frameworks and Open Educational Resources to Develop Micro-credential} \textbar {} Practice}{44}{section*.186}%
 \contentsline {paragraph}{4:30-5:00 \textbar {} \textbf {What Happened to OpenCourseWare? A Discussion of the Open Education Movement's Shift from Course Content to Textbooks} \textbar {} Practice}{45}{section*.187}%
 \contentsline {subsection}{Concurrent Session 16.3 \textbar {} Wildcard}{45}{section*.188}%
 \contentsline {paragraph}{3:30-5:00 \textbar {} \textbf {Leadership for Digital Transformation} \textbar {} Research}{45}{section*.189}%

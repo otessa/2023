@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.5)  6 APR 2023 18:06
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.5)  7 APR 2023 10:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1100,10 +1100,7 @@ Missing character: There is no ✨ (U+2728) in font [lmroman10-bold]:mapping=tex
 ] [24] [25] [26] [27]
 Underfull \vbox (badness 4713) has occurred while \output is active []
 
-[28]
-Underfull \vbox (badness 3977) has occurred while \output is active []
-
-[29] [30]
+[28] [29] [30]
 Chapter 4.
 Missing character: There is no ✨ (U+2728) in font [lmroman10-bold]:mapping=tex-text;!
 [31

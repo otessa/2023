@@ -379,11 +379,11 @@ These questions have dominated teaching and learning circles and social media si
 
 ```{block, type='session'}
 
-#### 3:30-4:30 | **Designing Agile Skill Development Pathways for Climate Adaptation: Leveraging Open Competency Frameworks and Open Educational Resources to Develop Micro-credential** |  Practice {-}
 
-***David Porter*** | *DP+Associates*
 
-***Robin S Cox*** | *Royal Roads University*
+#### 3:30-4:30 | **Adaptive Learning in Practice** |  Practice {-}
+
+***Don Eldridge*** | *eCampusOntario*
 
 **Keywords:** 
 
@@ -394,6 +394,7 @@ These questions have dominated teaching and learning circles and social media si
 </p>
 </details>
 ```
+
 
 ```{block, type='session'}
 

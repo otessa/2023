@@ -337,11 +337,11 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 ```{block, type='session'}
 
+#### 3:30-4:30 | **Designing Agile Skill Development Pathways for Climate Adaptation: Leveraging Open Competency Frameworks and Open Educational Resources to Develop Micro-credential** |  Practice {-}
 
+***David Porter*** | *DP+Associates*
 
-#### 3:30-4:30 | **Adaptive Learning in Practice** |  Practice {-}
-
-***Don Eldridge*** | *eCampusOntario*
+***Robin S Cox*** | *Royal Roads University*
 
 **Keywords:** 
 
