@@ -83,11 +83,11 @@
 
 ## Break | 12:00-12:30 {-}
 
-## Concurrent Session 17 | Invited Speakers | 12:30-1:15 {-}
+## Parallel Session 17 | Invited Speakers | 12:30-1:15 {-}
 
 45 Minutes
 
-### Concurrent Session 17.1 {-}
+### Parallel Session 17.1 {-}
 
 ```{block, type='speaker'}
 
@@ -105,7 +105,7 @@
 </details>
 ```
 
-### Concurrent Session 17.2 {-}
+### Parallel Session 17.2 {-}
 
 ```{block, type='speaker'}
 

@@ -43,10 +43,10 @@
 
 ### Showcase 21.3 |  Addressing Inequities {-}
 
+
 ```{block, type='session'}
 
-####  **GetLitwithFin: A Cross-Campus Capstone Classroom (C4) Digest (@York)
-** |  Practice {-}
+####  **GetLitwithFin: A Cross-Campus Capstone Classroom (C4) Digest (@ York)** |  Practice {-}
 
 ***Gilbert Chen, Diana Xu, Saranya Sivaneshon, Pranav Kulkarni, Wasif Hyder, Parkriti Biswas, Jessica Kabuli & Ramshah Kidwai*** | *York University*
 
