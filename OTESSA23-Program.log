@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.5)  7 APR 2023 10:03
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.3.5)  12 APR 2023 18:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1056,11 +1056,6 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 6.99925pt on input line 3.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 4.99947pt on input line 3.
-
-Underfull \hbox (badness 1221) in paragraph at lines 17--17
- [][] []\TU/lmr/m/n/10 Conference Welcome, Announcements & Land Acknowledgement 
- []
-
 [3] [4] [5])
 \tf@toc=\write5
 \openout5 = `OTESSA23-Program.toc'.
@@ -1083,10 +1078,7 @@ Missing character: There is no ✨ (U+2728) in font [lmroman10-bold]:mapping=tex
 [13] [14] [15] [16]
 Underfull \vbox (badness 1817) has occurred while \output is active []
 
-[17] [18]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[19] [20]
+[17] [18] [19] [20]
 Chapter 2.
 File: docs/assets/aditya-chinchure-3mlAZQuGgIQ-unsplash.jpg Graphic file (type bmp)
 <docs/assets/aditya-chinchure-3mlAZQuGgIQ-unsplash.jpg>
@@ -1142,16 +1134,19 @@ Overfull \hbox (15.90453pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 44 \TU/lmr/m/sl/10 CHAPTER 5.  WEDNESDAY, MAY 31 | IN PERSON AT YORK UNIVERSITY
  []
 
-[44] [45]
+[44]
+Underfull \vbox (badness 4765) has occurred while \output is active []
+
+[45]
 Overfull \hbox (15.90453pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 46 \TU/lmr/m/sl/10 CHAPTER 5.  WEDNESDAY, MAY 31 | IN PERSON AT YORK UNIVERSITY
  []
 
-[46
-
-]
+[46]
 Chapter 6.
-[47] [48
+[47
+
+] [48
 
 ]
 Chapter 7.
@@ -1160,12 +1155,12 @@ Missing character: There is no ✨ (U+2728) in font [lmroman10-bold]:mapping=tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [52]
-Underfull \hbox (badness 3815) in paragraph at lines 2794--2795
+Underfull \hbox (badness 3815) in paragraph at lines 2814--2815
  []\TU/lmr/bx/n/10 2:00-2:30 | Interprofessional Healthcare Simulation Co-
  []
 
 
-Underfull \hbox (badness 2020) in paragraph at lines 2817--2818
+Underfull \hbox (badness 2020) in paragraph at lines 2837--2838
  []\TU/lmr/bx/n/10 9:30-10:30 | Four Perspectives of Learner-Educator Co-
  []
 
@@ -1173,18 +1168,18 @@ Underfull \hbox (badness 2020) in paragraph at lines 2817--2818
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [53]
-Underfull \vbox (badness 5091) has occurred while \output is active []
+Underfull \vbox (badness 1281) has occurred while \output is active []
 
 [54]
-Underfull \hbox (badness 3815) in paragraph at lines 2985--2986
- []\TU/lmr/bx/n/10 4:00-4:30 | Interprofessional Healthcare Simulation Co-
+Underfull \hbox (badness 3815) in paragraph at lines 3008--3009
+ []\TU/lmr/bx/n/10 4:15-4:45 | Interprofessional Healthcare Simulation Co-
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [55] [56]
-Underfull \hbox (badness 3281) in paragraph at lines 3120--3121
+Underfull \hbox (badness 3281) in paragraph at lines 3143--3144
  \TU/lmr/bx/n/10 7.0.0.0.12 **GetLitwithFin: A Cross-Campus Capstone
  []
 
@@ -1200,13 +1195,13 @@ No file OTESSA23-Program.bbl.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `OTESSA23-Program.out' has not changed.
-(rerunfilecheck)             Checksum: 2483A99682E24D60D52366B90D3F6212;18765.
+(rerunfilecheck)             Checksum: 6B9B5845948293D62002753F5B2220B3;20313.
  ) 
 Here is how much of TeX's memory you used:
- 26918 strings out of 478683
- 544849 string characters out of 5847963
+ 26921 strings out of 478683
+ 545017 string characters out of 5847963
  1856018 words of memory out of 5000000
- 46614 multiletter control sequences out of 15000+600000
+ 46617 multiletter control sequences out of 15000+600000
  518754 words of font info for 87 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  86i,6n,121p,865b,489s stack positions out of 10000i,1000n,20000p,200000b,200000s

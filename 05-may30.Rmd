@@ -179,10 +179,10 @@
 
 ## Lunch Break & Streamed Congress Programming | 12:00-1:30 {-}
 
-## Concurrent Session 10 |  Invited Speakers  | 1:30-2:30 {-}
+## Parallel Session 10 |  Invited Speakers  | 1:30-2:30 {-}
 
 45 Minutes
-### Concurrent Session 10.1 {-}
+### Parallel Session 10.1 {-}
 
 ```{block, type='speaker'}
 
@@ -199,7 +199,7 @@
 </p>
 </details>
 ```
-### Concurrent Session 10.2 {-}
+### Parallel Session 10.2 {-}
 
 ```{block, type='speaker'}
 
@@ -468,5 +468,6 @@
 ```
 
 
-## End-of-Day Networking or Creative Space | 5:00-6:00 {-}
+## See Congress Programming for Social Tent & Food Options | 5:00-7:00 {-}
 
+## OTESSA Social |  Life Sciences Building Lobby | 7:00-11:59 {-}
