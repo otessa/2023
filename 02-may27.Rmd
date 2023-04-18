@@ -344,9 +344,9 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 
 ```{block, type='session'}
 
-#### 2:30-3:00 | **TBA** |   {-}
+#### 2:30-3:00 | **A Framework for Evaluating the Creation and Adaptation of Open Textbooks** |   {-}
 
-***TBA*** | *TBA*
+***Melissa Ashman*** | *Kwantlen Polytechnic University*
 
 **Keywords:** 
 

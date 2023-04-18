@@ -273,49 +273,11 @@ Education has always collected and used student learning data in combination wit
 </details>
 ```
 
-### Concurrent Session 18.4 |  Sustaining Positive Change {-}
+### Concurrent Session 18.4 |  Addressing Inequities {-}
 
 ```{block, type='session'}
 
-
-#### 1:30-2:00 | **A Framework for Evaluating the Creation and Adaptation of Open Textbooks** |  Research {-}
-
-***Melissa Ashman*** | *Kwantlen Polytechnic University*
-
-**Keywords:** 
-
-<details>
-<summary>Abstract</summary>
-<p>
-
-</p>
-</details>
-```
-
-```{block, type='session'}
-
-
-#### 2:00-2:30 | **Interprofessional Healthcare Simulation Co-Creation: A Pilot Study** |  Research {-}
-
-***Laura Killam*** | *Queen’s University Canada*
-
-***Jacqueline Vaughn, Alicia Sellon, Chase DuBois, Amelia Huelskamp, Andrea Smith, Colette Waddill & Justine Reel*** | *University of North Carolina Wilmington*
-
-**Keywords:** 
-
-<details>
-<summary>Abstract</summary>
-<p>
-
-</p>
-</details>
-```
-
-### Concurrent Session 18.5 |  Addressing Inequities {-}
-
-```{block, type='session'}
-
-#### 9:30-10:30 | **Four Perspectives of Learner-Educator Co-Creation** |  Practice {-}
+#### 1:30-2:30 | **Four Perspectives of Learner-Educator Co-Creation** |  Practice {-}
 
 ***Mercedes Lock*** | *Cambrian College*
 
@@ -334,6 +296,7 @@ Education has always collected and used student learning data in combination wit
 </p>
 </details>
 ```
+
 
 ```{block, type='session'}
 
