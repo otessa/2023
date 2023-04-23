@@ -77,11 +77,14 @@
 
 ***Amber Hartwell, Christy Thomas, Barbara Brown & Bruna Nogueria*** | *University of Calgary*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary><b>Abstract</b></summary>
 <p>
+With post-secondary institutions increasing offerings of online courses, there is much to learn about how online group work is designed. This is of particular importance for professional certification courses where group work is used to develop skills needed to prepare students for their chosen field, such as K-12 education. As part of case study research, the authors synthesize findings collected from both instructors and students at Western Canadian post-secondary institutions offering online courses in their Bachelor of Education degree pathways. Seeking to understand how group work can be designed to build essential professional skills required in the teaching profession through online course delivery, data was collected through one online survey, semi-structured interviews, and course documents. Findings suggest four design considerations for online group work: (1) clearly articulate the purpose of group work, (2) provide learner support through teaching presence, (3) be intentional in how groups are established, and (4) leverage digital tools for collaboration. The results will serve to benefit faculty, students and educational policy makers in understanding how group learning in online courses can be designed to develop critical professional skills. This will particularly benefit post-secondary institutions providing online courses in professional fields.
 
 </p>
 </details>
@@ -94,10 +97,12 @@
 
 ***TBA*** | *TBA*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary><b>Abstract</b></summary>
 <p>
 
 </p>
@@ -113,11 +118,18 @@
 
 ***Lorayne Robertson*** | *Ontario Tech University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary><b>Abstract</b></summary>
 <p>
+The complexities of the human condition are undeniable, including the infinite ways that people are different. When difference translates to diminished access, participation and outcomes, then these inequities need to be understood in order to be addressed, particularly in schools. In a post-digital era, surveillance has enabled injustices to be recorded and distributed, acutely raising awareness of the many forms of systemic oppression in Canadian society. For these reasons, the study of Equity, Diversity and Inclusion (EDI) is important in post-secondary education as the K-12 curriculum in Canadian schools can be silent on some of these topics. Designers of courses in EDI need to engage both the students who are already aware that education and society are unequal and those who are not. Through the process of learning about the unequal aspects of education, it can be challenging to keep students engaged. In addition, the designers of EDI courses need to teach EDI in a way that the key concepts, theories and discourses across areas of difference coalesce to make sense and reinforce learning.
+
+In this session, students who designed foundational courses in EDI at both the graduate and undergraduate level for their Faculty of Education address the different backgrounds, perspectives and goals that they brought to the process of course design. As they co-created the course, they came to realize that there were multiple areas of oppression and had to grapple with which areas to address first. Different theoretical approaches to the teaching of EDI in the past have created separate spaces rather than common understandings of inequality. The study of critical race theory is unlikely to open spaces for broader gender expression. An understanding of intersectionality can bring a realization of the compounding effects when sites of oppression intersect, but it is insufficient as a pedagogical approach to address all of the ways that students can be “othered” in a school system. This created a challenge for the student designers to discern how areas of inequality in schools were similar and how they differed.
+
+Working in a digitally-fluent educational program, the students worked together to create online courses. They looked for ways to build social presence and cognitive presence within the online space. They realized that the teaching of EDI is not a process of conversion but a process of hearing other perspectives and understanding educational inequality through others’ eyes. Some had experienced inequities as members of equity-seeking groups; others were coming to terms with an understanding of systematic forms of oppression; and still others wanted to work toward critical, decolonizing and transformative pedagogical approaches. As a group, they developed a collective understanding of what is needed to prepare students to understand how Canadian workplaces and schools can become sites of increased EDI awareness and change.
 
 </p>
 </details>
@@ -132,11 +144,14 @@
 
 ***Mariel Miller, Safoura Askari & Syed Qudsia*** | *University of Victoria*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary><b>Abstract</b></summary>
 <p>
+Online collaborative testing is an approach to assessment that emphasizes technology-mediated learning through interaction with peers. As the COVID-19 pandemic prompted exponential growth in online teamwork, skills for online collaborative problem-solving have become essential for today’s graduates. As such, online collaborative testing can play a crucial role in supporting students to develop these skills. In this paper, we report on how an online collaborative test was implemented in a large first-year undergraduate course. We will begin with a review of the literature on online collaborative testing. We then describe how the instructional team designed and administered a synchronous online collaborative midterm exam in which groups worked together to analyze a complex case scenario. Finally, we will conclude with a reflection on the strengths and limitations of our approach and opportunities for future design.
 
 </p>
 </details>
@@ -148,11 +163,14 @@
 
 ***Danielle Dilkes*** | *Western University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary><b>Abstract</b></summary>
 <p>
+This session will offer participants an opportunity to reflect on the digital spaces in which learning occurs and on how these spaces constrain and afford student and instructor behaviour through designs that invisibly embody specific values, motivations, beliefs and assumptions about education. We will examine different designs for learning environments, including the carceral designs, or hostile architectures, common to many educational technologies such as Learning Management Systems, surveillance technologies and other digital tools. We will also examine tools that emphasize learner autonomy by allowing a distribution of control and how these designs reflect a different belief about teaching and learning. Because many of the values and beliefs embedded in these designs are hidden, we will consider how certain designs may control how instructors teach, how learners learn, and the relationship between instructors and learners. We will conclude with a pragmatic discussion of how to strike balance between the convenience of certain technologies and the importance of fostering the digital literacies required to identify tools that align with our own ideologies and pedagogical identities.
 
 </p>
 </details>
@@ -172,7 +190,7 @@
 
 
 <details>
-<summary>Abstract</summary>
+<summary><b>Abstract</b></summary>
 <p>
 
 Education as a tool for both healing and reconciliation has been an evolving movement over the years, and in particular since the release the of the Truth and Reconciliation Commission 94 Calls to Action.  Eight years later in a post TRC society, what truths remain untold?  What lessons have we learned in trying to mobilize meaningful change?  How can we as educators, uphold our responsibilities in the work of rebuilding the broken relationship that has brought us to this space? As the reconciliatory bridge continues to be constructed, education systems will continue to play a keystone role in the process of building awareness, understanding, and creating action.
@@ -186,7 +204,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 ## Break | 12:00-1:30 {-}
 
-## Parallel Session 14 | Invited Speakers | 1:30-2:15 {-}
+## Invited Speakers | 1:30-2:15 {-}
 
 45 Minutes
 
@@ -198,10 +216,12 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 *Session title: TBA*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary><b>Abstract</b></summary>
 <p>
 
 </p>
@@ -216,10 +236,12 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 *Session title: TBA*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary><b>Abstract</b></summary>
 <p>
 
 </p>
@@ -241,11 +263,15 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 ***Catherine Lachaîne*** | *University of Ottawa*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary><b>Abstract</b></summary>
 <p>
+During this session, I will present the results of a qualitative exploratory study that focused on the current teaching practices of postsecondary professors, librarians, and lecturers in Francophone minority contexts in Canada to determine whether these practices are consistent with open educational practices (OEP). Our main research question was: To what extent, if at all, are postsecondary professors, librarians, and lecturers adopting OEPs in Francophone minority settings in Canada? 
+Three themes were generated in our thematic analyses. The adoption or non-adoption of OEPs in minority Francophone settings in Canada appears to be related to 1) Limited knowledge and application of OEPs, 2) inadequate support, and 3) the potential of PEOs at the post-secondary level in minority Francophone settings.  The themes and sub-themes give us a good overview of the challenges of OEP integration present at the time of the study, both in terms of the sociolinguistic context and the level of knowledge of open education. The voices of the participants also highlighted the potential impact of the open movement in a minority language context.  More research on marginalized language groups is needed to explore the potential of OEP to sustain inclusive, equitable, and positive change in the open education landscape.
 
 </p>
 </details>
@@ -261,11 +287,14 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 ***Normand Roy*** | *Université de Montréal*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary><b>Abstract</b></summary>
 <p>
+The Canadian government launched the “Families Connected” initiative in 2018. The goal was to provide Internet access to low-income families across Canada. At the turn of the millennium, the Internet has become an essential tool for accessing information and knowledge. Yet Canada, like many other countries around the world, faces accessibility challenges for multiple reasons: geography, culture, history, etc. (Howard et al., 2018). In this sense, technology gaps have developed in relation to age, language, family income, origin, etc. Howard et al. (2018) point out that education, age, and income are correlated with limited internet access and low digital literacy. The survey sent out consisted of 30 questions addressing: sociodemographic characteristics, accessible digital resources, habits with technology, initiative needs, and Internet uses and challenges. A total of 89,776 questionnaires (P1 = 28,444; P2 = 9,163; P3 = 34,327; P4 = 17,842) were completed by participants in the initiative. In addition to the questionnaire, interviews were conducted during each phase with a variable number of participants (between 20 and 50) to clarify ideas. Longitudinal results shed light on the impact of such an initiative on low-income families, as well as on the effects of the global COVID-19 pandemic on the habits of an at-risk group.
 
 </p>
 </details>
@@ -281,11 +310,16 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 ***Liton Furukawa*** | *Royal Roads University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary><b>Abstract</b></summary>
 <p>
+The COVID-19 pandemic has forced children to quickly adapt to home-based or virtual learning; however, challenges and difficulties have arisen such as the use of technology during the learning process and maintaining social interactions among children during online and classes. More importantly, a significant rise in the rates of mental illness has occurred as a result of COVID-19 and children are now experiencing increased mental health and physical challenges. Although learning projects applying multisensory approaches have been promoted, there is a need for further evidence-based research to reckon with and re-imagine the used of technology in education and ensure these models are moving us toward more diverse and sustainable solutions/approaches.
+
+Based on a robust psychological and pedagogical perspective in the use of advanced technologies, such as the application of holography, in educational settings, this research aims to help fill this gap. This study involves conducting ongoing research using an interdisciplinary approach that aims to assist children during and beyond COVID-19. Qualitative and quantitative data will be collected and made available to practitioners and parents who currently have no related reference point to serve as the basis for evidence-based guidelines. The research findings will broaden the scope of current literature that itself is in need of emphasizing the importance of empirical investigations into how best to use the multisensory model within the learning environment.
 
 </p>
 </details>
@@ -305,11 +339,14 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 ***Jeanne Kim*** | *Athabasca University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary><b>Abstract</b></summary>
 <p>
+Industry 4.0 advancements in technology are creating a dynamic and fast changing world that affects how we live and work. Educators need to rethink existing teaching approaches to better prepare learners for future careers that Industry 4.0 will create. The World Economic Forum defined a new education model, called Education 4.0, which contains eight major changes to redefine learning in the new economy. Heutagogy, or self-determined learning, is an approach that promotes critical thinking, social-emotional skills, and life-long learning. These skills are necessary for Education 4.0. The purpose of this paper is to recommend the principles of heutagogy as an effective teaching and learning approach to meet the needs of Education 4.0. The approach of the study examines existing literature on Education 4.0 and heutagogy. A conceptual model that interconnects heutagogy to the four learning principles of Education 4.0 will be offered as a key finding to answer the research question: How does heutagogy in higher online education meet the needs of Education 4.0? The paper provides a base for further research and discussion into how heutagogy and other approaches can support the needs of Education 4.0 to prepare learners for a changing world.
 
 </p>
 </details>
@@ -323,11 +360,14 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 ***Christine Ho Younghusband*** | *University of Northern British Columbia*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary><b>Abstract</b></summary>
 <p>
+A teacher education program in British Columbia (BC) redesigned the curriculum to include an interwoven course that would span over the 16-months of the program to develop the teacher candidate’s reflective practice through inquiry and e-portfolios. The program used to be a 2-year program and provide a 3-credit EdTech course in the third term of four as a discrete course. In that course, creating an e-Portfolio would have been one of the learning objectives. In this interwoven course, however, teacher candidates are exposed to developing an open-sourced WordPress site in the first term with guidance from faculty, but over time, teacher candidates become more autonomous and independent with content creation as they develop their reflective practice, engage in inquiry on a topic of interest in education, and make explicit connections between theory and practice while meeting the expectations of the Professional Standards for BC Educators. Writing through blogging and creating webpages that best depict who the teacher candidate perceives their strengths and competencies as an educator provides a platform to personalize their learning and sense-make between theory and practice.
 
 </p>
 </details>
@@ -343,11 +383,14 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 ***Robin S Cox*** | *Royal Roads University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary><b>Abstract</b></summary>
 <p>
+Capacity building for advancing climate-change leadership has become a critical workforce development requirement for both professionals and front-line workers. As the World Economic Forum Jobs 2020 report (2020) noted, there is an increasing need to provide short-timeframe opportunities for re-skilling and upskilling that will not diminish as we move forward. Micro-credentials have been proposed as a strategy to enable the ongoing development of knowledge and skills across the workforce, which we examine in the context of a university initiative that has prototyped skill pathways to address key climate adaptation themes, including the use of Indigenous knowledge and world views as a critical lens for analysis and action. We report and discuss the strategic use of the Climate Adaptation Competency Framework (2020) – a CC-licensed open competency framework – along with the use of open educational resources to create agile pathways to skill development. The pathways we have designed and are testing combine self-directed learning resources, individual and group activities, and authentic assessment practices to validate skill development. Micro-credentials are awarded from a university continuing and professional learning division to professionals from multiple practice domains for demonstrations of competence.
 
 </p>
 </details>
@@ -361,37 +404,20 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 ***Erik Christiansen*** | *Mount Royal University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary><b>Abstract</b></summary>
 <p>
+The open education movement is now more than twenty years old, if counting from the launch of MIT’s OpenCourseWare (OCW) in 2001. Though OCW was instrumental in jumpstarting higher education’s enthusiasm for open educational resources (OER), provincial funding bodies have doubled-down on open textbooks, and this focus is reflected in the language used by provincial funding bodies, as well as the impressive, and growing, number of openly licensed textbooks. The focus on textbooks is understandable given the intense interest from students. Several provincial funding bodies, including BC Campus, OpenEd Manitoba, and eCampus Ontario have saved students millions of dollars by encouraging open textbook adoption in post-secondary. Furthermore, open textbooks (and other learning objects) are arguably easier to host and distribute than entire courses. The tradeoff is that this lopsided focus on open textbooks means that a few institutions (most notably MIT, TU Delft and others) dominate the OCW space. In this presentation, the author will argue the reasons why OCW investment is inconsistent and highlight the challenges that face OCW creation and adoption. The author will also argue that refocusing on OCW investment has the potential to bolster institutional reputation and satisfy a public that is hungry for high-quality open content.
 
 </p>
 </details>
 ```
 
-### Concurrent Session 16.3 |  Wildcard {-}
-
-```{block, type='session'}
-
-
-
-#### 3:30-5:00 | **Leadership for Digital Transformation** |  Research {-}
-
-***Don Eldridge, Monica Shah & Alissa Bigelow*** | *eCampusOntario*
-
-**Keywords:** 
-
-<details>
-<summary>Abstract</summary>
-<p>
-
-</p>
-</details>
-```
-
-### Concurrent Session 16.4 |  Sustaining Positive Change {-}
+### Concurrent Session 16.3 |  Sustaining Positive Change {-}
 
 ```{block, type='session'}
 
@@ -401,11 +427,14 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 ***Robyn Hall*** | *MacEwan University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary><b>Abstract</b></summary>
 <p>
+Canadian universities are striving to build stronger foundations in community engagement. Community-based researchers are doing this foundational work, conducting research alongside community partners. This work often results in non-traditional research outputs including, for instance, reports, policy briefs, photographic exhibits, and video productions. While this work serves to inform policy, advance social change, and by extension, contribute to teaching and learning, it is often not shared widely online in ways that encourage discoverability, and long-term use. Notably, it is frequently absent from digital platforms maintained by academic libraries used to distribute scholarly and creative works in open and sustainable ways such as institutional repositories and open-source web-publishing applications, and it is rarely shared under flexible Creative Commons copyright licenses. Reflecting on recent data collected through surveys and interviews with Canadian community-based researchers and librarians supporting scholarly communications, this presentation will provide insight into why this work is so often not shared on open access platforms. Participants will be asked to consider challenges and opportunities present at their own institutions to support the dissemination of community-based research outputs, with a particular focus on reimagining academic library services to help advance its impact and reach.
 
 </p>
 </details>
@@ -419,11 +448,14 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 ***Maryam Shirdel Pour & Michael Paskevicius*** | *University of Victoria*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary><b>Abstract</b></summary>
 <p>
+Assessment literacy is defined as the knowledge and expertise that are employed to conduct valid assessments (Luthfiyyah et al., 2020). Research indicates that teachers’ assessment literacy could influence the effectiveness of educational practices (Oo et al., 2022). Teachers with adequate assessment literacy support learners to enhance their understanding and achieve desired learning outcomes. Inquiry-based learning is defined as an educational approach that emphasizes student agency and their active role in knowledge creation often using digital tools and technologies. Creating a learning environment that encourages learners to pursue knowledge through their inquiries and construct understanding while participating in learning activities fosters student learning (Vaughn et al., 2022). Moving toward inquiry-based learning necessitates some adjustments in the approaches that educators apply to assess learners as they document the progress of their learning in an open manner. Teachers can benefit from developing assessment literacy to teach more efficiently, address learners’ educational needs, and evaluate their learning process. The purpose of this paper is to review the existing literature to gain a deeper understanding of the influence of teachers’ assessment literacy while conducting assessments in a technology-enabled inquiry-based learning environment. Moreover, the challenges teachers may confront while implementing the inquiry-based assessment will be discussed.
 
 </p>
 </details>
@@ -437,10 +469,12 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 ***TBA*** | *TBA*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary><b>Abstract</b></summary>
 <p>
 
 </p>

@@ -9,11 +9,14 @@
 
 ***Mariana Jardim, Abigail Warnock & Robert Matz*** | *University of Toronto*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary><b>Abstract</b></summary>
 <p>
+“Digital borders” are a metaphor that can be used to navigate the many different “worlds” we experience between online and offline landscapes. Borders are a method that helps to redefine and reorganize our understanding of these spaces and the rules that importantly determine governance over moments of dispossession, marginalization, and exploitation. Indeed, the “digital divide” is a complicated and precarious problem for communities now exposed to an increasingly digital and immaterial world that is unfamiliar. The library is an institution equipped to mediate these borders, by developing work-integrated learning programs as well as learning objects that offer to “bridge” this divide. In the experience of The BRIDGE and the UTSC Library, programming for digital literacy is a vital component to establish borders between digital and physical worlds, as well as to providing educational opportunities to navigating the inclusivity and exclusivity of digital borders in a meaningful way.
 
 </p>
 </details>
@@ -31,11 +34,14 @@
 
 ***Chris Rowell*** | *University of the Arts London*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary><b>Abstract</b></summary>
 <p>
+Critical Digital Pedagogy in Higher Education is an edited volume with 13 chapters. The work has recently been published by Athabasca University Press in print, ebook, and open access formats. Contributors to the book critique oppressive educational systems and practices in order to create positive change – these reflections and shared practices reflect the diversity of critical pedagogic practices in the context of digital/digitized higher education. We have divided the chapters in the book according to four prominent themes: shared learning and trust, critical consciousness, change and hope. We invite the delegates to engage in a productive dialogue on these themes and the work in the book through the asynchronous forums.
 
 </p>
 </details>
@@ -50,11 +56,14 @@
 
 ***Gilbert Chen, Diana Xu, Saranya Sivaneshon, Pranav Kulkarni, Wasif Hyder, Parkriti Biswas, Jessica Kabuli & Ramshah Kidwai*** | *York University*
 
+<!--
 **Keywords:** 
+-->
 
 <details>
-<summary>Abstract</summary>
+<summary><b>Abstract</b></summary>
 <p>
+Our Cross-Campus Capstone Classroom (C4) interdisciplinary project involved our approach to the challenge question: “How can financial literacy be taught and learned in the K-12 sector on a more equitable basis?” It involves the UN SDG 10 – Reduced Inequalities with our community partner RBC on Campus. We tackled the problem by creating free online after-school zoom classes for any grade 11-12 students in Ontario. These sessions and addtional content were centered around an accessible website. Students participated in three 30 minute sessions; each was equitable and inclusive and involved an important post-secondary topic. Topics include Saving, Borrowing, and Investing. These were taught in an engaging, relatable, and fun manner to increase their retention of the material. We will discuss our ethical social media outreach and teaching methodology. We wanted to share the importance of financial literacy and these three particular topics. As we wished to reduce any barriers that may exist such as socio-economic, political, or racial with a decolonization approach.
 
 </p>
 </details>
