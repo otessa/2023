@@ -134,10 +134,10 @@ This session examines ongoing work by a multi-stakeholder group to develop susta
 Much discussion of open education policy has occurred at the supranational level (e.g., UNESCO, 2019) and in some cases, nations and subnational governments have taken up the challenge of incorporating open resources and practices into policymaking. What is less clear, and less straightforward to investigate, is the extent to which individual higher education institutions are developing policy to support aspects of openness.
 This session reports on doctoral research work-in-progress investigating the institutional open education policy space. A survey instrument was developed and distributed in order to seek the views of HE staff members internationally. In order to frame the research questions and instruments, inclusive understandings of the concepts ‘open education’ and ‘institutional policy’ have ben adopted. Open education can be described as a wide umbrella term, which can potentially refer to many practices across formal, informal and non-formal education (Author, 2016; Weller et al., 2019). ‘Institutional policy’ is considered to include documented policies, strategies, regulations or guidelines, but also for example, provision of infrastructure, usual courses of action, regular aspects of a person’s work, or funded or supported areas of activity (Author, 2020).
 Participants in the survey were therefore asked for information and opinions about the intentions and effects of local institutional policies on areas of practice including:
-- use, creation, sharing and adaptation of open educational resources (OER).
-- offering of free and lower-cost online courses.
-- opening up of aspects of learning, teaching and assessment to external participants, partners and audiences.
-- participating in open professional development communities of practice.
+- use, creation, sharing and adaptation of open educational resources (OER).  
+- offering of free and lower-cost online courses.  
+- opening up of aspects of learning, teaching and assessment to external participants, partners and audiences.  
+- participating in open professional development communities of practice.  
 The presentation will give an overview of the findings from the survey and consider implications for OE advocates seeking to enhance support for OEP within institutions through policy.
 
 </p>
@@ -248,7 +248,7 @@ These questions have dominated teaching and learning circles and social media si
 
 ```{block, type='speaker'}
 
-####  **Jennifer Wemigwans** 
+####  **Jennifer Wemigwans** | OISE University of Toronto
 
 *Digital Bundles: A Reckoning and a Re-imagining *
 
