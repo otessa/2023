@@ -69,8 +69,7 @@
 
 ```{block, type='session'}
 
-#### 9:30 - 10:30 | **Cultivating Essential Leadership Skills for Digital Transformation in Ontario Postsecondary Education** |  Practice
- {-}
+#### 9:30 - 10:30 | **Cultivating Essential Leadership Skills for Digital Transformation in Ontario Postsecondary Education** |  Practice {-}
 
 ***Alissa Bigelow & Monica Shah*** | *eCampusOntario*
 
@@ -222,8 +221,7 @@ Graduate students are under increasing pressure to participate in academic publi
 
 #### Academic Integrity in the Age of Artificial Intelligence {-}
 
-*Sarah Elaine Eaton*
-*University of Calgary*
+***Sarah Elaine Eaton*** | *University of Calgary*
 
 <details>
 <summary><b>Abstract</b></summary>
@@ -248,7 +246,7 @@ These questions have dominated teaching and learning circles and social media si
 
 ```{block, type='speaker'}
 
-####  **Jennifer Wemigwans** | OISE University of Toronto
+####  **Jennifer Wemigwans** | *OISE University of Toronto* {-}
 
 *Digital Bundles: A Reckoning and a Re-imagining *
 
@@ -269,7 +267,7 @@ Digital Bundles create cultural space for Indigenous Knowledge through the use o
 
 ```{block, type='speaker'}
 
-#### Session Speaker: **TBA** 
+#### Session Speaker: **TBA** {-}
 
 *Session title: TBA*
 
@@ -504,7 +502,7 @@ Engaging in a discussion of key findings, this session aims to contribute to a s
 
 #### 4:30-5:00 | **L’apprentissage en ligne au Québec : résultats de l’enquête annuelle 2022 de l’ACRFL (in French)** |  Practice {-}
 
-*** Bruno Poellhuber & Simon Parent*** | *Université de Montréal*
+***Bruno Poellhuber & Simon Parent*** | *Université de Montréal*
 
 <!--
 **Keywords:** 

@@ -1,10 +1,10 @@
-# Tuesday, May 30 | In Person at York University 
-
+# Tuesday, May 30 | In Person at York University
 
 ```{block, type='protip'}
 
 #### Join us for the #OTESSA23 Morning Radio Show every morning (time TBA) at https://voiced.ca
 ```
+
 ### Session Types {-}
 
 ```{block, type='protip'}
@@ -32,11 +32,13 @@
 #### Regular Session
 
 ```
+
 ```{block, type='social'}
 
 #### Social Session
 
 ```
+
 ```{block, type='vendor'}
 
 
@@ -50,12 +52,12 @@
 #### Workshop
 
 ```
---- 
 
+---
 
 ## Continental Breakfast Provided | 8:00-9:00 {-}
 
-##  Welcome Desk Open | 8:00 - 11:30 {-}
+## Welcome Desk Open | 8:00 - 11:30 {-}
 
 ## Conference Welcome, Announcements & Land Acknowledgement | 9:00-9:15 {-}
 
@@ -64,6 +66,7 @@
 ## Concurrent Session 9 | 9:30-10:30 {-}
 
 1 hour
+
 ### Concurrent Session 9.1 |  Transitions of Online Learning & Teaching {-}
 
 ```{block, type='session'}
@@ -109,7 +112,6 @@ This paper presents the concept of technological distance, which describes a gap
 ```
 
 ### Concurrent Session 9.2 |  Transitions of Online Learning & Teaching {-}
-
 
 ```{block, type='session'}
 
@@ -171,6 +173,7 @@ A main aspect of our discussion will be around how we engaged in collaboration, 
 </p>
 </details>
 ```
+
 ```{block, type='session'}
 
 #### 10:00-10:30 | **Artificial Intelligence Writing in Higher Education: A Teaching and Learning Centre Perspective** |  Practice {-}
@@ -191,11 +194,9 @@ This presentation will explore the emerging issue of artificially intelligent wr
 </details>
 ```
 
-
 ## Break | 10:30-11:00 {-}
 
 ## **UnConference** | 11:00-12:00
-
 
 ```{block, type='protip'}
 
@@ -207,6 +208,7 @@ This presentation will explore the emerging issue of artificially intelligent wr
 ## Parallel Session 10 |  Invited Speakers  | 1:30-2:30 {-}
 
 45 Minutes
+
 ### Parallel Session 10.1 {-}
 
 ```{block, type='speaker'}
@@ -226,6 +228,7 @@ This presentation will explore the emerging issue of artificially intelligent wr
 </p>
 </details>
 ```
+
 ### Parallel Session 10.2 {-}
 
 ```{block, type='speaker'}
@@ -249,6 +252,7 @@ This presentation will explore the emerging issue of artificially intelligent wr
 ## Concurrent Session 11 |  2:30-3:00 {-}
 
 30 Minutes
+
 ### Concurrent Session 11.1 |  Transitions of Online Learning & Teaching {-}
 
 ```{block, type='session'}
@@ -272,8 +276,6 @@ Speaking to the theme of “Reckonings and (Re)Imagining,” in this session, we
 </p>
 </details>
 ```
-
-
 
 ### Concurrent Session 11.2 |  Transitions of Online Learning & Teaching {-}
 
@@ -317,15 +319,13 @@ Online video conferencing platforms have been widely used as key classroom tools
 </details>
 ```
 
-
-
 ### Concurrent Session 11.4 |  Transitions of Online Learning & Teaching {-}
 
 ```{block, type='session'}
 
 #### 2:30-3:00 | **Open at the Crossroads: Forging Media and Digital Literacy Pathways** |  Research {-}
 
-***Helen DeWaard*** | *LAkehead University & University of British Columbia*
+***Helen DeWaard*** | *Lakehead University & University of British Columbia*
 
 <!--
 **Keywords:** 
@@ -340,11 +340,12 @@ In order to re-envision open and online education, and respond to the conference
 </details>
 ```
 
-## Break with Coffee and Snack Provided | 3:00-3:30
+## Break with Coffee and Snack Provided | 3:00-3:30 {-}
 
 ## Concurrent Session 12 |  3:30-5:00 {-}
 
 1.5 Hours
+
 ### Concurrent Session 12.1 |  Transitions of Online Learning & Teaching {-}
 
 ```{block, type='session'}
@@ -544,7 +545,6 @@ Utilizing Bower’s technology-mediated learning theory as a framework, particip
 </p>
 </details>
 ```
-
 
 ## See Congress Programming for Social Tent & Food Options | 5:00-7:00 {-}
 
