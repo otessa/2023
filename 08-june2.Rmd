@@ -292,7 +292,6 @@ The panel discussion will be supported by a virtual backchannel that will foster
 </details>
 ```
 
-
 ```{block, type='session'}
 
 #### 2:30 - 3:00  | **A Learner-Educator Co-Creation Toolkit** |  Practice {-}
@@ -321,9 +320,11 @@ In this presentation we share and seek collaboration on a drafted toolkit for le
 ## Break | 3:00-3:15 {-}
 
 ## Social | 3:15-3:45 {-}
+
 ## Concurrent Session 19 | 3:45-5:15 {-}
 
 1.5 Hours
+
 ### Concurrent Session 19.1 |  Wildcard {-}
 
 ```{block, type='session'}
