@@ -655,16 +655,18 @@ This presentation will address the issue of algorithmic literacy from an informa
 
 ## Break | 5:15-5:30 {-}
 
-### Invited Speakers | 5:30-6:15 {-}
+## Parallel Session 4 |  Invited Speakers | 5:30-6:15 {-}
 
 45 Minutes
+### Parallel Session 4.1
+
 
 ```{block, type='speaker'}
 
 
-#### Session Speaker: **TBA** 
+#### Alec Couros | University of Regina
 
-*Session title: TBA*
+*Harnessing the Power of AI in Education: Opportunities and Challenges*
 
 <!--
 **Keywords:** 
@@ -673,17 +675,20 @@ This presentation will address the issue of algorithmic literacy from an informa
 <details>
 <summary><b>Abstract</b></summary>
 <p>
+In this presentation, Dr. Alec Couros will explore the exciting possibilities and impact of AI in education, focusing on tools such as ChatGPT. With the ability to provide personalized learning experiences, AI has the potential to transform the way we teach and learn. However, its integration into the classroom also raises important ethical and societal concerns. Dr. Couros will examine both the opportunities and challenges of AI in education. Participants will leave with a better understanding of the potential of AI to positively impact student learning and success, as well as the considerations and challenges that must be addressed in order to fully embrace it in our learning environments.
 
 </p>
 </details>
 ```
 
+### Parallel Session 4.2
+
 ```{block, type='speaker'}
 
 
-#### **Title** 
+#### Brad Wuetherick, University of British Columbia – Okanagan Campus {-}
 
-*Speaker*
+*Unpacking the Tensions between Indigenous Knowledges and Open Education: Exploring Lar-Son’s 6Rs for Indigenous OERs in Practicer*
 
 <!--
 **Keywords:** 
@@ -692,6 +697,7 @@ This presentation will address the issue of algorithmic literacy from an informa
 <details>
 <summary><b>Abstract</b></summary>
 <p>
+Many conversations around open education focus on a Eurocentric framework of copyright and intellectual property rights that are sometimes in tension with Indigenous knowledge systems. While Indigenous communities and scholars are interested in making access to Indigenous Knowledges a more integral part of a decolonized and Indigenized post-secondary landscape, this session will explore areas for concern around the intersections between Open Educational Resources (OERs) and Indigenous Knowledges. Using Lar-Son’s (2022) 6Rs of Indigenous OERs framework for advancing Indigenous Knowledges through Open Education pedagogies and resources, this session will explore some of the principles and practices for engaging with Indigenous communities in the creation of OERs. Additionally, the session will discuss four different OER case studies featuring Indigenous perspective and Indigenous Knowledges from across Canada, including from an ‘in the works’ edited volume, that centre Indigenous ways of knowing, culture, experiences, and worldviews within the work of open education pedagogy and OER development.
 
 </p>
 </details>

@@ -792,16 +792,18 @@ This presentation will address the issue of algorithmic literacy from an informa
 
 ## Break | 5:15-5:30 {-}
 
-### Invited Speakers | 5:30-6:15 {-}
+## Parallel Session 4 |  Invited Speakers | 5:30-6:15 {-}
 
 45 Minutes
+### Parallel Session 4.1
+
 
 ```{block, type='speaker'}
 
 
-#### Session Speaker: **TBA** 
+#### Alec Couros | University of Regina
 
-*Session title: TBA*
+*Harnessing the Power of AI in Education: Opportunities and Challenges*
 
 <!--
 **Keywords:** 
@@ -810,17 +812,20 @@ This presentation will address the issue of algorithmic literacy from an informa
 <details>
 <summary><b>Abstract</b></summary>
 <p>
+In this presentation, Dr. Alec Couros will explore the exciting possibilities and impact of AI in education, focusing on tools such as ChatGPT. With the ability to provide personalized learning experiences, AI has the potential to transform the way we teach and learn. However, its integration into the classroom also raises important ethical and societal concerns. Dr. Couros will examine both the opportunities and challenges of AI in education. Participants will leave with a better understanding of the potential of AI to positively impact student learning and success, as well as the considerations and challenges that must be addressed in order to fully embrace it in our learning environments.
 
 </p>
 </details>
 ```
 
+### Parallel Session 4.2
+
 ```{block, type='speaker'}
 
 
-#### **Title** 
+#### Brad Wuetherick, University of British Columbia – Okanagan Campus {-}
 
-*Speaker*
+*Unpacking the Tensions between Indigenous Knowledges and Open Education: Exploring Lar-Son’s 6Rs for Indigenous OERs in Practicer*
 
 <!--
 **Keywords:** 
@@ -829,6 +834,7 @@ This presentation will address the issue of algorithmic literacy from an informa
 <details>
 <summary><b>Abstract</b></summary>
 <p>
+Many conversations around open education focus on a Eurocentric framework of copyright and intellectual property rights that are sometimes in tension with Indigenous knowledge systems. While Indigenous communities and scholars are interested in making access to Indigenous Knowledges a more integral part of a decolonized and Indigenized post-secondary landscape, this session will explore areas for concern around the intersections between Open Educational Resources (OERs) and Indigenous Knowledges. Using Lar-Son’s (2022) 6Rs of Indigenous OERs framework for advancing Indigenous Knowledges through Open Education pedagogies and resources, this session will explore some of the principles and practices for engaging with Indigenous communities in the creation of OERs. Additionally, the session will discuss four different OER case studies featuring Indigenous perspective and Indigenous Knowledges from across Canada, including from an ‘in the works’ edited volume, that centre Indigenous ways of knowing, culture, experiences, and worldviews within the work of open education pedagogy and OER development.
 
 </p>
 </details>
@@ -920,8 +926,7 @@ Photo by <a href="https://unsplash.com/@adityachinchure?utm_source=unsplash&utm_
 
 ```{block, type='session'}
 
-#### 9:30 - 10:30 | **Cultivating Essential Leadership Skills for Digital Transformation in Ontario Postsecondary Education** |  Practice
- {-}
+#### 9:30 - 10:30 | **Cultivating Essential Leadership Skills for Digital Transformation in Ontario Postsecondary Education** |  Practice {-}
 
 ***Alissa Bigelow & Monica Shah*** | *eCampusOntario*
 
@@ -1073,8 +1078,7 @@ Graduate students are under increasing pressure to participate in academic publi
 
 #### Academic Integrity in the Age of Artificial Intelligence {-}
 
-*Sarah Elaine Eaton*
-*University of Calgary*
+***Sarah Elaine Eaton*** | *University of Calgary*
 
 <details>
 <summary><b>Abstract</b></summary>
@@ -1100,7 +1104,7 @@ These questions have dominated teaching and learning circles and social media si
 
 ```{block, type='speaker'}
 
-####  **Jennifer Wemigwans** | OISE University of Toronto
+####  **Jennifer Wemigwans** | *OISE University of Toronto* {-}
 
 *Digital Bundles: A Reckoning and a Re-imagining *
 
@@ -1357,7 +1361,7 @@ Engaging in a discussion of key findings, this session aims to contribute to a s
 
 #### 4:30-5:00 | **L’apprentissage en ligne au Québec : résultats de l’enquête annuelle 2022 de l’ACRFL (in French)** |  Practice {-}
 
-*** Bruno Poellhuber & Simon Parent*** | *Université de Montréal*
+***Bruno Poellhuber & Simon Parent*** | *Université de Montréal*
 
 <!--
 **Keywords:** 
@@ -1377,13 +1381,13 @@ TBA
 
 <!--chapter:end:04-may29.Rmd-->
 
-# Tuesday, May 30 | In Person at York University 
-
+# Tuesday, May 30 | In Person at York University
 
 ```{block, type='protip'}
 
 #### Join us for the #OTESSA23 Morning Radio Show every morning (time TBA) at https://voiced.ca
 ```
+
 ### Session Types {-}
 
 ```{block, type='protip'}
@@ -1411,11 +1415,13 @@ TBA
 #### Regular Session
 
 ```
+
 ```{block, type='social'}
 
 #### Social Session
 
 ```
+
 ```{block, type='vendor'}
 
 
@@ -1429,12 +1435,12 @@ TBA
 #### Workshop
 
 ```
---- 
 
+---
 
 ## Continental Breakfast Provided | 8:00-9:00 {-}
 
-##  Welcome Desk Open | 8:00 - 11:30 {-}
+## Welcome Desk Open | 8:00 - 11:30 {-}
 
 ## Conference Welcome, Announcements & Land Acknowledgement | 9:00-9:15 {-}
 
@@ -1443,6 +1449,7 @@ TBA
 ## Concurrent Session 9 | 9:30-10:30 {-}
 
 1 hour
+
 ### Concurrent Session 9.1 |  Transitions of Online Learning & Teaching {-}
 
 ```{block, type='session'}
@@ -1488,7 +1495,6 @@ This paper presents the concept of technological distance, which describes a gap
 ```
 
 ### Concurrent Session 9.2 |  Transitions of Online Learning & Teaching {-}
-
 
 ```{block, type='session'}
 
@@ -1550,6 +1556,7 @@ A main aspect of our discussion will be around how we engaged in collaboration, 
 </p>
 </details>
 ```
+
 ```{block, type='session'}
 
 #### 10:00-10:30 | **Artificial Intelligence Writing in Higher Education: A Teaching and Learning Centre Perspective** |  Practice {-}
@@ -1570,10 +1577,9 @@ This presentation will explore the emerging issue of artificially intelligent wr
 </details>
 ```
 
-
 ## Break | 10:30-11:00 {-}
 
-## **UnConferencUnconference on Digital, Online, and Open Education (On-Site at York)** | 11:00-12:00
+## UnConference on Digital, Online, and Open Education (On-Site at York) | 11:00-12:00 {-}
 
 An unconference is a participant-driven session meant to reduce emphasis on formal speeches and to avoid the hierarchical aspects of a didactic conference session. All Congress attendees are welcome to participate in this face-to-face unconference; however, participants registered with the OTESSA conference will be sent an invitation for topic suggestion and upvoting to select the break-out room topics in advance. At the time of this session, the topic-to-room assignments will be complete and posted on our program website at <https://otessa.org/2023/program/>. You are welcome to move between topic rooms and come and go as you please! We look forward to welcoming targeted discussion on your favourite topics! Please note that this is the in-person unconference. There will also be an online unconference that will take place on Friday, June 2 from 12:30 - 1:15 pm in a Zoom room as part of the OTESSA Conference.
 
@@ -1583,6 +1589,7 @@ An unconference is a participant-driven session meant to reduce emphasis on form
 ## Parallel Session 10 |  Invited Speakers  | 1:30-2:30 {-}
 
 45 Minutes
+
 ### Parallel Session 10.1 {-}
 
 ```{block, type='speaker'}
@@ -1602,6 +1609,7 @@ TBA
 </p>
 </details>
 ```
+
 ### Parallel Session 10.2 {-}
 
 ```{block, type='speaker'}
@@ -1628,6 +1636,7 @@ In this panel discussion members of the network will reflect upon the what, why 
 ## Concurrent Session 11 |  2:30-3:00 {-}
 
 30 Minutes
+
 ### Concurrent Session 11.1 |  Transitions of Online Learning & Teaching {-}
 
 ```{block, type='session'}
@@ -1651,8 +1660,6 @@ Speaking to the theme of “Reckonings and (Re)Imagining,” in this session, we
 </p>
 </details>
 ```
-
-
 
 ### Concurrent Session 11.2 |  Transitions of Online Learning & Teaching {-}
 
@@ -1696,15 +1703,13 @@ Online video conferencing platforms have been widely used as key classroom tools
 </details>
 ```
 
-
-
 ### Concurrent Session 11.4 |  Transitions of Online Learning & Teaching {-}
 
 ```{block, type='session'}
 
 #### 2:30-3:00 | **Open at the Crossroads: Forging Media and Digital Literacy Pathways** |  Research {-}
 
-***Helen DeWaard*** | *LAkehead University & University of British Columbia*
+***Helen DeWaard*** | *Lakehead University & University of British Columbia*
 
 <!--
 **Keywords:** 
@@ -1719,11 +1724,12 @@ In order to re-envision open and online education, and respond to the conference
 </details>
 ```
 
-## Break with Coffee and Snack Provided | 3:00-3:30
+## Break with Coffee and Snack Provided | 3:00-3:30 {-}
 
 ## Concurrent Session 12 |  3:30-5:00 {-}
 
 1.5 Hours
+
 ### Concurrent Session 12.1 |  Transitions of Online Learning & Teaching {-}
 
 ```{block, type='session'}
@@ -1923,7 +1929,6 @@ Utilizing Bower’s technology-mediated learning theory as a framework, particip
 </p>
 </details>
 ```
-
 
 ## See Congress Programming for Social Tent & Food Options | 5:00-7:00 {-}
 
@@ -2138,7 +2143,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 ## Break | 12:00-1:30 {-}
 
-## Invited Speakers | 1:30-2:15 {-}
+## Parallel Session 14 |  Multi-Access Session | 1:30-2:15 {-}
 
 45 Minutes
 
@@ -2507,7 +2512,9 @@ Education has always collected and used student learning data in combination wit
 
 ## Break | 12:00-12:30 {-}
 
-## **Unconference on Digital, Online, and Open Education (Online via Zoom)** | 12:30-1:15
+## Unconference on Digital, Online, and Open Education (Online via Zoom) | 12:30-1:15 {-}
+
+(45 minutes)
 
 An unconference is a participant-driven session meant to reduce emphasis on formal speeches and to avoid the hierarchical aspects of a didactic conference session. All Congress attendees are welcome to participate in this face-to-face unconference; however, participants registered with the OTESSA conference will be sent an invitation for topic suggestion and upvoting to select the break-out room topics in advance. At the time of this session, the topic-to-room assignments will be complete and posted on our program website at <https://otessa.org/2023/program/>. You are welcome to move between topic rooms and come and go as you please! We look forward to welcoming targeted discussion on your favourite topics! Please note that this is the in-person unconference. There will also be an in-person unconference that will take place on Tuesday, May 30 from 11:00 am - 12:00 pm in the Life Sciences Building at York University as part of the OTESSA Conference.
 
@@ -2715,7 +2722,6 @@ The panel discussion will be supported by a virtual backchannel that will foster
 </details>
 ```
 
-
 ```{block, type='session'}
 
 #### 2:30 - 3:00  | **A Learner-Educator Co-Creation Toolkit** |  Practice {-}
@@ -2744,9 +2750,11 @@ In this presentation we share and seek collaboration on a drafted toolkit for le
 ## Break | 3:00-3:15 {-}
 
 ## Social | 3:15-3:45 {-}
+
 ## Concurrent Session 19 | 3:45-5:15 {-}
 
 1.5 Hours
+
 ### Concurrent Session 19.1 |  Wildcard {-}
 
 ```{block, type='session'}
@@ -2944,9 +2952,9 @@ A critically reflexive collaborative approach (Hamilton & Pinnegar, 2014) is use
 
 ```{block, type='speaker'}
 
-#### Session Speaker: **TBA** 
+#### Nadia Naffi | Université Laval 
 
-*Session title: TBA*
+*Embracing the Metaverse: FormationMeta and the Future of Immersive Learning Experiences (in French)*
 
 <!--
 **Keywords:** 
@@ -2955,6 +2963,9 @@ A critically reflexive collaborative approach (Hamilton & Pinnegar, 2014) is use
 <details>
 <summary><b>Abstract</b></summary>
 <p>
+Delve into the exciting world of FormationMeta, a groundbreaking 14-week exploratory project spearheaded by Laval University's Chair in Educational Leadership on Innovative Pedagogical Practices in Digital Contexts – National Bank, in partnership with Laval University Library and OVA. This innovative project provided Laval University's learning experience designers and instructors with an authentic experience to cultivate their skills in designing and developing immersive learning experiences within virtual reality and the metaverse. Engaging students from diverse disciplines such as educational technology, art, and game design, the project harnessed the power of StellarX.ai software to create bespoke immersive training tailored to the library's clientele.
+
+Presented in French, this talk will unveil emerging recommendations to enlighten educational teams eager to embrace immersive learning experiences. The speaker will address pressing questions, including the current possibilities and future technological advancements, such as generative AI, essential skills for developing learning experiences in the metaverse, and strategies for training expert groups in education and educational technology to create immersive experiences that effectively cater to learner groups while adhering to ethical, equitable, and inclusive principles.
 
 </p>
 </details>
@@ -2964,9 +2975,9 @@ A critically reflexive collaborative approach (Hamilton & Pinnegar, 2014) is use
 
 ```{block, type='speaker'}
 
-#### Session Speaker: **TBA** 
+#### Randy LaBonte | Vancouver Island University & Canadian eLearning Network 
 
-*Session title: TBA*
+*Design Principles for Digital Learning and NSQOL Standards: Commonalities & Differences*
 
 <!--
 **Keywords:** 
@@ -2975,6 +2986,7 @@ A critically reflexive collaborative approach (Hamilton & Pinnegar, 2014) is use
 <details>
 <summary><b>Abstract</b></summary>
 <p>
+Join this session to gain an understanding of design and organization principles to help inform quality in K-12 online learning teacher and leader practices. Learn about the Canadian-based online learning design principles and their commonalities and differences to the US-based National Standards for Quality Online Learning (NSQOL), application to pedagogy and practice, and how the elucidation and clarification of design and organization principles help inform leadership and administrative policy for quality online learning.
 
 </p>
 </details>
