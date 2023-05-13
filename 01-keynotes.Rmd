@@ -23,7 +23,7 @@ Bianca is a Junior Research Fellow in the Digital Open Textbooks for Development
 
 Work done with open textbook creators at UCT has enabled the DOT4D initiative to articulate models of open textbook production that are being employed by academics at UCT who are using their open textbooks to address social (in)justice in the classroom. Building on this background work, we explore the values and attitudes of the academics who undertake open textbook production with student co- creators. Student inclusion is lauded in research as essential for student belonging, but little work has been done to look for the challenges involved when traditional power dynamics are disrupted. In this research, we describe a potential nexus of three complementary components: open textbooks, social justice, and students as partners. We investigate the affordances of the open textbook to facilitate change in the power dynamics of content production as well as in classroom practice.
 
-##### [Session Link](){target="_blank"} {++link++}
+##### [Session Link](){target="_blank"}
 
 ```
 

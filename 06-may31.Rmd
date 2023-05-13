@@ -93,9 +93,9 @@ With post-secondary institutions increasing offerings of online courses, there i
 ```{block, type='session'}
 
 
-#### 10:00-10:30 | **TBA** |  TBA {-}
+#### 10:00-10:30 | **The Landscape of Merging Modalities** |  Practice {-}
 
-***TBA*** | *TBA*
+***Valerie Irvine*** | *University of Victoria*
 
 <!--
 **Keywords:** 
@@ -104,6 +104,7 @@ With post-secondary institutions increasing offerings of online courses, there i
 <details>
 <summary><b>Abstract</b></summary>
 <p>
+On today’s higher education campus, there are likely a dozen new terms being used to describe different configurations around the modality of courses. Modality typically refers to the location and timing of interactions. What used to be a simple binary of face-to-face or online has now become so extremely complex that our ability to understand each other is impaired. In this session, I will discuss a recent paper I published in the Educause Review, entitled The Landscape of Merging Modalities, including the history of modality, merging modality terminology, the struggles with semantics, and pedagogy vs. modality. I will close with practical steps that individuals and institutions can take to make strong planning and pedagogical decisions that also take into account instructor workload and care for the learner.
 
 </p>
 </details>
@@ -212,29 +213,9 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 ```{block, type='speaker'}
 
-#### Session Speaker: **TBA** 
+#### Valerie Irvine, OTESSA  | ***Multi-Access Session***
 
-*Session title: TBA*
-
-<!--
-**Keywords:** 
--->
-
-<details>
-<summary><b>Abstract</b></summary>
-<p>
-
-</p>
-</details>
-```
-
-### Parallel Session 14.2 {-}
-
-```{block, type='speaker'}
-
-#### Session Speaker: **TBA** 
-
-*Session title: TBA*
+*Advocacy for Digital Learning: Input for Government Policy and Budget*
 
 <!--
 **Keywords:** 
@@ -243,10 +224,15 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 <details>
 <summary><b>Abstract</b></summary>
 <p>
+In this session for both in-person and online participants, we will review options for government advocacy, provide samples of past actions taken, and outline steps we can take in the future to create change in the support for digital, online, and open education.
 
+Currently, we are missing the opportunity to collectively have a voice as system shifts are occurring that impact the design and support of online and open education. I will provide examples of different pathways for advocacy, such as briefs to leadership within an institution or province government. I will review the process for provincial or federal pre-budget submissions; how to examine mandate letters for ministerial leaders; and invite participants to write or meet with your local representative (e.g., MLA for a provincial representative or MP for federal representative) to amplify work being done.
+
+We also have a session on June 2 regarding changes needed in the federal tri-agency for funding research as there are systemic biases against education, let alone educational technology. After an overview of these options, we will invite you to contribute ideas that will form OTESSA’s federal pre-budget submission later this summer.
 </p>
 </details>
 ```
+
 
 ## Break | 2:15-2:30 {-}
 
@@ -286,6 +272,14 @@ Three themes were generated in our thematic analyses. The adoption or non-adopti
 #### 2:30-3:00 | **Les Effets d’une initiative pour brancher sur Internet les familles à faible revenu (in French)** |  Research {-}
 
 ***Normand Roy*** | *Université de Montréal*
+
+***Valerie Irvine*** | *University of Victoria*
+
+***Michele Jacobsen*** | *University of Calgary*
+
+***Catherine Middleton*** | *Ryerson University* <!--{--change to new name?--}-->
+
+***Simon Parent*** | *Université de Montréal*
 
 <!--
 **Keywords:** 

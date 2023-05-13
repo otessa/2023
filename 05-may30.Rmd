@@ -194,13 +194,10 @@ This presentation will explore the emerging issue of artificially intelligent wr
 
 ## Break | 10:30-11:00 {-}
 
-## **UnConference** | 11:00-12:00
+## **UnConferencUnconference on Digital, Online, and Open Education (On-Site at York)** | 11:00-12:00
 
+An unconference is a participant-driven session meant to reduce emphasis on formal speeches and to avoid the hierarchical aspects of a didactic conference session. All Congress attendees are welcome to participate in this face-to-face unconference; however, participants registered with the OTESSA conference will be sent an invitation for topic suggestion and upvoting to select the break-out room topics in advance. At the time of this session, the topic-to-room assignments will be complete and posted on our program website at <https://otessa.org/2023/program/>. You are welcome to move between topic rooms and come and go as you please! We look forward to welcoming targeted discussion on your favourite topics! Please note that this is the in-person unconference. There will also be an online unconference that will take place on Friday, June 2 from 12:30 - 1:15 pm in a Zoom room as part of the OTESSA Conference.
 
-```{block, type='protip'}
-
-✨ Unconference Session TBA
-```
 
 ## Lunch Break & Streamed Congress Programming | 12:00-1:30 {-}
 
@@ -211,9 +208,9 @@ This presentation will explore the emerging issue of artificially intelligent wr
 
 ```{block, type='speaker'}
 
-#### Session Speaker: **TBA** 
+#### Bonnie Stewart | University of Windsor 
 
-*Session title: TBA*
+*Digital Education in an Age of Data: What Do We Do Now?*
 
 <!--
 **Keywords:** 
@@ -222,7 +219,7 @@ This presentation will explore the emerging issue of artificially intelligent wr
 <details>
 <summary><b>Abstract</b></summary>
 <p>
-
+TBA
 </p>
 </details>
 ```
@@ -230,9 +227,9 @@ This presentation will explore the emerging issue of artificially intelligent wr
 
 ```{block, type='speaker'}
 
-#### Session Speaker: **TBA** 
+#### GO-GN (Global OER Graduate Network) Panel 
 
-*Session title: TBA*
+*Researching at the Edge of Openness: Reflections from GO-GN Members*
 
 <!--
 **Keywords:** 
@@ -241,6 +238,9 @@ This presentation will explore the emerging issue of artificially intelligent wr
 <details>
 <summary><b>Abstract</b></summary>
 <p>
+GO-GN, the Global OER Graduate Network, brings together a core group of current doctoral researchers working on open education topics, along with the GO-GN team at the Open University, alumni, other researchers and fellow travellers through open space. And though we travel without uniforms or transporters, like members of Starfleet GO-GNers do go boldly, attempting to push the boundaries of knowledge in the field. Recognising the multiple senses in which education can be open, we approach the concept of openness from various angles and use a range of methods.
+
+In this panel discussion members of the network will reflect upon the what, why and how of their doctoral journeys, and invite session participants into our conversation.
 
 </p>
 </details>

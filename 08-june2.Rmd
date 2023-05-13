@@ -84,51 +84,11 @@ Education has always collected and used student learning data in combination wit
 
 ## Break | 12:00-12:30 {-}
 
-## Parallel Session 17 | Invited Speakers | 12:30-1:15 {-}
+## **Unconference on Digital, Online, and Open Education (Online via Zoom)** | 12:30-1:15
 
-45 Minutes
+An unconference is a participant-driven session meant to reduce emphasis on formal speeches and to avoid the hierarchical aspects of a didactic conference session. All Congress attendees are welcome to participate in this face-to-face unconference; however, participants registered with the OTESSA conference will be sent an invitation for topic suggestion and upvoting to select the break-out room topics in advance. At the time of this session, the topic-to-room assignments will be complete and posted on our program website at <https://otessa.org/2023/program/>. You are welcome to move between topic rooms and come and go as you please! We look forward to welcoming targeted discussion on your favourite topics! Please note that this is the in-person unconference. There will also be an in-person unconference that will take place on Tuesday, May 30 from 11:00 am - 12:00 pm in the Life Sciences Building at York University as part of the OTESSA Conference.
 
-### Parallel Session 17.1 {-}
-
-```{block, type='speaker'}
-
-#### Session Speaker: **TBA** 
-
-*Session title: TBA*
-
-<!--
-**Keywords:** 
--->
-
-<details>
-<summary><b>Abstract</b></summary>
-<p>
-
-</p>
-</details>
-```
-
-### Parallel Session 17.2 {-}
-
-```{block, type='speaker'}
-
-#### Session Speaker: **TBA** 
-
-*Session title: TBA*
-
-<!--
-**Keywords:** 
--->
-
-<details>
-<summary><b>Abstract</b></summary>
-<p>
-
-</p>
-</details>
-```
-
-## Break | 1:05-1:30 {-}
+## Break | 1:15-1:30 {-}
 
 ## Concurrent Session 18 | 1:30-3:00 {-}
 
@@ -388,15 +348,18 @@ In this session, we discuss reimagining education futures by examining the limit
 
 ```{block, type='session'}
 
-#### 4:45-5:15 | **TBA** |  TBA {-}
+#### 4:45-5:15 | **Wait… What? Examining SSHRC Funding Structures and Processes With a Focus on its Implications on Equitable Access for Educational Researchers** |  Research {-}
 
-***TBA*** | *TBA*
+***Valerie Irvine*** | *University of Victoria*
+
+***Sonja Johnston*** | *University of Calgary*
 
 **Keywords:**
 
 <details>
 <summary><b>Abstract</b></summary>
 <p>
+Access to federal government funding to support research in the social sciences has always been a highly competitive process for faculty and graduate students. As scholarship is becoming increasingly interdisciplinary, we are observing challenges in terms of ensuring pathways to support a review process specifically for interdisciplinary research, while also ensuring equitable access to tri-agency funding across the three council (Social Sciences and Humanities Research Council (SSHRC), Natural Sciences and Engineering Research Council (NSERC), and Canadian Institutes of Health Research (CIHR)) as well as between disciplines on committees within SSHRC. As educational researchers, we have noted trends that put educational researchers, housed in Faculties of Education, at a possible disadvantage. We will also touch on the additional burden that marginalizes researchers and graduate students in educational technology, who face a “second shift” in terms of continually developing and updating digital literacies and online learning pedagogies. In this session, we will review publicly available data and share personal observations of the process, which includes direct experience as a repeated reviewer of SSHRC doctoral applications in Ottawa. We will share steps being taken to open dialogue and to make recommendations for next steps as we hope to collect data to inform recommendations for change. We welcome participants to provide input on strategies for creating change for fair access to funding for education.
 
 </p>
 </details>

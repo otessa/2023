@@ -2,5 +2,5 @@ book_filename: "OTESSA23-Program"
 language:
   ui:
     chapter_name: "Day "
-delete_merged_file: true
+delete_merged_file: false
 output_dir: "docs"

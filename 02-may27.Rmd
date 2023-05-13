@@ -97,9 +97,9 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 ```{block, type='speaker'}
 
 
-#### Session Speaker: **TBA** 
+#### Anne-Marie Scott
 
-*Session title: TBA*
+*5 Things You Need to Know Before You Buy Edtech*
 
 <!--
 **Keywords:** 
@@ -108,6 +108,10 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 <details>
 <summary><b>Abstract</b></summary>
 <p>
+Drawing on experiences of over 20 years in higher education technology, working across commercial and open technology contexts, this talk proposes that the procurement of educational technologies is fundamentally flawed both as a practice and as a process. Institutional processes such as procurement tend to be absent from conversations about digital education, often acknowledged as problematic but also outside our sphere of influence or domain of expertise. On the basis that pedagogy and technology are entangled in complex ways, in fact the opposite should be true. The educational technologies we use are not tools, and should be treated as matters of quality when we consider what good digital education might look like, and what we think the purpose of education is.
+
+Consideration of ethics are often absent from procurement of technology, largely based on instrumentalist assumptions about the neutrality of technologies. Public sector procurement “best practice” also forces us to use poor proxies for our educational values, purposes, and contexts, and creates new risks and liabilities for institutions, at the same time as it seeks to minimise others. Whilst this talk will explore potential solutions to current procurement process and practice, the question that remains outstanding is whether we are simply buying and/or using too much educational technology, and whether, in order to achieve more environmentally sustainable and just forms of education, we should be embracing a de-growth approach to educational technology more generally?
+How much procurement of edtech, however well executed, is too much?
 
 </p>
 </details>
@@ -118,9 +122,9 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 ```{block, type='speaker'}
 
 
-#### Session Speaker: **TBA** 
+#### Nicole Johnson | Canadian Digital Learning Research Association/Association canadienne de recherche sur la formation en ligne
 
-*Session title: TBA*
+*Digital Learning Trends in Canadian Post-Secondary Education*
 
 <!--
 **Keywords:** 
@@ -129,7 +133,7 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 <details>
 <summary><b>Abstract</b></summary>
 <p>
-
+Join Dr. Nicole Johnson, Executive Director of the Canadian Digital Learning Research Association/Association canadienne de recherche sur la formation en ligne (CDLRA/ACRFL), as she shares how digital learning trends are changing over time and discusses what this means for the future of post-secondary education in Canada. Since 2017, the CDLRA/ACRFL has conducted annual pan-Canadian surveys to track trends related to digital learning at Canadian post-secondary institutions. In particular, since 2020, the CDLRA/ACRFL has been investigating the ongoing impact of the pandemic on course delivery and teaching practices. Through her independent research and consulting practice, Dr. Johnson has also worked on multiple other studies related to faculty experiences with technology, categorizing learning experiences by modality, and the future of higher education. In this presentation, Dr. Johnson will discuss challenges faced by institutions (and the post-secondary sector as a whole), what the future might hold, and recommendations for the sector.
 </p>
 </details>
 ```
