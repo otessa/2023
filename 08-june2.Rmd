@@ -2,7 +2,7 @@
 
 ```{block, type='protip'}
 
-#### Join us for the #OTESSA23 Morning Radio Show every morning Monday-Thursday 9:30-10:30 (Eastern) at https://voiced.ca
+#### There is no #OTESSA23 Morning Radio Show today.
 ```
 
 ### Session Types {-}
@@ -66,8 +66,7 @@
 
 #### The (un)bearable lightness of student data privacy: reckonings and re-imaginings {-}
 
-*Paul Prinsloo*
-*University of South Africa*
+[***Paul Prinsloo*** | *University of South Africa*](https://otessa.github.io/2023/keynotes.html#paul-prinsloo)
 
 <details>
 <summary><b>Abstract</b></summary>

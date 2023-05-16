@@ -2,7 +2,7 @@
 
 ```{block, type='protip'}
 
-#### Join us for the #OTESSA23 Morning Radio Show every morning Monday-Thursday 9:30-10:30 (Eastern) at https://voiced.ca
+#### Join us at the #OTESSA23 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 7:30 – 8:30 am (Eastern) at https://voiced.ca
 ```
 
 ### Session Types {-}
@@ -186,7 +186,7 @@ This session will offer participants an opportunity to reflect on the digital sp
 
 #### Progressing truth, confronting complacency, and unleashing the possibility of healing through education.  {-}
 
-***Nick Bertrand*** | *University of Calgary*
+[***Nick Bertrand*** | *University of Calgary*](https://otessa.github.io/2023/keynotes.html#nick-bertrand)
 
 
 

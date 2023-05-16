@@ -34,7 +34,7 @@ Join us at the #OTESSA23 Morning Radio Show every morning times TBA (Eastern) at
 
 ```{block, type='protip'}
 
-#### Join us for the #OTESSA23 Morning Radio Show every morning Monday-Thursday 9:30-10:30 (Eastern) at https://voiced.ca
+#### Join us at the #OTESSA23 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 7:30 – 8:30 am (Eastern) at https://voiced.ca
 ```
 
 ## Glenda Cox & Bianca Masuku {-}
@@ -86,7 +86,8 @@ These questions have dominated teaching and learning circles and social media si
 ## Nick Bertrand {-}
 
 
-*University of Calgary
+*University of Calgary*
+
 ***Wednesday, May 31, 11:00 AM***
 
 Nick is a proud Kanyen’keha:ka and member of the Mohawks of the Bay of Quinte. He is a father, partner, uncle, and educator. Sharing truth alongside messages of hope and resiliency through the vehicle of education is what interests and drives Nick.
@@ -139,9 +140,7 @@ Education has always collected and used student learning data in combination wit
 
 ```{block, type='protip'}
 
-
-#### Join us for the #OTESSA23 Morning Radio Show every morning (times TBA) at https://voiced.ca
-
+#### Join us at the #OTESSA23 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 7:30 – 8:30 am (Eastern) at https://voiced.ca
 ```
 
 ### Session Types {-}
@@ -209,7 +208,7 @@ Education has always collected and used student learning data in combination wit
 
 #### Enabling ‘Students as Partners’: Open Textbooks, Power Shifts and Curriculum Transformation {-}
 
-*Glenda Cox & Bianca Masuku*
+[***Glenda Cox & Bianca Masuku*** | University of Cape Town](https://otessa.github.io/2023/keynotes.html#glenda-cox-bianca-masuku)
 
 <details>
 <summary><b>Abstract</b></summary>
@@ -378,9 +377,9 @@ The various practices of “ungrading” have gained increasing popularity, part
 
 ```{block, type='session'}
 
-#### 1:30-2:00 | **Mediating Relationship and Sexual Health Education** |  Practice {-}
+#### 1:30-2:00 | **Creating Capacity for Capabilities: Using Professional Development within Learning Design in Capstone** |  Practice {-}
 
-***Andrea Hasenbank*** | *Onlea Studios*
+***Sonja Johnston*** | *University of Calgary*
 
 <!--
 **Keywords:** 
@@ -389,10 +388,10 @@ The various practices of “ungrading” have gained increasing popularity, part
 <details>
 <summary><b>Abstract</b></summary>
 <p>
-This session will outline the development of a youth sexual health education program adapted from a series of facilitated in-person workshops to a self-guided, asynchronous online format. The development focused on three key considerations: (1) accessibility, which includes addressing different learning and physical abilities, as well as technical elements relating to devices and rural internet networks; (2) privacy, which includes protection of student information, questions relating to cross-border data hosting, and the ability of participants to ask questions and receive support anonymously; and (3) mediation, which includes how the design of the course must compensate for the loss of an in-person facilitator. The course modules have focused on the use of narrative as a strategy for introducing concepts, connecting to real-world scenarios, and promoting empathy and engagement in the absence of a facilitator. The session will discuss how choices of tools and technologies have addressed the program’s stated considerations, as well as allowed for innovative use of character and storytelling to promote sexual health education.
-
-</p>
+During the peak of the pandemic, where emergency remote learning was required, undergraduate students trying to complete a business degree had a choice between business capstone and practicum. Unfortunately for our students, there were nearly no positions available as businesses had decreased their workforce numbers so substantially and were canceling practicum positions. This created a very large influx of students through the capstone pathway. This 6-credit hour course is a culmination of student learning throughout the degree and is the final experience prior to graduation. A growing number of industry and scholarly reports explore the disconnect between graduate capabilities and employer expectations regarding workplace skill competencies (Lapointe & Turner, 2020; Mishra et al., 2019; RBC, 2019). Highlighted through consecutive semesters of capstone through 2020 to 2022, an opportunity arose to scaffold a professional development module into the learning design. The author will present the structure, purpose, implementation, and challenges of the module and provide initial insights of the value and iteration through this time period. The content of the module will be shared as it leans into open and accessible training and development. A discussion of the current state and collaboratively brainstorming options next iteration will be undertaken.
+ </p>
 </details>
+
 ```
 
 ```{block, type='session'}
@@ -409,6 +408,7 @@ This session will outline the development of a youth sexual health education pro
 <summary><b>Abstract</b></summary>
 <p>
 This presentation overviews and discusses an on-going peer support method launched by a Finnish university for their teaching staff. The aim of the peer support method is to further develop the pedagogical and digital skills adopted during the Covid19 pandemic. Moreover, its aim is to re-imagine higher education by promoting best practices of online learning and teaching based on staff experiences and relevant research.
+
 The university recruited a team of five experienced lecturers from within its four faculties and the Language Centre to work as pedagogical support to their peers at a 50% work-time allocation, the other 50% of their work still consisting of teaching. The team recently finished its first two-year operation period and has analysed and reported the successes and challenges of the first two years, with recommendations for the following two years.
 
 The team’s analysis of the first two-year period indicates that this peer support mode has proven a necessary modus operandi. In an institution of higher education with its multiple departments, units, boards, working groups, committees, support services, and digital services, the voice of a single teacher may too easily go unheard.
@@ -421,9 +421,9 @@ In its reflexive analysis of the first two years of operation, the team highligh
 
 ```{block, type='session'}
 
-#### 2:30-3:00 | **Creating Capacity for Capabilities: Using Professional Development within Learning Design in Capstone** |  Practice {-}
+#### 2:30-3:00 | **Mediating Relationship and Sexual Health Education** |  Practice {-}
 
-***Sonja Johnston*** | *University of Calgary*
+***Andrea Hasenbank*** | *Onlea Studios*
 
 <!--
 **Keywords:** 
@@ -432,7 +432,8 @@ In its reflexive analysis of the first two years of operation, the team highligh
 <details>
 <summary><b>Abstract</b></summary>
 <p>
-During the peak of the pandemic, where emergency remote learning was required, undergraduate students trying to complete a business degree had a choice between business capstone and practicum. Unfortunately for our students, there were nearly no positions available as businesses had decreased their workforce numbers so substantially and were canceling practicum positions. This created a very large influx of students through the capstone pathway. This 6-credit hour course is a culmination of student learning throughout the degree and is the final experience prior to graduation. A growing number of industry and scholarly reports explore the disconnect between graduate capabilities and employer expectations regarding workplace skill competencies (Lapointe & Turner, 2020; Mishra et al., 2019; RBC, 2019). Highlighted through consecutive semesters of capstone through 2020 to 2022, an opportunity arose to scaffold a professional development module into the learning design. The author will present the structure, purpose, implementation, and challenges of the module and provide initial insights of the value and iteration through this time period. The content of the module will be shared as it leans into open and accessible training and development. A discussion of the current state and collaboratively brainstorming options next iteration will be undertaken.
+This session will outline the development of a youth sexual health education program adapted from a series of facilitated in-person workshops to a self-guided, asynchronous online format. The development focused on three key considerations: (1) accessibility, which includes addressing different learning and physical abilities, as well as technical elements relating to devices and rural internet networks; (2) privacy, which includes protection of student information, questions relating to cross-border data hosting, and the ability of participants to ask questions and receive support anonymously; and (3) mediation, which includes how the design of the course must compensate for the loss of an in-person facilitator. The course modules have focused on the use of narrative as a strategy for introducing concepts, connecting to real-world scenarios, and promoting empathy and engagement in the absence of a facilitator. The session will discuss how choices of tools and technologies have addressed the program’s stated considerations, as well as allowed for innovative use of character and storytelling to promote sexual health education.
+
 
 </p>
 </details>
@@ -859,7 +860,7 @@ Photo by <a href="https://unsplash.com/@adityachinchure?utm_source=unsplash&utm_
 
 ```{block, type='protip'}
 
-#### Join us for the #OTESSA23 Morning Radio Show every morning Monday-Thursday 9:30-10:30 (Eastern) at https://voiced.ca
+#### Join us at the #OTESSA23 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 7:30 – 8:30 am (Eastern) at https://voiced.ca
 ```
 
 ### Session Types {-}
@@ -1078,7 +1079,7 @@ Graduate students are under increasing pressure to participate in academic publi
 
 #### Academic Integrity in the Age of Artificial Intelligence {-}
 
-***Sarah Elaine Eaton*** | *University of Calgary*
+[***Sarah Elaine Eaton*** | *University of Calgary*](https://otessa.github.io/2023/keynotes.html#sarah-elaine-eaton)
 
 <details>
 <summary><b>Abstract</b></summary>
@@ -1385,7 +1386,7 @@ TBA
 
 ```{block, type='protip'}
 
-#### Join us for the #OTESSA23 Morning Radio Show every morning (time TBA) at https://voiced.ca
+#### Join us at the #OTESSA23 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 7:30 – 8:30 am (Eastern) at https://voiced.ca
 ```
 
 ### Session Types {-}
@@ -1940,7 +1941,7 @@ Utilizing Bower’s technology-mediated learning theory as a framework, particip
 
 ```{block, type='protip'}
 
-#### Join us for the #OTESSA23 Morning Radio Show every morning Monday-Thursday 9:30-10:30 (Eastern) at https://voiced.ca
+#### Join us at the #OTESSA23 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 7:30 – 8:30 am (Eastern) at https://voiced.ca
 ```
 
 ### Session Types {-}
@@ -2124,7 +2125,7 @@ This session will offer participants an opportunity to reflect on the digital sp
 
 #### Progressing truth, confronting complacency, and unleashing the possibility of healing through education.  {-}
 
-***Nick Bertrand*** | *University of Calgary*
+[***Nick Bertrand*** | *University of Calgary*](https://otessa.github.io/2023/keynotes.html#nick-bertrand)
 
 
 
@@ -2430,7 +2431,7 @@ For those heading home from York University, we wish you safe travels! See you s
 
 ```{block, type='protip'}
 
-#### Join us for the #OTESSA23 Morning Radio Show every morning Monday-Thursday 9:30-10:30 (Eastern) at https://voiced.ca
+#### There is no #OTESSA23 Morning Radio Show today.
 ```
 
 ### Session Types {-}
@@ -2494,8 +2495,7 @@ For those heading home from York University, we wish you safe travels! See you s
 
 #### The (un)bearable lightness of student data privacy: reckonings and re-imaginings {-}
 
-*Paul Prinsloo*
-*University of South Africa*
+[***Paul Prinsloo*** | *University of South Africa*](https://otessa.github.io/2023/keynotes.html#paul-prinsloo)
 
 <details>
 <summary><b>Abstract</b></summary>
