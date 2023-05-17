@@ -1,0 +1,170 @@
+# Invited Speakers {-}
+
+
+
+```{block, type='protip'}
+
+#### Join us at the #OTESSA23 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 7:30 – 8:30 am (Eastern) at https://voiced.ca
+```
+
+
+## Saturday May 27 {-}
+
+### Anne-Marie Scott {-}
+
+*Unaffiliated*
+
+**5 Things You Need to Know Before You Buy Edtech**
+
+
+Drawing on experiences of over 20 years in higher education technology, working across commercial and open technology contexts, this talk proposes that the procurement of educational technologies is fundamentally flawed both as a practice and as a process. Institutional processes such as procurement tend to be absent from conversations about digital education, often acknowledged as problematic but also outside our sphere of influence or domain of expertise. On the basis that pedagogy and technology are entangled in complex ways, in fact the opposite should be true. The educational technologies we use are not tools, and should be treated as matters of quality when we consider what good digital education might look like, and what we think the purpose of education is.
+
+Consideration of ethics are often absent from procurement of technology, largely based on instrumentalist assumptions about the neutrality of technologies. Public sector procurement “best practice” also forces us to use poor proxies for our educational values, purposes, and contexts, and creates new risks and liabilities for institutions, at the same time as it seeks to minimise others. Whilst this talk will explore potential solutions to current procurement process and practice, the question that remains outstanding is whether we are simply buying and/or using too much educational technology, and whether, in order to achieve more environmentally sustainable and just forms of education, we should be embracing a de-growth approach to educational technology more generally?
+
+How much procurement of edtech, however well executed, is too much?
+
+**Bio**
+
+TBA
+
+##### [Session Link](){target="_blank"}{-}
+
+### Nicole Johnson {-}
+
+*Canadian Digital Learning Research Association/Association canadienne de recherche sur la formation en ligne*
+
+**Digital Learning Trends in Canadian Post-Secondary Education**
+
+Join Dr. Nicole Johnson, Executive Director of the Canadian Digital Learning Research Association/Association canadienne de recherche sur la formation en ligne (CDLRA/ACRFL), as she shares how digital learning trends are changing over time and discusses what this means for the future of post-secondary education in Canada. Since 2017, the CDLRA/ACRFL has conducted annual pan-Canadian surveys to track trends related to digital learning at Canadian post-secondary institutions. In particular, since 2020, the CDLRA/ACRFL has been investigating the ongoing impact of the pandemic on course delivery and teaching practices. Through her independent research and consulting practice, Dr. Johnson has also worked on multiple other studies related to faculty experiences with technology, categorizing learning experiences by modality, and the future of higher education. In this presentation, Dr. Johnson will discuss challenges faced by institutions (and the post-secondary sector as a whole), what the future might hold, and recommendations for the sector.
+
+**Bio**
+
+Dr. Nicole Johnson is the Executive Director of the Canadian Digital Learning Research Association (CDLRA), where she leads annual, longitudinal research studies exploring pan-Canadian trends related to digital learning at post-secondary institutions. She also has an independent research and consulting practice and works on research teams at Royal Roads University (Victoria, BC) and Bay View Analytics (Oakland, CA). Dr. Johnson has worked in the field of education for over two decades, focusing on digital learning for nearly 15 years. Her primary research interests include tracking macro-level trends in digital learning at the post-secondary level, defining and operationalizing key terms associated with digital learning, investigating faculty experiences with technology, exploring the future of higher education, and better understanding how adults learn informally in digital contexts.
+
+##### [Session Link](){target="_blank"}{-}
+
+
+### Alec Couros {-}
+
+*University of Regina*
+
+**Harnessing the Power of AI in Education: Opportunities and Challenges**
+
+In this presentation, Dr. Alec Couros will explore the exciting possibilities and impact of AI in education, focusing on tools such as ChatGPT. With the ability to provide personalized learning experiences, AI has the potential to transform the way we teach and learn. However, its integration into the classroom also raises important ethical and societal concerns. Dr. Couros will examine both the opportunities and challenges of AI in education. Participants will leave with a better understanding of the potential of AI to positively impact student learning and success, as well as the considerations and challenges that must be addressed in order to fully embrace it in our learning environments.
+
+**Bio**
+
+TBA
+
+Unpacking the Tensions between Indigenous Knowledges and Open Education: Exploring Lar-Son’s 6Rs for Indigenous OERs in Practice
+
+##### [Session Link](){target="_blank"}{-}
+
+### Brad Wuetherick {-}
+
+*University of British Columbia – Okanagan Campus*
+
+Many conversations around open education focus on a Eurocentric framework of copyright and intellectual property rights that are sometimes in tension with Indigenous knowledge systems. While Indigenous communities and scholars are interested in making access to Indigenous Knowledges a more integral part of a decolonized and Indigenized post-secondary landscape, this session will explore areas for concern around the intersections between Open Educational Resources (OERs) and Indigenous Knowledges. Using Lar-Son’s (2022) 6Rs of Indigenous OERs framework for advancing Indigenous Knowledges through Open Education pedagogies and resources, this session will explore some of the principles and practices for engaging with Indigenous communities in the creation of OERs. Additionally, the session will discuss four different OER case studies featuring Indigenous perspective and Indigenous Knowledges from across Canada, including from an ‘in the works’ edited volume, that centre Indigenous ways of knowing, culture, experiences, and worldviews within the work of open education pedagogy and OER development.
+
+**Bio**
+
+Brad Wuetherick is the Associate Provost, Academic Programs, Teaching and Learning at UBC’s Okanagan campus. Of Métis and European ancestry, Brad is a scholar of higher education teaching and learning, with an increasing focus on Indigenous mentorship, Indigenous student pathways into research, and equity in teaching and learning. Over the past decade, he’s also participated in several projects related to educational technologies in higher education, including the use of eportfolios. Brad has previously worked in a variety of teaching and learning leadership roles at Dalhousie University, the University of Saskatchewan, and the University of Alberta.
+
+##### [Session Link](){target="_blank"}{-}
+
+## Monday May 29 {-}
+
+### Jennifer Wemigwans {-} 
+
+*OISE University of Toronto*
+
+**Digital Bundles: A Reckoning and a Re-imagining**
+
+
+Digital Bundles create cultural space for Indigenous Knowledge through the use of new technologies. The concept for Digital Bundles comes from a tradition that respects diverse Elders and Knowledge Keepers as the custodians of community Knowledge Bundles. Sharing Digital Bundles online represent new spaces for Indigenous Knowledge in the form of Open Education. Digital Bundles are both a Reckoning and amRe-imagining of online space. For non-indigenous audiences, Digital Bundles challenge them to step outside of their codified systems and learn a new way of being and perceiving the world. For Indigenous audiences, Digital Bundles are a new way to share the brilliance of diverse Indigenous Knowledges with new generations.
+
+**Bio**
+
+Jennifer Wemigwans, PhD, is from Wiikwemkoong Unceded Territory on Manitoulin Island, Ontario. She is a new media producer, writer and scholar specializing in the convergence between education, Indigenous knowledge and new media technologies. Her book A Digital Bundle: Protecting and Promoting Indigenous Knowledge Online (2018) explores the prospects of Indigenous Knowledge education and digital projects in a networked world. Dr. Wemigwans takes pride in working to invert the conventional use of media by revealing the potential for Indigenous cultural expression and Indigenous knowledge through new technologies, education and the arts. She is an Assistant Professor in the Adult Education and Community Development Program at OISE University of Toronto.
+
+##### [Session Link](){target="_blank"}{-}
+
+### Isabel Pedersen {-}
+
+*Ontario Tech University*
+
+**Shock and Awe: Generative AI Composition, Cultural Adaptation, and Postsecondary Education**
+
+
+The launch of OpenAI’s ChatGPT was a dramatic event making generative artificial intelligence a mainstream phenomenon. Data journalist, Katharina Buchholz explains that “ChatGPT gained one million users just five days after launching in November” of 2022 (Statista, 2023). Generative AI can produce stylistically correct sentences, paragraphs, and documents across a multitude of genres. It can produce professional-grade visual images and video. While heavily debated, one could argue that generative AI ‘creates’. Consequently, generative AI can help students create art, write, or collaborate with other students. However, generative AI can complete all of these tasks for students without requiring much human effort, disturbing the general premise of learning to compose. At the same time, its creations are vulnerable to producing false information and discriminatory results due to the training sources. This presentation argues that shock instigated by large tech companies, releasing these products through the rhetoric of hype and fear, is fuelling mass adoption rather than a measured approach. Educators, students, and university administrators are faced with handling the cultural adaptation to AI generators that challenge traditions of human creativity and formal education. Drawing on media studies and rhetoric (Pedersen and Iliadis 2020), digital literacy studies (Duin and Pedersen 2021), and critical AI studies (Bender, Gebru, McMillan-Major, and Shmitchell 2021), this talk points to the process of re-imagining learning expectations in university courses amid the onslaught of generative AI emergence.
+
+**Bio**
+
+TBA
+
+##### [Session Link](){target="_blank"}{-}
+
+## Tuesday May 30 {-}
+
+
+### Bonnie Stewart {-}
+
+*University of Windsor*
+
+Digital Education in an Age of Data: What Do We Do Now?
+
+Session Abstract: 
+
+TBA
+
+**Bio**
+
+TBA
+
+##### [Session Link](){target="_blank"}{-}
+
+### Leo Havemann and Panel Members{-} 
+
+*Open University / UCL*
+
+**Researching at the Edge of Openness: Reflections from GO-GN Members**
+
+GO-GN, the Global OER Graduate Network, brings together a core group of current doctoral researchers working on open education topics, along with the GO-GN team at the Open University, alumni, other researchers and fellow travellers through open space. And though we travel without uniforms or transporters, like members of Starfleet GO-GNers do go boldly, attempting to push the boundaries of knowledge in the field. Recognising the multiple senses in which education can be open, we approach the concept of openness from various angles and use a range of methods.
+
+In this panel discussion members of the network will reflect upon the what, why and how of their doctoral journeys, and invite session participants into our conversation.
+
+**Bio**
+
+TBA
+
+##### [Session Link](){target="_blank"}{-}
+
+## Friday June 2 {-}
+
+### Nadia Naffi {-} 
+
+*Université Laval*
+
+**Embracing the Metaverse: FormationMeta and the Future of Immersive Learning Experiences (in French)**
+
+
+Delve into the exciting world of FormationMeta, a groundbreaking 14-week exploratory project spearheaded by Laval University’s Chair in Educational Leadership on Innovative Pedagogical Practices in Digital Contexts – National Bank, in partnership with Laval University Library and OVA. This innovative project provided Laval University’s learning experience designers and instructors with an authentic experience to cultivate their skills in designing and developing immersive learning experiences within virtual reality and the metaverse. Engaging students from diverse disciplines such as educational technology, art, and game design, the project harnessed the power of StellarX.ai software to create bespoke immersive training tailored to the library’s clientele.
+
+Presented in French, this talk will unveil emerging recommendations to enlighten educational teams eager to embrace immersive learning experiences. The speaker will address pressing questions, including the current possibilities and future technological advancements, such as generative AI, essential skills for developing learning experiences in the metaverse, and strategies for training expert groups in education and educational technology to create immersive experiences that effectively cater to learner groups while adhering to ethical, equitable, and inclusive principles.
+
+**Bio**
+
+TBA
+
+##### [Session Link](){target="_blank"}{-}
+
+### Randy LaBonte {-} 
+
+*Vancouver Island University & Canadian eLearning Network*
+
+**Design Principles for Digital Learning and NSQOL Standards: Commonalities & Differences**
+
+
+Join this session to gain an understanding of design and organization principles to help inform quality in K-12 online learning teacher and leader practices. Learn about the Canadian-based online learning design principles and their commonalities and differences to the US-based National Standards for Quality Online Learning (NSQOL), application to pedagogy and practice, and how the elucidation and clarification of design and organization principles help inform leadership and administrative policy for quality online learning.
+
+##### [Session Link](){target="_blank"}{-}
