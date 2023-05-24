@@ -62,6 +62,10 @@
 
 ## Conference Welcome, Announcements & Land Acknowledgement | 9:00-9:15 {-}
 
+**Life Sciences Building LSB 103**
+
+**See the virtual Congress Platform for Zoom links.**
+
 ## Break | 9:15-9:30 {-}
 
 ## Concurrent Session 13 | 9:30-10:30 {-}
@@ -69,6 +73,8 @@
 1 Hour
 
 ### Concurrent Session 13.1 |  Transitions of Online Learning & Teaching {-}
+
+**Life Sciences Building LSB 103**
 
 ```{block, type='session'}
 
@@ -112,6 +118,8 @@ On today’s higher education campus, there are likely a dozen new terms being u
 
 ### Concurrent Session 13.2 |  Addressing Inequities {-}
 
+**Life Sciences Building LSB 101**
+
 ```{block, type='workshop'}
 
 
@@ -137,6 +145,8 @@ Working in a digitally-fluent educational program, the students worked together 
 ```
 
 ### Concurrent Session 13.3 |  Transitions of Online Learning & Teaching {-}
+
+**Life Sciences Building LSB 107**
 
 ```{block, type='session'}
 
@@ -181,6 +191,10 @@ This session will offer participants an opportunity to reflect on the digital sp
 
 ## Keynote | 11:00-12:00 {-}
 
+**Lassonde Building LAS C**
+
+**Check the Virtual Congress Platform for Zoom links.**
+
 ```{block, type='keynote'}
  
 
@@ -210,6 +224,10 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 45 Minutes
 
 ### Parallel Session 14.1 {-}
+
+**Life Sciences Building LSB 103**
+
+**Check the Virtual Congress Platform for Zoom links.**
 
 ```{block, type='speaker'}
 
@@ -242,6 +260,8 @@ We also have a session on June 2 regarding changes needed in the federal tri-age
 
 ### Concurrent Session 15.1 |  Addressing Inequities {-}
 
+**Life Sciences Building LSB 101**
+
 ```{block, type='session'}
 
 
@@ -265,6 +285,8 @@ Three themes were generated in our thematic analyses. The adoption or non-adopti
 
 ### Concurrent Session 15.2 |  Addressing Inequities {-}
 
+**Life Sciences Building LSB 105**
+
 ```{block, type='session'}
 
 
@@ -277,7 +299,7 @@ Three themes were generated in our thematic analyses. The adoption or non-adopti
 
 ***Michele Jacobsen*** | *University of Calgary*
 
-***Catherine Middleton*** | *Ryerson University* <!--{--change to new name?--}-->
+***Catherine Middleton*** | *Toronto Metropolitan University* 
 
 ***Simon Parent*** | *Université de Montréal*
 
@@ -295,6 +317,8 @@ The Canadian government launched the “Families Connected” initiative in 2018
 ```
 
 ### Concurrent Session 15.3 |  Sustaining Positive Change {-}
+
+**Life Sciences Building LSB 107**
 
 ```{block, type='session'}
 
@@ -324,6 +348,8 @@ Based on a robust psychological and pedagogical perspective in the use of advanc
 ## Concurrent Session 16 | 3:30-5:00 {-}
 
 ### Concurrent Session 16.1 |  Wildcard {-}
+
+**Life Sciences Building LSB 101**
 
 ```{block, type='session'}
 
@@ -369,6 +395,8 @@ A teacher education program in British Columbia (BC) redesigned the curriculum t
 
 ### Concurrent Session 16.2 |  Wildcard {-}
 
+**Life Sciences Building LSB 105**
+
 ```{block, type='session'}
 
 #### 3:30-4:30 | **Designing Agile Skill Development Pathways for Climate Adaptation: Leveraging Open Competency Frameworks and Open Educational Resources to Develop Micro-credential** |  Practice {-}
@@ -413,6 +441,8 @@ The open education movement is now more than twenty years old, if counting from 
 
 ### Concurrent Session 16.3 |  Sustaining Positive Change {-}
 
+**Life Sciences Building LSB 107**
+
 ```{block, type='session'}
 
 
@@ -455,13 +485,25 @@ Assessment literacy is defined as the knowledge and expertise that are employed 
 </details>
 ```
 
+### Concurrent Session 16.4 |  Transitions of Online Learning & Teaching{-}
+
+**Life Sciences Building LSB 103**
+
 ```{block, type='session'}
 
 
 
-#### 4:30-5:00 | **TBA** |  Research {-}
+#### 3:30-5:00 | **Language, Storytelling and the Narrative Bounds of Empire: Approaching Twine as a Feminist Pedagogical Tool** |  Practice {-}
 
-***TBA*** | *TBA*
+***Anna Lee-Popham*** | *University of Guelph*
+
+***Aparajita Bhandari*** | *Cornell University*
+
+***Sarah York-Bertram*** | *York University*
+
+***Sarah Choukah*** | *Université de l'Ontario français*
+
+***Laurence Butet-Roch*** | *York University*
 
 <!--
 **Keywords:** 
@@ -470,7 +512,9 @@ Assessment literacy is defined as the knowledge and expertise that are employed 
 <details>
 <summary><b>Abstract</b></summary>
 <p>
+Following the convening’s focus on addressing inequities and the turn towards virtual learning, this workshop introduces participants to Twine as an interactive storytelling tool to creatively undo the structures of language to reckon with Empire’s narratives. Participants will explore the tool’s interdisciplinary applications and create non-linear stories. From feminist perspectives, Twine is an accessible and free digital tool that, by having a low learning curve (Anthropy, Evans), “challenges mainstream standards by subverting the celebration of difficulty, in both production and play” (Harvey).
 
+The workshop explores Twine as a tool for otherwise thinking and shaping future possibilities, guided by the questions: How might Twine as an interactive story-telling tool create opportunities for participants to use the written word? How might these engagements enable new kinds of experiences and meaning-making for learners? We aim to facilitate exploration into how non-linearity can be reflective of Black feminist, anti-colonial, and plural forms of futurism and design. We do not position Twine as a technological fix, but a tool to generate expansive thinking; engage in collaborative digital scholarship; and craft new meanings. Our facilitators draw from their areas of study and pedagogical perspectives (digital cultures; communications; gender, feminist and women’s studies; creative writing) to demonstrate the tool’s cross-disciplinary applications.
 </p>
 </details>
 ```

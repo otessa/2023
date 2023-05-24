@@ -61,11 +61,17 @@
 
 ## Conference Welcome, Announcements & Land Acknowledgement | 9:00-9:15 {-}
 
+**Life Sciences Building LSB 103 @ York**
+
+**See the Virtual Congress Platform for Zoom Links**
+
 ## Break | 9:15-9:30 {-}
 
 ## Concurrent Session 5 | 9:30-10:30 {-}
 
 ### Concurrent Session 5.1 |  Sustaining Positive Change {-}
+
+**Life Sciences Building LSB 105**
 
 ```{block, type='session'}
 
@@ -92,6 +98,8 @@ This presentation will discuss the research efforts, competency framework and cu
 
 ### Concurrent Session 5.2 |  Sustaining Positive Change {-}
 
+**Life Sciences Building LSB 103**
+
 ```{block, type='session'}
 
 #### 9:30 - 10:30 | **Ascending the Mountain: Examining National Open Educational Resource (OER)** |  Practice {-}
@@ -116,6 +124,8 @@ This session examines ongoing work by a multi-stakeholder group to develop susta
 ```
 
 ### Concurrent Session 5.3 |  Sustaining Positive Change {-}
+
+**Life Sciences Building LSB 101**
 
 ```{block, type='session'}
 
@@ -165,6 +175,8 @@ Restoration ecology courses stress that students learn the knowledge and leaders
 ```
 
 ### Concurrent Session 5.4 |  Transitions of Online Learning & Teaching {-}
+
+**Life Sciences Building LSB 107**
 
 ```{block, type='session'}
 
@@ -216,6 +228,10 @@ Graduate students are under increasing pressure to participate in academic publi
 
 ## Keynote | 11:00-12:00 {-}
 
+**Lassonde Building LAS C @ York**
+
+**See the Virtual Congress Platform for Zoom Links**
+
 ```{block, type='keynote'}
 
 
@@ -245,6 +261,10 @@ These questions have dominated teaching and learning circles and social media si
 
 ### Parallel Session 6.1 {-}
 
+**Life Sciences Building LSB 103 @ York**
+
+**See the Virtual Congress Platform for Zoom Links**
+
 ```{block, type='speaker'}
 
 ####  **Jennifer Wemigwans** | *OISE University of Toronto* {-}
@@ -265,6 +285,10 @@ Digital Bundles create cultural space for Indigenous Knowledge through the use o
 ```
 
 ### Parallel Session 6.2 {-}
+
+**Life Sciences Building LSB 105**
+
+**See the Virtual Congress Platform for Zoom Links**
 
 ```{block, type='speaker'}
 
@@ -293,6 +317,8 @@ The launch of OpenAI’s ChatGPT was a dramatic event making generative artifici
 
 ### Concurrent Session 7.1 |  Wildcard {-}
 
+**Life Sciences Building LSB 103**
+
 ```{block, type='vendor'}
 
 #### 2:30-3:00 | **The Impact of Social Annotation on Learning** |  Research {-}
@@ -316,6 +342,8 @@ Social Annotation takes the age-old process of marking up texts to the digital l
 
 ### Concurrent Session 7.2 |  Sustaining Positive Change {-}
 
+**Life Sciences Building LSB 101**
+
 ```{block, type='session'}
 
 #### 2:30-3:00 | **What Uses of Digital Technology Support and Enhance the Learning and the Engagement of Diverse Learners in High School Classes?** |  Research {-}
@@ -336,6 +364,8 @@ Modern technology plays an important role in helping students from all walks of 
 ```
 
 ### Concurrent Session 7.3 |  Addressing Inequities {-}
+
+**Life Sciences Building LSB 105**
 
 ```{block, type='session'}
 
@@ -362,6 +392,8 @@ Datafied digital systems have permeated higher education over the past decade. R
 
 ### Concurrent Session 8.1 |  Addressing Inequities {-}
 
+**Life Sciences Building LSB 105**
+
 ```{block, type='workshop'}
 
 #### 3:30-5:00 | **The Wikidata Lexicographical Data: From Recording of Words to Lexemes and Beyond** |  Workshop {-}
@@ -383,6 +415,8 @@ This workshop session will walk participants through editing the lexicographic d
 ```
 
 ### Concurrent Session 8.2 |  Sustaining Positive Change {-}
+
+**Life Sciences Building LSB 101**
 
 ```{block, type='session'}
 
@@ -411,6 +445,8 @@ We will share our initial insights into student perspectives of OERs and follow 
 
 #### 4:30-5:00 | **Showcasing a Student-Led Anti-Racism Virtual Simulation Module for Equitable Learning** |  Practice {-}
 
+**Life Sciences Building LSB 101**
+
 ***Mujeedat Lekuti, HanShu Pu, Rishika Gowda, Zainab Baig, Javeria Baig, Alexandra Lawrynuik*** | *Queen’s University Canada*
 
 ***Laura Killam*** | *Cambrian College*
@@ -431,6 +467,8 @@ White-centric perspectives manifest in many North American higher education cult
 ```
 
 ### Concurrent Session 8.3 |  Wildcard {-}
+
+**Life Sciences Building LSB 103**
 
 ```{block, type='session'}
 
@@ -456,9 +494,11 @@ Adaptive learning (AL) leverages the power of technology to continuously modify 
 
 ```{block, type='session'}
 
-#### 4:30-5:00 | **An e-Book of One’s Own** |  Practice {-}
+#### 4:30-5:00 | **Conducting Scoping Reviews: Opportunities and Challenges for Examining Social Media Use for Learning** |  Research {-}
 
-***Terry Greene*** | *Trent University*
+***Richard Hayman & Erika E. Smith*** | *Mount Royal University*
+
+**Life Sciences Building LSB 101**
 
 <!--
 **Keywords:** 
@@ -467,19 +507,21 @@ Adaptive learning (AL) leverages the power of technology to continuously modify 
 <details>
 <summary><b>Abstract</b></summary>
 <p>
-The proliferation of digital technologies has brought about a wealth of opportunities for teaching, learning, and research in higher education. However, many institutions have not fully embraced these technologies to empower their faculty and students to create, collaborate, and share their work online. A combination of Domain of One’s Own and Pressbooks may offer a solution to this problem by providing faculty and students with the tools and structure that they need to create and publish online in a way that is both secure, scalable and not out of reach for all but the most digitally fluent.
-In this presentation, we will explore the benefits of combining the practice of Domain of One’s Own with the use of an institutional Pressbooks instance. These benefits include:
-- Providing faculty and students with a platform for creating and sharing their work online in a way that focuses on ease of use.  
-- Empowering faculty and students to take control of their learning by creating a personal e-book that reflects the growth of their learning throughout their program.  
-- Allowing faculty to create and publish open educational resources (OERs) and other digital resources that can be used by students and other educators around the world.  
-- Supporting the creation of online communities of practice and collaboration, where faculty and students can share their work, exchange ideas, and provide feedback.   
-The presentation will be targeted towards faculty, instructional designers, librarians, and educational technologists who are interested in exploring this approach to teaching, learning, and research. Attendees will learn about the benefits of simplifying Domain of One’s Own with Pressbooks.
+There is growing recognition among scholarly communities of the value that literature reviews contribute to synthesizing knowledge and understanding important research issues. While different review methodologies (e.g., scoping, systematic, meta-analysis, etc.) use distinct standards and methods, they typically share a common purpose: to position and connect a particular research problem within a greater context, to identify related research, and to provide a direction and rationale for further study in the area (McGregor, 2018). In looking back on, and ahead to, key issues, trends, and gaps in the field of educational technology, conducting reviews and examining the methodological approaches used in reviews are necessary activities.
 
+Speaking to the theme of “Reckonings and (Re)Imagining,” in this session, we will critically discuss why and how such reviews can and should contribute value, now and into the future. Using the case of our current review project on undergraduate use of social media technologies, and with the scholarship of teaching and learning (SoTL) as our primary lens, we will present an example process for establishing a scoping review protocol. By taking stock of the wider opportunities, challenges, and lessons learned for scoping reviews as meta-research contributions to the field, we invite critical discussion amongst SoTL and educational technology scholars considering ways to potentially enhance or extend their own literature review processes.
+
+
+
+
+ 
 </p>
 </details>
 ```
 
 ### Concurrent Session 8.4 |  Transitions of Online Learning & Teaching {-}
+
+**Life Sciences Building LSB 107**
 
 ```{block, type='session'}
 
