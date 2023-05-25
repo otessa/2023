@@ -62,7 +62,7 @@
 
 ## Conference Welcome, Announcements & Land Acknowledgement | 9:00-9:15 {-}
 
-**Life Sciences Building LSB 103**
+<mark>**Life Sciences Building LSB 103**</mark>
 
 **See the virtual Congress Platform for Zoom links.**
 
@@ -74,7 +74,7 @@
 
 ### Concurrent Session 13.1 |  Transitions of Online Learning & Teaching {-}
 
-**Life Sciences Building LSB 103**
+<mark>**Life Sciences Building LSB 103**</mark>
 
 ```{block, type='session'}
 
@@ -118,7 +118,7 @@ On today’s higher education campus, there are likely a dozen new terms being u
 
 ### Concurrent Session 13.2 |  Addressing Inequities {-}
 
-**Life Sciences Building LSB 101**
+<mark>**Life Sciences Building LSB 101**</mark>
 
 ```{block, type='workshop'}
 
@@ -146,7 +146,7 @@ Working in a digitally-fluent educational program, the students worked together 
 
 ### Concurrent Session 13.3 |  Transitions of Online Learning & Teaching {-}
 
-**Life Sciences Building LSB 107**
+<mark>**Life Sciences Building LSB 107**</mark>
 
 ```{block, type='session'}
 
@@ -191,7 +191,7 @@ This session will offer participants an opportunity to reflect on the digital sp
 
 ## Keynote | 11:00-12:00 {-}
 
-**Lassonde Building LAS C**
+<mark>**Lassonde Building LAS C**</mark>
 
 **Check the Virtual Congress Platform for Zoom links.**
 
@@ -225,7 +225,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 ### Parallel Session 14.1 {-}
 
-**Life Sciences Building LSB 103**
+<mark>**Life Sciences Building LSB 103**</mark>
 
 **Check the Virtual Congress Platform for Zoom links.**
 
@@ -260,7 +260,7 @@ We also have a session on June 2 regarding changes needed in the federal tri-age
 
 ### Concurrent Session 15.1 |  Addressing Inequities {-}
 
-**Life Sciences Building LSB 101**
+<mark>**Life Sciences Building LSB 101**</mark>
 
 ```{block, type='session'}
 
@@ -285,7 +285,7 @@ Three themes were generated in our thematic analyses. The adoption or non-adopti
 
 ### Concurrent Session 15.2 |  Addressing Inequities {-}
 
-**Life Sciences Building LSB 105**
+<mark>**Life Sciences Building LSB 105**</mark>
 
 ```{block, type='session'}
 
@@ -318,7 +318,7 @@ The Canadian government launched the “Families Connected” initiative in 2018
 
 ### Concurrent Session 15.3 |  Sustaining Positive Change {-}
 
-**Life Sciences Building LSB 107**
+<mark>**Life Sciences Building LSB 107**</mark>
 
 ```{block, type='session'}
 
@@ -349,7 +349,7 @@ Based on a robust psychological and pedagogical perspective in the use of advanc
 
 ### Concurrent Session 16.1 |  Wildcard {-}
 
-**Life Sciences Building LSB 101**
+<mark>**Life Sciences Building LSB 101**</mark>
 
 ```{block, type='session'}
 
@@ -395,7 +395,7 @@ A teacher education program in British Columbia (BC) redesigned the curriculum t
 
 ### Concurrent Session 16.2 |  Wildcard {-}
 
-**Life Sciences Building LSB 105**
+<mark>**Life Sciences Building LSB 105**</mark>
 
 ```{block, type='session'}
 
@@ -441,7 +441,7 @@ The open education movement is now more than twenty years old, if counting from 
 
 ### Concurrent Session 16.3 |  Sustaining Positive Change {-}
 
-**Life Sciences Building LSB 107**
+<mark>**Life Sciences Building LSB 107**</mark>
 
 ```{block, type='session'}
 
@@ -487,7 +487,7 @@ Assessment literacy is defined as the knowledge and expertise that are employed 
 
 ### Concurrent Session 16.4 |  Transitions of Online Learning & Teaching{-}
 
-**Life Sciences Building LSB 103**
+<mark><mark>**Life Sciences Building LSB 103**</mark></mark>
 
 ```{block, type='session'}
 
