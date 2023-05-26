@@ -185,9 +185,9 @@ Online survey becomes one of the popular/favorite methods for conducting researc
 ```{block, type='session'}
 
 
-#### 2:30-3:00 | **TBA** |  TBA {-}
+#### 2:30-3:00 | **Technological Distance: A New Way of Conceptualizing the “Distance” in Distance Learning** |  Research {-}
 
-***TBA*** | *TBA*
+***Jon Dron*** | *Athabasca University*
 
 <!--
 **Keywords:** 
@@ -196,6 +196,7 @@ Online survey becomes one of the popular/favorite methods for conducting researc
 <details>
 <summary><b>Abstract</b></summary>
 <p>
+This paper presents the concept of technological distance, which describes a gap between technologies (broadly defined to include methods, tools, principles, and processes) available for a learner to learn, and those needed to complete that learning. This gap is a measure of both the participation and autonomy of learners in the process. Available technologies may include those provided by teachers and institutions as well as from many others, most notably including the learners themselves. The technologies that make up the assembly are only components, however. What matters most is how learners fill the gaps between them to achieve their learning goals. These are fundamentally situated, idiosyncratic, and human. Technological distance provides new insights into other models that use spatial metaphors, such as the presences of communities of inquiry and transactional distance.
 
 </p>
 </details>
@@ -323,6 +324,12 @@ In this presentation we share and seek collaboration on a drafted toolkit for le
 ## Break | 3:00-3:15 {-}
 
 ## Social | 3:15-3:45 {-}
+
+```{block, type='social'}
+
+#### Music with Jon Dron {-}
+
+```
 
 ## Concurrent Session 19 | 3:45-5:15 {-}
 

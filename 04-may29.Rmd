@@ -542,23 +542,6 @@ Engaging in a discussion of key findings, this session aims to contribute to a s
 </details>
 ```
 
-```{block, type='session'}
-
-#### 4:30-5:00 | **L’apprentissage en ligne au Québec : résultats de l’enquête annuelle 2022 de l’ACRFL (in French)** |  Practice {-}
-
-***Bruno Poellhuber & Simon Parent*** | *Université de Montréal*
-
-<!--
-**Keywords:** 
--->
-
-<details>
-<summary><b>Abstract</b></summary>
-<p>
-TBA
-</p>
-</details>
-```
 
 ## See Congress Programming for Social Tent & Food Options | 5:00-7:00 {-}
 

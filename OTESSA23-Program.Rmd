@@ -34,7 +34,7 @@ Join us at the #OTESSA23 Morning Radio Show every morning times TBA (Eastern) at
 
 ```{block, type='protip'}
 
-#### Join us at the #OTESSA23 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 7:30 – 8:30 am (Eastern) at https://voiced.ca
+#### Join us at the #OTESSA23 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 6:30 – 7:30 am (Eastern) at https://voiced.ca
 ```
 
 ## Glenda Cox & Bianca Masuku {-}
@@ -142,7 +142,7 @@ Education has always collected and used student learning data in combination wit
 
 ```{block, type='protip'}
 
-#### Join us at the #OTESSA23 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 7:30 – 8:30 am (Eastern) at https://voiced.ca
+#### Join us at the #OTESSA23 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 6:30 – 7:30 am (Eastern) at https://voiced.ca
 ```
 
 
@@ -313,7 +313,7 @@ Join this session to gain an understanding of design and organization principles
 
 ```{block, type='protip'}
 
-#### Join us at the #OTESSA23 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 7:30 – 8:30 am (Eastern) at https://voiced.ca
+#### Join us at the #OTESSA23 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 6:30 – 7:30 am (Eastern) at https://voiced.ca
 ```
 
 ### Session Types {-}
@@ -1032,7 +1032,7 @@ Photo by <a href="https://unsplash.com/@adityachinchure?utm_source=unsplash&utm_
 
 ```{block, type='protip'}
 
-#### Join us at the #OTESSA23 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 7:30 – 8:30 am (Eastern) at https://voiced.ca
+#### Join us at the #OTESSA23 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 6:30 – 7:30 am (Eastern) at https://voiced.ca
 ```
 
 ### Session Types {-}
@@ -1572,23 +1572,6 @@ Engaging in a discussion of key findings, this session aims to contribute to a s
 </details>
 ```
 
-```{block, type='session'}
-
-#### 4:30-5:00 | **L’apprentissage en ligne au Québec : résultats de l’enquête annuelle 2022 de l’ACRFL (in French)** |  Practice {-}
-
-***Bruno Poellhuber & Simon Parent*** | *Université de Montréal*
-
-<!--
-**Keywords:** 
--->
-
-<details>
-<summary><b>Abstract</b></summary>
-<p>
-TBA
-</p>
-</details>
-```
 
 ## See Congress Programming for Social Tent & Food Options | 5:00-7:00 {-}
 
@@ -1600,7 +1583,7 @@ TBA
 
 ```{block, type='protip'}
 
-#### Join us at the #OTESSA23 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 7:30 – 8:30 am (Eastern) at https://voiced.ca
+#### Join us at the #OTESSA23 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 6:30 – 7:30 am (Eastern) at https://voiced.ca
 ```
 
 ### Session Types {-}
@@ -2173,7 +2156,7 @@ Utilizing Bower’s technology-mediated learning theory as a framework, particip
 
 ```{block, type='protip'}
 
-#### Join us at the #OTESSA23 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 7:30 – 8:30 am (Eastern) at https://voiced.ca
+#### Join us at the #OTESSA23 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 6:30 – 7:30 am (Eastern) at https://voiced.ca
 ```
 
 ### Session Types {-}
@@ -2864,9 +2847,9 @@ Online survey becomes one of the popular/favorite methods for conducting researc
 ```{block, type='session'}
 
 
-#### 2:30-3:00 | **TBA** |  TBA {-}
+#### 2:30-3:00 | **Technological Distance: A New Way of Conceptualizing the “Distance” in Distance Learning** |  Research {-}
 
-***TBA*** | *TBA*
+***Jon Dron*** | *Athabasca University*
 
 <!--
 **Keywords:** 
@@ -2875,6 +2858,7 @@ Online survey becomes one of the popular/favorite methods for conducting researc
 <details>
 <summary><b>Abstract</b></summary>
 <p>
+This paper presents the concept of technological distance, which describes a gap between technologies (broadly defined to include methods, tools, principles, and processes) available for a learner to learn, and those needed to complete that learning. This gap is a measure of both the participation and autonomy of learners in the process. Available technologies may include those provided by teachers and institutions as well as from many others, most notably including the learners themselves. The technologies that make up the assembly are only components, however. What matters most is how learners fill the gaps between them to achieve their learning goals. These are fundamentally situated, idiosyncratic, and human. Technological distance provides new insights into other models that use spatial metaphors, such as the presences of communities of inquiry and transactional distance.
 
 </p>
 </details>
@@ -3002,6 +2986,12 @@ In this presentation we share and seek collaboration on a drafted toolkit for le
 ## Break | 3:00-3:15 {-}
 
 ## Social | 3:15-3:45 {-}
+
+```{block, type='social'}
+
+#### Music with Jon Dron {-}
+
+```
 
 ## Concurrent Session 19 | 3:45-5:15 {-}
 
