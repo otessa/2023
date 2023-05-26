@@ -121,10 +121,13 @@ As a result of an observation that preservice teachers and in-service teachers n
 
 ```{block, type='session'}
 
-#### 2:30-3:00 | **TBA** |  TBA {-}
+#### 2:30-3:00 | **Reflections on an Emerging National Strategy for Open Education** |  Report {-}
 
-***TBA*** | *TBA*
+***Bradley Wuetherick*** | *University of British Columbia – Okanagan Campus*
 
+***Valerie Irvine*** | *University of Victoria*
+
+***Ann Ludbrook*** | *Toronto Metropolitan University*
 <!--
 **Keywords:** 
 -->
@@ -132,7 +135,7 @@ As a result of an observation that preservice teachers and in-service teachers n
 <details>
 <summary><b>Abstract</b></summary>
 <p>
-
+Over the past decade, higher education institutions, organizations, and governments have advocated for, and invested in, open education – particularly focusing on the ways open education can mitigate ongoing accessibility and affordability concerns. And while there have been a number of initiatives to coordinate these activities, there has not been a national strategy for open education in Canada. Over the past two years, Open Education advocates (faculty, librarians, administrators, and representatives of organizations across the country) have begun meeting to work towards the development of a national Open Education strategy. To further this work, they have worked together to host one National Summit with two additional Summits to follow, focusing on francophone OER, and the intersection of Indigenous Knowledges and OERs. This session will focus on the reflections of four individuals involved in these national conversations, focusing on the impetus behind the development of a national Open Education strategy, the importance of the three Summits (already hosted or planned), and why the development of a national strategy is a priority for Canadian higher education.
 </p>
 </details>
 ```
@@ -244,11 +247,11 @@ In recent years, STEM, iSTEM (Integrated STEM), and STEAM (STEM paradigms) have 
 
 ```{block, type='vendor'}
 
-#### 2:30-3:00 | **The Impact of Social Annotation on Learning** |  Research {-}
+#### 2:30-3:00 | **Leveraging Social Annotation in the Age of AI** |  Research {-}
 
 **Repeated from Session 7.1**
 
-***Sean O'Reilly*** | *hypothes.is*
+***Jessica Fuller*** | *hypothes.is*
 
 <!--
 **Keywords:** 
@@ -257,8 +260,7 @@ In recent years, STEM, iSTEM (Integrated STEM), and STEAM (STEM paradigms) have 
 <details>
 <summary><b>Abstract</b></summary>
 <p>
-Social Annotation takes the age-old process of marking up texts to the digital learning space. Using social annotation, students and professors can make meaning of text, have conversations around and with the text, and work together to become more proficient readers of academic material. During this session, you will be introduced to social annotation and the various ways it can impact student learning in your courses.
-
+The emergence of cutting-edge technologies, like ChatGPT, has sparked a critical conversation throughout the world of education. In this session, Jessica from Hypothesis will show how to leverage social annotation to encourage authentic, process-oriented engagement with course materials. She’ll also share best practices for using social annotation with AI writing tools and demonstrate how to set up Hypothesis-enabled readings in your LMS. Participants can expect to leave the session armed with concrete assignment ideas to implement in courses right away.
 </p>
 </details>
 ```
@@ -415,14 +417,18 @@ In Colombia, peace education has been recognized as essential to changing prevai
 </details>
 ```
 
-### Concurrent Session 19.3 |  Sustaining Positive Change {-}
+### Concurrent Session 19.3 |  Wildcard {-}
 
-```{block, type='session'}
+```{block, type='workshop'}
 
 
-#### 3:45-4:45 | **Scaling Small: The Open Book Collective Launch and Platform** |  Practice {-}
+#### 3:45-5:15 | **Designing Pedagogy for Immersive Experiences** |  Workshop {-}
 
-***Judith Fathallah*** | *Lancaster University*
+***Joannie Girard*** | *Conseil scolaire Viamonde*
+
+***S Girouard*** | *Conseil Scolaire Catholique Mon Avenir*
+
+***Lorayne Robertson*** | *Ontario Tech University*
 
 <!--
 **Keywords:** 
@@ -431,8 +437,7 @@ In Colombia, peace education has been recognized as essential to changing prevai
 <details>
 <summary><b>Abstract</b></summary>
 <p>
-The Open Book Collective, scheduled to launch November 2022, brings together Open Access book publishers, scholarly librarians, and OA infrastructure providers, working towards a sustainable and equitable future for OA books. This session will introduce our work, then demonstrate the use of the Open Book Collective membership platform, which will be live by the time of the conference. The Open Book Collective operates according to the principle of Scaling Small, which has guided the work of its umbrella project, Community-Led Open Infrastructures for Open Access Books (COPIM). ‘Scaling Small’, as opposed to ‘scaling up’, is an alternative way of envisaging a publishing and distribution ecosystem for Open Access Books that is based on mutual reliance and other kinds of collaboration rather than competition and incorporation. We believe that economies of scale flatten community diversity and lead to unhealthy monopolies. More pragmatically, the OBC requires a commitment from our publisher members to move away from book processing charges, which are both unsustainable and deeply inequitable. The introduction and interactive demonstration will be followed by a Q and A.
-
+Virtual reality is a technology where users are immersed in a digital world created by a computer and accessed through a headset (Dalton, 2021). Virtual reality has been shown to enhance learning in healthcare and safety training because it simulates the real environment vividly. Early explorations of VR use in education show that it provides a cost-effective and visually-stimulating field trip experience that engages students in new ways. There are, however, other advantages to the use of VR and these are connected with the level of immersion that it affords the user. In an immersive VR setting, participants have autonomy to explore the virtual environment, interact with objects and other people, and create spaces suited to different learning needs. In the proposed workshop, participants will be able to access VR through their phones, computers or using a headset. The workshop employs Spatial, a software platform that facilitates real time collaboration in the virtual environment. This technology was recently used successfully for professional development for teachers in Ontario in geographically-remote French-language school districts. In this workshop, participants will gain a sense of co-presence in VR and see the potential for employing these polysynchronous learning spaces in education.
 </p>
 </details>
 ```

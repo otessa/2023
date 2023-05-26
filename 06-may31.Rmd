@@ -316,32 +316,6 @@ The Canadian government launched the “Families Connected” initiative in 2018
 </details>
 ```
 
-### Concurrent Session 15.3 |  Sustaining Positive Change {-}
-
-<mark>**Life Sciences Building LSB 107**</mark>
-
-```{block, type='session'}
-
-
-
-#### 2:30-3:00 | **Beyond Covid-19: Infusing Advanced Technologies into a New Model for Children’s Adaptation to the New Normal** |  Research {-}
-
-***Liton Furukawa*** | *Royal Roads University*
-
-<!--
-**Keywords:** 
--->
-
-<details>
-<summary><b>Abstract</b></summary>
-<p>
-The COVID-19 pandemic has forced children to quickly adapt to home-based or virtual learning; however, challenges and difficulties have arisen such as the use of technology during the learning process and maintaining social interactions among children during online and classes. More importantly, a significant rise in the rates of mental illness has occurred as a result of COVID-19 and children are now experiencing increased mental health and physical challenges. Although learning projects applying multisensory approaches have been promoted, there is a need for further evidence-based research to reckon with and re-imagine the used of technology in education and ensure these models are moving us toward more diverse and sustainable solutions/approaches.
-
-Based on a robust psychological and pedagogical perspective in the use of advanced technologies, such as the application of holography, in educational settings, this research aims to help fill this gap. This study involves conducting ongoing research using an interdisciplinary approach that aims to assist children during and beyond COVID-19. Qualitative and quantitative data will be collected and made available to practitioners and parents who currently have no related reference point to serve as the basis for evidence-based guidelines. The research findings will broaden the scope of current literature that itself is in need of emphasizing the importance of empirical investigations into how best to use the multisensory model within the learning environment.
-
-</p>
-</details>
-```
 
 ## Break with Coffee and Snack Provided | 3:00-3:30 {-}
 

@@ -169,6 +169,7 @@ This presentation approaches online learning during COVID-19 emergency closures 
 
 ***Deb Nielsen*** | *College of New Caledonia*
 
+***Emily Ballantyne*** |  *Mount Saint Vincent University*
 <!--
 **Keywords:** 
 -->
@@ -238,7 +239,13 @@ An unconference is a participant-driven session meant to reduce emphasis on form
 <details>
 <summary><b>Abstract</b></summary>
 <p>
-TBA
+Digital Education in an Age of Data: What Do We Do Now?
+What does the current digital ecosystem of pervasive digital surveillance, data mining, and encroaching AI mean for the participatory possibilities of open pedagogy and digital learning? What constitutes a critical, ethical response to this increasingly colonizing and extractive ecosystem?
+
+Drawing on two core – and potentially contradictory – patterns of change that intersect in digital learning right now, this talk will focus on the the ethical quandary this intersection creates for open and digital education. On one side are the relational, participatory open digital practices that utilize the infrastructure of the web to engage learners in knowledge abundance. On the other is the datafication of higher education and the resultant enclosure of the platforms on which open practices occur, by data-extractive and even predatory corporate entities. The session will examine how the rise of datafied tools and AI demands a critical and ethical response, but one that our contemporary ‘click yes’ culture makes extremely difficult to mount. It will outline the logics of market capture and hype that currently shape narratives around digital tools, and the barriers this creates for the development of genuine, critical, agential data and AI literacies among faculty and students.
+
+The session is designed to raise questions rather than offer answers, but will highlight two current digital classroom projects that the presenter uses to try to bridge the tensions noted above. These projects aim to foster open practices and data literacies among pre-service teachers, and to encourage them to see their roles as knowledge workers in a new light. The talk will invite participants to consider our mutual – if always differential – responsibility to approach digital and open education with a critical eye to the complex and often potential harmful digital ecosystems on which it relies, while still aiming to foster spaces for participatory learning, open sharing, and change. Ultimately, it will call for a sector-wide ethics approach to datafication, and invite input on what that could look like.
+
 </p>
 </details>
 ```
@@ -488,23 +495,7 @@ This session invites instructors, academic staff, students, or others involved i
 </details>
 ```
 
-```{block, type='session'}
 
-#### 4:30-5:00 | **TBA** |  Research {-}
-
-***Speaker: TBA*** | **
-
-<!--
-**Keywords:** 
--->
-
-<details>
-<summary><b>Abstract</b></summary>
-<p>
-
-</p>
-</details>
-```
 
 ### Concurrent Session 12.4 |  Sustaining Positive Change {-}
 
