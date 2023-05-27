@@ -262,7 +262,6 @@ In recent years, STEM, iSTEM (Integrated STEM), and STEAM (STEM paradigms) have 
 
 #### 2:30-3:00 | **Leveraging Social Annotation in the Age of AI** |  Research {-}
 
-**Repeated from Session 7.1**
 
 ***Jessica Fuller*** | *hypothes.is*
 
@@ -335,6 +334,28 @@ In this presentation we share and seek collaboration on a drafted toolkit for le
 </details>
 ```
 
+### Concurrent Session 18.5 |   Sustaining Positive Change{-}
+
+
+```{block, type='session'}
+
+#### 1:30 - 2:30  | **Scaling Small: The Open Book Collective Launch and Platform** |  Practice {-}
+
+***Judith Fathallah*** | *Lancaster University*
+
+
+<!--
+**Keywords:** 
+-->
+
+<details>
+<summary>**Abstract**</summary>
+<p>
+The Open Book Collective, scheduled to launch November 2022, brings together Open Access book publishers, scholarly librarians, and OA infrastructure providers, working towards a sustainable and equitable future for OA books. This session will introduce our work, then demonstrate the use of the Open Book Collective membership platform, which will be live by the time of the conference. The Open Book Collective operates according to the principle of Scaling Small, which has guided the work of its umbrella project, Community-Led Open Infrastructures for Open Access Books (COPIM). ‘Scaling Small’, as opposed to ‘scaling up’, is an alternative way of envisaging a publishing and distribution ecosystem for Open Access Books that is based on mutual reliance and other kinds of collaboration rather than competition and incorporation. We believe that economies of scale flatten community diversity and lead to unhealthy monopolies. More pragmatically, the OBC requires a commitment from our publisher members to move away from book processing charges, which are both unsustainable and deeply inequitable. The introduction and interactive demonstration will be followed by a Q and A.
+
+</p>
+</details>
+```
 ## Break | 3:00-3:15 {-}
 
 ## Social | 3:15-3:45 {-}
