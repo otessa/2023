@@ -66,6 +66,8 @@
 
 ## Keynote | 11:00 - 12:00 {-}
 
+<mark>[**Session Link**](https://uvic.zoom.us/j/86856564512?pwd=UGdIVS9zbDdtS290bU9OdWpXZ05UZz09){target="_blank"}</mark>
+
 ```{block, type='keynote'}
 
 
@@ -83,7 +85,7 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 </details>
 
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/86856564512?pwd=UGdIVS9zbDdtS290bU9OdWpXZ05UZz09){target="_blank"}</mark>
+
 
 ```
 
@@ -94,6 +96,8 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 45 Minutes
 
 ### Parallel Session 1.1 {-}
+
+<mark>[**Session Link**](https://uvic.zoom.us/j/82521498250?pwd=eWhLWjlNVFhiTnluOXMyenRwOHBmQT09){target="_blank"}</mark>
 
 ```{block, type='speaker'}
 
@@ -117,11 +121,13 @@ How much procurement of edtech, however well executed, is too much?
 </p>
 </details>
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/82521498250?pwd=eWhLWjlNVFhiTnluOXMyenRwOHBmQT09){target="_blank"}</mark>
+
 
 ```
 
 ### Parallel Session 1.2 {-}
+
+<mark>[**Session Link**](https://uvic.zoom.us/j/81098138707?pwd=SVByR3ByWUw5dGxLeEFaYTJaMGdtQT09){target="_blank"}</mark>
 
 ```{block, type='speaker'}
 
@@ -141,7 +147,6 @@ Join Dr. Nicole Johnson, Executive Director of the Canadian Digital Learning Res
 </p>
 </details>
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/81098138707?pwd=SVByR3ByWUw5dGxLeEFaYTJaMGdtQT09){target="_blank"}</mark>
 
 ```
 
@@ -687,6 +692,8 @@ This presentation will address the issue of algorithmic literacy from an informa
 45 Minutes
 ### Parallel Session 4.1
 
+<mark>[**Session Link**](https://uvic.zoom.us/j/88611545139?pwd=NWErdnVwNjFqaVdLbk9QWFM1ZlFvdz09){target="_blank"}</mark>
+
 
 ```{block, type='speaker'}
 
@@ -707,11 +714,12 @@ In this presentation, Dr. Alec Couros will explore the exciting possibilities an
 </p>
 </details>
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/88611545139?pwd=NWErdnVwNjFqaVdLbk9QWFM1ZlFvdz09){target="_blank"}</mark>
 
 ```
 
 ### Parallel Session 4.2
+
+<mark>[**Session Link**](https://uvic.zoom.us/j/83845391748?pwd=U2o3ejhqS2MwZ3l1ejl1ZitKNnVqUT09){target="_blank"}</mark>
 
 ```{block, type='speaker'}
 
@@ -732,7 +740,6 @@ Many conversations around open education focus on a Eurocentric framework of cop
 </p>
 </details>
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/83845391748?pwd=U2o3ejhqS2MwZ3l1ejl1ZitKNnVqUT09){target="_blank"}</mark>
 
 ```
 

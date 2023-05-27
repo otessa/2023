@@ -2,7 +2,7 @@
 
 ```{block, type='protip'}
 
-#### Join us at the #OTESSA23 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 6:30 – 7:30 am (Eastern) at https://voiced.ca
+#### Join us at the #OTESSA23 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 6:30 – 7:30 am (Eastern) at [https://voiced.ca](https://voiced.ca){target="_blank"}
 ```
 
 ### Session Types {-}
@@ -509,5 +509,7 @@ The workshop explores Twine as a tool for otherwise thinking and shaping future 
 ```
 
 ## Congress President Reception | 5:00-7:00 {-}
+
+<mark>**Scott Library – Atrium**</mark>
 
 ## OTESSA Social |  Life Sciences Building Lobby | 7:00-11:59 {-}

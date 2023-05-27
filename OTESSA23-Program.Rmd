@@ -1,7 +1,7 @@
 --- 
 title: "Conference 2023 Program"
 author: "OTESSA Program Committee"
-date: "Last updated `r format(Sys.time(), '%A, %b %d, %H:%M %p, %Z')`"
+date: "Last updated `r format(Sys.time(), '%A, %b %d, %H:%M %p')`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -24,7 +24,10 @@ All OTESSA Participants can attend the [Congress “Big Thinking” lecture seri
 
 All OTESSA Registrants can also attend conference sessions offered by the [Canadian Association for the Study of Education (CSSE)](https://csse-scee.ca/), [Canadian Association for the Study of Higher Education (CSSHE)](https://csshe-scees.ca/), and [Canadian Association of Learned Journals (CALJ)](https://www.calj-acrs.ca/) as we have reciprocity agreements in place. Please note that presenters must register in each conference in which they are presenting.
 
-Join us at the #OTESSA23 Morning Radio Show every morning times TBA (Eastern) at [https://voiced.ca/](https://voiced.ca/)
+```{block, type='protip'}
+
+#### Join us at the #OTESSA23 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 6:30 – 7:30 am (Eastern) at [https://voiced.ca](https://voiced.ca){target="_blank"}
+```
 
 <!--chapter:end:index.Rmd-->
 
@@ -43,6 +46,8 @@ Join us at the #OTESSA23 Morning Radio Show every morning times TBA (Eastern) at
 
 ***Saturday, May 27, 11:00 AM***
 
+<mark>[**Session Link**](https://uvic.zoom.us/j/86856564512?pwd=UGdIVS9zbDdtS290bU9OdWpXZ05UZz09){target="_blank"}</mark>
+
 Dr Glenda Cox is a senior lecturer in the [Centre for Innovation in Learning and Teaching (CILT)](http://www.cilt.uct.ac.za) at the University of Cape Town and her portfolio includes postgraduate teaching, Curriculum change projects, Open Education, and Staff development. She holds the UNESCO chair in Open Education and Social Justice (2021-2024). She is on the editorial board of the International Journal of Students as Partners (joined in 2022). She is passionate about the role of Open Education in the changing world of Higher Education. Dr Glenda Cox is currently the Principal Investigator in the Digital Open Textbooks for Development (DOT4D) initiative. Her current research includes analysing the role of open textbooks for social justice.
 
 Bianca is a Junior Research Fellow in the Digital Open Textbooks for Development (DOT4D) project and drives the research arm of the initiative. She is currently a PhD candidate in Anthropology at UCT. She holds a Bachelor of Arts degree in Anthropology and Psychology and a Master’s in Social Anthropology from the University of Witwatersrand. Her work has revolved around gender, sexuality, youth and health, with a great interest in how young people experience, interrogate and contribute to the worlds around them. Her doctoral work explores understandings of TB in the township of Khayelitsha through a youth-based community engagement project. Her research background and varied research experiences fuel her current interests in open education, open educational resources, open textbooks and social justice with a keen interest in the inclusion and recognition of student voices.
@@ -53,7 +58,6 @@ Bianca is a Junior Research Fellow in the Digital Open Textbooks for Development
 
 Work done with open textbook creators at UCT has enabled the DOT4D initiative to articulate models of open textbook production that are being employed by academics at UCT who are using their open textbooks to address social (in)justice in the classroom. Building on this background work, we explore the values and attitudes of the academics who undertake open textbook production with student co- creators. Student inclusion is lauded in research as essential for student belonging, but little work has been done to look for the challenges involved when traditional power dynamics are disrupted. In this research, we describe a potential nexus of three complementary components: open textbooks, social justice, and students as partners. We investigate the affordances of the open textbook to facilitate change in the power dynamics of content production as well as in classroom practice.
 
-##### [Session Link](){target="_blank"}
 
 ```
 
@@ -63,13 +67,18 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 
 ***Monday, May 29, 11:00 AM***
 
+<mark>[**Session Link**](https://uvic.zoom.us/j/87672746834?pwd=ODNmUk5GOTVTZGc5NzRmakhtR2FRQT09){target="_blank"}</mark>
+
 Sarah Elaine Eaton, PhD, is an associate professor at the Werklund School of Education, University of Calgary, Canada and an Honorary Associate Professor, Deakin University, Australia. She has received research awards of excellence for her scholarship on academic integrity from the Canadian Society for the Study of Higher Education (CSSHE) (2020) and the European Network for Academic Integrity (ENAI) (2022). Dr. Eaton has written and presented extensively on academic integrity and ethics in higher education and is regularly invited as a media guest to talk about academic misconduct. Dr. Eaton is the editor-in-chief of the International Journal for Educational Integrity.
 
 Her books include Plagiarism in Higher Education: Tackling Tough Topics in Academic Integrity, Academic Integrity in Canada: An Enduring and Essential Challenge (Eaton & Christensen Hughes, eds.), Contract Cheating in Higher Education: Global Perspectives on Theory, Practice, and Policy (Eaton, Curtis, Stoesz, Clare, Rundle, & Seeland, eds.), and Ethics and Integrity in Teacher Education (Eaton & Khan, eds.) and Fake Degrees and Fraudulent Credentials in Higher Education (Eaton, Carmichael, & Pethrick, eds.). She is also the editor-in-chief of the Handbook of Academic Integrity (2nd ed., Springer), which is currently under development.
 
 [Faculty Profile](https://profiles.ucalgary.ca/sarah-elaine-eaton)
+
 [Personal Blog](https://drsaraheaton.wordpress.com/)
+
 [Twitter](https://twitter.com/DrSarahEaton)
+
 [LinkedIn](https://ca.linkedin.com/in/drsaraheaton)
 
 ```{block, type='keynote'}
@@ -79,7 +88,6 @@ Her books include Plagiarism in Higher Education: Tackling Tough Topics in Acade
 How worried do we need to be that students are going to cheat more because of artificial intelligence? Does writing generated by an artificial intelligence (AI) writing app constitute plagiarism? How can artificial intelligence be used ethically for teaching, learning, and assessment? Will a robot take my job?
 These questions have dominated teaching and learning circles and social media since late 2022 when ChatGPT emerged. In this Keynote, Sarah provides insights into how AI tools are impacting higher education. She will share insights from recent research project at the University of Calgary that explores the question: What are the ethical implications of artificial intelligence technologies for teaching, learning, and assessment?
 
-##### [Session Link](){target="_blank"} {++link++}
 
 ```
 
@@ -89,6 +97,8 @@ These questions have dominated teaching and learning circles and social media si
 *University of Calgary*
 
 ***Wednesday, May 31, 11:00 AM***
+
+<mark>[**Session Link**](https://uvic.zoom.us/j/87104073299?pwd=Zk4rUFY1WjdUa3VhK21GTlJaWkNKZz09){target="_blank"}</mark>
 
 Nick is a proud Kanyen’keha:ka and member of the Mohawks of the Bay of Quinte. He is a father, partner, uncle, and educator. Sharing truth alongside messages of hope and resiliency through the vehicle of education is what interests and drives Nick.
 
@@ -102,7 +112,6 @@ Grounded by the incredible support and generosity of Elders, Knowledge Keepers, 
 
 Education as a tool for both healing and reconciliation has been an evolving movement over the years, and in particular since the release the of the Truth and Reconciliation Commission 94 Calls to Action.  Eight years later in a post TRC society, what truths remain untold?  What lessons have we learned in trying to mobilize meaningful change?  How can we as educators, uphold our responsibilities in the work of rebuilding the broken relationship that has brought us to this space? As the reconciliatory bridge continues to be constructed, education systems will continue to play a keystone role in the process of building awareness, understanding, and creating action.
 
-##### [Session Link](){target="_blank"} {++link++}
 
 ```
 
@@ -110,6 +119,8 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 
 ***Friday, June 2, 11:00 AM***
+
+<mark>[**Session Link**](https://uvic.zoom.us/j/83832291664?pwd=M0pvTFNCWDBsRWd1NFJKaC9BbjM1QT09){target="_blank"}</mark>
 
 Paul Prinsloo is a Research Professor in Open and Distance Learning (ODL) in the Department of Business Management, College of Economic and Management Sciences, University of South Africa (Unisa). He is a Visiting Professor at the Carl von Ossietzky University of Oldenburg, Germany as well as at the National Open University of Nigeria (NOUN), a Research Associate for Contact North/Contact Nord (Canada), a Fellow of the European Distance and E-Learning Network (EDEN), member of the Executive Committee for the Society of Learning Analytics Research (SoLAR) and serves on several editorial boards. His research focuses on student success in distributed education contexts, the ethical collection, analysis and use of student data in learning analytics, and digital identities. He was born curious and in trouble and nothing has changed since then.
 
@@ -121,7 +132,6 @@ Paul Prinsloo is a Research Professor in Open and Distance Learning (ODL) in the
 
 Education has always collected and used student learning data in combination with a range of other data e.g., demographic, financial and prior learning data for a variety of purposes such as to assess and monitor students’ progress, identify students who may need additional support. There has always been concerns about possible bias, stereotyping and impact of categorization of students. Students’ (data)(learning) privacy were somewhere to be found among files being carried from one office to the other, files that got misplaced, unlocked storages and, possibly, a laissez-faire approach to protecting student data privacy because what happened in the classroom and school, stayed in the classroom (mostly). Even if this portrayal of student data privacy may sound idealistic and rather, simplistic, we must reckon how the increasing digitalization and datafication of teaching and learning changes not only the scope of student (data) privacy, but also attempts to protect their (and our) data. In this presentation I hope to provoke thinking about the (un)bearable lightness of student data privacy and consider what it means for students, faculty, institutional data governance amid the intensification and expansion of the data gaze. 
 
-##### [Session Link](){target="_blank"}
 
 ```
 
@@ -152,6 +162,8 @@ Education has always collected and used student learning data in combination wit
 
 *Unaffiliated*
 
+<mark>[**Session Link**](https://uvic.zoom.us/j/82521498250?pwd=eWhLWjlNVFhiTnluOXMyenRwOHBmQT09){target="_blank"}</mark>
+
 **5 Things You Need to Know Before You Buy Edtech**
 
 
@@ -165,11 +177,12 @@ How much procurement of edtech, however well executed, is too much?
 
 TBA
 
-##### [Session Link](){target="_blank"}{-}
 
 ### Nicole Johnson {-}
 
 *Canadian Digital Learning Research Association/Association canadienne de recherche sur la formation en ligne*
+
+<mark>[**Session Link**](https://uvic.zoom.us/j/81098138707?pwd=SVByR3ByWUw5dGxLeEFaYTJaMGdtQT09){target="_blank"}</mark>
 
 **Digital Learning Trends in Canadian Post-Secondary Education**
 
@@ -179,7 +192,6 @@ Join Dr. Nicole Johnson, Executive Director of the Canadian Digital Learning Res
 
 Dr. Nicole Johnson is the Executive Director of the Canadian Digital Learning Research Association (CDLRA), where she leads annual, longitudinal research studies exploring pan-Canadian trends related to digital learning at post-secondary institutions. She also has an independent research and consulting practice and works on research teams at Royal Roads University (Victoria, BC) and Bay View Analytics (Oakland, CA). Dr. Johnson has worked in the field of education for over two decades, focusing on digital learning for nearly 15 years. Her primary research interests include tracking macro-level trends in digital learning at the post-secondary level, defining and operationalizing key terms associated with digital learning, investigating faculty experiences with technology, exploring the future of higher education, and better understanding how adults learn informally in digital contexts.
 
-##### [Session Link](){target="_blank"}{-}
 
 
 ### Alec Couros {-}
@@ -187,6 +199,8 @@ Dr. Nicole Johnson is the Executive Director of the Canadian Digital Learning Re
 *University of Regina*
 
 **Harnessing the Power of AI in Education: Opportunities and Challenges**
+
+<mark>[**Session Link**](https://uvic.zoom.us/j/88611545139?pwd=NWErdnVwNjFqaVdLbk9QWFM1ZlFvdz09){target="_blank"}</mark>
 
 In this presentation, Dr. Alec Couros will explore the exciting possibilities and impact of AI in education, focusing on tools such as ChatGPT. With the ability to provide personalized learning experiences, AI has the potential to transform the way we teach and learn. However, its integration into the classroom also raises important ethical and societal concerns. Dr. Couros will examine both the opportunities and challenges of AI in education. Participants will leave with a better understanding of the potential of AI to positively impact student learning and success, as well as the considerations and challenges that must be addressed in order to fully embrace it in our learning environments.
 
@@ -196,11 +210,12 @@ TBA
 
 Unpacking the Tensions between Indigenous Knowledges and Open Education: Exploring Lar-Son’s 6Rs for Indigenous OERs in Practice
 
-##### [Session Link](){target="_blank"}{-}
 
 ### Brad Wuetherick {-}
 
 *University of British Columbia – Okanagan Campus*
+
+<mark>[**Session Link**](https://uvic.zoom.us/j/83845391748?pwd=U2o3ejhqS2MwZ3l1ejl1ZitKNnVqUT09){target="_blank"}</mark>
 
 Many conversations around open education focus on a Eurocentric framework of copyright and intellectual property rights that are sometimes in tension with Indigenous knowledge systems. While Indigenous communities and scholars are interested in making access to Indigenous Knowledges a more integral part of a decolonized and Indigenized post-secondary landscape, this session will explore areas for concern around the intersections between Open Educational Resources (OERs) and Indigenous Knowledges. Using Lar-Son’s (2022) 6Rs of Indigenous OERs framework for advancing Indigenous Knowledges through Open Education pedagogies and resources, this session will explore some of the principles and practices for engaging with Indigenous communities in the creation of OERs. Additionally, the session will discuss four different OER case studies featuring Indigenous perspective and Indigenous Knowledges from across Canada, including from an ‘in the works’ edited volume, that centre Indigenous ways of knowing, culture, experiences, and worldviews within the work of open education pedagogy and OER development.
 
@@ -208,13 +223,14 @@ Many conversations around open education focus on a Eurocentric framework of cop
 
 Brad Wuetherick is the Associate Provost, Academic Programs, Teaching and Learning at UBC’s Okanagan campus. Of Métis and European ancestry, Brad is a scholar of higher education teaching and learning, with an increasing focus on Indigenous mentorship, Indigenous student pathways into research, and equity in teaching and learning. Over the past decade, he’s also participated in several projects related to educational technologies in higher education, including the use of eportfolios. Brad has previously worked in a variety of teaching and learning leadership roles at Dalhousie University, the University of Saskatchewan, and the University of Alberta.
 
-##### [Session Link](){target="_blank"}{-}
 
 ## Monday May 29 {-}
 
 ### Jennifer Wemigwans {-} 
 
 *OISE University of Toronto*
+
+<mark>[**Session Link**](https://uvic.zoom.us/j/89316556882?pwd=c3lDQy92SmozZGV1Mm9RRDBCZXg2UT09){target="_blank"}</mark>
 
 **Digital Bundles: A Reckoning and a Re-imagining**
 
@@ -225,11 +241,12 @@ Digital Bundles create cultural space for Indigenous Knowledge through the use o
 
 Jennifer Wemigwans, PhD, is from Wiikwemkoong Unceded Territory on Manitoulin Island, Ontario. She is a new media producer, writer and scholar specializing in the convergence between education, Indigenous knowledge and new media technologies. Her book A Digital Bundle: Protecting and Promoting Indigenous Knowledge Online (2018) explores the prospects of Indigenous Knowledge education and digital projects in a networked world. Dr. Wemigwans takes pride in working to invert the conventional use of media by revealing the potential for Indigenous cultural expression and Indigenous knowledge through new technologies, education and the arts. She is an Assistant Professor in the Adult Education and Community Development Program at OISE University of Toronto.
 
-##### [Session Link](){target="_blank"}{-}
 
 ### Isabel Pedersen {-}
 
 *Ontario Tech University*
+
+<mark>[**Session Link**](https://uvic.zoom.us/j/82721893745?pwd=N0dERGRFdTMzZWdzZXE4KzVESnQyZz09){target="_blank"}</mark>
 
 **Shock and Awe: Generative AI Composition, Cultural Adaptation, and Postsecondary Education**
 
@@ -240,7 +257,6 @@ The launch of OpenAI’s ChatGPT was a dramatic event making generative artifici
 
 TBA
 
-##### [Session Link](){target="_blank"}{-}
 
 ## Tuesday May 30 {-}
 
@@ -249,7 +265,9 @@ TBA
 
 *University of Windsor*
 
-Digital Education in an Age of Data: What Do We Do Now?
+<mark>[**Session Link**](https://uvic.zoom.us/j/86250728368?pwd=dEFWYXJQcy9uVm91dDArT0RzanVNQT09){target="_blank"}</mark>
+
+**Digital Education in an Age of Data: What Do We Do Now?**
 
 Session Abstract: 
 
@@ -259,11 +277,12 @@ TBA
 
 TBA
 
-##### [Session Link](){target="_blank"}{-}
 
 ### Leo Havemann and Panel Members{-} 
 
 *Open University / UCL*
+
+<mark>[**Session Link**](https://uvic.zoom.us/j/82916752574?pwd=OG90Z0FwcjNkbmpvY2ZKYzRCVVQ5Zz09){target="_blank"}</mark>
 
 **Researching at the Edge of Openness: Reflections from GO-GN Members**
 
@@ -275,13 +294,14 @@ In this panel discussion members of the network will reflect upon the what, why 
 
 TBA
 
-##### [Session Link](){target="_blank"}{-}
 
 ## Friday June 2 {-}
 
 ### Nadia Naffi {-} 
 
 *Université Laval*
+
+<mark>[**Session Link**](https://uvic.zoom.us/j/89906555580?pwd=bndpdDZUZkNJa3VIY1UxeGVCbDdOQT09){target="_blank"}</mark>
 
 **Embracing the Metaverse: FormationMeta and the Future of Immersive Learning Experiences (in French)**
 
@@ -294,18 +314,18 @@ Presented in French, this talk will unveil emerging recommendations to enlighten
 
 TBA
 
-##### [Session Link](){target="_blank"}{-}
 
 ### Randy LaBonte {-} 
 
 *Vancouver Island University & Canadian eLearning Network*
+
+<mark>[**Session Link**](https://uvic.zoom.us/j/84461790793?pwd=S1JqcC9FejBtREMrOEJjVGxwVFRhUT09){target="_blank"}</mark>
 
 **Design Principles for Digital Learning and NSQOL Standards: Commonalities & Differences**
 
 
 Join this session to gain an understanding of design and organization principles to help inform quality in K-12 online learning teacher and leader practices. Learn about the Canadian-based online learning design principles and their commonalities and differences to the US-based National Standards for Quality Online Learning (NSQOL), application to pedagogy and practice, and how the elucidation and clarification of design and organization principles help inform leadership and administrative policy for quality online learning.
 
-##### [Session Link](){target="_blank"}{-}
 
 <!--chapter:end:01-speakers.Rmd-->
 
@@ -377,6 +397,8 @@ Join this session to gain an understanding of design and organization principles
 
 ## Keynote | 11:00 - 12:00 {-}
 
+<mark>[**Session Link**](https://uvic.zoom.us/j/86856564512?pwd=UGdIVS9zbDdtS290bU9OdWpXZ05UZz09){target="_blank"}</mark>
+
 ```{block, type='keynote'}
 
 
@@ -394,7 +416,7 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 </details>
 
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/86856564512?pwd=UGdIVS9zbDdtS290bU9OdWpXZ05UZz09){target="_blank"}</mark>
+
 
 ```
 
@@ -405,6 +427,8 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 45 Minutes
 
 ### Parallel Session 1.1 {-}
+
+<mark>[**Session Link**](https://uvic.zoom.us/j/82521498250?pwd=eWhLWjlNVFhiTnluOXMyenRwOHBmQT09){target="_blank"}</mark>
 
 ```{block, type='speaker'}
 
@@ -428,11 +452,13 @@ How much procurement of edtech, however well executed, is too much?
 </p>
 </details>
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/82521498250?pwd=eWhLWjlNVFhiTnluOXMyenRwOHBmQT09){target="_blank"}</mark>
+
 
 ```
 
 ### Parallel Session 1.2 {-}
+
+<mark>[**Session Link**](https://uvic.zoom.us/j/81098138707?pwd=SVByR3ByWUw5dGxLeEFaYTJaMGdtQT09){target="_blank"}</mark>
 
 ```{block, type='speaker'}
 
@@ -452,7 +478,6 @@ Join Dr. Nicole Johnson, Executive Director of the Canadian Digital Learning Res
 </p>
 </details>
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/81098138707?pwd=SVByR3ByWUw5dGxLeEFaYTJaMGdtQT09){target="_blank"}</mark>
 
 ```
 
@@ -998,6 +1023,8 @@ This presentation will address the issue of algorithmic literacy from an informa
 45 Minutes
 ### Parallel Session 4.1
 
+<mark>[**Session Link**](https://uvic.zoom.us/j/88611545139?pwd=NWErdnVwNjFqaVdLbk9QWFM1ZlFvdz09){target="_blank"}</mark>
+
 
 ```{block, type='speaker'}
 
@@ -1018,11 +1045,12 @@ In this presentation, Dr. Alec Couros will explore the exciting possibilities an
 </p>
 </details>
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/88611545139?pwd=NWErdnVwNjFqaVdLbk9QWFM1ZlFvdz09){target="_blank"}</mark>
 
 ```
 
 ### Parallel Session 4.2
+
+<mark>[**Session Link**](https://uvic.zoom.us/j/83845391748?pwd=U2o3ejhqS2MwZ3l1ejl1ZitKNnVqUT09){target="_blank"}</mark>
 
 ```{block, type='speaker'}
 
@@ -1043,7 +1071,6 @@ Many conversations around open education focus on a Eurocentric framework of cop
 </p>
 </details>
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/83845391748?pwd=U2o3ejhqS2MwZ3l1ejl1ZitKNnVqUT09){target="_blank"}</mark>
 
 ```
 
@@ -1068,7 +1095,7 @@ Photo by <a href="https://unsplash.com/@adityachinchure?utm_source=unsplash&utm_
 
 ```{block, type='protip'}
 
-#### Join us at the #OTESSA23 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 6:30 – 7:30 am (Eastern) at https://voiced.ca
+#### Join us at the #OTESSA23 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 6:30 – 7:30 am (Eastern) at [https://voiced.ca](https://voiced.ca){target="_blank"}
 ```
 
 ### Session Types {-}
@@ -1642,7 +1669,7 @@ Engaging in a discussion of key findings, this session aims to contribute to a s
 
 ```{block, type='protip'}
 
-#### Join us at the #OTESSA23 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 6:30 – 7:30 am (Eastern) at https://voiced.ca
+#### Join us at the #OTESSA23 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 6:30 – 7:30 am (Eastern) at [https://voiced.ca](https://voiced.ca){target="_blank"}
 ```
 
 ### Session Types {-}
@@ -2235,7 +2262,7 @@ Utilizing Bower’s technology-mediated learning theory as a framework, particip
 
 ```{block, type='protip'}
 
-#### Join us at the #OTESSA23 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 6:30 – 7:30 am (Eastern) at https://voiced.ca
+#### Join us at the #OTESSA23 Morning Radio Show Monday, Tuesday, Wednesday, May 29, 30, and 31 from 6:30 – 7:30 am (Eastern) at [https://voiced.ca](https://voiced.ca){target="_blank"}
 ```
 
 ### Session Types {-}
@@ -2742,6 +2769,8 @@ The workshop explores Twine as a tool for otherwise thinking and shaping future 
 ```
 
 ## Congress President Reception | 5:00-7:00 {-}
+
+<mark>**Scott Library – Atrium**</mark>
 
 ## OTESSA Social |  Life Sciences Building Lobby | 7:00-11:59 {-}
 
