@@ -63,7 +63,7 @@
 
 <mark>**Life Sciences Building LSB 103 @ York**</mark>
 
-**<mark>[Session Link](https://uvic.zoom.us/j/89902859924?pwd=VisxNW1GUW5KWnJldW1DRjF2d0Rmdz09)</mark>**
+<mark>[**Session Link**](https://uvic.zoom.us/j/89902859924?pwd=VisxNW1GUW5KWnJldW1DRjF2d0Rmdz09){target="_blank"}</mark>
 
 ## Break | 9:15-9:30 {-}
 
@@ -230,7 +230,7 @@ An unconference is a participant-driven session meant to reduce emphasis on form
 
 <mark>**Life Sciences Building LSB 103**</mark>
 
-**<mark>[Session Link](https://uvic.zoom.us/j/86250728368?pwd=dEFWYXJQcy9uVm91dDArT0RzanVNQT09)</mark>**
+<mark>[**Session Link**](https://uvic.zoom.us/j/86250728368?pwd=dEFWYXJQcy9uVm91dDArT0RzanVNQT09){target="_blank"}</mark>
 
 ```{block, type='speaker'}
 
@@ -260,7 +260,7 @@ The session is designed to raise questions rather than offer answers, but will h
 
 <mark>**Life Sciences Building LSB 105**</mark>
 
-**<mark>[Session Link](https://uvic.zoom.us/j/82916752574?pwd=OG90Z0FwcjNkbmpvY2ZKYzRCVVQ5Zz09)</mark>**
+<mark>[**Session Link**](https://uvic.zoom.us/j/82916752574?pwd=OG90Z0FwcjNkbmpvY2ZKYzRCVVQ5Zz09){target="_blank"}</mark>
 
 ```{block, type='speaker'}
 
