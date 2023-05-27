@@ -76,6 +76,8 @@
 
 <mark>**Life Sciences Building LSB 103**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa)**</mark>
+
 ```{block, type='session'}
 
 
@@ -120,6 +122,8 @@ On today’s higher education campus, there are likely a dozen new terms being u
 
 <mark>**Life Sciences Building LSB 101**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_2)**</mark>
+
 ```{block, type='workshop'}
 
 
@@ -147,6 +151,8 @@ Working in a digitally-fluent educational program, the students worked together 
 ### Concurrent Session 13.3 |  Transitions of Online Learning & Teaching {-}
 
 <mark>**Life Sciences Building LSB 107**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_3)**</mark>
 
 ```{block, type='session'}
 
@@ -212,9 +218,6 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 </p>
 </details>
 
-
-##### [Session Link](){target="_blank"} {-}
-
 ```
 
 ## Break | 12:00-1:30 {-}
@@ -262,6 +265,8 @@ We also have a session on June 2 regarding changes needed in the federal tri-age
 
 <mark>**Life Sciences Building LSB 101**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa)**</mark>
+
 ```{block, type='session'}
 
 
@@ -286,6 +291,8 @@ Three themes were generated in our thematic analyses. The adoption or non-adopti
 ### Concurrent Session 15.2 |  Addressing Inequities {-}
 
 <mark>**Life Sciences Building LSB 105**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_2)**</mark>
 
 ```{block, type='session'}
 
@@ -324,6 +331,8 @@ The Canadian government launched the “Families Connected” initiative in 2018
 ### Concurrent Session 16.1 |  Wildcard {-}
 
 <mark>**Life Sciences Building LSB 101**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa)**</mark>
 
 ```{block, type='session'}
 
@@ -371,6 +380,8 @@ A teacher education program in British Columbia (BC) redesigned the curriculum t
 
 <mark>**Life Sciences Building LSB 105**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_2)**</mark>
+
 ```{block, type='session'}
 
 #### 3:30-4:30 | **Designing Agile Skill Development Pathways for Climate Adaptation: Leveraging Open Competency Frameworks and Open Educational Resources to Develop Micro-credential** |  Practice {-}
@@ -417,6 +428,8 @@ The open education movement is now more than twenty years old, if counting from 
 
 <mark>**Life Sciences Building LSB 107**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_3)**</mark>
+
 ```{block, type='session'}
 
 
@@ -461,7 +474,9 @@ Assessment literacy is defined as the knowledge and expertise that are employed 
 
 ### Concurrent Session 16.4 |  Transitions of Online Learning & Teaching{-}
 
-<mark><mark>**Life Sciences Building LSB 103**</mark></mark>
+<mark>**Life Sciences Building LSB 103**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_4)**</mark>
 
 ```{block, type='session'}
 

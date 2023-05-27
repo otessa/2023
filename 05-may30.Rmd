@@ -75,6 +75,8 @@
 
 <mark>**Life Sciences Building LSB 105**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa)**</mark>
+
 ```{block, type='session'}
 
 #### 9:30-10:00 | **Developing Open Education Literacies in Teacher Education Programs** |  Research {-}
@@ -121,6 +123,8 @@ This paper presents the concept of technological distance, which describes a gap
 
 <mark>**Life Sciences Building LSB 101**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_2)**</mark>
+
 ```{block, type='session'}
 
 #### 9:30-10:00 | **Belonging, Relatedness, Connectedness, or Social Presence? Overlaps and Differences in Online Learning** |  Research {-}
@@ -162,6 +166,8 @@ This presentation approaches online learning during COVID-19 emergency closures 
 ### Concurrent Session 9.3 |  Sustaining Positive Change {-}
 
 <mark>**Life Sciences Building LSB 107**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_3)**</mark>
 
 ```{block, type='session'}
 
@@ -285,6 +291,8 @@ In this panel discussion members of the network will reflect upon the what, why 
 
 <mark>**Life Sciences Building LSB 103**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa)**</mark>
+
 ```{block, type='session'}
 
 
@@ -315,6 +323,8 @@ The presentation will be targeted towards faculty, instructional designers, libr
 
 <mark>**Life Sciences Building LSB 107**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_2)**</mark>
+
 ```{block, type='session'}
 
 #### 2:30-3:00 | **Impact of Emergency Remote Teaching and Digital Technology Usage in K-12 Teacher Practice** |  Research {-}
@@ -337,6 +347,8 @@ Digital technologies are potentially being used more in K-12 classrooms than pri
 ### Concurrent Session 11.3 |  Sustaining Positive Change {-}
 
 <mark>**Life Sciences Building LSB 105**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_3)**</mark>
 
 ```{block, type='session'}
 
@@ -377,6 +389,8 @@ Online video conferencing platforms have been widely used as key classroom tools
 ### Concurrent Session 12.1 |  Transitions of Online Learning & Teaching {-}
 
 <mark>**Life Sciences Building LSB 105**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa)**</mark>
 
 ```{block, type='session'}
 
@@ -429,6 +443,8 @@ In order to re-envision open and online education, and respond to the conference
 
 <mark>**Life Sciences Building LSB 107**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_2)**</mark>
+
 ```{block, type='session'}
 
 #### 3:30-4:00 | **Virtual Reality Simulations in Higher Education Science Classes:Student Engagement and Teacher Professional Development** |  Research {-}
@@ -475,6 +491,8 @@ Gamification has been the subject of extensive research as it potentially allows
 
 <mark>**Life Sciences Building LSB 101**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_3)**</mark>
+
 ```{block, type='session'}
 
 #### 3:30-4:30 | **Re/storying Pedagogy for the Postdigital University: Examining the Power of Critical Storytelling for Imagining Better Futures** |  Practice {-}
@@ -498,6 +516,8 @@ This session invites instructors, academic staff, students, or others involved i
 
 
 ### Concurrent Session 12.4 |  Sustaining Positive Change {-}
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_4)**</mark>
 
 <mark>**Life Sciences Building LSB 103**</mark>
 

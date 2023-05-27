@@ -1139,6 +1139,8 @@ Photo by <a href="https://unsplash.com/@adityachinchure?utm_source=unsplash&utm_
 
 <mark>**Life Sciences Building LSB 105**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa)**</mark>
+
 ```{block, type='session'}
 
 #### 9:30 - 10:30 | **Cultivating Essential Leadership Skills for Digital Transformation in Ontario Postsecondary Education** |  Practice {-}
@@ -1164,7 +1166,10 @@ This presentation will discuss the research efforts, competency framework and cu
 
 ### Concurrent Session 5.2 |  Sustaining Positive Change {-}
 
+
 <mark>**Life Sciences Building LSB 103**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_2)**</mark>
 
 ```{block, type='session'}
 
@@ -1192,6 +1197,8 @@ This session examines ongoing work by a multi-stakeholder group to develop susta
 ### Concurrent Session 5.3 |  Sustaining Positive Change {-}
 
 <mark>**Life Sciences Building LSB 101**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_3)**</mark>
 
 ```{block, type='session'}
 
@@ -1243,6 +1250,8 @@ Restoration ecology courses stress that students learn the knowledge and leaders
 ### Concurrent Session 5.4 |  Transitions of Online Learning & Teaching {-}
 
 <mark>**Life Sciences Building LSB 107**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_4)**</mark>
 
 ```{block, type='session'}
 
@@ -1385,6 +1394,8 @@ The launch of OpenAI’s ChatGPT was a dramatic event making generative artifici
 
 <mark>**Life Sciences Building LSB 103**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa)**</mark>
+
 ```{block, type='vendor'}
 
 #### 2:30-3:00 | **The Impact of Social Annotation on Learning** |  Research {-}
@@ -1410,6 +1421,8 @@ Social Annotation takes the age-old process of marking up texts to the digital l
 
 <mark>**Life Sciences Building LSB 101**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_2)**</mark>
+
 ```{block, type='session'}
 
 #### 2:30-3:00 | **What Uses of Digital Technology Support and Enhance the Learning and the Engagement of Diverse Learners in High School Classes?** |  Research {-}
@@ -1432,6 +1445,8 @@ Modern technology plays an important role in helping students from all walks of 
 ### Concurrent Session 7.3 |  Addressing Inequities {-}
 
 <mark>**Life Sciences Building LSB 105**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_3)**</mark>
 
 ```{block, type='session'}
 
@@ -1460,6 +1475,8 @@ Datafied digital systems have permeated higher education over the past decade. R
 
 <mark>**Life Sciences Building LSB 105**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa)**</mark>
+
 ```{block, type='workshop'}
 
 #### 3:30-5:00 | **The Wikidata Lexicographical Data: From Recording of Words to Lexemes and Beyond** |  Workshop {-}
@@ -1483,6 +1500,8 @@ This workshop session will walk participants through editing the lexicographic d
 ### Concurrent Session 8.2 |  Sustaining Positive Change {-}
 
 <mark>**Life Sciences Building LSB 101**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_2)**</mark>
 
 ```{block, type='session'}
 
@@ -1536,6 +1555,8 @@ White-centric perspectives manifest in many North American higher education cult
 
 <mark>**Life Sciences Building LSB 103**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_3)**</mark>
+
 ```{block, type='session'}
 
 
@@ -1588,6 +1609,8 @@ Speaking to the theme of “Reckonings and (Re)Imagining,” in this session, we
 ### Concurrent Session 8.4 |  Transitions of Online Learning & Teaching {-}
 
 <mark>**Life Sciences Building LSB 107**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_4)**</mark>
 
 ```{block, type='session'}
 
@@ -1692,6 +1715,8 @@ Engaging in a discussion of key findings, this session aims to contribute to a s
 
 <mark>**Life Sciences Building LSB 105**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa)**</mark>
+
 ```{block, type='session'}
 
 #### 9:30-10:00 | **Developing Open Education Literacies in Teacher Education Programs** |  Research {-}
@@ -1738,6 +1763,8 @@ This paper presents the concept of technological distance, which describes a gap
 
 <mark>**Life Sciences Building LSB 101**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_2)**</mark>
+
 ```{block, type='session'}
 
 #### 9:30-10:00 | **Belonging, Relatedness, Connectedness, or Social Presence? Overlaps and Differences in Online Learning** |  Research {-}
@@ -1779,6 +1806,8 @@ This presentation approaches online learning during COVID-19 emergency closures 
 ### Concurrent Session 9.3 |  Sustaining Positive Change {-}
 
 <mark>**Life Sciences Building LSB 107**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_3)**</mark>
 
 ```{block, type='session'}
 
@@ -1902,6 +1931,8 @@ In this panel discussion members of the network will reflect upon the what, why 
 
 <mark>**Life Sciences Building LSB 103**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa)**</mark>
+
 ```{block, type='session'}
 
 
@@ -1932,6 +1963,8 @@ The presentation will be targeted towards faculty, instructional designers, libr
 
 <mark>**Life Sciences Building LSB 107**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_2)**</mark>
+
 ```{block, type='session'}
 
 #### 2:30-3:00 | **Impact of Emergency Remote Teaching and Digital Technology Usage in K-12 Teacher Practice** |  Research {-}
@@ -1954,6 +1987,8 @@ Digital technologies are potentially being used more in K-12 classrooms than pri
 ### Concurrent Session 11.3 |  Sustaining Positive Change {-}
 
 <mark>**Life Sciences Building LSB 105**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_3)**</mark>
 
 ```{block, type='session'}
 
@@ -1994,6 +2029,8 @@ Online video conferencing platforms have been widely used as key classroom tools
 ### Concurrent Session 12.1 |  Transitions of Online Learning & Teaching {-}
 
 <mark>**Life Sciences Building LSB 105**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa)**</mark>
 
 ```{block, type='session'}
 
@@ -2046,6 +2083,8 @@ In order to re-envision open and online education, and respond to the conference
 
 <mark>**Life Sciences Building LSB 107**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_2)**</mark>
+
 ```{block, type='session'}
 
 #### 3:30-4:00 | **Virtual Reality Simulations in Higher Education Science Classes:Student Engagement and Teacher Professional Development** |  Research {-}
@@ -2092,6 +2131,8 @@ Gamification has been the subject of extensive research as it potentially allows
 
 <mark>**Life Sciences Building LSB 101**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_3)**</mark>
+
 ```{block, type='session'}
 
 #### 3:30-4:30 | **Re/storying Pedagogy for the Postdigital University: Examining the Power of Critical Storytelling for Imagining Better Futures** |  Practice {-}
@@ -2115,6 +2156,8 @@ This session invites instructors, academic staff, students, or others involved i
 
 
 ### Concurrent Session 12.4 |  Sustaining Positive Change {-}
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_4)**</mark>
 
 <mark>**Life Sciences Building LSB 103**</mark>
 
@@ -2266,6 +2309,8 @@ Utilizing Bower’s technology-mediated learning theory as a framework, particip
 
 <mark>**Life Sciences Building LSB 103**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa)**</mark>
+
 ```{block, type='session'}
 
 
@@ -2310,6 +2355,8 @@ On today’s higher education campus, there are likely a dozen new terms being u
 
 <mark>**Life Sciences Building LSB 101**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_2)**</mark>
+
 ```{block, type='workshop'}
 
 
@@ -2337,6 +2384,8 @@ Working in a digitally-fluent educational program, the students worked together 
 ### Concurrent Session 13.3 |  Transitions of Online Learning & Teaching {-}
 
 <mark>**Life Sciences Building LSB 107**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_3)**</mark>
 
 ```{block, type='session'}
 
@@ -2402,9 +2451,6 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 </p>
 </details>
 
-
-##### [Session Link](){target="_blank"} {-}
-
 ```
 
 ## Break | 12:00-1:30 {-}
@@ -2452,6 +2498,8 @@ We also have a session on June 2 regarding changes needed in the federal tri-age
 
 <mark>**Life Sciences Building LSB 101**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa)**</mark>
+
 ```{block, type='session'}
 
 
@@ -2476,6 +2524,8 @@ Three themes were generated in our thematic analyses. The adoption or non-adopti
 ### Concurrent Session 15.2 |  Addressing Inequities {-}
 
 <mark>**Life Sciences Building LSB 105**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_2)**</mark>
 
 ```{block, type='session'}
 
@@ -2514,6 +2564,8 @@ The Canadian government launched the “Families Connected” initiative in 2018
 ### Concurrent Session 16.1 |  Wildcard {-}
 
 <mark>**Life Sciences Building LSB 101**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa)**</mark>
 
 ```{block, type='session'}
 
@@ -2561,6 +2613,8 @@ A teacher education program in British Columbia (BC) redesigned the curriculum t
 
 <mark>**Life Sciences Building LSB 105**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_2)**</mark>
+
 ```{block, type='session'}
 
 #### 3:30-4:30 | **Designing Agile Skill Development Pathways for Climate Adaptation: Leveraging Open Competency Frameworks and Open Educational Resources to Develop Micro-credential** |  Practice {-}
@@ -2607,6 +2661,8 @@ The open education movement is now more than twenty years old, if counting from 
 
 <mark>**Life Sciences Building LSB 107**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_3)**</mark>
+
 ```{block, type='session'}
 
 
@@ -2651,7 +2707,9 @@ Assessment literacy is defined as the knowledge and expertise that are employed 
 
 ### Concurrent Session 16.4 |  Transitions of Online Learning & Teaching{-}
 
-<mark><mark>**Life Sciences Building LSB 103**</mark></mark>
+<mark>**Life Sciences Building LSB 103**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_4)**</mark>
 
 ```{block, type='session'}
 
@@ -3378,4 +3436,92 @@ Our Cross-Campus Capstone Classroom (C4) interdisciplinary project involved our 
 
 
 <!--chapter:end:09-asynch.Rmd-->
+
+# Unconference {-}
+
+This year at #OTESSA23, we are hosting two unconference sessions:
+
+#### Tuesday, May 30 - In-Person at York University{-}
+
+**11:00 AM - 12:00 PM Eastern Time**
+
+#### Friday, June 2 - Online Only {-}
+
+**12:30 - 1:15 PM**
+
+#### Watch this spot for your chance to vote! {-}
+
+**<mark>[Session Link](https://uvic.zoom.us/j/86010785627?pwd=Nm83LzM1RXRXQU9JVFJldWg3RmhPZz09)</mark>**
+
+Bring your thoughts for developing ideas and meeting other people with the same interests as you!
+
+An Unconference (aka EdCamp) is a user-generated conference. There is no rigid pre-selection of session topics planned in advance. Instead, ideas for collaboration and conversation are determined as attendees identify common themes/topics that they would like to explore, and what they can teach others about.
+
+Below is a great video from an in-person EdCamp Victoria that was designed for the K12 sector that explains the concept of an EdCamp well. In this instance, learners and instructors from the Faculty of Education at UVic had the opportunity to mix and share ideas with their field community of K12 teachers and administration. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VKi1Fiog9TE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Unconference approaches like this can be applied in any field of study to connect across their discipline (or mixing disciplines) and to mix stakeholder roles in the field (e.g., admin, educators, learners, etc.). This approach is also used in individual classes within a course. [See #EdCampUVic on Twitter](https://twitter.com/search?q=%23edcampuvic){target="_blank"} as a sample and a [sample archived EdCamp at UVic](https://edtechuvic.ca/edcamp/){target="_blank"}.
+
+### Background on EdCamps {-}
+
+>“What began as an idea has transformed into a movement. Since the original Edcamp in 2010 there have been over 700 conferences around the world in 25 countries. In the first few months following that first session in Philadelphia, the Edcamp movement grew and flourished in a grassroots manner. Each Edcamp is independently organized and hosted, is free to participants, bringing together passionate educators for a day of learning and growth. The conferences are participant-driven with the sessions developed and facilitated by the teachers who are attending and leverage social media to involve remote attendees.
+
+>By adopting the unconference protocol inspired by the Barcamp model, Edcamps provide access to high quality, personalized professional learning for all educators. Embracing the belief that fellow educators can be some of the most valuable professional development resources for their colleagues, the Edcamp movement has been recognized by countless organizations, including the United States Department of Education, the Bammy Awards for Education, the Association for Supervision and Curriculum Development (ASCD), the International Society for Technology in Education (ISTE), the TEDx program and the Bill & Melinda Gates Foundation.”  www.edcamp.org
+
+### How To Participate {-}
+
+Watch here for links!!
+<!--
+1. [Sign-Up & Contribute topics](https://surveys.otessa.org/index.php/761431?lang=en){target="_blank"}  
+2. [Vote for your favourite topics](https://surveys.otessa.org/index.php/941512?lang=en){target="_blank"}. 
+
+Or just show up, but the planning helps to make this a good event!
+
+-->
+
+<!--
+### Get Started {-}
+
+1. [Complete **Sign-Up** and Contribute 3 Topics (DUE Wednesday Midnight)](https://surveys.otessa.org/index.php/761431?lang=en){target="_blank"}  
+2. [**Vote NOW!!**](https://surveys.otessa.org/index.php/941512?lang=en){target="_blank"}  (DUE Fri 10am EDT)  
+3. **Visit** the topics list to view the topics selected for the unconference and corresponding Google Docs for notes for each. These will be updated on the day of the Unconference, shortly after topic voting closes.
+4. **Participate**! Access the Zoom Meeting link via the Congress platform. Share your ideas, resources, ask questions, brainstorm solutions for challenges, network, etc.
+
+-->
+
+### Rules {-}
+
+Follow Congress/OTESSA Code of Conduct, but we will highlight some rules below:
+
+- Practice respect at all times.  
+- No moderator required. Connect and share over a common interest.  
+- You are most welcome to switch topics/rooms at any point. You are not committed to the full session.  
+- Feel free to make use of the Google Docs to take notes (chat messages in Zoom will not be saved nor shared)  
+- Topic voting and the video room link can be found on the Participate page  
+- Consent needed to take screenshots of people to be posted on social media. We have created a space to take Zoom selfies in the “Social Media Photo Booth” breakout room.
+
+
+### Topic List & Google Docs {-}
+
+<!--
+- [Being Human, Caring and Inclusive in Online and Open](https://docs.google.com/document/d/1Wn8PBfTJsHJ5hGipNzEyMoViq4fvTirjj6VQm36ghbQ/edit?usp=sharing){target="_blank"}  
+- [Research Communities: Building Networks for Future Research Projects](https://docs.google.com/document/d/1Hn_9kd6mm1aQNYOeN4kWvBuAdjz_o_9KBJaKvdUvF6Y/edit?usp=sharing){target="_blank"}   
+- [Grading Practices and Ungrading](https://docs.google.com/document/d/1wl501fSK2J1XL0WniF8cYEXlG6n8r14donxVMjX_7F4/edit?usp=sharing){target="_blank"}   
+- [Publishing with OTESSA](https://docs.google.com/document/d/1yWJZug2KSuJrcbTTLIVQ2tuqohgXtR1q1jhn1fwtozo/edit?usp=sharing){target="_blank"}   
+ 
+
+-->
+
+The number of topics will be based on the number of participants expected. The sign-up form will help us estimate how many topics/rooms, but we can also make changes in an emergent way at the time of the event.
+
+<!--
+### Google Docs for Overflow Rooms (impromptu convos) {-}
+
+- Overflow Room #1: link to Google Doc to be Posted Friday AM  
+- Overflow Room #2: link to Google Doc to be Posted Friday AM  
+-->
+
+
+<!--chapter:end:10-unconference.Rmd-->
 

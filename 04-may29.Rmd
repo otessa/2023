@@ -73,6 +73,8 @@
 
 <mark>**Life Sciences Building LSB 105**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa)**</mark>
+
 ```{block, type='session'}
 
 #### 9:30 - 10:30 | **Cultivating Essential Leadership Skills for Digital Transformation in Ontario Postsecondary Education** |  Practice {-}
@@ -98,7 +100,10 @@ This presentation will discuss the research efforts, competency framework and cu
 
 ### Concurrent Session 5.2 |  Sustaining Positive Change {-}
 
+
 <mark>**Life Sciences Building LSB 103**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_2)**</mark>
 
 ```{block, type='session'}
 
@@ -126,6 +131,8 @@ This session examines ongoing work by a multi-stakeholder group to develop susta
 ### Concurrent Session 5.3 |  Sustaining Positive Change {-}
 
 <mark>**Life Sciences Building LSB 101**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_3)**</mark>
 
 ```{block, type='session'}
 
@@ -177,6 +184,8 @@ Restoration ecology courses stress that students learn the knowledge and leaders
 ### Concurrent Session 5.4 |  Transitions of Online Learning & Teaching {-}
 
 <mark>**Life Sciences Building LSB 107**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_4)**</mark>
 
 ```{block, type='session'}
 
@@ -319,6 +328,8 @@ The launch of OpenAI’s ChatGPT was a dramatic event making generative artifici
 
 <mark>**Life Sciences Building LSB 103**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa)**</mark>
+
 ```{block, type='vendor'}
 
 #### 2:30-3:00 | **The Impact of Social Annotation on Learning** |  Research {-}
@@ -344,6 +355,8 @@ Social Annotation takes the age-old process of marking up texts to the digital l
 
 <mark>**Life Sciences Building LSB 101**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_2)**</mark>
+
 ```{block, type='session'}
 
 #### 2:30-3:00 | **What Uses of Digital Technology Support and Enhance the Learning and the Engagement of Diverse Learners in High School Classes?** |  Research {-}
@@ -366,6 +379,8 @@ Modern technology plays an important role in helping students from all walks of 
 ### Concurrent Session 7.3 |  Addressing Inequities {-}
 
 <mark>**Life Sciences Building LSB 105**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_3)**</mark>
 
 ```{block, type='session'}
 
@@ -394,6 +409,8 @@ Datafied digital systems have permeated higher education over the past decade. R
 
 <mark>**Life Sciences Building LSB 105**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa)**</mark>
+
 ```{block, type='workshop'}
 
 #### 3:30-5:00 | **The Wikidata Lexicographical Data: From Recording of Words to Lexemes and Beyond** |  Workshop {-}
@@ -417,6 +434,8 @@ This workshop session will walk participants through editing the lexicographic d
 ### Concurrent Session 8.2 |  Sustaining Positive Change {-}
 
 <mark>**Life Sciences Building LSB 101**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_2)**</mark>
 
 ```{block, type='session'}
 
@@ -470,6 +489,8 @@ White-centric perspectives manifest in many North American higher education cult
 
 <mark>**Life Sciences Building LSB 103**</mark>
 
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_3)**</mark>
+
 ```{block, type='session'}
 
 
@@ -522,6 +543,8 @@ Speaking to the theme of “Reckonings and (Re)Imagining,” in this session, we
 ### Concurrent Session 8.4 |  Transitions of Online Learning & Teaching {-}
 
 <mark>**Life Sciences Building LSB 107**</mark>
+
+<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_4)**</mark>
 
 ```{block, type='session'}
 
