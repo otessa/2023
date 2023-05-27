@@ -62,7 +62,7 @@
 
 ## Conference Welcome, Announcements & Land Acknowledgement | 10:30 - 11:00 {-}
 
-**<mark>[Session Link](https://uvic.zoom.us/j/87334254291?pwd=RThZM0t2cloyVmI5Nmt5bTRuVERTZz09)</mark>**
+<mark>[**Session Link**](https://uvic.zoom.us/j/87334254291?pwd=RThZM0t2cloyVmI5Nmt5bTRuVERTZz09){target="_blank"}</mark>
 
 ## Keynote | 11:00 - 12:00 {-}
 
