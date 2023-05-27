@@ -1048,7 +1048,7 @@ In this presentation, Dr. Alec Couros will explore the exciting possibilities an
 
 ```
 
-### Parallel Session 4.2
+### Parallel Session 4.2 {-}
 
 <mark>[**Session Link**](https://uvic.zoom.us/j/83845391748?pwd=U2o3ejhqS2MwZ3l1ejl1ZitKNnVqUT09){target="_blank"}</mark>
 
