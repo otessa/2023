@@ -62,7 +62,8 @@
 
 ## Conference Welcome, Announcements & Land Acknowledgement | 10:30 - 11:00 {-}
 
-##### [Session Link](https://uvic.zoom.us/j/87334254291?pwd=RThZM0t2cloyVmI5Nmt5bTRuVERTZz09){target="_blank"} {-}
+**<mark>[Session Link](https://uvic.zoom.us/j/87334254291?pwd=RThZM0t2cloyVmI5Nmt5bTRuVERTZz09)</mark>**
+
 ## Keynote | 11:00 - 12:00 {-}
 
 ```{block, type='keynote'}
@@ -82,7 +83,7 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 </details>
 
 
-##### [Session Link](https://uvic.zoom.us/j/86856564512?pwd=UGdIVS9zbDdtS290bU9OdWpXZ05UZz09){target="_blank"} {-}
+**<mark>[Session Link](https://uvic.zoom.us/j/86856564512?pwd=UGdIVS9zbDdtS290bU9OdWpXZ05UZz09)</mark>**
 
 ```
 
@@ -116,7 +117,7 @@ How much procurement of edtech, however well executed, is too much?
 </p>
 </details>
 
-##### [Session Link](https://uvic.zoom.us/j/82521498250?pwd=eWhLWjlNVFhiTnluOXMyenRwOHBmQT09){target="_blank"} {-}
+**<mark>[Session Link](https://uvic.zoom.us/j/82521498250?pwd=eWhLWjlNVFhiTnluOXMyenRwOHBmQT09)</mark>**
 
 ```
 
@@ -140,7 +141,7 @@ Join Dr. Nicole Johnson, Executive Director of the Canadian Digital Learning Res
 </p>
 </details>
 
-##### [Session Link](https://uvic.zoom.us/j/81098138707?pwd=SVByR3ByWUw5dGxLeEFaYTJaMGdtQT09){target="_blank"} {-}
+**<mark>[Session Link](https://uvic.zoom.us/j/81098138707?pwd=SVByR3ByWUw5dGxLeEFaYTJaMGdtQT09)</mark>**
 
 ```
 
@@ -150,7 +151,7 @@ Join Dr. Nicole Johnson, Executive Director of the Canadian Digital Learning Res
 
 ### Concurrent Session 2.1 |  Wildcard {-}
 
-##### [Session Link](https://uvic.zoom.us/j/82898272461?pwd=OW50MHEyajd1SUNLTDRWTHNkdzJUQT09){target="_blank"} {-}
+**<mark>[Session Link](https://uvic.zoom.us/j/82898272461?pwd=OW50MHEyajd1SUNLTDRWTHNkdzJUQT09)</mark>**
 
 ```{block, type='session'}
 
@@ -193,7 +194,7 @@ Using Sean Michael Morris and Jesse Stommel’s landmark essay “A Guide for Re
 
 ### Concurrent Session 2.2 |  Sustaining Positive Change {-}
 
-##### [Session Link](https://uvic.zoom.us/j/87500178048?pwd=TUVWUjljYUVRVmROK0Z2b2paZW4wUT09){target="_blank"} {-}
+**<mark>[Session Link](https://uvic.zoom.us/j/87500178048?pwd=TUVWUjljYUVRVmROK0Z2b2paZW4wUT09)</mark>**
 
 ```{block, type='session'}
 
@@ -249,7 +250,7 @@ The various practices of “ungrading” have gained increasing popularity, part
 
 ### Concurrent Session 2.3 |  Transitions of Online Learning & Teaching {-}
 
-##### [Session Link](https://uvic.zoom.us/j/82549216587?pwd=NlhWZ1o0TXUwQlJOL1dzWk9wdFNQZz09){target="_blank"} {-}
+**<mark>[Session Link](https://uvic.zoom.us/j/82549216587?pwd=NlhWZ1o0TXUwQlJOL1dzWk9wdFNQZz09)</mark>**
 
 ```{block, type='session'}
 
@@ -318,7 +319,7 @@ This session will outline the development of a youth sexual health education pro
 
 ### Concurrent Session 2.4 |  Sustaining Positive Change {-}
 
-##### [Session Link](https://uvic.zoom.us/j/86766214892?pwd=SkFFNmUvYmt5YUJLbzNPYVAyZ2k3QT09){target="_blank"} {-}
+**<mark>[Session Link](https://uvic.zoom.us/j/86766214892?pwd=SkFFNmUvYmt5YUJLbzNPYVAyZ2k3QT09)</mark>**
 
 ```{block, type='session'}
 
@@ -380,7 +381,7 @@ This presentation outlines the necessary role of decolonial practice in GLAM-fie
 
 ### Concurrent Session 2.5 |  Sustaining Positive Change {-}
 
-##### [Session Link](https://uvic.zoom.us/j/88626428930?pwd=NkVGRXhYRUtJWmRuc1M1Z2NkOVhaZz09){target="_blank"} {-}
+**<mark>[Session Link](https://uvic.zoom.us/j/88626428930?pwd=NkVGRXhYRUtJWmRuc1M1Z2NkOVhaZz09)</mark>**
 
 ```{block, type='session'}
 
@@ -449,7 +450,7 @@ The COVID-19 pandemic resulted in dramatic growth in the use of open education r
 
 ### Concurrent Session 3.1 |  Addressing Inequities {-}
 
-##### [Session Link](https://uvic.zoom.us/j/82898272461?pwd=OW50MHEyajd1SUNLTDRWTHNkdzJUQT09){target="_blank"} {-}
+**<mark>[Session Link](https://uvic.zoom.us/j/82898272461?pwd=OW50MHEyajd1SUNLTDRWTHNkdzJUQT09)</mark>**
 
 ```{block, type='session'}
 
@@ -489,7 +490,7 @@ This article explores the potential of podcasting as a useful education technolo
 
 ### Concurrent Session 3.2 |  Sustaining Positive Change {-}
 
-##### [Session Link](https://uvic.zoom.us/j/87500178048?pwd=TUVWUjljYUVRVmROK0Z2b2paZW4wUT09){target="_blank"} {-}
+**<mark>[Session Link](https://uvic.zoom.us/j/87500178048?pwd=TUVWUjljYUVRVmROK0Z2b2paZW4wUT09)</mark>**
 
 ```{block, type='session'}
 
@@ -535,7 +536,7 @@ The pandemic has forced teachers to adapt with greater flexibility to meet chang
 
 ### Concurrent Session 3.3 |  Wildcard {-}
 
-##### [Session Link](https://uvic.zoom.us/j/82549216587?pwd=NlhWZ1o0TXUwQlJOL1dzWk9wdFNQZz09){target="_blank"} {-}
+**<mark>[Session Link](https://uvic.zoom.us/j/82549216587?pwd=NlhWZ1o0TXUwQlJOL1dzWk9wdFNQZz09)</mark>**
 
 ```{block, type='session'}
 
@@ -581,7 +582,7 @@ Higher educational institutes increasingly focus on incorporating games and simu
 
 ### Concurrent Session 3.4 |  Transitions of Online Learning & Teaching {-}
 
-##### [Session Link](https://uvic.zoom.us/j/86766214892?pwd=SkFFNmUvYmt5YUJLbzNPYVAyZ2k3QT09){target="_blank"} {-}
+**<mark>[Session Link](https://uvic.zoom.us/j/86766214892?pwd=SkFFNmUvYmt5YUJLbzNPYVAyZ2k3QT09)</mark>**
 
 ```{block, type='session'}
 
@@ -631,7 +632,7 @@ During the COVID-19 pandemic, online teaching and learning became the primary mo
 
 ### Concurrent Session 3.5 |  Sustaining Positive Change {-}
 
-##### [Session Link](https://uvic.zoom.us/j/88626428930?pwd=NkVGRXhYRUtJWmRuc1M1Z2NkOVhaZz09){target="_blank"} {-}
+**<mark>[Session Link](https://uvic.zoom.us/j/88626428930?pwd=NkVGRXhYRUtJWmRuc1M1Z2NkOVhaZz09)</mark>**
 
 ```{block, type='session'}
 
@@ -706,7 +707,7 @@ In this presentation, Dr. Alec Couros will explore the exciting possibilities an
 </p>
 </details>
 
-##### [Session Link](https://uvic.zoom.us/j/88611545139?pwd=NWErdnVwNjFqaVdLbk9QWFM1ZlFvdz09){target="_blank"} {-}
+**<mark>[Session Link](https://uvic.zoom.us/j/88611545139?pwd=NWErdnVwNjFqaVdLbk9QWFM1ZlFvdz09)</mark>**
 
 ```
 
@@ -731,8 +732,10 @@ Many conversations around open education focus on a Eurocentric framework of cop
 </p>
 </details>
 
-##### [Session Link](https://uvic.zoom.us/j/83845391748?pwd=U2o3ejhqS2MwZ3l1ejl1ZitKNnVqUT09){target="_blank"} {-}
+**<mark>[Session Link](https://uvic.zoom.us/j/83845391748?pwd=U2o3ejhqS2MwZ3l1ejl1ZitKNnVqUT09)</mark>**
 
 ```
 
 ## Discussion/Networking Pod | 6:15-6:30 {-}
+
+**<mark>[Session Link](https://uvic.zoom.us/j/87334254291?pwd=RThZM0t2cloyVmI5Nmt5bTRuVERTZz09)</mark>**

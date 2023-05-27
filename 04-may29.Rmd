@@ -61,9 +61,9 @@
 
 ## Conference Welcome, Announcements & Land Acknowledgement | 9:00-9:15 {-}
 
-<mark>**Life Sciences Building LSB 103 @ York**
+<mark>**Life Sciences Building LSB 103 @ York**</mark>
 
-**See the Virtual Congress Platform for Zoom Links**
+ **<mark> [Session Link](https://uvic.zoom.us/j/89902859924?pwd=VisxNW1GUW5KWnJldW1DRjF2d0Rmdz09)</mark>**
 
 ## Break | 9:15-9:30 {-}
 
@@ -230,7 +230,7 @@ Graduate students are under increasing pressure to participate in academic publi
 
 <mark>**Lassonde Building LAS C**</mark>
 
-**See the Virtual Congress Platform for Zoom Links**
+**<mark>[Session Link](https://uvic.zoom.us/j/87672746834?pwd=ODNmUk5GOTVTZGc5NzRmakhtR2FRQT09)</mark>**
 
 ```{block, type='keynote'}
 
@@ -263,7 +263,7 @@ These questions have dominated teaching and learning circles and social media si
 
 <mark>**Life Sciences Building LSB 103 @ York**
 
-**See the Virtual Congress Platform for Zoom Links**
+**<mark>[Session Link](https://uvic.zoom.us/j/89316556882?pwd=c3lDQy92SmozZGV1Mm9RRDBCZXg2UT09)</mark>**
 
 ```{block, type='speaker'}
 
@@ -288,7 +288,7 @@ Digital Bundles create cultural space for Indigenous Knowledge through the use o
 
 <mark>**Life Sciences Building LSB 105**</mark>
 
-**See the Virtual Congress Platform for Zoom Links**
+**<mark>[Session Link](https://uvic.zoom.us/j/82721893745?pwd=N0dERGRFdTMzZWdzZXE4KzVESnQyZz09)</mark>**
 
 ```{block, type='speaker'}
 

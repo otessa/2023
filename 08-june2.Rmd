@@ -59,7 +59,11 @@
 
 ## Conference Welcome, Announcements & Land Acknowledgement | 10:30-11:00 {-}
 
+**<mark>[Session Link](https://uvic.zoom.us/j/87072450625?pwd=d3dSNG9SQ0lkZXByUElDK3EycG82QT09)</mark>**
+
 ## Keynote | 11:00-12:00    {-}
+
+**<mark>[Session Link](https://uvic.zoom.us/j/83832291664?pwd=M0pvTFNCWDBsRWd1NFJKaC9BbjM1QT09)</mark>**
 
 ```{block, type='keynote'}
  
@@ -87,6 +91,8 @@ Education has always collected and used student learning data in combination wit
 
 (45 minutes)
 
+**<mark>[Session Link](https://uvic.zoom.us/j/86010785627?pwd=Nm83LzM1RXRXQU9JVFJldWg3RmhPZz09)</mark>**
+
 An unconference is a participant-driven session meant to reduce emphasis on formal speeches and to avoid the hierarchical aspects of a didactic conference session. All Congress attendees are welcome to participate in this face-to-face unconference; however, participants registered with the OTESSA conference will be sent an invitation for topic suggestion and upvoting to select the break-out room topics in advance. At the time of this session, the topic-to-room assignments will be complete and posted on our program website at <https://otessa.org/2023/program/>. You are welcome to move between topic rooms and come and go as you please! We look forward to welcoming targeted discussion on your favourite topics! Please note that this is the in-person unconference. There will also be an in-person unconference that will take place on Tuesday, May 30 from 11:00 am - 12:00 pm in the Life Sciences Building at York University as part of the OTESSA Conference.
 
 ## Break | 1:15-1:30 {-}
@@ -96,6 +102,8 @@ An unconference is a participant-driven session meant to reduce emphasis on form
 1.5 Hours
 
 ### Concurrent Session 18.1 |  Transitions of Online Learning & Teaching {-}
+
+**<mark>[Session Link](https://uvic.zoom.us/j/89925832226?pwd=L3VtOEg2U0NFNVNVWmhlajZXNjRzdz09)</mark>**
 
 ```{block, type='workshop'}
 
@@ -141,6 +149,8 @@ Over the past decade, higher education institutions, organizations, and governme
 ```
 
 ### Concurrent Session 18.2 |  Transitions of Online Learning & Teaching {-}
+
+**<mark>[Session Link](https://uvic.zoom.us/j/87659547845?pwd=d1dXck9tZW16czd5WUJqcGErcVRGQT09)</mark>**
 
 ```{block, type='session'}
 
@@ -203,6 +213,8 @@ This paper presents the concept of technological distance, which describes a gap
 ```
 
 ### Concurrent Session 18.3 |  Wildcard {-}
+
+**<mark>[Session Link](https://uvic.zoom.us/j/81565403363?pwd=c2crNVkvVllKWjZydDBvcXZMY2dBZz09)</mark>**
 
 ```{block, type='session'}
 
@@ -267,6 +279,8 @@ The emergence of cutting-edge technologies, like ChatGPT, has sparked a critical
 ```
 
 ### Concurrent Session 18.4 |  Addressing Inequities {-}
+
+**<mark>[Session Link](https://uvic.zoom.us/j/85651079732?pwd=Y1ZOUXRxUzdRWHNHdU9ITC9GUytidz09)</mark>**
 
 ```{block, type='session'}
 
@@ -337,6 +351,8 @@ In this presentation we share and seek collaboration on a drafted toolkit for le
 
 ### Concurrent Session 19.1 |  Wildcard {-}
 
+**<mark>[Session Link](https://uvic.zoom.us/j/89925832226?pwd=L3VtOEg2U0NFNVNVWmhlajZXNjRzdz09)</mark>**
+
 ```{block, type='session'}
 
 
@@ -377,6 +393,8 @@ Access to federal government funding to support research in the social sciences 
 ```
 
 ### Concurrent Session 19.2 |  Sustaining Positive Change {-}
+
+**<mark>[Session Link](https://uvic.zoom.us/j/87659547845?pwd=d1dXck9tZW16czd5WUJqcGErcVRGQT09)</mark>**
 
 ```{block, type='session'}
 
@@ -426,6 +444,8 @@ In Colombia, peace education has been recognized as essential to changing prevai
 
 ### Concurrent Session 19.3 |  Wildcard {-}
 
+**<mark>[Session Link](https://uvic.zoom.us/j/81565403363?pwd=c2crNVkvVllKWjZydDBvcXZMY2dBZz09)</mark>**
+
 ```{block, type='workshop'}
 
 
@@ -450,6 +470,8 @@ Virtual reality is a technology where users are immersed in a digital world crea
 ```
 
 ### Concurrent Session 19.4 |  Sustaining Positive Change {-}
+
+**<mark>[Session Link](https://uvic.zoom.us/j/85651079732?pwd=Y1ZOUXRxUzdRWHNHdU9ITC9GUytidz09)</mark>**
 
 ```{block, type='session'}
 
@@ -533,6 +555,8 @@ A critically reflexive collaborative approach (Hamilton & Pinnegar, 2014) is use
 
 ### Concurrent Session 20.1 {-}
 
+**<mark>[Session Link](https://uvic.zoom.us/j/89906555580?pwd=bndpdDZUZkNJa3VIY1UxeGVCbDdOQT09)</mark>**
+
 ```{block, type='speaker'}
 
 #### Nadia Naffi | Université Laval 
@@ -556,6 +580,8 @@ Presented in French, this talk will unveil emerging recommendations to enlighten
 
 ### Concurrent Session 20.2 {-}
 
+**<mark>[Session Link](https://uvic.zoom.us/j/84461790793?pwd=S1JqcC9FejBtREMrOEJjVGxwVFRhUT09)</mark>**
+
 ```{block, type='speaker'}
 
 #### Randy LaBonte | Vancouver Island University & Canadian eLearning Network 
@@ -576,3 +602,5 @@ Join this session to gain an understanding of design and organization principles
 ```
 
 ## Conference Closing | 6:15-6:30 {-}
+
+**<mark>[Session Link](https://uvic.zoom.us/j/87072450625?pwd=d3dSNG9SQ0lkZXByUElDK3EycG82QT09)</mark>**

@@ -64,7 +64,7 @@
 
 <mark>**Life Sciences Building LSB 103**</mark>
 
-**See the virtual Congress Platform for Zoom links.**
+**<mark>[Session Link](https://uvic.zoom.us/j/89902859924?pwd=VisxNW1GUW5KWnJldW1DRjF2d0Rmdz09)</mark>**
 
 ## Break | 9:15-9:30 {-}
 
@@ -193,7 +193,7 @@ This session will offer participants an opportunity to reflect on the digital sp
 
 <mark>**Lassonde Building LAS C**</mark>
 
-**Check the Virtual Congress Platform for Zoom links.**
+**<mark>[Session Link](https://uvic.zoom.us/j/87104073299?pwd=Zk4rUFY1WjdUa3VhK21GTlJaWkNKZz09)</mark>**
 
 ```{block, type='keynote'}
  
@@ -227,7 +227,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 <mark>**Life Sciences Building LSB 103**</mark>
 
-**Check the Virtual Congress Platform for Zoom links.**
+**<mark>[Session Link](https://uvic.zoom.us/j/89902859924?pwd=VisxNW1GUW5KWnJldW1DRjF2d0Rmdz09)</mark>**
 
 ```{block, type='speaker'}
 
