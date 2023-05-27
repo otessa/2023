@@ -1021,7 +1021,8 @@ This presentation will address the issue of algorithmic literacy from an informa
 ## Parallel Session 4 |  Invited Speakers | 5:30-6:15 {-}
 
 45 Minutes
-### Parallel Session 4.1
+
+### Parallel Session 4.1 {-}
 
 <mark>[**Session Link**](https://uvic.zoom.us/j/88611545139?pwd=NWErdnVwNjFqaVdLbk9QWFM1ZlFvdz09){target="_blank"}</mark>
 
