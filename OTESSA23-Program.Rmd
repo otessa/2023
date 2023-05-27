@@ -3450,17 +3450,28 @@ Join this session to gain an understanding of design and organization principles
 
 ***Chris Rowell*** | *University of the Arts London*
 
-<!--
-**Keywords:** 
--->
-
 <details>
 <summary><b>Abstract</b></summary>
 <p>
 Critical Digital Pedagogy in Higher Education is an edited volume with 13 chapters. The work has recently been published by Athabasca University Press in print, ebook, and open access formats. Contributors to the book critique oppressive educational systems and practices in order to create positive change – these reflections and shared practices reflect the diversity of critical pedagogic practices in the context of digital/digitized higher education. We have divided the chapters in the book according to four prominent themes: shared learning and trust, critical consciousness, change and hope. We invite the delegates to engage in a productive dialogue on these themes and the work in the book through the asynchronous forums.
 
+**AUPress Description**
+
+Recent efforts to solve the problems of education—created by neoliberalism in and out of higher education—have centred on the use of technology that promises efficiency, progress tracking, and automation. The editors of this volume argue that using technology in this way reduces learning to a transaction. They ask administrators, instructors, and learning designers to reflect on our relationship with these tools and explore how to cultivate a pedagogy of care in an online environment. With an eye towards identifying different and better possibilities, this collection investigates previously under-examined concepts in the field of digital pedagogy such as shared learning and trust, critical consciousness, change, and hope.
+
 </p>
 </details>
+
+<br>
+
+<mark>[**Link to AUPress**](https://www.aupress.ca/books/120310-critical-digital-pedagogy-in-higher-education/)</mark>
+
+
+<!--
+**Keywords:** 
+-->
+
+
 ```
 
 ### Showcase 21.3 |  Addressing Inequities {-}
@@ -3483,6 +3494,9 @@ Our Cross-Campus Capstone Classroom (C4) interdisciplinary project involved our 
 
 </p>
 </details>
+
+<mark>[**Link to Resource**](https://drive.google.com/file/d/1kZiGAJwiJxEGkAQ1iW1f7IIlqijvY-uY/view?usp=drivesdk)</mark>
+
 ```
 
 
