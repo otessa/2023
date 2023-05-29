@@ -1359,7 +1359,7 @@ These questions have dominated teaching and learning circles and social media si
 </details>
 
 
-##### [Session Link](){target="_blank"} {-}
+
 
 ```
 
@@ -1619,7 +1619,7 @@ Adaptive learning (AL) leverages the power of technology to continuously modify 
 
 ***Richard Hayman & Erika E. Smith*** | *Mount Royal University*
 
-<mark>**Life Sciences Building LSB 101**</mark>
+<mark>**Life Sciences Building LSB 103**</mark>
 
 <!--
 **Keywords:** 
@@ -1963,7 +1963,7 @@ In this panel discussion members of the network will reflect upon the what, why 
 
 ### Concurrent Session 11.1 |  Transitions of Online Learning & Teaching {-}
 
-<mark>**Life Sciences Building LSB 103**</mark>
+<mark>**Life Sciences Building LSB 101**</mark>
 
 <mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa)**</mark>
 
@@ -2020,7 +2020,7 @@ Digital technologies are potentially being used more in K-12 classrooms than pri
 
 ### Concurrent Session 11.3 |  Sustaining Positive Change {-}
 
-<mark>**Life Sciences Building LSB 105**</mark>
+<mark>**Life Sciences Building LSB 103**</mark>
 
 <mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_3)**</mark>
 
@@ -2049,6 +2049,11 @@ Online video conferencing platforms have been widely used as key classroom tools
 ```{block, type='session'}
 
 <mark>This session has been rescheduled FROM Concurrent Session 3.4.</mark>
+
+<mark>**Life Sciences Building LSB 105**</mark>
+
+<mark>[**Session Link**](https://uvic.zoom.us/j/81832796337?pwd=d2lkclVtby9lZUo3QkZMR2V5RzFKdz09){target="_blank"}</mark>
+
 
 #### 2:30 - 3:00 | **Face to Face, Online or Something in Between – Student Perceptions of Student Engagement in Different Learning Environments** |  Research {-}
 
@@ -2473,11 +2478,13 @@ This session will offer participants an opportunity to reflect on the digital sp
 </details>
 ```
 
-### Concurrent Session 13.5 |  Sustaining Positive Change {-}
+### Concurrent Session 13.4 |  Sustaining Positive Change {-}
 
 <mark>This session was rescheduled from Concurrent session 3.5.</mark>
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/81001564554?pwd=RlNJSzg4SE1HemhiL1BvRmxhWDl5Zz09){target="_blank"}</mark>
+<mark>**Life Sciences Building LSB 105**</mark>
+
+<mark>[**Session Link**](https://uvic.zoom.us/j/81832796337?pwd=d2lkclVtby9lZUo3QkZMR2V5RzFKdz09){target="_blank"}</mark>
 
 ```{block, type='session'}
 
@@ -2637,6 +2644,11 @@ The Canadian government launched the “Families Connected” initiative in 2018
 ### Concurrent Session 15.3 |  Sustaining Positive Change {-}
 
 <mark>This session was rescheduled from Session 3.5.</mark>
+
+<mark>**Life Sciences Building LSB 103**</mark>
+
+<mark>[**Session Link**](https://uvic.zoom.us/j/81832796337?pwd=d2lkclVtby9lZUo3QkZMR2V5RzFKdz09){target="_blank"}</mark>
+
 
 ```{block, type='session'}
 
