@@ -56,7 +56,7 @@
 
 ---
 
-## Continental Breakfast Provided | 8:00-9:00 {-}
+## Continental Breakfast Provided in the <mark>Life Sciences Building</mark> | 8:00-9:00 {-}
 
 ## Welcome Desk Open | 8:00 - 11:30 {-}
 
@@ -193,6 +193,37 @@ This session will offer participants an opportunity to reflect on the digital sp
 </details>
 ```
 
+### Concurrent Session 13.5 |  Sustaining Positive Change {-}
+
+<mark>This session was rescheduled from Concurrent session 3.5.</mark>
+
+<mark>[**Session Link**](https://uvic.zoom.us/j/81001564554?pwd=RlNJSzg4SE1HemhiL1BvRmxhWDl5Zz09){target="_blank"}</mark>
+
+```{block, type='session'}
+
+#### 3:45 - 4:45 | **Be(com)ing OE Librarians in Ukraine During Wartime: Taking Down Language Barriers and Practising Inclusion** |  Practice {-}
+
+***Paola Corti*** | *SPARC Europe*
+
+***Tetiana Kolesnykova*** | *Ukrainian State University of Science and Technologies*
+
+***Mira Buist- Zhuk*** | *University of Groningen*
+
+<!--
+**Keywords:** 
+-->
+
+<details>
+<summary><b>Abstract</b></summary>
+<p>
+Ukrainian librarians are champions of positive change despite the ongoing war with Russia. The academic library of the Ukrainian State University of Science and Technologies has continued to support students and faculty, even while working remotely from home basements, sharing computers, and taking care of each others’ children, despite air-raid alarms and daily electricity and heating outages. However, this is just a part of their work. They take every opportunity to advance their open agenda by upskilling through peer-to-peer learning, participating in international networks, and adapting existing and creating new OER. They are building bridges between the present and the future: as soon as this war is over, Ukrainian librarians will facilitate enhanced teaching and learning opportunities with fresh, professional skills and external collaborations.
+
+All this while relentlessly facing language issues: rejecting Russia’s “linguicide” attempts and working with colleagues from other countries. The latter incentivises the international community to provide support. The former requires a different strategy: Ukrainian librarians are actively working to preserve their country’s language and heritage, ensuring that its history and culture are not forgotten, despite the war. This presentation offers an opportunity to hear their story and build new collaborative pathways while strengthening existing ones.
+
+</p>
+</details>
+```
+
 ## Break | 10:30-11:00 {-}
 
 ## Keynote | 11:00-12:00 {-}
@@ -318,6 +349,31 @@ Three themes were generated in our thematic analyses. The adoption or non-adopti
 <summary><b>Abstract</b></summary>
 <p>
 The Canadian government launched the “Families Connected” initiative in 2018. The goal was to provide Internet access to low-income families across Canada. At the turn of the millennium, the Internet has become an essential tool for accessing information and knowledge. Yet Canada, like many other countries around the world, faces accessibility challenges for multiple reasons: geography, culture, history, etc. (Howard et al., 2018). In this sense, technology gaps have developed in relation to age, language, family income, origin, etc. Howard et al. (2018) point out that education, age, and income are correlated with limited internet access and low digital literacy. The survey sent out consisted of 30 questions addressing: sociodemographic characteristics, accessible digital resources, habits with technology, initiative needs, and Internet uses and challenges. A total of 89,776 questionnaires (P1 = 28,444; P2 = 9,163; P3 = 34,327; P4 = 17,842) were completed by participants in the initiative. In addition to the questionnaire, interviews were conducted during each phase with a variable number of participants (between 20 and 50) to clarify ideas. Longitudinal results shed light on the impact of such an initiative on low-income families, as well as on the effects of the global COVID-19 pandemic on the habits of an at-risk group.
+
+</p>
+</details>
+```
+
+### Concurrent Session 15.3 |  Sustaining Positive Change {-}
+
+<mark>This session was rescheduled from Session 3.5.</mark>
+
+```{block, type='session'}
+
+#### 2:30 - 3:00 | **The Role of Academic Libraries in Fostering of Algorithmic Literacy in Canadian Universities: A Metaliterate** |  Research {-}
+
+***Marta Samokishyn*** | *Saint Paul University*
+
+<!--
+**Keywords:** 
+-->
+
+<details>
+<summary><b>Abstract</b></summary>
+<p>
+Algorithms are becoming an integral part of our socio-digital eco-system: Facebook’s impact on voting practices, Amazon’s resume screening, racial-profiling software, and even one’s ability to get a loan. As a result, there is an urgent need to address the issue of algorithmic awareness and algorithmic literacy in Higher Education to promote critical thinking skills towards algorithmic biases and their impact on social infrastructure.
+
+This presentation will address the issue of algorithmic literacy from an information literacy and metaliteracy perspective. The presenter will discuss the role of information literacy education in promoting algorithmic awareness in higher education and address the adoption of teaching practices to promote critical awareness about algorithms in post-secondary institutions in Canada.
 
 </p>
 </details>

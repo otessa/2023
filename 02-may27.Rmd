@@ -618,6 +618,7 @@ In this paper, we propose to present the mentoring practices of new professors i
 
 ```{block, type='session'}
 
+<mark>This session has been rescheduled to Concurrent Session 11.4.</mark>
 #### 4:45 - 5:15 | **Face to Face, Online or Something in Between – Student Perceptions of Student Engagement in Different Learning Environments** |  Research {-}
 
 ***Hongran Cui, Michelle Harrison & Victoria Handford*** | *Thompson Rivers University*
@@ -636,6 +637,8 @@ During the COVID-19 pandemic, online teaching and learning became the primary mo
 ```
 
 ### Concurrent Session 3.5 |  Sustaining Positive Change {-}
+
+<mark>This session has been rescheduled to Session 13.4 on May 31.</mark>
 
 <mark>[**Session Link**](https://uvic.zoom.us/j/81001564554?pwd=RlNJSzg4SE1HemhiL1BvRmxhWDl5Zz09){target="_blank"}</mark>
 
@@ -664,7 +667,11 @@ All this while relentlessly facing language issues: rejecting Russia’s “ling
 </details>
 ```
 
+<mark>This session was rescheduled to Concurrent Session 15.3 on May 31.</mark> 
+
 ```{block, type='session'}
+
+
 
 #### 4:45 - 5:15 | **The Role of Academic Libraries in Fostering of Algorithmic Literacy in Canadian Universities: A Metaliterate** |  Research {-}
 

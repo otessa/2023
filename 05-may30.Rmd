@@ -55,7 +55,7 @@
 
 ---
 
-## Continental Breakfast Provided | 8:00-9:00 {-}
+## Continental Breakfast Provided in the <mark>Life Sciences Building</mark>| 8:00-9:00 {-}
 
 ## Welcome Desk Open | 8:00 - 11:30 {-}
 
@@ -369,16 +369,29 @@ Online video conferencing platforms have been widely used as key classroom tools
 </details>
 ```
 
-<!--
+
 ### Concurrent Session 11.4 |  Transitions of Online Learning & Teaching {-}
 
 ```{block, type='session'}
 
-#### 2:30-3:00 | 
+<mark>This session has been rescheduled FROM Concurrent Session 3.4.</mark>
+
+#### 2:30 - 3:00 | **Face to Face, Online or Something in Between – Student Perceptions of Student Engagement in Different Learning Environments** |  Research {-}
+
+***Hongran Cui, Michelle Harrison & Victoria Handford*** | *Thompson Rivers University*
+
+<!--
+**Keywords:** 
+-->
+
+<details>
+<summary><b>Abstract</b></summary>
+<p>
+During the COVID-19 pandemic, online teaching and learning became the primary model for education, and we are calling this Emergency Remote Education (ERE) (Bozkurt et al., 2020). Previous studies have accumulated rich theories and have proven that student engagement (SE) is positively related to student’s academic achievement. However, only a few studies specifically focused on SE in ERE, which constitutes a gap in the research. This research found that there were differences in student engagement between F2F and ERE; the main reasons causing differences were course design and organization, learning with peers, student-faculty interaction, and social interaction. Students preferred synchronous courses and subjectively perceived less interaction with instructors and peers. However, a supportive environment that was included in the student engagement in F2F learning but not considered as an influenced factor in the Community of Inquiry model showed in this study as a constructive factor in ERE. Sharma and Alvi (2021) found that students were more positive toward blended learning after the pandemic. The findings of this study provide the reason and theoretical foundation for the modification of online education.
+
 </p>
 </details>
 ```
--->
 
 ## Break with Coffee and Snack Provided | 3:00-3:30 {-}
 
