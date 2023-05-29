@@ -197,6 +197,8 @@ This session will offer participants an opportunity to reflect on the digital sp
 
 <mark>This session was rescheduled from Concurrent session 3.5.</mark>
 
+<mark>**Life Sciences Building LSB 105**</mark>
+
 <mark>[**Session Link**](https://uvic.zoom.us/j/81832796337?pwd=d2lkclVtby9lZUo3QkZMR2V5RzFKdz09){target="_blank"}</mark>
 
 ```{block, type='session'}
@@ -357,6 +359,11 @@ The Canadian government launched the “Families Connected” initiative in 2018
 ### Concurrent Session 15.3 |  Sustaining Positive Change {-}
 
 <mark>This session was rescheduled from Session 3.5.</mark>
+
+<mark>**Life Sciences Building LSB 103**</mark>
+
+<mark>[**Session Link**](https://uvic.zoom.us/j/81832796337?pwd=d2lkclVtby9lZUo3QkZMR2V5RzFKdz09){target="_blank"}</mark>
+
 
 ```{block, type='session'}
 
