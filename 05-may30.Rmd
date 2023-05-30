@@ -150,7 +150,9 @@ This presentation approaches online learning during COVID-19 emergency closures 
 
 <mark>**Life Sciences Building LSB 103**</mark>
 
-<mark>**[Experimental web radio link to the audio of this session.](https://radio.uvic.ca/public/otessa_3)**</mark>
+
+<mark>[**Session Link**](https://uvic.zoom.us/j/81832796337?pwd=d2lkclVtby9lZUo3QkZMR2V5RzFKdz09){target="_blank"}</mark>
+
 
 ```{block, type='session'}
 
