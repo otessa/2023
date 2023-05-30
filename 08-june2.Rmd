@@ -241,7 +241,7 @@ The case study is guided by theoretical understandings of the learning environme
 ```{block, type='session'}
 
 
-#### 2:30-3:00 | **The Teacher’s Self-efficacy and Belief in Implementing S STEM, iSTEM or STEAM in their Classroom** |  Research {-}
+#### 2:00-2:30 | **The Teacher’s Self-efficacy and Belief in Implementing S STEM, iSTEM or STEAM in their Classroom** |  Research {-}
 
 ***Atiya Razi*** | *University of Windsor*
 
@@ -260,7 +260,7 @@ In recent years, STEM, iSTEM (Integrated STEM), and STEAM (STEM paradigms) have 
 
 ```{block, type='vendor'}
 
-#### 3:00-3:30 | **Leveraging Social Annotation in the Age of AI** |  Research {-}
+#### 2:30-3:00 | **Leveraging Social Annotation in the Age of AI** |  Research {-}
 
 
 ***Jessica Fuller*** | *hypothes.is*
