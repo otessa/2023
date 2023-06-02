@@ -3526,6 +3526,7 @@ Join this session to gain an understanding of design and organization principles
 
 # Asynchronous Presentations | Saturday, May 27 - Friday, June 2 {-}
 
+<!--
 
 ### Showcase 21.1 |  Transitions of Online Learning & Teaching {-}
 
@@ -3535,9 +3536,7 @@ Join this session to gain an understanding of design and organization principles
 
 ***Mariana Jardim, Abigail Warnock & Robert Matz*** | *University of Toronto*
 
-<!--
-**Keywords:** 
--->
+
 
 <details>
 <summary><b>Abstract</b></summary>
@@ -3548,6 +3547,7 @@ Join this session to gain an understanding of design and organization principles
 </details>
 ```
 
+-->
 ### Showcase 21.2 |  Addressing Inequities {-}
 
 ```{block, type='session'}

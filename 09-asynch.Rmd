@@ -1,5 +1,6 @@
 # Asynchronous Presentations | Saturday, May 27 - Friday, June 2 {-}
 
+<!--
 
 ### Showcase 21.1 |  Transitions of Online Learning & Teaching {-}
 
@@ -9,9 +10,7 @@
 
 ***Mariana Jardim, Abigail Warnock & Robert Matz*** | *University of Toronto*
 
-<!--
-**Keywords:** 
--->
+
 
 <details>
 <summary><b>Abstract</b></summary>
@@ -22,6 +21,7 @@
 </details>
 ```
 
+-->
 ### Showcase 21.2 |  Addressing Inequities {-}
 
 ```{block, type='session'}
