@@ -3644,7 +3644,6 @@ Unconference approaches like this can be applied in any field of study to connec
 
 ### How To Participate {-}
 
-Watch here for links!!
 <!--
 1. [Sign-Up & Contribute topics](https://surveys.otessa.org/index.php/761431?lang=en){target="_blank"}  
 2. [Vote for your favourite topics](https://surveys.otessa.org/index.php/941512?lang=en){target="_blank"}. 
@@ -3677,14 +3676,13 @@ Follow Congress/OTESSA Code of Conduct, but we will highlight some rules below:
 
 ### Topic List & Google Docs {-}
 
-<!--
-- [Being Human, Caring and Inclusive in Online and Open](https://docs.google.com/document/d/1Wn8PBfTJsHJ5hGipNzEyMoViq4fvTirjj6VQm36ghbQ/edit?usp=sharing){target="_blank"}  
-- [Research Communities: Building Networks for Future Research Projects](https://docs.google.com/document/d/1Hn_9kd6mm1aQNYOeN4kWvBuAdjz_o_9KBJaKvdUvF6Y/edit?usp=sharing){target="_blank"}   
-- [Grading Practices and Ungrading](https://docs.google.com/document/d/1wl501fSK2J1XL0WniF8cYEXlG6n8r14donxVMjX_7F4/edit?usp=sharing){target="_blank"}   
-- [Publishing with OTESSA](https://docs.google.com/document/d/1yWJZug2KSuJrcbTTLIVQ2tuqohgXtR1q1jhn1fwtozo/edit?usp=sharing){target="_blank"}   
- 
 
--->
+
+- [Topic 1](https://docs.google.com/document/d/1Wn8PBfTJsHJ5hGipNzEyMoViq4fvTirjj6VQm36ghbQ/edit?usp=sharing){target="_blank"}
+- [Topic 2](https://docs.google.com/document/d/1CYpwgI5_f6DIM9Izu6tagCbKPnTocFECqA0OUJDnT9g/edit?usp=sharing){target="_blank"}
+- [Topic 3](https://docs.google.com/document/d/1wl501fSK2J1XL0WniF8cYEXlG6n8r14donxVMjX_7F4/edit?usp=sharing){target="_blank"}  
+
+
 
 The number of topics will be based on the number of participants expected. The sign-up form will help us estimate how many topics/rooms, but we can also make changes in an emergent way at the time of the event.
 
