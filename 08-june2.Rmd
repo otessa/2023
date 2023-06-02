@@ -81,8 +81,6 @@ Education has always collected and used student learning data in combination wit
 </details>
 
 
-##### [Session Link](){target="_blank"} {-}
-
 ```
 
 ## Break | 12:00-12:30 {-}
