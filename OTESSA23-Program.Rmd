@@ -2951,6 +2951,21 @@ Education has always collected and used student learning data in combination wit
 
 An unconference is a participant-driven session meant to reduce emphasis on formal speeches and to avoid the hierarchical aspects of a didactic conference session. All Congress attendees are welcome to participate in this face-to-face unconference; however, participants registered with the OTESSA conference will be sent an invitation for topic suggestion and upvoting to select the break-out room topics in advance. At the time of this session, the topic-to-room assignments will be complete and posted on our program website at <https://otessa.org/2023/program/>. You are welcome to move between topic rooms and come and go as you please! We look forward to welcoming targeted discussion on your favourite topics! Please note that this is the in-person unconference. There will also be an in-person unconference that will take place on Tuesday, May 30 from 11:00 am - 12:00 pm in the Life Sciences Building at York University as part of the OTESSA Conference.
 
+###  [Topic Survey](https://surveys.otessa.org/index.php/761431?lang=en) {-}
+
+<!--### [Voting Survey](https://surveys.otessa.org/index.php/941512?lang=en){-}-->
+
+<!--
+### Topics
+
+- [Topic 1](https://docs.google.com/document/d/1Wn8PBfTJsHJ5hGipNzEyMoViq4fvTirjj6VQm36ghbQ/edit?usp=sharing)  
+- [Topic 2](https://docs.google.com/document/d/1CYpwgI5_f6DIM9Izu6tagCbKPnTocFECqA0OUJDnT9g/edit?usp=sharing)  
+- [Topic 3](https://docs.google.com/document/d/1wl501fSK2J1XL0WniF8cYEXlG6n8r14donxVMjX_7F4/edit?usp=sharing)  
+- [Topic 4](https://docs.google.com/document/d/1ZEeB0SZARK1VQEqn0QRbj_QISzi0TO6De8hjDHYhsrk/edit?usp=sharing)  
+- [Topic 5](https://docs.google.com/document/d/1EdYVMIA_bCHCO8nc1AYuu4kQMMJD_mCacSbVmw7iKcw/edit?usp=sharing)  
+
+-->
+
 ## Break | 1:15-1:30 {-}
 
 ## Concurrent Session 18 | 1:30-3:00 {-}
@@ -3213,6 +3228,28 @@ The Open Book Collective, scheduled to launch November 2022, brings together Ope
 </p>
 </details>
 ```
+
+```{block, type='session'}
+
+#### 2:30-3:00 | **Research? Which Research? Technology, Assessment, and Higher Education in Tension** |  Research {-}
+
+<mark>**Rescheduled from Tuesday**</mark>
+
+***Colin Madland*** | *University of Victoria*
+
+<!--
+**Keywords:** 
+-->
+
+<details>
+<summary><b>Abstract</b></summary>
+<p>
+Utilizing Bower’s technology-mediated learning theory as a framework, participants will be invited to engage in generative conversation about possible approaches to resolving the problem of fragmented and siloed bodies of literature related to technology-integrated assessment in higher education. Technology-integrated assessment practices in higher education are under scrutiny with another ‘existential threat’ in the form of automated text-generation. For those whose disciplines require extensive writing or coding, this has led to a certain lament regarding what appears to be at risk: the ability to trust that learners have engaged in the cognitive work of sense-making and are presenting the results of that work. In my own observations and in the process of reviewing the literature on technology-integrated assessment in higher education, responses to this development seem to map to distinct bodies of literature with weak connections between them. Responses seem to be oriented towards technology, assessment approaches, or individual disciplinary perspectives. The links between these siloed bodies of literature and on-the-ground difficulties in reacting to challenges to technology-integrated assessment in higher education will be problematized and explored and participants will engage in conversation to spark and sustain positive change for the good of the academy and society.
+
+</p>
+</details>
+```
+
 ## Break | 3:00-3:15 {-}
 
 ## Social | 3:15-3:45 {-}
