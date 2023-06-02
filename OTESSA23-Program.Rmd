@@ -2856,7 +2856,7 @@ For those heading home from York University, we wish you safe travels! See you s
 
 <!--chapter:end:07-june1.Rmd-->
 
-# Friday, June 2 - Online Sessions Only
+# Friday, June 2 | Online Sessions Only
 
 ```{block, type='protip'}
 
@@ -2953,7 +2953,7 @@ An unconference is a participant-driven session meant to reduce emphasis on form
 
 ###  [Topic Survey](https://surveys.otessa.org/index.php/761431?lang=en) {-}
 
-<!--### [Voting Survey](https://surveys.otessa.org/index.php/941512?lang=en){-}-->
+### [Voting Survey](https://surveys.otessa.org/index.php/858459?lang=en) {-}
 
 <!--
 ### Topics
