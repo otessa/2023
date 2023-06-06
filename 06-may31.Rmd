@@ -64,7 +64,6 @@
 
 <mark>**Life Sciences Building LSB 103**</mark>
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/89902859924?pwd=VisxNW1GUW5KWnJldW1DRjF2d0Rmdz09){target="_blank"}</mark>
 
 ## Break | 9:15-9:30 {-}
 
@@ -199,7 +198,6 @@ This session will offer participants an opportunity to reflect on the digital sp
 
 <mark>**Life Sciences Building LSB 105**</mark>
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/81832796337?pwd=d2lkclVtby9lZUo3QkZMR2V5RzFKdz09){target="_blank"}</mark>
 
 ```{block, type='session'}
 
@@ -232,7 +230,6 @@ All this while relentlessly facing language issues: rejecting Russia’s “ling
 
 <mark>**Lassonde Building LAS C**</mark>
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/87104073299?pwd=Zk4rUFY1WjdUa3VhK21GTlJaWkNKZz09){target="_blank"}</mark>
 
 ```{block, type='keynote'}
  
@@ -263,7 +260,6 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 <mark>**Life Sciences Building LSB 103**</mark>
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/89902859924?pwd=VisxNW1GUW5KWnJldW1DRjF2d0Rmdz09){target="_blank"}</mark>
 
 ```{block, type='speaker'}
 
@@ -362,7 +358,6 @@ The Canadian government launched the “Families Connected” initiative in 2018
 
 <mark>**Life Sciences Building LSB 103**</mark>
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/81832796337?pwd=d2lkclVtby9lZUo3QkZMR2V5RzFKdz09){target="_blank"}</mark>
 
 
 ```{block, type='session'}

@@ -46,7 +46,7 @@ All OTESSA Registrants can also attend conference sessions offered by the [Canad
 
 ***Saturday, May 27, 11:00 AM***
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/86856564512?pwd=UGdIVS9zbDdtS290bU9OdWpXZ05UZz09){target="_blank"}</mark>
+
 
 Dr Glenda Cox is a senior lecturer in the [Centre for Innovation in Learning and Teaching (CILT)](http://www.cilt.uct.ac.za) at the University of Cape Town and her portfolio includes postgraduate teaching, Curriculum change projects, Open Education, and Staff development. She holds the UNESCO chair in Open Education and Social Justice (2021-2024). She is on the editorial board of the International Journal of Students as Partners (joined in 2022). She is passionate about the role of Open Education in the changing world of Higher Education. Dr Glenda Cox is currently the Principal Investigator in the Digital Open Textbooks for Development (DOT4D) initiative. Her current research includes analysing the role of open textbooks for social justice.
 
@@ -67,7 +67,7 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 
 ***Monday, May 29, 11:00 AM***
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/87672746834?pwd=ODNmUk5GOTVTZGc5NzRmakhtR2FRQT09){target="_blank"}</mark>
+
 
 Sarah Elaine Eaton, PhD, is an associate professor at the Werklund School of Education, University of Calgary, Canada and an Honorary Associate Professor, Deakin University, Australia. She has received research awards of excellence for her scholarship on academic integrity from the Canadian Society for the Study of Higher Education (CSSHE) (2020) and the European Network for Academic Integrity (ENAI) (2022). Dr. Eaton has written and presented extensively on academic integrity and ethics in higher education and is regularly invited as a media guest to talk about academic misconduct. Dr. Eaton is the editor-in-chief of the International Journal for Educational Integrity.
 
@@ -98,7 +98,7 @@ These questions have dominated teaching and learning circles and social media si
 
 ***Wednesday, May 31, 11:00 AM***
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/87104073299?pwd=Zk4rUFY1WjdUa3VhK21GTlJaWkNKZz09){target="_blank"}</mark>
+
 
 Nick is a proud Kanyen’keha:ka and member of the Mohawks of the Bay of Quinte. He is a father, partner, uncle, and educator. Sharing truth alongside messages of hope and resiliency through the vehicle of education is what interests and drives Nick.
 
@@ -120,7 +120,7 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 ***Friday, June 2, 11:00 AM***
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/83832291664?pwd=M0pvTFNCWDBsRWd1NFJKaC9BbjM1QT09){target="_blank"}</mark>
+
 
 Paul Prinsloo is a Research Professor in Open and Distance Learning (ODL) in the Department of Business Management, College of Economic and Management Sciences, University of South Africa (Unisa). He is a Visiting Professor at the Carl von Ossietzky University of Oldenburg, Germany as well as at the National Open University of Nigeria (NOUN), a Research Associate for Contact North/Contact Nord (Canada), a Fellow of the European Distance and E-Learning Network (EDEN), member of the Executive Committee for the Society of Learning Analytics Research (SoLAR) and serves on several editorial boards. His research focuses on student success in distributed education contexts, the ethical collection, analysis and use of student data in learning analytics, and digital identities. He was born curious and in trouble and nothing has changed since then.
 
@@ -162,7 +162,6 @@ Education has always collected and used student learning data in combination wit
 
 *Unaffiliated*
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/82521498250?pwd=eWhLWjlNVFhiTnluOXMyenRwOHBmQT09){target="_blank"}</mark>
 
 **5 Things You Need to Know Before You Buy Edtech**
 
@@ -182,7 +181,6 @@ TBA
 
 *Canadian Digital Learning Research Association/Association canadienne de recherche sur la formation en ligne*
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/81098138707?pwd=SVByR3ByWUw5dGxLeEFaYTJaMGdtQT09){target="_blank"}</mark>
 
 **Digital Learning Trends in Canadian Post-Secondary Education**
 
@@ -200,7 +198,6 @@ Dr. Nicole Johnson is the Executive Director of the Canadian Digital Learning Re
 
 **Harnessing the Power of AI in Education: Opportunities and Challenges**
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/88611545139?pwd=NWErdnVwNjFqaVdLbk9QWFM1ZlFvdz09){target="_blank"}</mark>
 
 In this presentation, Dr. Alec Couros will explore the exciting possibilities and impact of AI in education, focusing on tools such as ChatGPT. With the ability to provide personalized learning experiences, AI has the potential to transform the way we teach and learn. However, its integration into the classroom also raises important ethical and societal concerns. Dr. Couros will examine both the opportunities and challenges of AI in education. Participants will leave with a better understanding of the potential of AI to positively impact student learning and success, as well as the considerations and challenges that must be addressed in order to fully embrace it in our learning environments.
 
@@ -215,7 +212,6 @@ Unpacking the Tensions between Indigenous Knowledges and Open Education: Explori
 
 *University of British Columbia – Okanagan Campus*
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/83845391748?pwd=U2o3ejhqS2MwZ3l1ejl1ZitKNnVqUT09){target="_blank"}</mark>
 
 Many conversations around open education focus on a Eurocentric framework of copyright and intellectual property rights that are sometimes in tension with Indigenous knowledge systems. While Indigenous communities and scholars are interested in making access to Indigenous Knowledges a more integral part of a decolonized and Indigenized post-secondary landscape, this session will explore areas for concern around the intersections between Open Educational Resources (OERs) and Indigenous Knowledges. Using Lar-Son’s (2022) 6Rs of Indigenous OERs framework for advancing Indigenous Knowledges through Open Education pedagogies and resources, this session will explore some of the principles and practices for engaging with Indigenous communities in the creation of OERs. Additionally, the session will discuss four different OER case studies featuring Indigenous perspective and Indigenous Knowledges from across Canada, including from an ‘in the works’ edited volume, that centre Indigenous ways of knowing, culture, experiences, and worldviews within the work of open education pedagogy and OER development.
 
@@ -230,7 +226,6 @@ Brad Wuetherick is the Associate Provost, Academic Programs, Teaching and Learni
 
 *OISE University of Toronto*
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/89316556882?pwd=c3lDQy92SmozZGV1Mm9RRDBCZXg2UT09){target="_blank"}</mark>
 
 **Digital Bundles: A Reckoning and a Re-imagining**
 
@@ -246,7 +241,6 @@ Jennifer Wemigwans, PhD, is from Wiikwemkoong Unceded Territory on Manitoulin Is
 
 *Ontario Tech University*
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/82721893745?pwd=N0dERGRFdTMzZWdzZXE4KzVESnQyZz09){target="_blank"}</mark>
 
 **Shock and Awe: Generative AI Composition, Cultural Adaptation, and Postsecondary Education**
 
@@ -265,7 +259,6 @@ TBA
 
 *University of Windsor*
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/86250728368?pwd=dEFWYXJQcy9uVm91dDArT0RzanVNQT09){target="_blank"}</mark>
 
 **Digital Education in an Age of Data: What Do We Do Now?**
 
@@ -282,7 +275,6 @@ TBA
 
 *Open University / UCL*
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/82916752574?pwd=OG90Z0FwcjNkbmpvY2ZKYzRCVVQ5Zz09){target="_blank"}</mark>
 
 **Researching at the Edge of Openness: Reflections from GO-GN Members**
 
@@ -301,7 +293,6 @@ TBA
 
 *Université Laval*
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/89906555580?pwd=bndpdDZUZkNJa3VIY1UxeGVCbDdOQT09){target="_blank"}</mark>
 
 **Embracing the Metaverse: FormationMeta and the Future of Immersive Learning Experiences (in French)**
 
@@ -319,7 +310,6 @@ TBA
 
 *Vancouver Island University & Canadian eLearning Network*
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/84461790793?pwd=S1JqcC9FejBtREMrOEJjVGxwVFRhUT09){target="_blank"}</mark>
 
 **Design Principles for Digital Learning and NSQOL Standards: Commonalities & Differences**
 
@@ -393,11 +383,9 @@ Join this session to gain an understanding of design and organization principles
 
 ## Conference Welcome, Announcements & Land Acknowledgement | 10:30 - 11:00 {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/87334254291?pwd=RThZM0t2cloyVmI5Nmt5bTRuVERTZz09){target="_blank"}</mark>
 
 ## Keynote | 11:00 - 12:00 {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/86856564512?pwd=UGdIVS9zbDdtS290bU9OdWpXZ05UZz09){target="_blank"}</mark>
 
 ```{block, type='keynote'}
 
@@ -428,7 +416,6 @@ Work done with open textbook creators at UCT has enabled the DOT4D initiative to
 
 ### Parallel Session 1.1 {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/82521498250?pwd=eWhLWjlNVFhiTnluOXMyenRwOHBmQT09){target="_blank"}</mark>
 
 ```{block, type='speaker'}
 
@@ -458,7 +445,6 @@ How much procurement of edtech, however well executed, is too much?
 
 ### Parallel Session 1.2 {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/81098138707?pwd=SVByR3ByWUw5dGxLeEFaYTJaMGdtQT09){target="_blank"}</mark>
 
 ```{block, type='speaker'}
 
@@ -487,7 +473,6 @@ Join Dr. Nicole Johnson, Executive Director of the Canadian Digital Learning Res
 
 ### Concurrent Session 2.1 |  Wildcard {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/82898272461?pwd=OW50MHEyajd1SUNLTDRWTHNkdzJUQT09){target="_blank"}</mark>
 
 ```{block, type='session'}
 
@@ -530,7 +515,6 @@ Using Sean Michael Morris and Jesse Stommel’s landmark essay “A Guide for Re
 
 ### Concurrent Session 2.2 |  Sustaining Positive Change {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/87500178048?pwd=TUVWUjljYUVRVmROK0Z2b2paZW4wUT09){target="_blank"}</mark>
 
 ```{block, type='session'}
 
@@ -586,7 +570,6 @@ The various practices of “ungrading” have gained increasing popularity, part
 
 ### Concurrent Session 2.3 |  Transitions of Online Learning & Teaching {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/82549216587?pwd=NlhWZ1o0TXUwQlJOL1dzWk9wdFNQZz09){target="_blank"}</mark>
 
 ```{block, type='session'}
 
@@ -655,7 +638,6 @@ This session will outline the development of a youth sexual health education pro
 
 ### Concurrent Session 2.4 |  Sustaining Positive Change {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/86766214892?pwd=SkFFNmUvYmt5YUJLbzNPYVAyZ2k3QT09){target="_blank"}</mark>
 
 ```{block, type='session'}
 
@@ -717,7 +699,6 @@ This presentation outlines the necessary role of decolonial practice in GLAM-fie
 
 ### Concurrent Session 2.5 |  Sustaining Positive Change {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/88626428930?pwd=NkVGRXhYRUtJWmRuc1M1Z2NkOVhaZz09){target="_blank"}</mark>
 
 ```{block, type='session'}
 
@@ -786,7 +767,6 @@ The COVID-19 pandemic resulted in dramatic growth in the use of open education r
 
 ### Concurrent Session 3.1 |  Addressing Inequities {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/82898272461?pwd=OW50MHEyajd1SUNLTDRWTHNkdzJUQT09){target="_blank"}</mark>
 
 ```{block, type='session'}
 
@@ -826,7 +806,6 @@ This article explores the potential of podcasting as a useful education technolo
 
 ### Concurrent Session 3.2 |  Sustaining Positive Change {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/84849983422?pwd=V0NDeVhSUjA2eDF5M2U2QUU0OFUvZz09){target="_blank"}</mark>
 
 ```{block, type='session'}
 
@@ -872,7 +851,6 @@ The pandemic has forced teachers to adapt with greater flexibility to meet chang
 
 ### Concurrent Session 3.3 |  Wildcard {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/81832796337?pwd=d2lkclVtby9lZUo3QkZMR2V5RzFKdz09){target="_blank"}</mark>
 
 ```{block, type='session'}
 
@@ -918,7 +896,6 @@ Higher educational institutes increasingly focus on incorporating games and simu
 
 ### Concurrent Session 3.4 |  Transitions of Online Learning & Teaching {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/87836094846?pwd=UnRMVERJQUtLZW13NEFkZ2hmM0hLZz09){target="_blank"}</mark>
 
 ```{block, type='session'}
 
@@ -971,7 +948,6 @@ During the COVID-19 pandemic, online teaching and learning became the primary mo
 
 <mark>This session has been rescheduled to Session 13.4 on May 31.</mark>
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/81001564554?pwd=RlNJSzg4SE1HemhiL1BvRmxhWDl5Zz09){target="_blank"}</mark>
 
 ```{block, type='session'}
 
@@ -1031,7 +1007,6 @@ This presentation will address the issue of algorithmic literacy from an informa
 
 ### Parallel Session 4.1 {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/88611545139?pwd=NWErdnVwNjFqaVdLbk9QWFM1ZlFvdz09){target="_blank"}</mark>
 
 
 ```{block, type='speaker'}
@@ -1058,7 +1033,6 @@ In this presentation, Dr. Alec Couros will explore the exciting possibilities an
 
 ### Parallel Session 4.2 {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/83845391748?pwd=U2o3ejhqS2MwZ3l1ejl1ZitKNnVqUT09){target="_blank"}</mark>
 
 ```{block, type='speaker'}
 
@@ -1084,7 +1058,6 @@ Many conversations around open education focus on a Eurocentric framework of cop
 
 ## Discussion/Networking Pod | 6:15-6:30 {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/87334254291?pwd=RThZM0t2cloyVmI5Nmt5bTRuVERTZz09){target="_blank"}</mark>
 
 <!--chapter:end:02-may27.Rmd-->
 
@@ -1164,7 +1137,7 @@ Photo by <a href="https://unsplash.com/@adityachinchure?utm_source=unsplash&utm_
 
 <mark>**Life Sciences Building LSB 103 @ York**</mark>
 
- <mark> [**Session Link**](https://uvic.zoom.us/j/89902859924?pwd=VisxNW1GUW5KWnJldW1DRjF2d0Rmdz09){target="_blank"}</mark>
+ 
 
 ## Break | 9:15-9:30 {-}
 
@@ -1340,7 +1313,6 @@ Graduate students are under increasing pressure to participate in academic publi
 
 <mark>**Lassonde Building LAS C**</mark>
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/87672746834?pwd=ODNmUk5GOTVTZGc5NzRmakhtR2FRQT09){target="_blank"}</mark>
 
 ```{block, type='keynote'}
 
@@ -1373,7 +1345,6 @@ These questions have dominated teaching and learning circles and social media si
 
 <mark>**Life Sciences Building LSB 103 @ York**
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/89316556882?pwd=c3lDQy92SmozZGV1Mm9RRDBCZXg2UT09){target="_blank"}</mark>
 
 ```{block, type='speaker'}
 
@@ -1398,7 +1369,6 @@ Digital Bundles create cultural space for Indigenous Knowledge through the use o
 
 <mark>**Life Sciences Building LSB 105**</mark>
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/82721893745?pwd=N0dERGRFdTMzZWdzZXE4KzVESnQyZz09){target="_blank"}</mark>
 
 ```{block, type='speaker'}
 
@@ -1737,7 +1707,6 @@ Engaging in a discussion of key findings, this session aims to contribute to a s
 
 <mark>**Life Sciences Building LSB 103 @ York**</mark>
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/89902859924?pwd=VisxNW1GUW5KWnJldW1DRjF2d0Rmdz09){target="_blank"}</mark>
 
 ## Break | 9:15-9:30 {-}
 
@@ -1825,7 +1794,6 @@ This presentation approaches online learning during COVID-19 emergency closures 
 <mark>**Life Sciences Building LSB 103**</mark>
 
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/81832796337?pwd=d2lkclVtby9lZUo3QkZMR2V5RzFKdz09){target="_blank"}</mark>
 
 
 ```{block, type='session'}
@@ -1889,7 +1857,6 @@ An unconference is a participant-driven session meant to reduce emphasis on form
 
 <mark>**Life Sciences Building LSB 103**</mark>
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/86250728368?pwd=dEFWYXJQcy9uVm91dDArT0RzanVNQT09){target="_blank"}</mark>
 
 ```{block, type='speaker'}
 
@@ -1919,7 +1886,6 @@ The session is designed to raise questions rather than offer answers, but will h
 
 <mark>**Life Sciences Building LSB 105**</mark>
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/82916752574?pwd=OG90Z0FwcjNkbmpvY2ZKYzRCVVQ5Zz09){target="_blank"}</mark>
 
 ```{block, type='speaker'}
 
@@ -2037,7 +2003,6 @@ Online video conferencing platforms have been widely used as key classroom tools
 
 <mark>**Life Sciences Building LSB 105**</mark>
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/81832796337?pwd=d2lkclVtby9lZUo3QkZMR2V5RzFKdz09){target="_blank"}</mark>
 
 
 #### 2:30 - 3:00 | **Face to Face, Online or Something in Between – Student Perceptions of Student Engagement in Different Learning Environments** |  Research {-}
@@ -2334,7 +2299,6 @@ Utilizing Bower’s technology-mediated learning theory as a framework, particip
 
 <mark>**Life Sciences Building LSB 103**</mark>
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/89902859924?pwd=VisxNW1GUW5KWnJldW1DRjF2d0Rmdz09){target="_blank"}</mark>
 
 ## Break | 9:15-9:30 {-}
 
@@ -2469,7 +2433,6 @@ This session will offer participants an opportunity to reflect on the digital sp
 
 <mark>**Life Sciences Building LSB 105**</mark>
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/81832796337?pwd=d2lkclVtby9lZUo3QkZMR2V5RzFKdz09){target="_blank"}</mark>
 
 ```{block, type='session'}
 
@@ -2502,7 +2465,6 @@ All this while relentlessly facing language issues: rejecting Russia’s “ling
 
 <mark>**Lassonde Building LAS C**</mark>
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/87104073299?pwd=Zk4rUFY1WjdUa3VhK21GTlJaWkNKZz09){target="_blank"}</mark>
 
 ```{block, type='keynote'}
  
@@ -2533,7 +2495,6 @@ Education as a tool for both healing and reconciliation has been an evolving mov
 
 <mark>**Life Sciences Building LSB 103**</mark>
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/89902859924?pwd=VisxNW1GUW5KWnJldW1DRjF2d0Rmdz09){target="_blank"}</mark>
 
 ```{block, type='speaker'}
 
@@ -2632,7 +2593,6 @@ The Canadian government launched the “Families Connected” initiative in 2018
 
 <mark>**Life Sciences Building LSB 103**</mark>
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/81832796337?pwd=d2lkclVtby9lZUo3QkZMR2V5RzFKdz09){target="_blank"}</mark>
 
 
 ```{block, type='session'}
@@ -2917,11 +2877,11 @@ For those heading home from York University, we wish you safe travels! See you s
 
 ## Conference Welcome, Announcements & Land Acknowledgement | 10:30-11:00 {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/87072450625?pwd=d3dSNG9SQ0lkZXByUElDK3EycG82QT09){target="_blank"}</mark>
+
 
 ## Keynote | 11:00-12:00    {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/83832291664?pwd=M0pvTFNCWDBsRWd1NFJKaC9BbjM1QT09){target="_blank"}</mark>
+
 
 ```{block, type='keynote'}
  
@@ -2947,7 +2907,7 @@ Education has always collected and used student learning data in combination wit
 
 (45 minutes)
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/86010785627?pwd=Nm83LzM1RXRXQU9JVFJldWg3RmhPZz09){target="_blank"}</mark>
+
 
 An unconference is a participant-driven session meant to reduce emphasis on formal speeches and to avoid the hierarchical aspects of a didactic conference session. All Congress attendees are welcome to participate in this face-to-face unconference; however, participants registered with the OTESSA conference will be sent an invitation for topic suggestion and upvoting to select the break-out room topics in advance. At the time of this session, the topic-to-room assignments will be complete and posted on our program website at <https://otessa.org/2023/program/>. You are welcome to move between topic rooms and come and go as you please! We look forward to welcoming targeted discussion on your favourite topics! Please note that this is the in-person unconference. There will also be an in-person unconference that will take place on Tuesday, May 30 from 11:00 am - 12:00 pm in the Life Sciences Building at York University as part of the OTESSA Conference.
 
@@ -2974,7 +2934,7 @@ An unconference is a participant-driven session meant to reduce emphasis on form
 
 ### Concurrent Session 18.1 |  Transitions of Online Learning & Teaching {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/82898272461?pwd=OW50MHEyajd1SUNLTDRWTHNkdzJUQT09){target="_blank"}</mark>
+
 
 ```{block, type='workshop'}
 
@@ -3025,7 +2985,7 @@ Over the past decade, higher education institutions, organizations, and governme
 
 ### Concurrent Session 18.2 |  Transitions of Online Learning & Teaching {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/84849983422?pwd=V0NDeVhSUjA2eDF5M2U2QUU0OFUvZz09){target="_blank"}</mark>
+
 
 ```{block, type='session'}
 
@@ -3089,7 +3049,7 @@ This paper presents the concept of technological distance, which describes a gap
 
 ### Concurrent Session 18.3 |  Wildcard {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/81832796337?pwd=d2lkclVtby9lZUo3QkZMR2V5RzFKdz09){target="_blank"}</mark>
+
 
 ```{block, type='session'}
 
@@ -3154,7 +3114,7 @@ The emergence of cutting-edge technologies, like ChatGPT, has sparked a critical
 
 ### Concurrent Session 18.4 |  Addressing Inequities {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/87836094846?pwd=UnRMVERJQUtLZW13NEFkZ2hmM0hLZz09){target="_blank"}</mark>
+
 
 ```{block, type='session'}
 
@@ -3211,7 +3171,7 @@ In this presentation we share and seek collaboration on a drafted toolkit for le
 
 ### Concurrent Session 18.5 |   Sustaining Positive Change{-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/81001564554?pwd=RlNJSzg4SE1HemhiL1BvRmxhWDl5Zz09a){target="_blank"} PASSCODE: 583793</mark>
+ODE: 583793</mark>
 
 ```{block, type='session'}
 
@@ -3258,7 +3218,7 @@ Utilizing Bower’s technology-mediated learning theory as a framework, particip
 
 ## Social | 3:15-3:45 {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/87072450625?pwd=d3dSNG9SQ0lkZXByUElDK3EycG82QT09){target="_blank"}</mark>
+
 
 ```{block, type='social'}
 
@@ -3272,7 +3232,7 @@ Utilizing Bower’s technology-mediated learning theory as a framework, particip
 
 ### Concurrent Session 19.1 |  Wildcard {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/82898272461?pwd=OW50MHEyajd1SUNLTDRWTHNkdzJUQT09){target="_blank"}</mark>
+
 
 ```{block, type='session'}
 
@@ -3315,7 +3275,7 @@ Access to federal government funding to support research in the social sciences 
 
 ### Concurrent Session 19.2 |  Sustaining Positive Change {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/84849983422?pwd=V0NDeVhSUjA2eDF5M2U2QUU0OFUvZz09){target="_blank"}</mark>
+
 
 ```{block, type='session'}
 
@@ -3365,7 +3325,7 @@ In Colombia, peace education has been recognized as essential to changing prevai
 
 ### Concurrent Session 19.3 |  Wildcard {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/81832796337?pwd=d2lkclVtby9lZUo3QkZMR2V5RzFKdz09){target="_blank"}</mark>
+
 
 ```{block, type='workshop'}
 
@@ -3392,7 +3352,7 @@ Virtual reality is a technology where users are immersed in a digital world crea
 
 ### Concurrent Session 19.4 |  Sustaining Positive Change {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/87836094846?pwd=UnRMVERJQUtLZW13NEFkZ2hmM0hLZz09){target="_blank"}</mark>
+
 
 ```{block, type='session'}
 
@@ -3476,7 +3436,7 @@ A critically reflexive collaborative approach (Hamilton & Pinnegar, 2014) is use
 
 ### Concurrent Session 20.1 {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/89906555580?pwd=bndpdDZUZkNJa3VIY1UxeGVCbDdOQT09){target="_blank"}</mark>
+
 
 ```{block, type='speaker'}
 
@@ -3501,7 +3461,7 @@ Presented in French, this talk will unveil emerging recommendations to enlighten
 
 ### Concurrent Session 20.2 {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/84461790793?pwd=S1JqcC9FejBtREMrOEJjVGxwVFRhUT09){target="_blank"}</mark>
+
 
 ```{block, type='speaker'}
 
@@ -3524,7 +3484,7 @@ Join this session to gain an understanding of design and organization principles
 
 ## Conference Closing | 6:15-6:30 {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/87072450625?pwd=d3dSNG9SQ0lkZXByUElDK3EycG82QT09){target="_blank"}</mark>
+
 
 <!--chapter:end:08-june2.Rmd-->
 
@@ -3630,7 +3590,6 @@ This year at #OTESSA23, we are hosting two unconference sessions:
 
 #### Watch this spot for your chance to vote! {-}
 
-<mark>[**Session Link**](https://uvic.zoom.us/j/86010785627?pwd=Nm83LzM1RXRXQU9JVFJldWg3RmhPZz09){target="_blank"}</mark>
 
 Bring your thoughts for developing ideas and meeting other people with the same interests as you!
 
